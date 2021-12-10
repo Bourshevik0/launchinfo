@@ -1,0 +1,236 @@
+﻿编号：2021-F04
+火箭制造方：中国
+时间：2021-08-03 15:39:30(UTC+8)
+位置：酒泉卫星发射中心
+发射提供方：星际荣耀[1]
+载荷运营方：长光卫星
+载荷信息：吉林一号魔方01A(地球观测卫星)[2]
+载具：双曲线一号遥五
+目标轨道：500km SSO(太阳同步轨道)
+结果：失败
+失败原因：整流罩未能成功分离，
+导致质量过大，无法入轨[1]
+
+编号：2021-070
+火箭制造方：中国
+时间：2021-08-04 19:01(UTC+8)
+位置：太原卫星发射中心16号工位
+发射提供方：航天科技[3]
+载荷运营方：KLEO Connect
+载荷信息：KL-Beta A，B星
+(宽带通信卫星)[4]
+载具：长征六号遥七[5]
+轨道：900 x 907 km，88.99° LEO(近地轨道)[6]
+结果：成功
+
+编号：2021-071
+火箭制造方：中国
+时间：2021-08-06 00:30:04.926(UTC+8)[7]
+位置：西昌卫星发射中心2号工位
+发射提供方：航天科技
+载荷运营方：中国卫星通信
+载荷信息：中星2E(宽带通信卫星)，
+质量5.4吨
+载具：长征三号乙改三遥76[8]
+轨道：189 x 35822 km，27.15° GTO(地球同步转移轨道)[6]
+结果：成功
+
+编号：2021-072
+火箭制造方：美国
+时间：2021-08-10 22:01:05(UTC)
+位置：中大西洋区太空空港(MARS)LP-0A
+任务名：CRS NG-16
+发射提供方：诺斯罗普格鲁曼
+载荷运营方：NASA
+载荷信息：天鹅座S. S.鬼冢承次(货运飞船)载货3.723吨，加压货物3.675吨，非加压货物0.048吨，总质量8.041吨
+载具：安塔瑞斯230+[9]
+轨道：180 x 358 km, 51.66° LEO(近地轨道)[6]
+结果：成功
+
+编号：2021-F05
+火箭制造方：印度
+时间：2021-08-12 00:13(UTC)
+位置：萨迪什·达万航天中心2号工位
+飞行编号：F10
+发射提供方：ISRO
+载荷运营方：ISRO[2]
+载荷信息：EOS-03(光学遥感卫星)，质量2.268吨
+载具：GSLV Mk II
+目标轨道：GTO(地球同步转移轨道)
+结果：失败
+失败原因：三级点火失败[10]
+
+编号：2021-073
+火箭制造方：欧洲
+时间：2021-08-17 01:47:06(UTC)[2]
+位置：圭亚那航天中心库鲁ELA-1
+飞行编号：VV19
+发射提供方：阿丽亚娜空间
+主载荷信息：空客国防航天(Airbus DS)的
+新昴星团4号星(Pléiades-Neo 4)(地球观测卫星)0.922吨[11]，
+615 x 618 km，97.90° SSO(太阳同步轨道)[6]
+搭车载荷信息：无形实验室(UnseenLabs)的BRO-4(射频监测卫星)；
+欧空局(ESA)的太阳风暴(Sunstorm)(太空天气卫星)，LED星(LEDSAT)(教育卫星)，拉德立方星(RadCube)(太空天气卫星)，
+共约0.016吨，527 x 563 km，97.56° SSO[2][6][11][12]
+载具：织女星[2]
+结果：成功
+
+编号：2021-074
+火箭制造方：中国
+时间：2021-08-19 06:32:04.661(UTC+8)
+位置：太原卫星发射中心9号工位
+发射提供方：航天科技
+载荷信息：天绘二号02组卫星(地球观测卫星)2颗
+载具：长征四号乙遥50[13]
+轨道：503 x 520 km，97.45° SSO(太阳同步轨道)[6]
+结果：成功
+
+编号：2021-075
+火箭制造方：俄罗斯
+时间：2021-08-21 22:13:40(UTC)[2]
+位置：拜科努尔31/6号工位
+飞行编号：ST34
+发射提供方：阿丽亚娜空间 / Starsem
+载荷运营方：OneWeb
+载荷信息：第九批34颗OneWeb卫星(宽带通信卫星)共5.518吨[14]
+载具：联盟-2.1b / 军舰鸟-M[15]
+轨道：444 x 466 km，87.40° LEO(近地轨道)[6]
+结果：成功
+
+编号：2021-076
+火箭制造方：中国
+时间：2021-08-24 19:15(UTC+8)
+位置：酒泉卫星发射中心9401工位
+发射提供方：航天科技
+载荷信息：三颗通信技术试验卫星，
+其中两颗名为融合通信试验卫星01/02星
+载具：长征二号丙遥51 / 远征一号S上面级[16][17]
+轨道：1082 x 1106 km，86.41° LEO (近地轨道)[6]
+结果：成功
+备注：长二丙首次使用4.2m直径整流罩，
+首次使用1.35米直径中心承力筒[17]
+
+编号：2021-077
+火箭制造方：中国
+时间：2021-08-24 23:41:04(UTC+8)
+位置：西昌卫星发射中心3号工位
+发射提供方：航天科技
+载荷信息：通信技术试验卫星七号
+载具：长征三号乙改二遥78(CZ-3B/G2 Y78)[18][19]
+轨道：181 x 35816 km，28.49° GTO (地球同步转移轨道)[6]
+结果：成功
+
+编号：2021-F06
+火箭制造方：美国
+时间：2021-08-28 22:35(UTC)
+位置：科迪亚克PSCA LP-3B
+发射提供方：Astra[2]
+载荷信息：美国太空军的STP-27AD1(不可分离的测试载荷)
+载具：Rocket 3 LV0006
+目标轨道：约415km高度，倾角70°的LEO(近地轨道)[20]
+结果：失败
+失败原因：一级火箭五台发动机中的一台在点火后几秒内因故关机，
+导致推重比不足，无法完成正常的飞行过程，
+飞行至31km处，为控制落区，一级提前关机，火箭坠海[21][22]
+
+编号：2021-078
+火箭制造方：美国
+时间：2021-08-29 07:14:49(UTC)
+位置：肯尼迪航天中心LC-39A
+任务名：CRS-23
+发射提供方：SpaceX
+载荷运营方：NASA
+载荷信息：C208.2龙2货运飞船载货2.207吨
+载具：猎鹰9号Block 5(B1061.4)[23]
+轨道：207 x 239 km，51.64° LEO(近地轨道)[6]
+结果：成功(发射与回收)
+回收船：ASOG(A Shortfall of Gravitas) [24]
+备注：ASOG(不够庄重号)回收船首次使用，
+SpaceX时隔近两个月以来的首次发射
+
+猎鹰9号芯一级代号说明
+B1xxx.x
+B代表Block，本意为第几代的代，此处无含义
+小数点前的xxx为芯级编号，小数点后的x为使用次数，如第二次发射时，此处为2
+
+龙飞船代号说明
+C2xx.xx
+C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
+小数点前的xxx为飞船编号，小数点后的xx为使用次数，如第二次使用时，此处为2
+
+来源格式说明
+[时间顺序] 作者/来源.标题
+链接
+(备注)
+
+编号格式说明
+年份-当年成功发射次序(时间顺序)
+使用Zarya.info网站提供的编号，在剪辑不按照时间顺序进行时起标识实际时间顺序的作用
+
+音乐来源
+[1] Jim Hall. The Dust Clears. https://youtu.be/V5QTR-KaQl4
+[2] Punch Deck. Feel the Pulse. https://youtu.be/PJeFqyWTcMY
+[3] Three Chain Links. Missing You. https://threechainlinks.bandcamp.com/track/missing-you
+[4] Three Chain Links. HeavyTraffic. https://threechainlinks.bandcamp.com/track/heavy-traffic-2
+
+数据来源
+[1] 星际荣耀. 关于双曲线一号遥五运载火箭飞行试验任务情况的说明. https://mp.weixin.qq.com/s/NGkDVjdGexqfCjeJz5rCDw
+[2] Wikipedia. List of spaceflight launches in July–December 2021. https://en.wikipedia.org/wiki/List_of_spaceflight_launches_in_July%E2%80%93December_2021
+[3] 航空航天港. KL-β 双星. https://9ifly.spacety.com/thread-95098-1-1.html
+[4] Gunter's Space Page. KL-Beta A, B. https://space.skyrocket.de/doc_sdat/kl-beta-a.htm
+[5] 上海航天. 用成功开启新甲子征程，长征六号发射圆满成功！. https://mp.weixin.qq.com/s/kOlscprD_0bOTtikhE_ZqQ
+[6] Zarya. 2021 - Satellite & Spacecraft Launches and Detailed Orbits. https://www.zarya.info/Diaries/Launches/Launches.php?year=2021
+[7] Asumoyz苏沫玖. 发射速报丨起飞！起飞时间00时30分04秒926毫秒. https://t.bilibili.com/555524646463017767
+[8] 航天爱好者网. 中星2E通信卫星. http://www.spaceflightfans.cn/event/long-march-3b-launch-chinasat-2e-satellite
+[9] Wikipedia. Cygnus NG-16. https://en.wikipedia.org/wiki/Cygnus_NG-16
+[10] NextSpaceflight. GSLV Mk II | EOS-03. https://nextspaceflight.com/launches/details/949
+[11] Arianespace. Vega Flight VV19. https://www.arianespace.com/mission/vega-flight-vv19/
+[12] NextSpaceflight. Vega | Pléiades-Néo 4, BRO-4 & Others. https://nextspaceflight.com/launches/details/972
+[13] 上海航天. 长四乙火箭发射天绘二号02组卫星圆满成功. https://mp.weixin.qq.com/s/BRhcIdVGiaegIuFSHPkwUA
+[14] Arianespace. Soyuz Flight ST34. https://www.arianespace.com/mission/soyuz-flight-st34/
+[15] NASASpaceflight. Soyuz-ST update. https://forum.nasaspaceflight.com/index.php?topic=13239.msg2242368#msg2242368
+[16] 航空航天港. 融合通信试验卫星01/02星. https://9ifly.spacety.com/thread-95182-1-1.html
+[17] 中国运载火箭技术研究院. 新构型！长二丙火箭“一箭三星”成功发射. https://mp.weixin.qq.com/s/TPNoC6MWTDpT9RIFhpErRQ
+[18] 中国运载火箭技术研究院. 长三乙火箭成功发射通信技术试验卫星七号. https://mp.weixin.qq.com/s/pLRRh_UE5NPmLk8dpn6ylA
+[19] 航天爱好者网. 通信技术试验卫星七号. http://www.spaceflightfans.cn/event/long-march-3b-launch-txsy-7
+[20] Astra. LV0006 Media Kit. https://astra.com/media-kit-lv0006/
+[21] Chris Kemp. two things are very clear. https://twitter.com/Kemp/status/1431812555324854272
+[22] Scott Manley. Why This Rocket Went Sideways Off The Launch Pad. https://youtu.be/x2jU5W4ehPE?t=575
+[23] Wikipedia. SpaceX CRS-23. https://en.wikipedia.org/wiki/SpaceX_CRS-23
+[24] NextSpaceflight. Falcon 9 Block 5 | CRS-23. https://nextspaceflight.com/launches/details/4747
+
+视频素材来源
+[1] Asumoyz苏沫玖. 双曲线一号遥五运载火箭发射吉林一号魔方01A卫星未达到试验目标. https://b23.tv/av334601441
+[2] SciNews. Long March-6 launches two KL-Beta satellites. https://youtu.be/zcAkB1IIlsE
+[3] SciNews. Long March-3B launches ChinaSat-2E (ZhongXing-2E). https://youtu.be/YNBvHptNz2g
+[4] NASA. Watch the Launch of Northrop Grumman's Resupply Mission to the International Space Station. https://youtu.be/k0tl3RWTB8E
+[5] ISRO. Watch Live: Launch of EOS-03 onboard GSLV-F10. https://youtu.be/nMAQdfjWXvM
+[6] Arianespace. Arianespace Flight VV19. https://youtu.be/bAOh-T1SFzc
+[7] SciNews. Long March-4B launches TianHui-2 02. https://youtu.be/G1d2U0TOD7M
+[8] Роскосмос ТВ. Пуск ракеты-носителя «Союз-2.1б» со спутниками OneWeb с космодрома Байконур. https://youtu.be/aSPUoOnHTeA
+[9] SciNews. Long March-2C launches three satellites. https://youtu.be/n3ICvRO5Qx4
+[10] SciNews. Long March-3B launches TJSW-7. https://youtu.be/MXdOaZeF1yc
+[11] NASASpaceflight. Astra Test Flight (Launch Vehicle 0006). https://youtu.be/O8Tdm797BzM
+[12] Chris Kemp. Reviewing flight data and video. https://twitter.com/Kemp/status/1431812555324854272
+[13] NASA. SECOND ATTEMPT: NASA and SpaceX Launch to the International Space Station. https://youtu.be/WZ3drnsSwFk
+
+封面来源
+[1] Asumoyz苏沫玖. 双曲线一号遥五运载火箭发射吉林一号魔方01A卫星未达到试验目标. https://b23.tv/av334601441
+[2] 郑斌. 【快讯·航天】我国成功发射多媒体贝塔实验A/B卫星. https://zhuanlan.zhihu.com/p/396390843
+[3] 李涛，郝伟琦，白肖飞，郭文彬，陈建勇. 我国成功发射中星2E卫星. https://zhuanlan.zhihu.com/p/396838759
+[4] NASA. Watch the Launch of Northrop Grumman's Resupply Mission to the International Space Station. https://youtu.be/k0tl3RWTB8E?t=1854
+[5] ISRO. GSLV-F10/EOS-03 Gallery. https://www.isro.gov.in/gslv-f10-eos-03/gslv-f10-eos-03-gallery
+[6] Arianespace. Arianespace Flight VV19. https://youtu.be/bAOh-T1SFzc?t=595
+[7] 郑斌. 我国成功发射天绘二号02组卫星. https://zhuanlan.zhihu.com/p/401271612
+[8] Роскосмос. С Байконура выполнен пуск РКН «Союз-2.1б» с 34 КА OneWeb. https://www.roscosmos.ru/32238/
+[9] 我们的太空. 我国成功发射融合试验卫星01/02星. https://zhuanlan.zhihu.com/p/403177924
+[10] 白肖飞，郭文彬. 我国成功发射通信技术试验卫星七号. https://zhuanlan.zhihu.com/p/403239680
+[11] Chris Kemp. Reviewing flight data and video. https://twitter.com/Kemp/status/1431812555324854272
+[12] SpaceX. CRS-23. https://www.flickr.com/photos/spacex/51411702583
+
+徽章来源
+[1] 上海航天. 用成功开启新甲子征程，长征六号发射圆满成功！ . https://mp.weixin.qq.com/s/kOlscprD_0bOTtikhE_ZqQ
+[2] Wikipedia. Cygnus NG-16. https://en.wikipedia.org/wiki/Cygnus_NG-16
+[3] 上海航天. 长四乙火箭发射天绘二号02组卫星圆满成功 . https://mp.weixin.qq.com/s/BRhcIdVGiaegIuFSHPkwUA
+[4] OneWeb. 9th OneWeb Launch mission patch. https://twitter.com/OneWeb/status/1427948401807794176
+[5] Wikipedia. SpaceX CRS-23. https://en.wikipedia.org/wiki/SpaceX_CRS-23

@@ -1,0 +1,171 @@
+火箭制造方：美国
+时间：2021-01-08 02:15(UTC)
+位置：卡角太空军基地SLC-40
+发射提供方：SpaceX
+载荷运营方：Türksat[1]
+载荷信息：Türksat 5A(宽带通信卫星)3.5吨
+载具：猎鹰9号Block 5(B1060.4)[2]
+轨道：285 x 55278 km, 17.66° SSTO(超同步转移轨道)[3]
+结果：成功
+回收船：JRTI(Just Read the Instructions)[2]
+
+火箭制造方：美国
+时间：2021-01-17 19:39(UTC)
+位置：从莫哈维航空航天港起飞的宇宙女孩(改装后的波音747)
+任务名：Launch Demo 2
+发射提供方：维珍轨道
+载荷运营方：NASA[1]
+载荷信息：10颗ELaNa-20技术验证卫星共0.025吨[4]
+载具：LauncherOne
+轨道：491 x 510 km, 60.7° LEO(近地轨道)[3]
+结果：成功
+备注：维珍轨道首次及首枚空射低温液体轨道级火箭成功发射
+
+火箭制造方：中国
+时间：2021-01-20 00:25:04.723(UTC+8)[5]
+位置：西昌卫星发射中心2号工位[6]
+任务代号：07-123[5]
+发射提供方：航天科技
+载荷运营方：中国电信
+载荷信息：天通一号03星(宽带通信卫星)5.4吨[7]
+载具：长征三号乙改三遥74[8]
+轨道：182 x 35815 km, 28.5° GTO(地球同步转移轨道)[3]
+结果：成功
+
+火箭制造方：美国
+时间：2021-01-20 07:26(UTC)
+位置：火箭实验室LC-1A(新西兰玛希亚)
+任务名：Another One Leaves The Crust(又一个离开地壳的)
+发射提供方：火箭实验室[1]
+载荷运营方：OHB SE / 上海垣信卫星科技
+载荷信息：GMS-T(宽带通信卫星)[9]
+载具：电子火箭
+轨道：1140 x 1281 km, 89.94° LEO(近地轨道)[3]
+结果：成功
+
+火箭制造方：美国
+时间：2021-01-20 13:02(UTC)
+位置：肯尼迪航天中心LC-39A
+任务名：Starlink v1.0 L16
+发射提供方：SpaceX
+载荷运营方：SpaceX
+载荷信息：60颗星链卫星(第17批)(宽带通信卫星)共15.6吨
+载具：猎鹰9号Block 5(B1051.8)[10]
+轨道：257 x 284 km, 53.05° LEO(近地轨道)[3]
+结果：成功
+回收船：JRTI(Just Read the Instructions)[10]
+备注：首次8手火箭回收成功，一级最短翻新(周转)时间38天
+
+火箭制造方：美国
+时间：2021-01-24 15:00(UTC)
+位置：卡角太空军基地SLC-40
+任务名：Transporter 1
+发射提供方：SpaceX
+载荷信息：24个客户的可分离载荷数量共143颗，质量共约5吨[11]，
+SpaceX的10颗星链卫星(第18批)(宽带通信卫星)共2.6吨[12]，
+Planet Labs的48颗Flock 4s卫星(光学遥感卫星)共0.192吨[13]，
+Swarm Technologies的36颗SpaceBEE卫星(窄带通信卫星)[1]，
+D-Orbit的ION立方星载具(上面级)及两个托管载荷约0.1吨[14][15]，
+Spaceflight的Sherpa-FX1(上面级)及两个托管载荷约0.15吨[16]等等
+载具：猎鹰9号Block 5(B1058.5)[11]
+轨道：524 x 536 km, 97.52° SSO(太阳同步轨道)[3]
+结果：成功
+回收船：OCISLY(Of Course I Still Love You)[11]
+备注：若视分离时的SHERPA-FX和ION上面级为整体，则载荷数量为110颗[15]。
+打破了单次发射最多卫星进入太空的记录。
+Starlink首次搭载星间激光链路以及首次极轨道发射。
+
+火箭制造方：中国
+时间：2021-01-29 12:47(UTC+8)
+位置：酒泉卫星发射中心9401工位
+发射提供方：航天科技
+载荷信息：遥感三十一号02组卫星(电磁环境探测卫星)三颗
+载具：长征四号丙遥三十一[17]
+轨道：1092 x 1096 km, 63.41° LEO(近地轨道)[3]
+结果：成功
+
+猎鹰9号芯一级代号说明
+B1xxx.x
+B代表Block，本意为第几代的代，此处无含义
+小数点前的xxx为芯级编号，小数点后的x为使用次数，如第二次发射时，此处为2
+
+来源格式说明
+[时间顺序] 作者/来源.标题
+链接
+(备注)
+
+数据来源
+[1] Wikipedia. 2021 in spaceflight (January–June)
+https://en.wikipedia.org/wiki/2021_in_spaceflight_(January%E2%80%93June)
+[2] NextSpaceflight. Falcon 9 Block 5 | Türksat 5A
+https://nextspaceflight.com/launches/details/99
+[3] Zarya. 2021 - Satellite & Spacecraft Launches and Detailed Orbits
+http://zarya.info/Diaries/Launches/Launches.php?year=2021
+[4] NextSpaceflight. LauncherOne | ELaNa XX
+https://nextspaceflight.com/launches/details/914
+[5] Asumoyz苏沫玖. #435：消息更新丨本次发射任务代号07-123
+https://t.bilibili.com/482144820967454015
+[6] 航空航天港. 天通一号03星
+https://9ifly.spacety.com/thread-93224-1-1.html
+[7] 航天爱好者网. 天通一号03星
+http://www.spaceflightfans.cn/event/long-march-3b-launch-tiantong-1-03-communication-satellite
+[8] Asumoyz苏沫玖. 航天动态丨2021/01/20，长征三号乙改三 Y74发射天通一号移动通信卫星03星
+https://www.bilibili.com/video/av331193904
+[9] 航空航天港. Electron从新西兰LC1进行OHB公司发射任务
+https://9ifly.spacety.com/thread-94331-1-1.html
+[10] NextSpaceflight. Falcon 9 Block 5 | Starlink V1 L16
+https://nextspaceflight.com/launches/details/2671
+[11] Everyday Astronaut. Transporter-1 | Falcon 9 Block 5
+https://everydayastronaut.com/transporter-1/
+[12] Wikipedia. Starlink
+https://en.wikipedia.org/wiki/Starlink
+[13] Wikipedia. Planet Labs
+https://en.wikipedia.org/wiki/Planet_Labs#Flock_satellite_constellations
+[14] Wikipedia. ION CubeSat Carrier
+https://en.wikipedia.org/wiki/ION_CubeSat_Carrier
+[15] NASASpaceflight. SpaceX F9 : SpaceX Transporter-1 Rideshare
+https://forum.nasaspaceflight.com/index.php?topic=50075.0
+[16] Gunter's Space Page. Sherpa-FX
+https://space.skyrocket.de/doc_sdat/sherpa-fx.htm
+[17] 航空航天港. 遥感三十一号02组卫星
+https://9ifly.spacety.com/thread-93144-1-1.html
+
+徽章来源
+[1] SpaceX. Türksat 5A
+https://www.elonx.net/spacex-mission-patches/#jp-carousel-3549
+[2] Virgin Orbit. Launch Demo 2
+https://twitter.com/Virgin_Orbit/status/1334186560032370688
+[3] Rocket Lab. F18-Patch-Plain
+https://www.rocketlabusa.com/missions/completed-missions/another-one-leaves-the-crust/
+[4] SpaceX. Starlink
+https://www.elonx.net/spacex-mission-patches/#jp-carousel-3624
+[5] SpaceX. Transporter 1
+https://www.elonx.net/spacex-mission-patches/#jp-carousel-3665
+[6] 航空航天港. 任务徽章
+https://9ifly.spacety.com/forum.php?mod=viewthread&tid=93144&page=17#pid799112
+
+封面来源
+[1] Virgin Orbit/Greg Robinson. Launch Demo 2 mission
+https://virginorbit.com/media-center/
+[2] 我们的太空. 【技术·航天】从点狼烟“烽火传递”到放卫星“联天通地”
+https://zhuanlan.zhihu.com/p/345564465
+[3] 我们的太空. 【快讯·航天】我国成功发射遥感三十一号02组卫星
+https://zhuanlan.zhihu.com/p/347906421
+
+视频素材来源
+[1] SpaceX. Turksat 5A Mission
+https://youtu.be/9I0UYXVqIn8
+[2] Virgin Orbit. Launch Demo 2 Recap
+https://youtu.be/yrx2PBzeRdU
+[3] Virgin Orbit. Launcher 1 demo-2
+https://streamable.com/9htk9b
+[4] SciNews. Long March-3B launches Tiantong-1 03
+https://youtu.be/jJ8Qxm_hjc8
+[5] Rocket Lab. Another One Leaves The Crust Launch 01_20_2021
+https://youtu.be/NQyNuF-Du7c
+[6] SpaceX. Starlink Mission
+https://youtu.be/84Nct_Q9Lqw
+[7] SpaceX. Transporter-1 Mission
+https://youtu.be/ScHI1cbkUv4
+[8] SciNews. Long March-4C launches Yaogan-31 02 satellites
+https://youtu.be/1BHcKJtrJGc

@@ -1,0 +1,159 @@
+﻿编号：2021-115
+火箭制造方：美国
+时间：2021-12-02 23:12(UTC)
+位置：卡角太空军基地SLC-40
+组名：Starlink Group 4-3(G4-3)
+发射提供方：SpaceX[1]
+主载荷信息：SpaceX的48颗星链卫星(宽带通信卫星)共约10.896吨[2][3]
+搭车载荷信息：黑天的黑天12，13(地球观测卫星)共约0.112吨[2]
+载具：猎鹰9号Block 5(B1060.9)[2]
+轨道：425 x 440 km，53.22° LEO(近地轨道)[4]
+结果(发射与回收)：成功
+回收船：ASOG(A Shortfall of Gravitas)[2]
+
+编号：2021-116
+火箭制造方：俄罗斯
+时间：2021-12-05 00:19:20(UTC)
+位置：圭亚那航天中心库鲁ELS
+飞行编号：VS26
+发射提供方：阿丽亚娜空间
+载荷运营方：ESA[1]
+载荷信息：伽利略-FOC-FM23，24(导航定位卫星)1.645吨[5]
+载具：联盟ST-B / 军舰鸟-MT[1]
+轨道：23517 km x 23574 km, 57.09° MEO(中地球轨道)
+结果：成功
+
+编号：2021-117
+火箭制造方：中国
+时间：2021-12-07 12:12(UTC+8)
+位置：酒泉卫星发射中心
+冠名：平安银行数字口袋号
+发射提供方：星河动力航天
+载荷信息：长光卫星公司的“天津大学一号”(红外观测卫星)，
+天仪研究院的“宝酝号”和“丽泽一号”(科学试验卫星)，
+中科星睿的“金紫荆五号”(遥感卫星)，
+零重空间的“金紫荆一号03”(遥感卫星)
+载具：谷神星一号遥二[7]
+轨道：483 x 499 km，97.39° SSO(太阳同步轨道)[8]
+结果：成功
+备注：我国民营火箭首次连续发射成功，
+遥二相比遥一增长1米，增重2吨[7][9]
+
+编号：2021-118
+火箭制造方：美国
+时间：2021-12-07 10:19(UTC)
+位置：卡角太空军基地SLC-41
+任务名：STP-3
+飞行编号：AV-093
+发射提供方：ULA
+载荷运营方：美国太空军[1] 
+载荷信息：STPSat-6(技术验证卫星)，质量为2.572吨[10]；
+LDPE-1(技术验证卫星)
+载具：宇宙神五551[1]
+轨道：36096 x 36112 km，0.07° GEO(地球同步轨道)[11]
+结果：成功
+
+编号：2021-119
+火箭制造方：俄罗斯
+时间：2021-12-08 07:38:15(UTC)
+位置：拜科努尔31/6号工位
+发射提供方：俄罗斯航天集团
+服务提供方：太空探险[12]
+客户：前泽友作
+载荷信息：联盟MS-19(载人飞船)约7.05吨[13]
+载具：联盟-2.1a[12]
+轨道：194 x 220 km，51.64° LEO(近地轨道)[14]
+结果：成功
+备注：首次联盟飞船专用太空旅游任务，
+搭载的乘员为俄罗斯宇航员
+指令长亚历山大·米苏尔金，
+日本太空游客前泽友作，平野阳三[12]
+
+编号：2021-120
+火箭制造方：美国
+时间：2021-12-09 00:02(UTC)
+位置：火箭实验室LC-1A(新西兰玛希亚)
+任务名：A Data With Destiny(带着使命的数据)
+发射提供方：火箭实验室
+载荷运营方：黑天
+载荷信息：黑天14，15(地球观测卫星)
+质量共0.112吨
+载具：电子火箭[15]
+轨道：430 x 440 km，42.01° LEO(近地轨道)[16]
+结果：成功
+
+编号：2021-121
+火箭制造方：美国
+时间：2021-12-09 06:00(UTC)
+位置：肯尼迪航天中心LC-39A
+发射提供方：SpaceX
+载荷运营方：NASA / ASI(意大利航天局)
+载荷信息：IXPE(X射线天文学)质量0.33吨[17]
+载具：猎鹰9号Block 5(B1061.5)[18]
+轨道：563 x 617 km，0.24° LEO(近地轨道)[19]
+结果(发射与回收)：成功
+回收船：JRTI(Just Read the Instructions)[18]
+
+关于轨道
+无额外标注的情况下，轨道一般指载荷所在的初始轨道，可以是预期轨道，或者实际轨道，具体类型根据来源判断。
+
+两组不同的概念
+初始轨道(initial orbit)：载荷与末级火箭分离后所在的轨道，一般不是运营轨道。如果不是发射相关方提供的数据(supTLE)，则以第三方(USSSN)发布的首个TLE数据为准，在后者的情况下会存在误差。
+运营轨道(operational orbit)：载荷长时间运行，执行任务所在的轨道，一般比初始轨道更高，末级难以或不必送入的轨道。
+
+预期轨道(desired orbit)：发射前预期载荷将进入的轨道，可以是初始轨道或者运营轨道。
+实际轨道(actual orbit)：发射后相关方提供的(supTLE)或第三方(USSSN)追踪到的轨道。
+
+若使用USSSN(Space-Track.Org)来源的轨道信息，会标注该数据使用的NORAD ID和epoch，以备查询与核实。需注册后才可查询。
+
+猎鹰9号芯一级代号说明
+B1xxx.xx
+B代表Block，本意为第几代的代，此处无含义
+小数点前的xxx为芯级编号，小数点后的xx为使用次数，如第二次发射时，此处为2
+
+龙飞船代号说明
+C2xx.xx
+C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
+小数点前的xxx为飞船编号，小数点后的xx为使用次数，如第二次使用时，此处为2
+
+来源格式说明
+[(文案)引用顺序] 作者/来源.标题
+链接
+
+编号格式说明
+年份-当年成功发射次序(实际时间顺序)
+使用COSPAR ID中去掉字母的部分，在剪辑不按照实际时间顺序进行时起标识的作用
+
+音乐来源
+
+数据来源
+[1] Wikipedia. List of spaceflight launches in July–December 2021. https://en.wikipedia.org/wiki/List_of_spaceflight_launches_in_July%E2%80%93December_2021
+[2] NextSpaceflight. Falcon 9 Block 5 | Starlink Group 4-3 & BlackSky. https://nextspaceflight.com/launches/details/5342
+[3] NASASpaceflight. SpaceX F9 : Starlink 4-3 : CCSFS SLC-40 : 2 December 2021 (23:12 UTC). https://forum.nasaspaceflight.com/index.php?topic=55232.msg2316873#msg2316873
+[4] T. S. Kelso. 48 #Starlink Group 4-3 satellites. https://twitter.com/TSKelso/status/1466663692540407815
+[5] Arianespace. Soyuz Flight VS26 – Arianespace. https://www.arianespace.com/mission/soyuz-flight-vs26/
+[6] Space-Track.Org. NORAD ID 49809 epoch 2021-12-04T18:37:06.145248. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/49809/orderby/EPOCH%20asc/limit/1/format/json
+[7] 星河动力航天. 一箭五星，民营火箭首次连续发射成功，星河动力实现商业航天新突破. https://mp.weixin.qq.com/s/ix-aKO3K12znB_cxvBmHpA
+[8] Space-Track.Org. NORAD ID 49812 epoch 2021-12-07T05:37:04.685664. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/49812/orderby/EPOCH%20asc/limit/1/format/json
+[9] 星河动力航天. 星河动力“谷神星一号”商业运载火箭入轨首飞圆满成功. https://mp.weixin.qq.com/s/ec7rNH-mkgLWjFgyll_htA
+[10] NextSpaceflight. Atlas V 551 | STP-3. https://nextspaceflight.com/launches/details/390
+[11] Space-Track.Org. NORAD ID 49817 epoch 2021-12-08T17:44:56.738976. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/49817/orderby/EPOCH%20asc/limit/1/format/json
+[12] Wikipedia. Soyuz MS-20. https://en.wikipedia.org/wiki/Soyuz_MS-20
+[13] NextSpaceflight. Soyuz 2.1a | Soyuz MS-20 / Space Adventures. https://nextspaceflight.com/launches/details/2971
+[14] Space-Track.Org. NORAD ID 49922 epoch 2021-12-08T08:09:34.508736. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/49922/orderby/EPOCH%20asc/limit/1/format/json
+[15] NextSpaceflight. Electron/Curie | A Data With Destiny. https://nextspaceflight.com/launches/details/6848
+[16] Space-Track.Org. NORAD ID 49949 epoch 2021-12-09T02:36:04.921920. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/49949/orderby/EPOCH%20asc/limit/1/format/json
+[17] Wikipedia. IXPE. https://en.wikipedia.org/wiki/IXPE
+[18] NextSpacelfight. Falcon 9 Block 5 | IXPE. https://nextspaceflight.com/launches/details/2173
+[19] Space-Track.Org. NORAD ID 49954 epoch 2021-12-09T08:55:03.60739. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/49954/orderby/EPOCH%20asc/limit/1/format/json
+
+
+视频素材来源
+
+封面来源
+
+徽章来源
+[1] SpaceX. Starlink. https://www.elonx.net/spacex-mission-patches/#jp-carousel-3624
+[2] Wikipedia. Soyuz MS-20. https://en.wikipedia.org/wiki/Soyuz_MS-20
+[3] Rocket Lab. A Data With Destiny. https://www.rocketlabusa.com/missions/completed-missions/a-data-with-destiny/
+[4] Wikipedia. IXPE. https://en.wikipedia.org/wiki/IXPE

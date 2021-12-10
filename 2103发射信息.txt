@@ -1,0 +1,217 @@
+火箭制造方：美国
+时间：2021-03-04 08:24(UTC)
+位置：肯尼迪航天中心LC-39A
+任务名：Starlink v1.0 L17
+发射提供方：SpaceX
+载荷运营方：SpaceX
+载荷信息：60颗星链卫星(第21批)(宽带通信卫星)共15.6吨
+载具：猎鹰9号Block 5(B1049.8)
+轨道：200km多的高度, 53°左右LEO(近地轨道)
+结果：成功
+回收船：OCISLY(Of Course I Still Love You)[1]
+备注：直播中没有一级箭载相机画面[2]
+
+火箭制造方：美国
+时间：2021-03-11 08:13(UTC)
+位置：卡角太空军基地SLC-40
+任务名：Starlink v1.0 L20
+发射提供方：SpaceX
+载荷运营方：SpaceX
+载荷信息：60颗星链卫星(第22批)(宽带通信卫星)共15.6吨
+载具：猎鹰9号Block 5(B1058.6)
+轨道：200km多的高度, 53°左右LEO(近地轨道)
+结果：成功
+回收船：JRTI(Just Read the Instructions)[3]
+
+火箭制造方：中国
+时间：2021-03-12 01:51:28.409(UTC+8) 
+位置：文昌航天发射场二号工位
+发射提供方：航天科技
+载荷信息：试验九号卫星(技术验证卫星)
+载具：长征七号甲遥二[4]
+轨道：250 x 35837 km, 19.53° GTO(地球同步转移轨道)[5]
+结果：成功
+备注：长征七号甲复飞成功
+
+火箭制造方：中国
+时间：2021-03-13 10:19(UTC+8) 
+位置：酒泉卫星发射中心9401工位[6]
+发射提供方：航天科技
+载荷信息：遥感三十一号04组卫星(电磁环境探测卫星)三颗
+载具：长征四号丙遥42[7]
+轨道：1088 x 1098 km, 63.41° LEO(近地轨道)[5]
+结果：成功
+
+火箭制造方：美国
+时间：2021-03-14 10:01(UTC)
+位置：肯尼迪航天中心LC-39A
+任务名：Starlink v1.0 L21
+发射提供方：SpaceX
+载荷运营方：SpaceX
+载荷信息：60颗星链卫星(第23批)(宽带通信卫星)共15.6吨
+载具：猎鹰9号Block 5(B1051.9)
+轨道：200km多的高度, 53°左右LEO(近地轨道)
+结果：成功
+回收船：OCISLY(Of Course I Still Love You)[8]
+
+火箭制造方：俄罗斯
+时间：2021-03-22 06:07:12(UTC)
+位置：拜科努尔31/6号工位
+发射提供方：Glavkosmos
+主载荷信息：韩国航空宇宙研究院(KARI)的CAS500-1(地球观测卫星)0.5吨[9]，
+488 x 510 km, 97.40° SSO(太阳同步轨道)[5]
+拼车载荷信息：30多个运营方的37个载荷，
+包括Axelspace的GRUS(地球观测卫星)四颗共约0.4吨[9][10]，
+579 x 605 km, 97.74° SSO；
+其他载荷543 x 557 km, 97.57° SSO[5]
+载具：联盟-2.1a / 军舰鸟-M
+结果：成功[11]
+
+火箭制造方：美国
+时间：2021-03-22 22:30(UTC)
+位置：火箭实验室LC-1A(新西兰玛希亚)
+任务名：They Go Up So Fast(高速飞升型)
+发射提供方：火箭实验室
+载荷信息：8个运营方的7个载荷，
+包括黑天(BlackSky)的黑天7(地球观测卫星)，
+449 x 460 km, 45.00° LEO(近地轨道)[5]；
+编队空间(Fleet Space)的半人马座(Centauri)3(窄带通信卫星)2颗共约16kg，
+544 x 559 km, 45.00° LEO(近地轨道)[5]
+载具：电子火箭 / 光子上面级[11]
+结果：成功
+
+火箭制造方：美国
+时间：2021-03-24 08:28(UTC)
+位置：卡角太空军基地SLC-40
+任务名：Starlink v1.0 L22
+发射提供方：SpaceX
+载荷运营方：SpaceX
+载荷信息：60颗星链卫星(第24批)(宽带通信卫星)共15.6吨
+载具：猎鹰9号Block 5(B1060.6)
+轨道：200km多的高度, 53°左右LEO(近地轨道)
+结果：成功
+回收船：OCISLY(Of Course I Still Love You)[12]
+
+火箭制造方：俄罗斯
+时间：2021-03-25 02:47(UTC)
+位置：东方航天发射场1S工位
+飞行编号：ST30
+发射提供方：阿丽亚娜空间 / Starsem
+载荷运营方：OneWeb
+载荷信息：第五批36颗OneWeb卫星(宽带通信卫星)共5.803吨[13]
+载具：联盟-2.1b / 军舰鸟[11]
+轨道：441 x 448 km, 87.40° LEO(近地轨道)[5]
+结果：成功
+
+火箭制造方：中国
+时间：2021-03-31 06:45(UTC+8)
+位置：酒泉卫星发射中心9401工位
+发射提供方：航天科技
+载荷信息：高分十二号02星
+载具：长征四号丙遥36[14]
+轨道：594 x 600 km, 97.87° SSO(太阳同步轨道)[5]
+结果：成功
+
+猎鹰9号芯一级代号说明
+B1xxx.x
+B代表Block，本意为第几代的代，此处无含义
+小数点前的xxx为芯级编号，小数点后的x为使用次数，如第二次发射时，此处为2
+
+来源格式说明
+[时间顺序] 作者/来源.标题
+链接
+(备注)
+
+数据来源
+[1] NextSpaceflight. Falcon 9 Block 5 | Starlink V1 L17
+https://nextspaceflight.com/launches/details/2672
+[2] SpaceNews. Engine shutdown led to failed Falcon 9 booster landing
+https://spacenews.com/engine-shutdown-led-to-failed-falcon-9-booster-landing/
+[3] NextSpaceflight. Falcon 9 Block 5 | Starlink V1 L20
+https://nextspaceflight.com/launches/details/2675
+[4] 航空航天港. 试验九号卫星由长征七号甲Y2自文昌航天发射场成功发射
+https://9ifly.spacety.com/thread-93994-1-1.html
+[5] Zarya. 2021 - Satellite & Spacecraft Launches and Detailed Orbits
+https://www.zarya.info/Diaries/Launches/Launches.php?year=2021
+[6] 航空航天港. 遥感31号04组由CZ-4C自酒泉卫星发射中心成功发射
+https://9ifly.spacety.com/thread-94661-1-2.html
+[7] 上海航天. 2021三战三捷，长四丙一箭三星又成功！
+https://mp.weixin.qq.com/s/YT_msMgZqV66KyL60ZeO2Q
+[8] NextSpaceflight. Falcon 9 Block 5 | Starlink V1 L21
+https://nextspaceflight.com/launches/details/2676
+[9] NextSpaceflight. Soyuz 2.1a/Fregat-M | CAS500-1 & Others
+https://nextspaceflight.com/launches/details/2561
+[10] Axelspace. GRUS-1 
+https://www.axelspace.com/grus-1
+[11] Wikipedia. List of spaceflight launches in January–June 2021
+https://en.wikipedia.org/wiki/List_of_spaceflight_launches_in_January%E2%80%93June_2021#March
+[12] NextSpaceflight. Falcon 9 Block 5 | Starlink V1 L22
+https://nextspaceflight.com/launches/details/2677
+[13] Arianespace. Soyuz Flight ST30
+https://www.arianespace.com/mission/soyuz-flight-st30/
+[14] 航空航天港. 高分十二号02星
+https://9ifly.spacety.com/thread-94562-1-1.html
+
+徽章来源
+[1] SpaceX. Starlink
+https://www.elonx.net/spacex-mission-patches/#jp-carousel-3624
+[2] 上海航天. 2021三战三捷，长四丙一箭三星又成功！
+https://mp.weixin.qq.com/s/YT_msMgZqV66KyL60ZeO2Q
+[3] Rocket Lab. They Go Up So Fast
+https://www.rocketlabusa.com/missions/completed-missions/they-go-up-so-fast/
+[4] OneWeb. Our fifth #OneWebLaunch from Vostochny
+https://twitter.com/OneWeb/status/1372580874831691778
+[5] 上海航天. 长征四号丙发射高分十二号02星取得圆满成功
+https://mp.weixin.qq.com/s/IVpCKBOWUW5WxXsPR7pJhg
+
+视频素材来源
+[1] SpaceX. Starlink Mission
+https://youtu.be/d5DzoKuhdNk
+[2] SpaceX. Starlink Mission
+https://youtu.be/U4sWbTfrzj8
+[3] SciNews. Long March-7A launches Shiyan-9
+https://youtu.be/oqLqogMZ7bw
+[4] SciNews. Long March-4C launches Yaogan-31 04
+https://youtu.be/YXJ8yM9095I
+[5] SpaceX. Starlink Mission
+https://youtu.be/JKf45ATgATc
+[6] Роскосмос ТВ. Трансляция пуска с космодрома Байконур ракеты-носителя «Союз-2.1а»
+https://youtu.be/7wb12TG-K2Y
+[7] Rocket Lab. They Go Up So Fast Launch 03/22/2021
+https://youtu.be/u5wmrGriVX0
+[8] SpaceX. Starlink Mission
+https://youtu.be/a15czI9B91c
+[9] Роскосмос ТВ. Пуск ракеты-носителя «Союз-2.1б» со спутниками OneWeb с космодрома Восточный
+https://youtu.be/XMbEKthVx20
+[10] 中国航天报. 厉害！长四丙火箭本月成功第二飞 
+https://mp.weixin.qq.com/s/OD2TOxx5Gfa3cWhGLHKx6g
+
+封面来源
+[1] SpaceX. Starlink Mission
+https://www.flickr.com/photos/spacex/51004598206
+[2] SpaceX. Starlink Mission
+https://www.flickr.com/photos/spacex/51027443321
+[3] 我们的太空. 【长征七号改遥二运载火箭成功发射】
+https://zhuanlan.zhihu.com/p/356472886
+[4] 我们的太空. 酒泉·长箭·春晓！我国成功发射遥感三十一号04组卫星
+https://zhuanlan.zhihu.com/p/356780491
+[5] SpaceX. Starlink Mission
+https://www.flickr.com/photos/spacex/51036945097
+[6] Roscosmos. CAS500-1
+http://www.roscosmos.ru/30402/
+[7] Rocket Lab. They Go Up So Fast Launch 03/22/2021
+https://youtu.be/u5wmrGriVX0?t=1145
+[8] SpaceX. Starlink Mission
+https://www.flickr.com/photos/spacex/51074167571
+[9] Arianespace. Soyuz ST30
+https://www.arianespace.com/mission/soyuz-flight-st30/
+[10] 我们的太空. 【快讯·航天】步步高分！长征四号丙发射高分十二号02星取得圆满成功
+https://zhuanlan.zhihu.com/p/361216638
+
+音乐来源
+[1] pine voc. mulning är förbjudet i snöbollskrig
+https://steviasphere.bandcamp.com/track/mulning-r-f-rbjudet-i-sn-bollskrig
+[2] Diamond Ace. Too Soon (Feat. Nymbius)
+https://diamond-ace-music.bandcamp.com/track/too-soon-feat-nymbius
+[3] Diamond Ace. California Dreaming
+https://diamond-ace-music.bandcamp.com/track/california-dreaming

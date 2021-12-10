@@ -1,0 +1,262 @@
+﻿编号：2021-F07
+火箭制造方：美国
+时间：2021-09-03 01:59(UTC)
+位置：范登堡太空军基地SLC-2W[1]
+任务名：DREAM[2]
+发射提供方：萤火虫航天
+载荷信息：约8个载荷方的26个载荷
+载具：萤火虫阿尔法[1]
+预期轨道：约300km高度，137°倾角的LEO(近地轨道)[3]
+结果：失败
+失败原因：起飞约15秒后一级上的2号发动机意外关机，
+导致推重比不足，无法完成正常的飞行过程。
+飞行至跨音速阶段时，阻力增大，剩余三台发动机的控制力不足，
+火箭姿态失控。随即启动飞行中止系统，火箭解体[1][4]
+
+编号：2021-079
+火箭制造方：中国
+时间：2021-09-07 11:01(UTC+8)
+位置：太原卫星发射中心9号工位
+发射提供方：航天科技
+载荷信息：高分五号02星(地球观测卫星)约3吨
+载具：长征四号丙遥40[5][6][7]
+轨道：680 x 692 km，98.28° SSO(太阳同步轨道)[8]
+结果：成功
+备注：搭载两台陆表成像仪与五台大气成分探测仪，
+主要用于防治大气污染[6]
+
+编号：2021-080
+火箭制造方：中国
+时间：2021-09-09 19:50:04.942(UTC+8)
+位置：西昌卫星发射中心2号工位
+发射提供方：航天科技
+载荷运营方：中国卫星通信
+载荷信息：中星9B(宽带通信卫星)
+载具：长征三号乙遥86[9]
+轨道：206 x 35792 km，24.56° GTO(地球同步转移轨道)[8]
+结果：成功
+备注：中星9A的替代星
+
+编号：2021-081
+火箭制造方：俄罗斯
+时间：2021-09-09 19:59(UTC)
+位置：普列谢茨克43/4号工位
+发射提供方：俄罗斯战略导弹部队
+载荷运营方：俄罗斯国防部
+载荷信息：Razbeg一号星(光学侦察卫星)，
+质量约0.25吨
+载具：联盟2.1v / 伏尔加上面级[1][10][11]
+轨道：295 x 307 km，96.34° SSO(太阳同步轨道)[8]
+结果：成功
+
+编号：2021-082
+火箭制造方：美国
+时间：2021-09-14 03:55(UTC)
+位置：范登堡太空军基地SLC-4E[12]
+任务名：Starlink v1.5 L1[13]
+发射与载荷：SpaceX
+载荷信息：51颗星链v1.5 L1卫星 (宽带通信卫星)共约13.26吨[14]
+载具：猎鹰9号Block 5(B1049.10)[12]
+轨道：343 x 213 km，70.01° LEO(近地轨道)[15]
+结果(发射与回收)：成功
+回收船：OCISLY(Of Course I Still Love You)[12]
+备注：首次美国西海岸星链发射任务,
+v1.5星链均搭载中继激光链路，
+可用于高纬度和远洋区域的信号覆盖[13]
+
+编号：2021-083
+火箭制造方：俄罗斯
+时间：2021-09-14 18:07:19(UTC)[1]
+位置：拜科努尔31/6号工位
+飞行编号：ST35
+发射提供方：阿丽亚娜空间 / Starsem
+载荷运营方：OneWeb
+载荷信息：第十批34颗OneWeb卫星(宽带通信卫星)共5.51吨[16]
+载具：联盟-2.1b / 军舰鸟-M[17]
+轨道：441 x 466 km，87.40° LEO(近地轨道)[18]
+结果：成功
+
+编号：2021-084
+火箭制造方：美国
+时间：2021-09-16 00:02(UTC)
+位置：肯尼迪航天中心LC-39A
+任务名：启迪4(Inspiration4)
+发射与运营：SpaceX
+客户：贾里德·伊萨克曼(Jared Isaacman)
+载荷信息：C207.2坚韧号(Resilience)龙2(载人飞船)共12.519吨[19][20]
+载具：猎鹰9号Block 5(B1062.3)[21]
+初始轨道(预测)：216 x 322 km，51.44° LEO(近地轨道)[22]
+运营轨道：570 x 579 km，51.64° LEO(近地轨道)[23]
+结果(发射与回收)：成功
+回收船：JRTI(Just Read the Instructions)[21]
+备注：所有乘员均为私人(民间&平民)乘客[24]，
+指令长贾里德·伊萨克曼，
+飞行员西安·普罗克特，
+首席医疗官海莉·阿尔塞诺，
+任务专家克里斯托弗·森布罗斯基。
+运营轨道使用地心距离计算，而非地表距离，所以不是585km[25]。
+已于UTC 2021年9月18日23时许于卡角东北方大西洋海域溅落[26]
+
+编号：2021-085
+火箭制造方：中国
+时间：2021-09-20 15:10:11.392(UTC+8)[27]
+位置：文昌航天发射场2号工位(LC-201)[1]
+任务代号：TGHY2/TZ-3[27]
+发射提供方：航天科技
+载荷运营方：国家航天局
+载荷信息：天舟三号货运飞船
+载货4.9吨，推进剂0.75吨
+载具：长征七号遥四[28]
+轨道：200 x 342 km，41.6° LEO(近地轨道)[29]
+结果：成功
+备注：与核心舱对接采用了6.5小时快速对接模式，
+于同日22时08分完成对接[30]
+
+编号：2021-086
+火箭制造方：中国
+时间：2021-09-27 14:19:46(UTC+8)
+位置：酒泉卫星发射中心
+任务代号：01-122
+发射提供方：航天科工火箭技术[31]
+载荷研制方：长光卫星
+载荷信息：吉林一号高分02D(光学遥感卫星)
+载具：快舟一号甲遥四[32]
+轨道：532 x 545 km，97.54° SSO(太阳同步轨道)[8]
+结果：成功
+备注：2020年9月12日，快舟一号甲遥三发射失败之后的首次成功发射[32]
+
+编号：2021-087
+火箭制造方：中国
+时间：2021-09-27 16:20:04(UTC+8)[33]
+位置：西昌卫星发射中心3号工位
+发射提供方：航天科技
+载荷信息：试验十号(技术验证卫星)
+载具：长征三号乙改二遥81(CZ-3B/G2 Y81)[1][34]
+轨道：177 x 40105 km，51.04° HEO(大椭圆轨道)[8](COSPAR ID/NORAD ID: 2021-087A/49258)[35][36]
+结果：成功
+备注：火箭飞行正常，卫星准确入轨。火箭飞行过程中，卫星工况异常，具体原因正在进一步分析排查[37]
+
+编号：2021-088
+火箭制造方：美国
+时间：2021-09-27 18:12(UTC)
+位置：范登堡太空军基地SLC-3E
+飞行编号：AV-092
+发射提供方：ULA[1]
+主载荷信息：NASA/USGS的陆地卫星9号(地球观测卫星)，
+质量约2.711吨[38]，672 x 686 km，98.21° SSO(太阳同步轨道)[8]
+搭车载荷信息：NASA的ELaNa 34卫星两颗，铯航天(CesiumAstro)卫星两颗[1]，(预期轨道)543 x 547 km，97.59° SSO[39]
+载具：宇宙神五401[1]
+结果：成功
+
+关于轨道
+无额外标注的情况下，轨道一般指载荷所在的初始轨道，可以是预期轨道，或者实际轨道，具体类型根据来源判断。
+
+两组不同的概念
+初始轨道(initial orbit)：载荷与末级火箭分离后所在的轨道，一般不是运营轨道。
+运营轨道(operational orbit)：载荷长时间运行，执行任务所在的轨道，一般比初始轨道更高，末级难以或不必送入的轨道。
+
+预期轨道(desired orbit)：发射前预期载荷将进入的轨道，可以是初始轨道或者运营轨道。
+实际轨道(actual orbit)：发射后相关方提供的(supTLE)或第三方(USSSN)追踪到的轨道。
+
+猎鹰9号芯一级代号说明
+B1xxx.xx
+B代表Block，本意为第几代的代，此处无含义
+小数点前的xxx为芯级编号，小数点后的xx为使用次数，如第二次发射时，此处为2
+
+龙飞船代号说明
+C2xx.xx
+C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
+小数点前的xxx为飞船编号，小数点后的xx为使用次数，如第二次使用时，此处为2
+
+来源格式说明
+[(文案)引用顺序] 作者/来源.标题
+链接
+
+编号格式说明
+年份-当年成功发射次序(实际时间顺序)
+使用Zarya.info网站提供的编号，在剪辑不按照实际时间顺序进行时起标识的作用
+
+片尾音乐为音乐来源中的[1]
+音乐来源(视频时间顺序)
+[1] Stevia Sphere. A Sphere Made of Stevia. https://steviasphere.bandcamp.com/track/a-sphere-made-of-stevia
+[2] Three Chain Links. The Only Me Is Me. https://youtu.be/YtW2t3lmQZg
+[3] Vladmsorensen. SummerShift. https://youtu.be/3p9VFyM_aXo
+
+数据来源(实际时间顺序)
+[1] Wikipedia. List of spaceflight launches in July–December 2021. https://en.wikipedia.org/wiki/List_of_spaceflight_launches_in_July%E2%80%93December_2021
+[2] NextSpaceflight. Firefly Alpha | DREAM (Demo Flight). https://nextspaceflight.com/launches/details/1127
+[3] Wikipedia. Firefly Alpha. https://en.wikipedia.org/wiki/Firefly_Alpha#Launch_history
+[4] Firefly Aerospace. the first flight test of our Alpha vehicle. https://twitter.com/Firefly_Space/status/1434596618485911554
+[5] PhilLeafSpace. 高分五号02星. https://weibo.com/2645044133/Kx2PV9W10
+[6] 上海航天. 十全十美，长征四号丙成功发射高光谱观测卫星. https://mp.weixin.qq.com/s/baisz2_lGAeT8e-lPcmI_Q
+[7] Shanghai Academy of Spaceflight Technology. SAST-3000.  http://www.sast.net/product/27.html
+[8] Zarya. 2021 - Satellite & Spacecraft Launches and Detailed Orbits. https://www.zarya.info/Diaries/Launches/Launches.php?year=2021
+[9] 中国运载火箭研究院. 长三乙火箭成功发射中星9B卫星.  https://mp.weixin.qq.com/s/VC_C4wsD89cOpLxtlwzhEg
+[10] NextSpaceflight. Soyuz 2.1v | Cosmos 2551 . https://nextspaceflight.com/launches/details/6819
+[11] Rogozin. Yes. https://twitter.com/Rogozin/status/1436233531294982144
+[12] NextSpaceflight. Falcon 9 Block 5 | Starlink Group 2-1. https://nextspaceflight.com/launches/details/6796
+[13] Elon Musk. V1.5 Starlinks. https://twitter.com/elonmusk/status/1436541063406264320
+[14] Wikipedia. List of Falcon 9 and Falcon Heavy launches. https://en.wikipedia.org/wiki/List_of_Falcon_9_and_Falcon_Heavy_launches#2021
+[15] CelesTrak. Starlink-Group-2-1 Pre-Launch. https://celestrak.com/NORAD/elements/supplemental/table.php?tleFile=starlink-group-2-1&title=Starlink-Group-2-1%20Pre-Launch
+[16] Arianespace. Soyuz Flight ST35. https://www.arianespace.com/mission/soyuz-flight-st35/
+[17] NASASpaceflight. Soyuz-ST update. https://forum.nasaspaceflight.com/index.php?topic=13239.msg2242368#msg2242368
+[18] T.S. Kelso. OneWeb SupTLE. https://twitter.com/TSKelso/status/1437949842429411328
+[19] Wikipedia. Inspiration4. https://en.wikipedia.org/wiki/Inspiration4
+[20] Wikipedia. Crew Dragon Resilience . https://en.wikipedia.org/wiki/Crew_Dragon_Resilience
+[21] NextSpaceflight. Falcon 9 Block 5 | Inspiration4 . https://nextspaceflight.com/launches/details/5761
+[22] flightclub. Inspiration4. https://flightclub.io/result/telemetry?id=eb6be2f3-8d73-4a52-ad2c-0ea74ecb747d
+[23] T.S. Kelso. Inspiration4. https://twitter.com/TSKelso/status/1438377689228795904
+[24] NASA. Congratulations. https://twitter.com/NASA/status/1438300848392712201
+[25] Jonathan McDowell. geocentric. https://twitter.com/planet4589/status/1438390263416819713
+[26] Mark Vlaun. The USCG Hazard and Warning Area. https://twitter.com/mvlaun/status/1439349150055866372
+[27] Cosmic Penguin. To make that official. https://twitter.com/Cosmic_Penguin/status/1439857250416291840
+[28] 我们的太空. 长征七号遥四火箭发射“天舟三号”取得圆满成功！. https://www.zhihu.com/question/487898231/answer/2130700830
+[29] Vony7. TZ-3 目前轨道. https://weibo.com/6142289604/Kz3110zk7
+[30] 中国航天报. 天舟天和“小团圆”. https://mp.weixin.qq.com/s/7Sl8QCC6F7gPsrmixeFRFg
+[31] 航天科工火箭技术有限公司. 快舟一号甲火箭成功发射吉林一号高分02D卫星. https://mp.weixin.qq.com/s/tba0s-OdBXydeSKUaHHRxQ
+[32] 中国航天报. 快舟归来，发射成功！别走开，还有一发. https://mp.weixin.qq.com/s/sJ7taEs_ezFJnmC73MNaUQ
+[33] Asumoyz苏沫玖. 起飞时间16时20分04秒. https://t.bilibili.com/575515850913041261
+[34] Asumoyz苏沫玖. 长征三号乙改二发射试验10号卫星. https://b23.tv/av548162474
+[35] Cosmic Penguin. 2021-087A/49258. https://twitter.com/Cosmic_Penguin/status/1442542047831855113
+[36] Jonathan C. McDowell. Usually, the first piece letters are reserved for the main payloads. https://www.planet4589.org/space/lvdb/des.html
+[37] 新华社. 试验十号卫星入轨后工况异常. http://www.news.cn/2021-09/28/c_1127913943.htm
+[38] Wikipedia. Landsat 9. https://en.wikipedia.org/wiki/Landsat_9
+[39] United Launch Alliance. Atlas V Landsat 9 Mission Profile. https://youtu.be/n4k2qf9hhGE?t=178
+
+视频素材来源(实际时间顺序)
+[1] NASASpaceflight. Firefly Alpha Rocket Explodes In-Flight. https://youtu.be/NisZvIs4SKk
+[2] Firefly Aerospace. Firefly Alpha FLTA001. https://youtu.be/qFjoPw0CfAU
+[3] SciNews. Long March-4C launches Gaofen-5 02. https://youtu.be/aTxO4_HtX9g
+[4] SciNews. Long March-3B launches ChinaSat-9B (ZhongXing-9B). https://youtu.be/qKE0581QDIo
+[5] Минобороны России. Пуск ракеты носителя «Союз 2» с космодрома Плесецк. https://youtu.be/9DvKnSfKCEI
+[6] SpaceX. Starlink Mission. https://youtu.be/4372QYiPZB4
+[7] Роскосмос ТВ. Пуск ракеты-носителя «Союз-2.1б» со спутниками OneWeb с космодрома Байконур. https://youtu.be/jWLyY2Pbc10
+[8] SpaceX. Inspiration4. https://youtu.be/3pv01sSq44w
+[9] 卡尔达瓦里希. 长征七号成功发射天舟三号货运飞船. https://b23.tv/av633025163
+[10] 大漠问天. 我国成功发射吉林一号高分02D卫星. https://mp.weixin.qq.com/s/R8BxEdZVumQBHhfbEs4cxg
+[11] Shadowsoffear. 试验十号. https://weibo.com/2462097583/KA7ia0Ocj
+[12] NASA. Launch of the Landsat 9 Earth-Observing Satellite. https://youtu.be/OhUOmNTUO9I
+[13] United Launch Alliance. Atlas V Landsat 9 Launch Highlights. https://youtu.be/EXACVjMA_NY
+[14] United Launch Alliance. Atlas V Landsat 9 Rocket Cam. https://youtu.be/g0fdp0evEW4
+
+封面来源(实际时间顺序)
+[1] Firefly Aerospace. Firefly Alpha FLTA001. https://youtu.be/qFjoPw0CfAU
+[2] 我们的太空. 我国成功发射高分五号02星. https://zhuanlan.zhihu.com/p/407718968
+[3] 我们的太空. 中星9B卫星，发射成功！. https://zhuanlan.zhihu.com/p/408726448
+[4] Минобороны России. Пуск ракеты носителя «Союз 2» с космодрома Плесецк. https://youtu.be/9DvKnSfKCEI
+[5] SpaceX. Starlink Mission. https://youtu.be/4372QYiPZB4?t=1116
+[6] Роскосмос. Выполнен 10-й пуск по программе OneWeb. https://www.roscosmos.ru/32554/
+[7] SpaceX. Inspiratoin4 Mission. https://www.flickr.com/photos/spacex/51494348009/
+[8] 我们的太空. 长征七号遥四火箭发射“天舟三号”取得圆满成功. https://zhuanlan.zhihu.com/p/412170767
+[9] 王明艳，汪江波. 快舟归来，成功发射吉林一号高分02D卫星. https://zhuanlan.zhihu.com/p/414565495
+[10] Shadowsoffear. 试验十号. https://weibo.com/2462097583/KA7ia0Ocj
+[11] United Launch Alliance. Atlas V Landsat 9 Launch Highlights. https://youtu.be/EXACVjMA_NY?t=53
+
+徽章来源(实际时间顺序)
+[1] Firefly Aerospace. Dream. https://firefly.com/dream/
+[2] 上海航天. 十全十美，长征四号丙成功发射高光谱观测卫星. https://mp.weixin.qq.com/s/baisz2_lGAeT8e-lPcmI_Q
+[3] SpaceX. Starlink. https://www.elonx.net/spacex-mission-patches/#jp-carousel-3624
+[4] OneWeb. Our #OneWebLaunch10 mission patch. https://twitter.com/OneWeb/status/1437461076602494985
+[5] Wikipedia. Inspiration4. https://en.wikipedia.org/wiki/Inspiration4
+[6] 中国载人航天. 官方｜逐梦九天，万里行舟！天舟三号任务标识正式发布！ . https://mp.weixin.qq.com/s/ad9lLwFg6BORN5aNhDIdDw
+[7] Wikipedia. Landsat 9. https://en.wikipedia.org/wiki/Landsat_9

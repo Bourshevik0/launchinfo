@@ -1,0 +1,284 @@
+编号：2021-027
+火箭制造方：美国
+时间：2021-04-07 16:34(UTC)
+位置：卡角太空军基地SLC-40
+任务名：Starlink v1.0 L23
+发射提供方：SpaceX
+载荷运营方：SpaceX
+载荷信息：60颗星链卫星(第25批)(宽带通信卫星)共15.6吨
+载具：猎鹰9号Block 5(B1058.7)[1]
+轨道：262 x 280 km，53.05° LEO(近地轨道)[2]
+结果：成功
+回收船：OCISLY(Of Course I Still Love You)[1]
+
+编号：2021-028
+火箭制造方：中国
+时间：2021-04-09 07:01(UTC+8)
+位置：太原卫星发射中心9号工位
+发射提供方：航天科技
+载荷研制方：中科院微小卫星创新研究院
+载荷信息：试验六号03卫星(技术验证卫星)
+载具：长征四号乙遥49[3]
+轨道：992 x 1001 km，99.53° SSO(太阳同步轨道)[4]
+结果：成功
+
+编号：2021-029
+火箭制造方：俄罗斯
+时间：2021-04-09 07:42:40(UTC)
+位置：拜科努尔31/6号工位
+发射提供方：俄罗斯航天集团
+载荷运营方：俄罗斯航天集团
+载荷信息：联盟MS-18(载人飞船)约7.1吨
+载具：联盟-2.1a
+轨道：192 x 228 km，51.65° LEO(近地轨道)[4]
+结果：成功
+备注：使用三小时快速对接模式，
+搭载的宇航员为俄罗斯宇航员
+奥列格·诺维茨基，
+彼得·杜布罗夫，
+美国宇航员马克·范德·黑[5]
+
+编号：2021-030
+火箭制造方：美国
+时间：2021-04-23 09:49(UTC)
+位置：肯尼迪航天中心LC-39A
+任务名：Crew-2
+发射提供方：SpaceX
+载荷运营方：NASA
+载荷信息：C206奋进号(Endeavour)龙2飞船(载人飞船)共12吨左右
+载具：猎鹰9号Block 5(B1061.2)
+轨道：190 x 213 km，51.65° LEO(近地轨道)[4]
+结果：成功
+回收船：OCISLY(Of Course I Still Love You)
+备注：龙飞船与火箭均为第二次使用，
+搭载的宇航员为美国宇航员
+指令长沙恩·金布罗，
+飞行员凯瑟琳·梅根·麦克阿瑟，
+一号任务专家日本宇航员星出彰彦，
+二号任务专家是欧空局/法国宇航员托马斯·佩斯奎特[6]
+
+编号：2021-031
+火箭制造方：俄罗斯
+时间：2021-04-25 22:14:08(UTC)
+位置：东方航天发射场1S工位
+飞行编号：ST31
+发射提供方：阿丽亚娜空间 / Starsem
+载荷运营方：OneWeb
+载荷信息：第六批36颗OneWeb卫星(宽带通信卫星)共5.808吨[7]
+载具：联盟-2.1b / 军舰鸟[8]
+轨道：441 x 447 km，87.40° LEO(近地轨道)[4]
+结果：成功
+
+编号：2021-032
+火箭制造方：美国
+时间：2021-04-26 20:47(UTC)
+位置：范登堡空军基地SLC-6
+任务名：NROL-82
+飞行编号：Delta 386
+发射提供方：ULA
+载荷运营方：美国国家侦察局[8]
+载荷信息：KH-11(光学遥感间谍卫星)19吨左右[9]
+载具：重型德尔塔四
+轨道：522 x 761 km，98.05° SSO(太阳同步轨道)[4]
+结果：成功
+
+编号：2021-033
+火箭制造方：中国
+时间：2021-04-27 11:20(UTC+8)
+位置：太原卫星发射中心16号工位
+冠名：长三角之声
+发射提供方：航天科技[10]
+主载荷信息：齐鲁一号/四号(遥感卫星)，
+佛山一号(技术验证卫星)
+拼车载荷信息：中安国通一号(技术验证卫星)，
+国电高科的天启星座09星(窄带通信卫星)，
+起源太空NEO-1卫星(科学卫星)，
+泰景二号01星(遥感卫星)，
+香港航科集团的金紫荆一号01/02卫星(遥感卫星)[11][12]
+载具：长征六号遥五[10]
+轨道：497 x 510 km，97.40° SSO(太阳同步轨道)[4]
+结果：成功
+
+编号：2021-034
+火箭制造方：欧洲
+时间：2021-04-29 01:50:00(UTC)
+位置：圭亚那航天中心库鲁ELA-1
+飞行编号：VV18
+发射提供方：阿丽亚娜空间
+主载荷信息：空客国防航天(Airbus DS)的
+新昴星团3号星(Pléiades-Neo 3)(地球观测卫星)0.92吨[13]，
+624 x 626 km，97.90° SSO(太阳同步轨道)[4]
+拼车载荷信息：挪威航天局(NOSA)的NorSat-3(AIS船只跟踪卫星)，
+极光洞察(Aurora Insight)的Bravo(射频监测卫星)，
+欧洲卫通(Eutelsat)的Tyvak-182A(窄带通信卫星)，
+尖塔环球(Spire Global)的狐猴-2(Lemur-2)两颗(地球观测卫星)[13]，
+共约0.358吨，608 x 615 km，97.79° SSO[4]
+载具：织女星
+结果：成功
+备注：2020-11-17 VV17失败以来的首次成功发射
+
+编号：2021-035
+火箭制造方：中国
+时间：2021-04-29 11:23:15.613(UTC+8)[14]
+位置：文昌航天发射场1号工位(LC-101)
+任务代号：TG/TH
+发射提供方：航天科技
+载荷运营方：国家航天局
+载荷信息：天和核心舱(空间站)
+载具：长征五号乙遥二[8]
+轨道：171 x 382 km，41.47° LEO(近地轨道)[4]
+结果：成功
+备注：中国空间站首个舱段发射
+
+编号：2021-036
+火箭制造方：美国
+时间：2021-04-29 03:44(UTC)
+位置：卡角太空军基地SLC-40
+任务名：Starlink v1.0 L24
+发射提供方：SpaceX
+载荷运营方：SpaceX
+载荷信息：60颗星链卫星(第26批)(宽带通信卫星)共15.6吨
+载具：猎鹰9号Block 5(B1060.7)[15]
+轨道：257 x 280 km，53.05° LEO(近地轨道)[16]
+结果：成功
+回收船：OCISLY(Of Course I Still Love You)[15]
+
+编号：2021-037
+火箭制造方：中国
+时间：2021-04-30 15:27(UTC+8)
+位置：酒泉卫星发射中心9401工位
+发射提供方：航天科技
+载荷信息：遥感三十四号(光学遥感卫星)
+载具：长征四号丙遥34[17]
+轨道：1093 x 1096 km，63.41° LEO(近地轨道)[4]
+结果：成功
+
+猎鹰9号芯一级代号说明
+B1xxx.x
+B代表Block，本意为第几代的代，此处无含义
+小数点前的xxx为芯级编号，小数点后的x为使用次数，如第二次发射时，此处为2
+
+来源格式说明
+[时间顺序] 作者/来源.标题
+链接
+(备注)
+
+编号格式说明
+年份-当年成功发射次序(时间顺序)
+使用Zarya.info网站提供的编号，在剪辑不按照时间顺序进行时起标识实际时间顺序的作用
+
+数据来源
+[1] NextSpaceflight. Falcon 9 Block 5 | Starlink V1 L23
+https://nextspaceflight.com/launches/details/2678
+[2] T.S. Kelso. #Starlink V1.0-23 supTLEs
+https://twitter.com/TSKelso/status/1380080100750675971
+[3] 航空航天港. 试验六号03星
+https://9ifly.spacety.com/forum.php?mod=viewthread&tid=94781&page=9#pid822932
+[4] Zarya. 2021 - Satellite & Spacecraft Launches and Detailed Orbits
+https://www.zarya.info/Diaries/Launches/Launches.php?year=2021
+[5] Wikipedia. Soyuz MS-18 
+https://en.wikipedia.org/wiki/Soyuz_MS-18
+[6] NextSpaceflight. Falcon 9 Block 5 | SpaceX Crew-2
+https://nextspaceflight.com/launches/details/4737
+[7] Arianespace. Soyuz Flight ST31 - Arianespace
+https://www.arianespace.com/mission/soyuz-flight-st31/
+[8] Wikipedia. List of spaceflight launches in January–June 2021
+https://en.wikipedia.org/wiki/List_of_spaceflight_launches_in_January%E2%80%93June_2021#April
+[9] Wikipedia. KH-11 Kennen
+https://en.wikipedia.org/wiki/KH-11_Kennen
+[10] 航空航天港. 齐鲁一号、齐鲁四号等9卫星由长征六号自太原成功发射
+https://9ifly.spacety.com/thread-93821-1-1.html
+[11] 新华网. 一箭9星！我国成功发射齐鲁一号等9颗商业卫星 
+http://www.xinhuanet.com/mil/2021-04/27/c_1211130932.htm
+[12] 上海航天. 长征六号·长三角之声号首次商业“拼车”发射任务圆满成功 
+https://mp.weixin.qq.com/s/fUwv2XjKm6uZsKrGmIqdSQ
+[13] Arianespace. VV18
+https://www.arianespace.com/mission/vega-flight-vv18/
+[14] 三年一直播. [回放]中国空间站天和号核心舱发射
+https://youtu.be/ntZIS5NVrmQ
+[15] NextSpaceflight. Falcon 9 Block 5 | Starlink V1 L24
+https://nextspaceflight.com/launches/details/2679
+[16] T.S Kelso. #Starlink V1.0-24 supTLEs
+https://twitter.com/TSKelso/status/1387814835983818754
+[17] 上海航天. 四天三地，叒成功啦！ 
+https://mp.weixin.qq.com/s/kGAdsqreu8JTfjkDlflr4A
+
+徽章来源
+[1] SpaceX. Starlink
+https://www.elonx.net/spacex-mission-patches/#jp-carousel-3624
+[2] 上海航天. 五战五捷！长四乙火箭发射圆满成功
+https://mp.weixin.qq.com/s/qGuOinZUXWCpVaxA_yrwkg
+[3] Wikipedia. Soyuz MS-18
+https://en.wikipedia.org/wiki/Soyuz_MS-18
+[4] NASA Johnson. The SpaceX Crew-2 official insignia
+https://www.flickr.com/photos/nasa2explore/50679755596/
+[5] OneWeb. 6th Launch with Yuri Gagarin
+https://twitter.com/OneWeb/status/1381974500435181570
+[6] NRO. L-82
+https://en.wikipedia.org/wiki/List_of_NRO_launches#Launch_history
+[7] 上海航天. 长征六号·长三角之声号首次商业“拼车”发射任务圆满成功 
+https://mp.weixin.qq.com/s/fUwv2XjKm6uZsKrGmIqdSQ
+[8] 柳树怪. 长征五号乙
+http://www.spaceflightfans.cn/event/long-march-5b-launch-china-space-station-core-module
+[9] 上海航天. 四天三地，叒成功啦！ 
+https://mp.weixin.qq.com/s/kGAdsqreu8JTfjkDlflr4A
+
+视频素材来源
+[1] 三年一直播. [回放]中国空间站天和号核心舱发射
+https://youtu.be/ntZIS5NVrmQ
+[2] SpaceX. Starlink Mission
+https://youtu.be/Uy9Jn-3vuPs
+[3] Роскосмос ТВ. Трансляция запуска пилотируемого корабля «Ю. А. Гагарин» (Союз МС-18)
+https://youtu.be/mtV6kyKvlpk
+[4] SpaceX. Crew-2 Mission
+https://youtu.be/lW07SN3YoLI
+[5] Роскосмос ТВ. Пуск ракеты-носителя «Союз-2.1б» со спутниками OneWeb с космодрома Восточный
+https://youtu.be/pcILqq01Za4
+[6] United Launch Alliance. Delta IV Heavy NROL-82 Launch Highlights
+https://youtu.be/A3gK1sduo0g
+[7] United Launch Alliance. April 26 Live Broadcast Delta IV Heavy NROL-82
+https://youtu.be/gVoo0Q4hNpw
+[8] SciNews. Long March-6 launches 9 satellites
+https://youtu.be/18Op0-jG5S8
+[9] arianespace. Arianespace Flight VV18 Mission
+https://youtu.be/Il3SiRdFW8w
+[10] SpaceX. Starlink Mission
+https://youtu.be/RBxkRKZ34yo
+[11] SciNews. Long March-4B launches Shiyan-6 03
+https://youtu.be/jV2VjIaXKAk
+[12] SciNews. Long March-4C launches Yaogan-34
+https://youtu.be/-yqed4nCfQQ
+
+封面来源
+[1] SpaceX. Starlink Mission
+https://www.flickr.com/photos/spacex/51101836837
+[2] 我们的太空. 【快讯·航天】我国成功发射试验六号03星
+https://zhuanlan.zhihu.com/p/363388839
+[3] Роскосмос. Поехали! «Ю.А. Гагарин» стартовал к МКС
+https://www.roscosmos.ru/30636/
+[4] SpaceX. Crew-2 Mission
+https://www.flickr.com/photos/spacex/51136428909
+[5] Роскосмос. На Восточном состоялся успешный пуск ракеты «Союз-2»
+https://www.roscosmos.ru/30877/
+[6] United Launch Alliance. Delta IV Heavy NROL-82 Launch Highlights
+https://youtu.be/A3gK1sduo0g?t=91
+[7] 我们的太空. 【快讯·航天】九连环！中国·长征六号运载火箭成功实施“一箭九星”
+https://zhuanlan.zhihu.com/p/368188643
+[8] arianespace. Vega Flight VV18
+https://www.arianespace.com/mission/vega-flight-vv18/
+[9] 我们的太空. 【新闻·航天】空间站天和核心舱发射任务取得圆满成功
+https://zhuanlan.zhihu.com/p/368768262
+[10] SpaceX. Starlink Mission
+https://youtu.be/RBxkRKZ34yo?t=1157
+[11] 我们的太空. 【快讯·航天】再来一发！我国成功发射遥感三十四号卫星
+https://zhuanlan.zhihu.com/p/369091922
+
+音乐来源
+[1] Delete The Cube. Kumquat
+https://steviasphere.bandcamp.com/track/kumquat
+[2] vladmsorensen. Nuclear Midnight (feat. Sheiko)
+https://vladm.bandcamp.com/track/nuclear-midnight-feat-sheiko
+[3] Cyberbear. Aware Scare
+https://youtu.be/y_Eqc8rc0tQ
+[4] e s c p. Through The Waves
+https://youtu.be/Vepix3iV9oU
