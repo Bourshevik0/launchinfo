@@ -1,4 +1,4 @@
-﻿编号：2021-089
+编号：2021-089
 火箭制造方：俄罗斯
 时间：2021-10-05 08:55:02(UTC)
 位置：拜科努尔31/6号工位
@@ -32,6 +32,7 @@
 发射提供方：航天科技八院
 主载荷信息：羲和号(太阳探测卫星)，质量0.51吨；卫星运营：南京大学；卫星研制：南京大学(科学与应用系统)，航天科技八院(卫星系统)，中科院长春光机所(卫星载荷)[7][8]
 搭车载荷信息：10个运营方的10个载荷[4]
+载荷质量：2.0吨[9]
 载具：长征二号丁遥53[7]
 轨道：500 x 520 km，97.48° SSO(太阳同步轨道)[3]
 结果：成功
@@ -40,21 +41,21 @@
 
 编号：2021-092
 火箭制造方：中国
-时间：2021-10-16 00:23:56.469(UTC+8)[9]
+时间：2021-10-16 00:23:56.469(UTC+8)[10]
 位置：酒泉卫星发射中心921工位[4]
-任务代号：TGZR2/SZ-13[9]
+任务代号：TGZR2/SZ-13[10]
 发射提供方：航天科技一院
 载荷运营方：国家航天局
 载荷信息：神舟十三号载人飞船约8吨
 载具：长征二号F改进型遥13(CZ-2F/G Y13)[4]
-轨道：200.006 x 355.769km，41.340° LEO(近地轨道)[9]
+轨道：200.006 x 355.769km，41.340° LEO(近地轨道)[10]
 结果：成功
 备注：使用6小时快速对接模式，
 于北京时间同日6点56分完成对接，并在轨6个月；
 搭载我国航天员，本次任务指令长翟志刚
 (第一批航天员，第二次进入太空)，
 王亚平(第二批航天员，第二次进入太空)，
-叶光富(第二批航天员，首次进入太空)[10]
+叶光富(第二批航天员，首次进入太空)[11]
 
 编号：2021-093
 火箭制造方：美国
@@ -63,9 +64,9 @@
 飞行编号：AV-096
 发射提供方：ULA
 载荷运营方：NASA[4]
-载荷信息：露西号(小行星探测器)，质量约1.5吨[11]
-预期轨道：日心轨道；
-分离时，C₃为28.64km²/s²，赤纬6.27度，赤经17.8度[12]
+载荷信息：露西号(小行星探测器)，质量约1.5吨[12]
+预期轨道：日心轨道，
+分离时，C₃为28.64km²/s²，赤纬6.27度，赤经17.8度[13]
 载具：宇宙神五401[4]
 结果：成功
 
@@ -88,11 +89,12 @@
 位置：西昌卫星发射中心2号工位
 发射提供方：航天科技一院
 载荷研制方：航天科技八院
-载荷信息：实践21号(技术验证卫星)[13]
-载具：长征三号乙遥83[14]
+载荷信息：实践21号(技术验证卫星)[14]
+载荷质量：5.5吨[9]
+载具：长征三号乙遥83[15]
 轨道：226 x 35815 km，28.47° GTO(地球同步转移轨道)[3]
 结果：成功
-备注：主要用于空间碎片减缓技术试验验证[15]
+备注：主要用于空间碎片减缓技术试验验证[16]
 
 编号：2021-095
 火箭制造方：欧洲
@@ -103,7 +105,8 @@
 载荷信息：SES的SES-17(宽带通信卫星)，
 质量6.411吨；
 法国武器装备总署(DGA)的Syracuse 4A(宽带通信卫星)，
-质量3.852吨[16]
+质量3.852吨[17]
+载荷质量：10.263吨
 载具：阿丽亚娜5 ECA[4]
 轨道：252 x 35285 km，5.95° GTO(地球同步转移轨道)[3]
 结果：成功
@@ -114,9 +117,9 @@
 位置：种子岛航天中心LA-Y1
 飞行编号：F44
 发射提供方：三菱重工
-载荷运营方：日本宇宙航空机构(JAXA)[17]
+载荷运营方：日本宇宙航空机构(JAXA)[18]
 载荷信息：QZS-1R (导航定位卫星)，
-质量4.1吨[18]
+质量4.1吨[19]
 载具：H-IIA 202[4]
 轨道：235 x 36005 km，31.93° HEO(大椭圆轨道)[3]
 结果：成功
@@ -129,8 +132,9 @@
 发射提供方：航天科工火箭技术
 载荷研制方：长光卫星
 载荷信息：吉林一号高分02F(光学遥感卫星)，
-冠名航天星云·常熟一号
-载具：快舟一号甲遥五[19]
+冠名航天星云·常熟一号[20]
+载荷质量：0.2吨[21]
+载具：快舟一号甲遥五[20]
 轨道：533 x 547 km，97.54° SSO(太阳同步轨道)[3]
 结果：成功
 
@@ -140,10 +144,10 @@
 位置：拜科努尔31/6号工位
 发射与载荷：俄罗斯航天集团
 载荷信息：进步MS-18(货运飞船)共7吨，载货2.439吨
-载具：联盟-2.1a[20]
+载具：联盟-2.1a[22]
 轨道：203 x 252 km，51.67° LEO(近地轨道)[3]
 结果：成功
-备注：飞船于UTC时间10月30日01:31:19对接至国际空间站[20]
+备注：飞船于UTC时间10月30日01:31:19对接至国际空间站[22]
 
 关于轨道
 无额外标注的情况下，轨道一般指载荷所在的初始轨道，可以是预期轨道，或者实际轨道，具体类型根据来源判断。
@@ -184,22 +188,25 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [6] NASASpaceflight. Soyuz-ST update. https://forum.nasaspaceflight.com/index.php?topic=13239.msg2242368#msg2242368
 [7] 上海航天. 长征二号丁·上海世界技能大赛号运载火箭成功发射太阳探测科学技术试验卫星. https://mp.weixin.qq.com/s/5iUaAvm2_NeBi0zp_mnT6g
 [8] 南京大学. “羲和号”来了！我国首颗太阳探测科学技术试验卫星发射成功！. https://mp.weixin.qq.com/s/A-SPUdWbHmtFf9x6gIxhKQ
-[9] PhilLeafSpace. #神舟十三号#起飞时间. https://weibo.com/2645044133/KCZ2hDHJ5
-[10] Wikipedia. Shenzhou 13. https://en.wikipedia.org/wiki/Shenzhou_13
-[11] Wikipedia. Lucy (spacecraft). https://en.wikipedia.org/wiki/Lucy_(spacecraft)
-[12] ULA. Atlas V Lucy. https://www.ulalaunch.com/missions/archived-launched/atlas-v-lucy
-[13] 中国航天科技集团. 长三乙火箭发射实践二十一号卫星. https://mp.weixin.qq.com/s/yq8Y3qM-EKgTe3PiFv8Wpg
-[14] 航天科技一院. 长三乙火箭成功发射实践二十一号卫星. https://mp.weixin.qq.com/s/sdaG0Hyr4XMzKdNRY5HCtA
-[15] 上海航天. 实践二十一号卫星发射成功. https://mp.weixin.qq.com/s/06tTgcRB6m947TCwY9FvIA
-[16] Arianespace. Ariane Flight VA255. https://www.arianespace.com/mission/ariane-flight-va255/
-[17] Wikipedia. Quasi-Zenith Satellite System. https://en.wikipedia.org/wiki/Quasi-Zenith_Satellite_System
-[18] Wikipedia. QZS-1R. https://en.wikipedia.org/wiki/QZS-1R
-[19] 航天科工火箭技术有限公司. “快舟•新洲”号成功发射吉林一号高分02F（航天星云·常熟一号）卫星. https://mp.weixin.qq.com/s/Timmtp9MoJnGNAcfsHMf0g
-[20] Wikipedia. Progress MS-18. https://en.wikipedia.org/wiki/Progress_MS-18
+[9] Space Launch Report. Long March Data Sheet. https://www.spacelaunchreport.com/cz.html
+[10] PhilLeafSpace. #神舟十三号#起飞时间. https://weibo.com/2645044133/KCZ2hDHJ5
+[11] Wikipedia. Shenzhou 13. https://en.wikipedia.org/wiki/Shenzhou_13
+[12] Wikipedia. Lucy (spacecraft). https://en.wikipedia.org/wiki/Lucy_(spacecraft)
+[13] ULA. Atlas V Lucy. https://www.ulalaunch.com/missions/archived-launched/atlas-v-lucy
+[14] 中国航天科技集团. 长三乙火箭发射实践二十一号卫星. https://mp.weixin.qq.com/s/yq8Y3qM-EKgTe3PiFv8Wpg
+[15] 航天科技一院. 长三乙火箭成功发射实践二十一号卫星. https://mp.weixin.qq.com/s/sdaG0Hyr4XMzKdNRY5HCtA
+[16] 上海航天. 实践二十一号卫星发射成功. https://mp.weixin.qq.com/s/06tTgcRB6m947TCwY9FvIA
+[17] Arianespace. Ariane Flight VA255. https://www.arianespace.com/mission/ariane-flight-va255/
+[18] Wikipedia. Quasi-Zenith Satellite System. https://en.wikipedia.org/wiki/Quasi-Zenith_Satellite_System
+[19] Wikipedia. QZS-1R. https://en.wikipedia.org/wiki/QZS-1R
+[20] 航天科工火箭技术有限公司. “快舟•新洲”号成功发射吉林一号高分02F（航天星云·常熟一号）卫星. https://mp.weixin.qq.com/s/Timmtp9MoJnGNAcfsHMf0g
+[21] Space Launch Report. Kuaizhou Data Sheet. https://www.spacelaunchreport.com/kz.html
+[22] Wikipedia. Progress MS-18. https://en.wikipedia.org/wiki/Progress_MS-18
 
 视频素材来源(实际时间顺序)
 [1] Roscosmos. Roscosmos Oneweb #11 Mission. https://youtu.be/yRo3cpwv-kI
 [2] SciNews. Long March-2D launches Xihe and 10 small satellites. https://youtu.be/6ntqA5YNKkg
+[3] 大漠问天. 我国成功发射吉林一号高分02F卫星. https://mp.weixin.qq.com/s/JkYGoXNyJPpHr_87pQFMsA
 
 封面来源(实际时间顺序)
 [1] Роскосмос. Началась экспедиция «Вызова»!. https://www.roscosmos.ru/32825/

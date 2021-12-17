@@ -6,6 +6,7 @@
 发射提供方：SpaceX[1]
 主载荷信息：SpaceX的48颗星链卫星(宽带通信卫星)共约10.896吨[2][3]
 搭车载荷信息：黑天的黑天12，13(地球观测卫星)共约0.112吨[2]
+载荷质量：11.008吨
 载具：猎鹰9号Block 5(B1060.9)[2]
 轨道：425 x 440 km，53.22° LEO(近地轨道)[4]
 结果(发射与回收)：成功
@@ -32,12 +33,13 @@
 载荷信息：长光卫星公司的“天津大学一号”(红外观测卫星)，
 天仪研究院的“宝酝号”和“丽泽一号”(科学试验卫星)，
 中科星睿的“金紫荆五号”(遥感卫星)，
-零重空间的“金紫荆一号03”(遥感卫星)
+零重空间的“金紫荆一号03”(遥感卫星)[7]
+载荷质量：0.23吨[8]
 载具：谷神星一号遥二[7]
-轨道：483 x 499 km，97.39° SSO(太阳同步轨道)[8]
+轨道：483 x 499 km，97.39° SSO(太阳同步轨道)[9]
 结果：成功
 备注：我国民营火箭首次连续发射成功，
-遥二相比遥一增长1米，增重2吨[7][9]
+遥二相比遥一增长1米，增重2吨[7][10]
 
 编号：2021-118
 火箭制造方：美国
@@ -47,10 +49,11 @@
 飞行编号：AV-093
 发射提供方：ULA
 载荷运营方：美国太空军[1] 
-载荷信息：STPSat-6(技术验证卫星)，质量为2.572吨[10]；
+载荷信息：STPSat-6(技术验证卫星)，质量为2.572吨[11]；
 LDPE-1(技术验证卫星)
+载荷质量：2.7吨
 载具：宇宙神五551[1]
-轨道：36096 x 36112 km，0.07° GEO(地球同步轨道)[11]
+轨道：36096 x 36112 km，0.07° GEO(地球同步轨道)[12]
 结果：成功
 
 编号：2021-119
@@ -58,17 +61,17 @@ LDPE-1(技术验证卫星)
 时间：2021-12-08 07:38:15(UTC)
 位置：拜科努尔31/6号工位
 发射提供方：俄罗斯航天集团
-服务提供方：太空探险[12]
+服务提供方：太空探险[13]
 客户：前泽友作
-载荷信息：联盟MS-20(载人飞船)约7.05吨[13]
-载具：联盟-2.1a[12]
-轨道：194 x 220 km，51.64° LEO(近地轨道)[14]
+载荷信息：联盟MS-20(载人飞船)约7.05吨[14]
+载具：联盟-2.1a[13]
+轨道：194 x 220 km，51.64° LEO(近地轨道)[15]
 结果：成功
 备注：首次联盟飞船专用太空旅游任务，
 搭载的乘员为俄罗斯宇航员
 指令长亚历山大·米苏尔金，
 日本太空游客前泽友作，平野阳三；
-已于同日13点40分对接ISS探索号天顶对接口[12]
+已于同日13点40分对接ISS探索号天顶对接口[13]
 
 编号：2021-120
 火箭制造方：美国
@@ -79,8 +82,8 @@ LDPE-1(技术验证卫星)
 载荷运营方：黑天
 载荷信息：黑天14，15(地球观测卫星)
 质量共0.112吨
-载具：电子火箭[15]
-轨道：430 x 440 km，42.01° LEO(近地轨道)[16]
+载具：电子火箭[16]
+轨道：430 x 440 km，42.01° LEO(近地轨道)[17]
 结果：成功
 
 编号：2021-121
@@ -89,12 +92,12 @@ LDPE-1(技术验证卫星)
 位置：肯尼迪航天中心LC-39A
 发射提供方：SpaceX
 载荷运营方：NASA / ASI(意大利航天局)
-载荷信息：IXPE(X射线天文学)质量0.33吨[17]
-载具：猎鹰9号Block 5(B1061.5)[18]
-轨道：563 x 617 km，0.24° LEO(近地轨道)[19]
+载荷信息：IXPE(X射线天文学)质量0.33吨[18]
+载具：猎鹰9号Block 5(B1061.5)[19]
+轨道：563 x 617 km，0.24° LEO(近地轨道)[20]
 结果(发射与回收)：成功
-回收船：JRTI(Just Read the Instructions)[18]
-备注：有史以来猎鹰9号发射的最小质量载荷[20]
+回收船：JRTI(Just Read the Instructions)[19]
+备注：有史以来猎鹰9号发射的最小质量载荷[21]
 
 编号：2021-122
 火箭制造方：中国
@@ -102,11 +105,12 @@ LDPE-1(技术验证卫星)
 位置：酒泉卫星发射中心9401工位
 发射提供方：航天科技八院
 载荷研制方：航天科技八院 / 五院
-载荷信息：实践六号05组两颗(技术验证卫星)[1][21]
-载具：长征四号乙遥47[21]
-轨道：454 x 469 km，97.36° SSO(太阳同步轨道)[22]
+载荷信息：实践六号05组两颗(技术验证卫星)[1][22]
+载荷质量：2.8吨[23]
+载具：长征四号乙遥47[22]
+轨道：454 x 469 km，97.36° SSO(太阳同步轨道)[24]
 结果：成功
-备注：长征火箭第400发[21]
+备注：长征火箭第400发[22]
 
 编号：2021-123
 火箭制造方：俄罗斯
@@ -114,9 +118,9 @@ LDPE-1(技术验证卫星)
 位置：拜科努尔200/39号工位
 发射提供方：俄罗斯航天集团
 载荷运营方：俄罗斯卫星通信[1]
-载荷信息：Ekspress-AMU3，AMU7共4.13吨[23]
+载荷信息：Ekspress-AMU3，AMU7共4.13吨[25]
 载具：质子-M / 微风-M上面级[1]
-轨道：18692 x 52871 km，49.00° SSTO(超同步转移轨道)[24]
+轨道：18692 x 52871 km，49.00° SSTO(超同步转移轨道)[26]
 结果：成功
 
 编号：2021-124
@@ -124,10 +128,11 @@ LDPE-1(技术验证卫星)
 时间：2021-12-14 00:09(UTC+8)
 位置：西昌卫星发射中心3号工位[1]
 发射提供方：航天科技一院
-载荷研制方：航天科技五院[25]
+载荷研制方：航天科技五院[27]
 载荷信息：天链二号02星(宽带通信卫星)
+载荷质量：5.5吨[23]
 载具：长征三号乙遥82[1]
-轨道：184 x 35830 km，27.08° GTO(地球同步转移轨道)[26]
+轨道：184 x 35830 km，27.08° GTO(地球同步转移轨道)[28]
 结果：成功
 
 编号：2021-F09
@@ -180,32 +185,34 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [5] Arianespace. Soyuz Flight VS26 – Arianespace. https://www.arianespace.com/mission/soyuz-flight-vs26/
 [6] Space-Track.Org. NORAD ID 49809 epoch 2021-12-04T18:37:06.145248. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/49809/orderby/EPOCH%20asc/limit/1/format/json
 [7] 星河动力航天. 一箭五星，民营火箭首次连续发射成功，星河动力实现商业航天新突破. https://mp.weixin.qq.com/s/ix-aKO3K12znB_cxvBmHpA
-[8] Space-Track.Org. NORAD ID 49812 epoch 2021-12-07T05:37:04.685664. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/49812/orderby/EPOCH%20asc/limit/1/format/json
-[9] 星河动力航天. 星河动力“谷神星一号”商业运载火箭入轨首飞圆满成功. https://mp.weixin.qq.com/s/ec7rNH-mkgLWjFgyll_htA
-[10] NextSpaceflight. Atlas V 551 | STP-3. https://nextspaceflight.com/launches/details/390
-[11] Space-Track.Org. NORAD ID 49817 epoch 2021-12-08T17:44:56.738976. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/49817/orderby/EPOCH%20asc/limit/1/format/json
-[12] Wikipedia. Soyuz MS-20. https://en.wikipedia.org/wiki/Soyuz_MS-20
-[13] NextSpaceflight. Soyuz 2.1a | Soyuz MS-20 / Space Adventures. https://nextspaceflight.com/launches/details/2971
-[14] Space-Track.Org. NORAD ID 49922 epoch 2021-12-08T08:09:34.508736. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/49922/orderby/EPOCH%20asc/limit/1/format/json
-[15] NextSpaceflight. Electron/Curie | A Data With Destiny. https://nextspaceflight.com/launches/details/6848
-[16] Space-Track.Org. NORAD ID 49949 epoch 2021-12-09T02:36:04.921920. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/49949/orderby/EPOCH%20asc/limit/1/format/json
-[17] Wikipedia. IXPE. https://en.wikipedia.org/wiki/IXPE
-[18] NextSpacelfight. Falcon 9 Block 5 | IXPE. https://nextspaceflight.com/launches/details/2173
-[19] Space-Track.Org. NORAD ID 49954 epoch 2021-12-09T08:55:03.60739. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/49954/orderby/EPOCH%20asc/limit/1/format/json
-[20] Wikipedia. List of Falcon 9 and Falcon Heavy launches. https://en.wikipedia.org/wiki/List_of_Falcon_9_and_Falcon_Heavy_launches#2021
-[21] 上海航天. 长征火箭400发，长四乙成功发射实践六号05组卫星. https://mp.weixin.qq.com/s/USHlbmUgujDHDgNLMIlFkw
-[22] Space-Track.Org. NORAD ID 49961 epoch 2021-12-10T12:11:57.782688. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/49961/orderby/EPOCH%20asc/limit/1/format/json
-[23] NextSpaceflight. Proton-M/Briz-M | Ekspress-AMU3 & AMU7. https://nextspaceflight.com/launches/details/4104
-[24] Zarya. 2021 - Satellite & Spacecraft Launches and Detailed Orbits. https://www.zarya.info/Diaries/Launches/Launches.php?year=2021
-[25] 中国航天报. 有了它，“北京明白”！天链二号02星由长三乙发射成功. https://mp.weixin.qq.com/s/K9aK3Cfgyzh5CsrPFpjFiA
-[26] Space-Track.Org. NORAD ID 50005 epoch 2021-12-13T19:03:07.208352. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/50005/orderby/EPOCH%20asc/limit/1/format/json
+[8] 星河动力. 谷神星一号. http://www.galactic-energy.cn/index.php/List/cid/1
+[9] Space-Track.Org. NORAD ID 49812 epoch 2021-12-07T05:37:04.685664. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/49812/orderby/EPOCH%20asc/limit/1/format/json
+[10] 星河动力航天. 星河动力“谷神星一号”商业运载火箭入轨首飞圆满成功. https://mp.weixin.qq.com/s/ec7rNH-mkgLWjFgyll_htA
+[11] NextSpaceflight. Atlas V 551 | STP-3. https://nextspaceflight.com/launches/details/390
+[12] Space-Track.Org. NORAD ID 49817 epoch 2021-12-08T17:44:56.738976. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/49817/orderby/EPOCH%20asc/limit/1/format/json
+[13] Wikipedia. Soyuz MS-20. https://en.wikipedia.org/wiki/Soyuz_MS-20
+[14] NextSpaceflight. Soyuz 2.1a | Soyuz MS-20 / Space Adventures. https://nextspaceflight.com/launches/details/2971
+[15] Space-Track.Org. NORAD ID 49922 epoch 2021-12-08T08:09:34.508736. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/49922/orderby/EPOCH%20asc/limit/1/format/json
+[16] NextSpaceflight. Electron/Curie | A Data With Destiny. https://nextspaceflight.com/launches/details/6848
+[17] Space-Track.Org. NORAD ID 49949 epoch 2021-12-09T02:36:04.921920. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/49949/orderby/EPOCH%20asc/limit/1/format/json
+[18] Wikipedia. IXPE. https://en.wikipedia.org/wiki/IXPE
+[19] NextSpacelfight. Falcon 9 Block 5 | IXPE. https://nextspaceflight.com/launches/details/2173
+[20] Space-Track.Org. NORAD ID 49954 epoch 2021-12-09T08:55:03.60739. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/49954/orderby/EPOCH%20asc/limit/1/format/json
+[21] Wikipedia. List of Falcon 9 and Falcon Heavy launches. https://en.wikipedia.org/wiki/List_of_Falcon_9_and_Falcon_Heavy_launches#2021
+[22] 上海航天. 长征火箭400发，长四乙成功发射实践六号05组卫星. https://mp.weixin.qq.com/s/USHlbmUgujDHDgNLMIlFkw
+[23] Space Launch Report. Long March Data Sheet. https://www.spacelaunchreport.com/cz.html
+[24] Space-Track.Org. NORAD ID 49961 epoch 2021-12-10T12:11:57.782688. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/49961/orderby/EPOCH%20asc/limit/1/format/json
+[25] NextSpaceflight. Proton-M/Briz-M | Ekspress-AMU3 & AMU7. https://nextspaceflight.com/launches/details/4104
+[26] Zarya. 2021 - Satellite & Spacecraft Launches and Detailed Orbits. https://www.zarya.info/Diaries/Launches/Launches.php?year=2021
+[27] 中国航天报. 有了它，“北京明白”！天链二号02星由长三乙发射成功. https://mp.weixin.qq.com/s/K9aK3Cfgyzh5CsrPFpjFiA
+[28] Space-Track.Org. NORAD ID 50005 epoch 2021-12-13T19:03:07.208352. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/50005/orderby/EPOCH%20asc/limit/1/format/json
 
 视频素材来源
 [1] SpaceX. Starlink Mission. https://youtu.be/594TbXriaAk
 [2] arianespace. Arianespace Flight VS26 – GALILEO FOC-M9 – Sat 27-28. https://youtu.be/eKCp5gOSo84
 [3] 大漠问天. 谷神星一号遥二运载火箭成功发射. https://mp.weixin.qq.com/s/wj50uZRrSF4KVhd46lmufQ
 [4] United Launch Alliance. Atlas V STP-3 Launch Highlights. https://youtu.be/HLll-YNY_d8
-[5] Роскосмос ТВ. Техническая трансляция запуска пилотируемого корабля ?Союз МС-20?. https://youtu.be/3WNDLIOcsls
+[5] Роскосмос ТВ. Техническая трансляция запуска пилотируемого корабля «Союз МС-20». https://youtu.be/3WNDLIOcsls
 [6] Rocket Lab. 'A Data With Destiny' Launch. https://youtu.be/PmCl2Hs8enc
 [7] SpaceX. Imaging X-ray Polarimetry Explorer (IXPE) Mission. https://youtu.be/CpmHsN5GUn8
 

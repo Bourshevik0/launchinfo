@@ -1,4 +1,4 @@
-﻿编号：2021-060
+编号：2021-060
 火箭制造方：俄罗斯
 时间：2021-07-01 12:48(UTC)
 位置：东方航天发射场1S工位
@@ -23,6 +23,7 @@
 国星宇航的星时代-10星(光学遥感卫星)，
 冠名广东恒健号；
 搭车载荷共约0.13吨[6][7][8][9]
+载荷质量：1.38吨
 载具：长征二号丁遥74[5]
 轨道：531 x 544 km，97.53° SSO(太阳同步轨道)[4]
 结果：成功
@@ -57,24 +58,26 @@
 发射提供方：航天科技
 载荷信息：宁夏金硅信息技术的
 钟子号02组卫星5颗(遥感探测卫星)[15][16]
+载荷质量：1.08吨[17]
 载具：长征六号遥六[14]
-轨道：867 x 862 km，45.00° LEO(近地轨道)[17]
+轨道：867 x 862 km，45.00° LEO(近地轨道)[18]
 结果：成功
 
 编号：2021-065
 火箭制造方：中国
-时间：2021-07-19 08:19:04.574(UTC+8)[18]
+时间：2021-07-19 08:19:04.574(UTC+8)[19]
 位置：西昌卫星发射中心3号工位[1]
-任务代号：07-129[18]
+任务代号：07-129[19]
 发射提供方：航天科技
 主载荷信息：中科院微小卫星创新研究院研制的
 遥感三十号10组3颗(电磁环境探测卫星)
-搭车载荷信息：国电高科的天启星座15号(窄带通信卫星)[19]
-载具：长征二号丙遥49[20]
+搭车载荷信息：国电高科的天启星座15号(窄带通信卫星)[20]
+载荷质量：2.8吨[21]
+载具：长征二号丙遥49[22]
 轨道：592 x 602 km，34.99° LEO(近地轨道)[4]
 结果：成功
 备注：国内运载火箭首次采用高空开伞方案
-验证整流罩落区控制技术[21]
+验证整流罩落区控制技术[23]
 
 编号：2021-066
 火箭制造方：俄罗斯
@@ -83,19 +86,20 @@
 发射提供方：俄罗斯航天集团
 载荷运营方：俄罗斯航天集团[1]
 载荷信息：科学号(Nauka，空间站)共23.2吨
-载具：质子-M[22]
+载具：质子-M[24]
 轨道：189 x 346 km，51.62° LEO(近地轨道)[4]
 结果：成功
-备注：已于UTC时间7月29日13点29分与ISS对接[22]
+备注：已于UTC时间7月29日13点29分与ISS对接[24]
 
 编号：2021-067
 火箭制造方：中国
-时间：2021-07-29 12:01(UTC+8)[23]
-位置：酒泉卫星发射中心9401工位[24]
+时间：2021-07-29 12:01(UTC+8)[25]
+位置：酒泉卫星发射中心9401工位[26]
 发射提供方：航天科技
 载荷研制方：东方红卫星
-载荷信息：天绘一号04星(地球观测卫星)[25]
-载具：长征二号丁遥62[23]
+载荷信息：天绘一号04星(地球观测卫星)[27]
+载荷质量：2吨[21]
+载具：长征二号丁遥62[25]
 轨道：488 x 503 km，97.48° SSO(太阳同步轨道)[4]
 结果：成功
 
@@ -106,11 +110,12 @@
 任务名：It's A Little Chile Up Here(那是一根飞天小辣椒)
 发射提供方：火箭实验室
 载荷信息：美国太空军的STP-27RM(太空天气技术验证卫星)，
-名为独石柱(Monolith)
-载具：电子火箭[1][26]
+名为独石柱(Monolith)[28]
+载荷质量：0.3吨[29]
+载具：电子火箭[1]
 轨道：597 x 611 km，37.02° LEO(近地轨道)[4]
 结果：成功
-备注：2021年5月15日，电子火箭F-20发射失败之后的首次成功发射[27]
+备注：2021年5月15日，电子火箭F-20发射失败之后的首次成功发射[30]
 
 编号：2021-069
 火箭制造方：欧洲
@@ -121,7 +126,8 @@
 载荷信息：Embratel的Star One D2(宽带通信卫星)，
 质量6.19吨；
 欧洲通信卫星(Eutelsat)的欧星量子号(EUTELSAT QUANTUM)
-(宽带通信卫星)，质量3.461吨[28]
+(宽带通信卫星)，质量3.461吨[31]
+载荷质量：9.651吨
 载具：阿丽亚娜5 ECA[1]
 轨道(末级)：229 x 35557 km，2.62° GTO(地球同步转移轨道)[4]
 结果：成功
@@ -157,18 +163,21 @@
 [14] 上海航天. 稳！七天四发，长六又成功！. https://mp.weixin.qq.com/s/sRo_R9fdse5ctRpNOUHMQg
 [15] 航天爱好者网. 宁夏一号02组卫星/钟子号02组卫星. http://www.spaceflightfans.cn/event/long-march-6-satellite-launch-ningxia-group-2-satellite
 [16] Wikipedia. 宁夏一号. https://zh.wikipedia.org/wiki/%E5%AE%81%E5%A4%8F%E4%B8%80%E5%8F%B7
-[17] T.S. Kelso. Zhongzi-02 satellite group. https://twitter.com/TSKelso/status/1413633920021803011
-[18] Asumoyz苏沫玖. #787：消息更新. https://t.bilibili.com/549003524599766124
-[19] 中国航天报. “金牌老将”长二丙发射遥感三十号卫星圆满收官. https://mp.weixin.qq.com/s/mS3_lJ8hz9gZkYuzomNDtg
-[20] 中国运载火箭技术研究院. 长二丙火箭发射遥感三十号卫星阶段性圆满收官. https://mp.weixin.qq.com/s/uxexzAgyFs8rgMFFnkbRmw
-[21] 中国运载火箭技术研究院. 四年十战全胜！长二丙火箭发射遥感三十号卫星阶段性圆满收官. https://mp.weixin.qq.com/s/uxexzAgyFs8rgMFFnkbRmw
-[22] Wikipedia. Nauka (ISS module). https://en.wikipedia.org/wiki/Nauka_(ISS_module)
-[23] 上海航天. 长二丁发射取得圆满成功，祝八院生日快乐. https://mp.weixin.qq.com/s/9BVOWzP6onBrilx4v-AYOg
-[24] 航空航天港. 天绘一号04星. https://9ifly.spacety.com/thread-95080-1-1.html
-[25] 上海航天. 胜利拿下7月第6发！长二丁成功发射天绘一号04星. https://mp.weixin.qq.com/s/9nlqXnM3lGNoita8WwAyTg
-[26] NextSpaceflight. Electron/Curie | It's a Little Chile Up Here. https://nextspaceflight.com/launches/details/2607
-[27] Wikipedia. List of Electron launches. https://en.wikipedia.org/wiki/List_of_Electron_launches#2021
-[28] Arianespace. Ariane Flight VA254. https://www.arianespace.com/mission/ariane-flight-va254/
+[17] Space Launch Report. CZ-5 Data Sheet. https://www.spacelaunchreport.com/cz5.html
+[18] T.S. Kelso. Zhongzi-02 satellite group. https://twitter.com/TSKelso/status/1413633920021803011
+[19] Asumoyz苏沫玖. #787：消息更新. https://t.bilibili.com/549003524599766124
+[20] 中国航天报. “金牌老将”长二丙发射遥感三十号卫星圆满收官. https://mp.weixin.qq.com/s/mS3_lJ8hz9gZkYuzomNDtg
+[21] Space Launch Report. Long March Data Sheet. https://www.spacelaunchreport.com/cz.html
+[22] 中国运载火箭技术研究院. 长二丙火箭发射遥感三十号卫星阶段性圆满收官. https://mp.weixin.qq.com/s/uxexzAgyFs8rgMFFnkbRmw
+[23] 中国运载火箭技术研究院. 四年十战全胜！长二丙火箭发射遥感三十号卫星阶段性圆满收官. https://mp.weixin.qq.com/s/uxexzAgyFs8rgMFFnkbRmw
+[24] Wikipedia. Nauka (ISS module). https://en.wikipedia.org/wiki/Nauka_(ISS_module)
+[25] 上海航天. 长二丁发射取得圆满成功，祝八院生日快乐. https://mp.weixin.qq.com/s/9BVOWzP6onBrilx4v-AYOg
+[26] 航空航天港. 天绘一号04星. https://9ifly.spacety.com/thread-95080-1-1.html
+[27] 上海航天. 胜利拿下7月第6发！长二丁成功发射天绘一号04星. https://mp.weixin.qq.com/s/9nlqXnM3lGNoita8WwAyTg
+[28] NextSpaceflight. Electron/Curie | It's a Little Chile Up Here. https://nextspaceflight.com/launches/details/2607
+[29] Wikipedia. Rocket Lab Electron. https://en.wikipedia.org/wiki/Rocket_Lab_Electron
+[30] Wikipedia. List of Electron launches. https://en.wikipedia.org/wiki/List_of_Electron_launches#2021
+[31] Arianespace. Ariane Flight VA254. https://www.arianespace.com/mission/ariane-flight-va254/
 
 视频素材来源
 [1] Роскосмос ТВ. Пуск ракеты-носителя «Союз-2.1б» со спутниками OneWeb с космодрома Восточный. https://youtu.be/RO3d04IWl5c
