@@ -3,10 +3,9 @@
 时间：2021-05-04 19:01(UTC)
 位置：卡角太空军基地SLC-40
 任务名：Starlink v1.0 L25
-发射提供方：SpaceX
-载荷运营方：SpaceX
-载荷信息：60颗星链卫星(第27批)(宽带通信卫星)共15.6吨
-载具：猎鹰9号Block 5(B1049.9)[1]
+发射与载荷：SpaceX
+载荷信息：60颗星链卫星(第27批)(宽带通信卫星)共15.6吨[1]
+载具：猎鹰9号Block 5(B1049.9)
 轨道：260 x 281 km，53.05° LEO(近地轨道)[2]
 结果：成功
 回收船：OCISLY(Of Course I Still Love You)[1]
@@ -18,10 +17,11 @@
 发射提供方：航天科技
 主载荷信息：遥感三十号08组三颗卫星(电磁环境探测)
 搭车载荷信息：国电高科的天启星座12星(窄带通信卫星)[5]
-载具：长征二号丙遥47
-轨道：592 x 602 km，35.00° LEO(近地轨道)[16]
+载荷质量：2.8吨[6]
+载具：长征二号丙遥47[7]
+轨道：592 x 602 km，35.00° LEO(近地轨道)[8]
 结果：成功
-备注：今年还有7次长征二号丙任务[6]
+备注：今年还有7次长征二号丙任务[7]
 
 编号：2021-040
 火箭制造方：美国
@@ -31,11 +31,11 @@
 发射提供方：SpaceX
 载荷运营方：SpaceX
 载荷信息：60颗星链卫星(第28批)(宽带通信卫星)共15.6吨
-载具：猎鹰9号Block 5(B1051.10)[7]
-轨道：260 x 280 km，53.05° LEO(近地轨道)[8]
+载具：猎鹰9号Block 5(B1051.10)[9]
+轨道：260 x 280 km，53.05° LEO(近地轨道)[10] 
 结果：成功
-回收船：JRTI(Just Read the Instructions)[7]
-备注：首枚十手火箭回收成功
+回收船：JRTI(Just Read the Instructions) 
+备注：首枚十手火箭回收成功[9]
 
 编号：2021-F02
 火箭制造方：美国
@@ -45,11 +45,11 @@
 发射提供方：火箭实验室
 载荷信息：黑天(BlackSky)的两颗黑天卫星(地球观测卫星)，
 质量共约0.12吨
-载具：电子火箭[9]
+载具：电子火箭[11]
 轨道：高度约430km，倾角约50°的LEO(近地轨道)
 结果：失败
 备注：二级点火时出现异常，
-一级成功进行海上溅落回收[10]
+一级成功进行海上溅落回收[12]
 
 编号：2021-041
 火箭制造方：美国
@@ -57,32 +57,35 @@
 位置：肯尼迪航天中心LC-39A
 任务名：Starlink v1.0 L26
 发射提供方：SpaceX
-主载荷信息：SpaceX的52颗星链卫星(第29批)(宽带通信卫星)共13.52吨[11]
+主载荷信息：SpaceX的52颗星链卫星(第29批)(宽带通信卫星)共13.52吨[13]
 搭车载荷信息：五车二空间(Capella Space)的
 五车二6卫星(合成孔径雷达遥感卫星)，
-质量0.112吨[12]；
+质量0.112吨[14]；
 Tyvak的Tyvak 0130(地球观测卫星)，
-质量0.011吨[13]
-载具：猎鹰9号Block 5(B1058.8)[11]
-轨道：567 x 584 km，53.04° LEO(近地轨道)[14]
+质量0.011吨[15]
+载荷质量：13.643吨
+载具：猎鹰9号Block 5(B1058.8)[13]
+轨道：567 x 584 km，53.04° LEO(近地轨道)[16]
 结果：成功
-回收船：OCISLY(Of Course I Still Love You)[11]
+回收船：OCISLY(Of Course I Still Love You)[13]
 
 编号：2021-042
 火箭制造方：美国
 时间：2021-05-18 17:37(UTC)
 位置：卡角太空军基地SLC-41
 飞行编号：AV-091
-发射提供方：ULA[10]
+发射提供方：ULA[12]
 主载荷信息：美国太空军的SBIRS-GEO 5(红外预警卫星)，
-质量约4.5吨[15]，
-898 x 35746 km，21.22° HPGTO(高近地点同步转移轨道)[16][17]
+质量约4.5吨[17]，
+898 x 35746 km，21.22° HPGTO(高近地点同步转移轨道)[8][18] 
 搭车载荷信息：美国空军学院的技术验证轨道器
-(Technology Demonstration Orbiter)3和4两颗[10]，
-182 x 4516 km，26.15° HEO(大椭圆轨道)[16]
-载具：宇宙神五421[10]
+(Technology Demonstration Orbiter)3和4两颗[12]，
+182 x 4519 km，26.16° HEO(大椭圆轨道)[8]
+载荷质量：4.5吨；0.2吨
+轨道：898 x 35746 km，21.22°；182 x 4519 km，26.16°
+载具：宇宙神五421[12]
 结果：成功
-备注：首次使用含有3D打印喷注器组件，性能更高的RL10C-1-1
+备注：首次使用含有3D打印喷注器组件，性能更高的RL10C-1-1[19]
 
 编号：2021-043
 火箭制造方：中国
@@ -91,8 +94,8 @@ Tyvak的Tyvak 0130(地球观测卫星)，
 发射提供方：航天科技
 载荷信息：自然资源部的海洋二号04星(海洋监测卫星)，
 质量约1.5吨
-载具：长征四号乙遥48[19][20]
-轨道：928 x 951 km，65.90° LEO(近地轨道)[16]
+载具：长征四号乙遥48[20][21]
+轨道：928 x 951 km，65.90° LEO(近地轨道)[8]
 结果：成功
 
 编号：2021-044
@@ -103,12 +106,12 @@ Tyvak的Tyvak 0130(地球观测卫星)，
 发射提供方：SpaceX
 载荷运营方：SpaceX
 载荷信息：60颗星链卫星(第30批)(宽带通信卫星)共15.6吨
-载具：猎鹰9号Block 5(B1063.2)[21]
-轨道：258 x 280 km，53.05° LEO(近地轨道)[22]
+载具：猎鹰9号Block 5(B1063.2)[22]
+轨道：258 x 280 km，53.05° LEO(近地轨道)[23]
 结果：成功
-回收船：JRTI(Just Read the Instructions)[21]
-备注：首次使用五手的一半整流罩[23]，
-自2015年12月以来，猎鹰9号运载火箭连续第100次发射成功[24]
+回收船：JRTI(Just Read the Instructions)[22]
+备注：首次使用五手的一半整流罩[24]，
+自2015年12月以来，猎鹰9号运载火箭连续第100次发射成功[25]
 
 编号：2021-045
 火箭制造方：俄罗斯
@@ -117,9 +120,9 @@ Tyvak的Tyvak 0130(地球观测卫星)，
 飞行编号：ST32
 发射提供方：阿丽亚娜空间 / Starsem
 载荷运营方：OneWeb
-载荷信息：第七批36颗OneWeb卫星(宽带通信卫星)共5.809吨[25]
-载具：联盟-2.1b / 军舰鸟-M[25][26]
-轨道：441 x 446 km，87.40° LEO(近地轨道)[16]
+载荷信息：第七批36颗OneWeb卫星(宽带通信卫星)共5.809吨
+载具：联盟-2.1b / 军舰鸟-M[26][27]
+轨道：441 x 446 km，87.40° LEO(近地轨道)[8]
 结果：成功
 
 编号：2021-046
@@ -131,147 +134,106 @@ Tyvak的Tyvak 0130(地球观测卫星)，
 载荷运营方：国家航天局
 载荷信息：天舟二号货运飞船
 载货4.9吨，推进剂1.99吨
-载具：长征七号遥三[26]
-轨道：197 x 322 km，41.47° LEO(近地轨道)[16]
+载具：长征七号遥三[28]
+轨道：197 x 322 km，41.47° LEO(近地轨道)[8]
 结果：成功
-备注：与核心舱对接采用了8小时快速对接模式[27]
+备注：与核心舱对接采用了8小时快速对接模式[28]
+
+关于轨道
+无额外标注的情况下，轨道一般指载荷所在的初始轨道，可以是预期轨道，或者实际轨道，具体类型根据来源判断。
+
+两组不同的概念
+初始轨道(initial orbit)：载荷与末级火箭分离后所在的轨道，一般不是运营轨道。如果不是发射相关方提供的数据(supTLE)，则以第三方(USSSN)发布的首个TLE数据为准，在后者的情况下会存在误差。
+运营轨道(operational orbit)：载荷长时间运行，执行任务所在的轨道，一般比初始轨道更高，末级难以或不必送入的轨道。
+
+预期轨道(desired orbit)：发射前预期载荷将进入的轨道，可以是初始轨道或者运营轨道。
+实际轨道(actual orbit)：发射后相关方提供的(supTLE)或第三方(USSSN)追踪到的轨道。
+
+若使用USSSN(Space-Track.Org)来源的轨道信息，会标注该数据使用的NORAD ID和epoch，以备查询与核实。需注册后才可查询。
 
 猎鹰9号芯一级代号说明
-B1xxx.x
+B1xxx.xx
 B代表Block，本意为第几代的代，此处无含义
-小数点前的xxx为芯级编号，小数点后的x为使用次数，如第二次发射时，此处为2
+小数点前的xxx为芯级编号，小数点后的xx为使用次数，如第二次发射时，此处为2
 
-来源格式说明(不特别标明，均为实际发射时间顺序而非视频时间顺序)
-[时间顺序] 作者/来源.标题
+龙飞船代号说明
+C2xx.xx
+C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
+小数点前的xxx为飞船编号，小数点后的xx为使用次数，如第二次使用时，此处为2
+
+来源格式说明
+[(文案)引用顺序] 作者/来源.标题
 链接
-(备注)
 
 编号格式说明
-年份-当年成功发射次序(时间顺序)
-使用Zarya.info网站提供的编号，在剪辑不按照时间顺序进行时起标识实际时间顺序的作用
+年份-当年成功发射次序(实际时间顺序)
+使用COSPAR ID中去掉字母的部分，在剪辑不按照实际时间顺序进行时起标识的作用
 
 数据来源
-[1] NextSpaceflight. Falcon 9 Block 5 | Starlink V1 L25
-https://nextspaceflight.com/launches/details/2680
-[2] T.S. Kelso. #Starlink V1.0-25 supTLEs
-https://twitter.com/TSKelso/status/1390027182173429771
-[3] SciNews. Long March-2C launches Yaogan-30-08 and Tianqi-12
-https://youtu.be/Kbu4o_dzvsU?t=54
-[4] 航空航天港. 遥感三十号08组卫星
-https://9ifly.spacety.com/thread-94826-1-1.html
-[5] 中国航天报. 长二丙发射成功，验证整流罩残骸落区控制技术 
-https://mp.weixin.qq.com/s/zBSqWq9l6Xx-t8VXBZjPfg
-[6] 航天科技一院. 成功！老将长二丙2021首战！还有7发！ 
-https://mp.weixin.qq.com/s/Ftr52RWO0izA9GNqvfNaEg
-[7] NextSpaceflight. Falcon 9 Block 5 | Starlink V1 L27
-https://nextspaceflight.com/launches/details/5331
-[8] T.S. Kelso. #Starlink V1.0-27 supTLEs
-https://twitter.com/TSKelso/status/1391482231714050048
-[9] Rocket Lab. Running Out Of Toes
-https://www.rocketlabusa.com/missions/completed-missions/running-out-of-toes/
-[10] Wikipedia. List of spaceflight launches in January–June 2021
-https://en.wikipedia.org/wiki/List_of_spaceflight_launches_in_January%E2%80%93June_2021#May
-[11] NextSpaceflight. Falcon 9 Block 5 | Starlink V1 L26 & Rideshares
-https://nextspaceflight.com/launches/details/2681
-[12] Gunter's Space Page. Capella 2, ..., 7 (Sequoia, Whitney)
-https://space.skyrocket.de/doc_sdat/capella-2.htm
-[13] Gunter's Space Page. Tyvak 0130 - Gunter's Space Page
-https://space.skyrocket.de/doc_sdat/tyvak-0130.htm
-[14] T.S. Kelso. #Starlink V1.0-26 supTLEs
-https://twitter.com/TSKelso/status/1394022537391005697
-[15] Gunter's Space Page. SBIRS-GEO 5, 6
-https://space.skyrocket.de/doc_sdat/sbirs-geo-5.htm
-[16] Zarya. 2021 - Satellite & Spacecraft Launches and Detailed Orbits
-https://www.zarya.info/Diaries/Launches/Launches.php?year=2021
-[17] Tory Bruno. orbital mechanics
-https://twitter.com/torybruno/status/1288563313828343808
-[18] NASASpaceflight. the first flight of the RL10C-1-1 version
-https://forum.nasaspaceflight.com/index.php?topic=47477.msg2240076#msg2240076
-[19] 上海航天. 七战七捷！长四乙火箭发射圆满成功
-https://mp.weixin.qq.com/s/4S6ZdFA_thFpMcyy4kub8Q
-[20] 航天爱好者网. 海洋二号04(D)星
-http://www.spaceflightfans.cn/event/long-march-4b-launch-haiyang-2d-satellite
-[21] NextSpaceflight. Falcon 9 Block 5 | Starlink V1 L28
-https://nextspaceflight.com/launches/details/5332
-[22] T.S. Kelso. #Starlink V1.0-28 supTLEs
-https://twitter.com/TSKelso/status/1397942109169086465
-[23] SpaceX. the first time we fly a fairing half on its fifth mission 
-https://twitter.com/spacex/status/1397626470776795138
-[24] Wikipedia. List of Falcon 9 and Falcon Heavy launches
-https://en.wikipedia.org/wiki/List_of_Falcon_9_and_Falcon_Heavy_launches#2021
-[25] arianespace. Soyuz Flight ST32
-https://www.arianespace.com/mission/soyuz-flight-st32/
-[26] NASASpaceflight. Soyuz-ST update
-https://forum.nasaspaceflight.com/index.php?topic=13239.msg2242368#msg2242368
-[27] 航天爱好者网. 天舟二号货运飞船
-http://www.spaceflightfans.cn/event/cz-7-tianzhou-2
+[1] NextSpaceflight. Falcon 9 Block 5 | Starlink V1 L25. https://nextspaceflight.com/launches/details/2680
+[2] T.S. Kelso. #Starlink V1.0-25 supTLEs. https://twitter.com/TSKelso/status/1390027182173429771
+[3] SciNews. Long March-2C launches Yaogan-30-08 and Tianqi-12. https://youtu.be/Kbu4o_dzvsU?t=54
+[4] 航空航天港. 遥感三十号08组卫星. https://9ifly.spacety.com/thread-94826-1-1.html
+[5] 中国航天报. 长二丙发射成功，验证整流罩残骸落区控制技术 . https://mp.weixin.qq.com/s/zBSqWq9l6Xx-t8VXBZjPfg
+[6] Space Launch Report. Long March Data Sheet. https://www.spacelaunchreport.com/cz.html
+[7] 航天科技一院. 成功！老将长二丙2021首战！还有7发！. https://mp.weixin.qq.com/s/Ftr52RWO0izA9GNqvfNaEg
+[8] Zarya. 2021 - Satellite & Spacecraft Launches and Detailed Orbits. https://www.zarya.info/Diaries/Launches/Launches.php?year=2021
+[9] NextSpaceflight. Falcon 9 Block 5 | Starlink V1 L27. https://nextspaceflight.com/launches/details/5331
+[10] T.S. Kelso. #Starlink V1.0-27 supTLEs. https://twitter.com/TSKelso/status/1391482231714050048
+[11] Rocket Lab. Running Out Of Toes. https://www.rocketlabusa.com/missions/completed-missions/running-out-of-toes/
+[12] Wikipedia. List of spaceflight launches in January–June 2021. https://en.wikipedia.org/wiki/List_of_spaceflight_launches_in_January%E2%80%93June_2021#May
+[13] NextSpaceflight. Falcon 9 Block 5 | Starlink V1 L26 & Rideshares. https://nextspaceflight.com/launches/details/2681
+[14] Gunter's Space Page. Capella 2, ..., 7 (Sequoia, Whitney). https://space.skyrocket.de/doc_sdat/capella-2.htm
+[15] Gunter's Space Page. Tyvak 0130 - Gunter's Space Page. https://space.skyrocket.de/doc_sdat/tyvak-0130.htm
+[16] T.S. Kelso. #Starlink V1.0-26 supTLEs. https://twitter.com/TSKelso/status/1394022537391005697
+[17] Gunter's Space Page. SBIRS-GEO 5, 6. https://space.skyrocket.de/doc_sdat/sbirs-geo-5.htm
+[18] Tory Bruno. orbital mechanics. https://twitter.com/torybruno/status/1288563313828343808
+[19] NASASpaceflight. the first flight of the RL10C-1-1 version. https://forum.nasaspaceflight.com/index.php?topic=47477.msg2240076#msg2240076
+[20] 上海航天. 七战七捷！长四乙火箭发射圆满成功. https://mp.weixin.qq.com/s/4S6ZdFA_thFpMcyy4kub8Q
+[21] 航天爱好者网. 海洋二号04(D)星. http://www.spaceflightfans.cn/event/long-march-4b-launch-haiyang-2d-satellite
+[22] NextSpaceflight. Falcon 9 Block 5 | Starlink V1 L28. https://nextspaceflight.com/launches/details/5332
+[23] T.S. Kelso. #Starlink V1.0-28 supTLEs. https://twitter.com/TSKelso/status/1397942109169086465
+[24] SpaceX. the first time we fly a fairing half on its fifth mission . https://twitter.com/spacex/status/1397626470776795138
+[25] Wikipedia. List of Falcon 9 and Falcon Heavy launches. https://en.wikipedia.org/wiki/List_of_Falcon_9_and_Falcon_Heavy_launches#2021
+[26] arianespace. Soyuz Flight ST32. https://www.arianespace.com/mission/soyuz-flight-st32/
+[27] NASASpaceflight. Soyuz-ST update. https://forum.nasaspaceflight.com/index.php?topic=13239.msg2242368#msg2242368
+[28] 航天爱好者网. 天舟二号货运飞船. http://www.spaceflightfans.cn/event/cz-7-tianzhou-2
 
 徽章来源
-[1] SpaceX. Starlink
-https://www.elonx.net/spacex-mission-patches/#jp-carousel-3624
-[2] Astra Design Werx. SBIRS-GEO 5
-https://www.reddit.com/r/ula/comments/njt6dn/sbirsgeo_5_patch/
-[3] 上海航天. 七战七捷！长四乙火箭发射圆满成功 
-https://mp.weixin.qq.com/s/4S6ZdFA_thFpMcyy4kub8Q
-[4] OneWeb. 7th OneWeb Launch
-https://twitter.com/OneWeb/status/1395789759570644992
-[5] 载人航天办公室. 天舟二号货运飞船
-http://www.spaceflightfans.cn/event/cz-7-tianzhou-2
+[1] SpaceX. Starlink. https://www.elonx.net/spacex-mission-patches/#jp-carousel-3624
+[2] Astra Design Werx. SBIRS-GEO 5. https://www.reddit.com/r/ula/comments/njt6dn/sbirsgeo_5_patch/
+[3] 上海航天. 七战七捷！长四乙火箭发射圆满成功 . https://mp.weixin.qq.com/s/4S6ZdFA_thFpMcyy4kub8Q
+[4] OneWeb. 7th OneWeb Launch. https://twitter.com/OneWeb/status/1395789759570644992
+[5] 载人航天办公室. 天舟二号货运飞船. http://www.spaceflightfans.cn/event/cz-7-tianzhou-2
 
 视频素材来源
-[1] SpaceX. Starlink Mission
-https://youtu.be/xpl_JnG7rcg
-[2] SciNews. Long March-2C launches Yaogan-30-08 and Tianqi-12
-https://youtu.be/Kbu4o_dzvsU
-[3] SpaceX. Starlink Mission
-https://youtu.be/J71s2KmkSrc
-[4] Rocket Lab. Running Out Of Toes Launch
-https://youtu.be/Zw3sIUyfSfc
-[5] SpaceX. Starlink Mission
-https://youtu.be/tdgg_qwj-hI
-[6] United Launch Alliance. Atlas V SBIRS GEO Flight 5 Launch Highlights
-https://youtu.be/vPkz52BHdTo
-[7] United Launch Alliance. May 18 Live Broadcast - Atlas V SBIRS GEO Flight 5
-https://youtu.be/TlRn5R4BcSI
-[8] United Launch Alliance. Atlas V SBIRS GEO Flight 5 Rocket Cam
-https://youtu.be/xmkjlLWDpq4
-[9] SciNews. Long March-4B launches HaiYang-2D
-https://youtu.be/ZxX7fJwJHxw
-[10] SpaceX. Starlink Mission
-https://youtu.be/xRu-ekesDyY
-[11] Роскосмос ТВ. Пуск ракеты-носителя «Союз-2.1б» со спутниками OneWeb с космодрома Восточный
-https://youtu.be/ZZvv51p-9Kc
-[12] 卡尔达瓦里希. 天舟二号货运飞船发射任务取得圆满成功
-https://b23.tv/av248349588
+[1] SpaceX. Starlink Mission. https://youtu.be/xpl_JnG7rcg
+[2] SciNews. Long March-2C launches Yaogan-30-08 and Tianqi-12. https://youtu.be/Kbu4o_dzvsU
+[3] SpaceX. Starlink Mission. https://youtu.be/J71s2KmkSrc
+[4] Rocket Lab. Running Out Of Toes Launch. https://youtu.be/Zw3sIUyfSfc
+[5] SpaceX. Starlink Mission. https://youtu.be/tdgg_qwj-hI
+[6] United Launch Alliance. Atlas V SBIRS GEO Flight 5 Launch Highlights. https://youtu.be/vPkz52BHdTo
+[7] United Launch Alliance. May 18 Live Broadcast - Atlas V SBIRS GEO Flight 5. https://youtu.be/TlRn5R4BcSI
+[8] United Launch Alliance. Atlas V SBIRS GEO Flight 5 Rocket Cam. https://youtu.be/xmkjlLWDpq4
+[9] SciNews. Long March-4B launches HaiYang-2D. https://youtu.be/ZxX7fJwJHxw
+[10] SpaceX. Starlink Mission. https://youtu.be/xRu-ekesDyY
+[11] Роскосмос ТВ. Пуск ракеты-носителя «Союз-2.1б» со спутниками OneWeb с космодрома Восточный. https://youtu.be/ZZvv51p-9Kc
+[12] 卡尔达瓦里希. 天舟二号货运飞船发射任务取得圆满成功. https://b23.tv/av248349588
 
 封面来源
-[1] SpaceX. Starlink Mission
-https://www.flickr.com/photos/spacex/51159354462/
-[2] 我们的太空. 我国成功发射遥感三十号08组卫星
-https://zhuanlan.zhihu.com/p/370208449
-[3] SpaceX. Starlink Mission
-https://www.flickr.com/photos/spacex/51171344450/
-[4] Rocket Lab. Rocket Lab Running Out Of Toes Launch
-https://youtu.be/Zw3sIUyfSfc?t=5311
-[5] SpaceX. Starlink Mission
-https://www.flickr.com/photos/spacex/51185653708/
-[6] ULA. Atlas V SBIRS GEO Flight 5 Launch Highlights
-https://youtu.be/vPkz52BHdTo?t=60
-[7] 我们的太空. 我国·长征四号乙·成功发射海洋二号D卫星
-https://zhuanlan.zhihu.com/p/373503364
-[8] SpaceX. Starlink Mission
-https://www.flickr.com/photos/spacex/51226036719/
-[9] Роскосмос. На Восточном состоялся успешный пуск ракеты «Союз-2»
-http://www.roscosmos.ru/31259/
-[10] 我们的太空. 长征七号遥三火箭发射“天舟二号”成功
-https://zhuanlan.zhihu.com/p/373661695
+[1] SpaceX. Starlink Mission. https://www.flickr.com/photos/spacex/51159354462/
+[2] 我们的太空. 我国成功发射遥感三十号08组卫星. https://zhuanlan.zhihu.com/p/370208449
+[3] SpaceX. Starlink Mission. https://www.flickr.com/photos/spacex/51171344450/
+[4] Rocket Lab. Rocket Lab Running Out Of Toes Launch. https://youtu.be/Zw3sIUyfSfc?t=5311
+[5] SpaceX. Starlink Mission. https://www.flickr.com/photos/spacex/51185653708/
+[6] ULA. Atlas V SBIRS GEO Flight 5 Launch Highlights. https://youtu.be/vPkz52BHdTo?t=60
+[7] 我们的太空. 我国·长征四号乙·成功发射海洋二号D卫星. https://zhuanlan.zhihu.com/p/373503364
+[8] SpaceX. Starlink Mission. https://www.flickr.com/photos/spacex/51226036719/
+[9] Роскосмос. На Восточном состоялся успешный пуск ракеты «Союз-2». http://www.roscosmos.ru/31259/
+[10] 我们的太空. 长征七号遥三火箭发射“天舟二号”成功. https://zhuanlan.zhihu.com/p/373661695
 
 音乐来源
-[1] Jahzzar. Siesta
-https://youtu.be/zeBrsLs2SoA
-[2] PunchDeck. I Cant Stop
-https://youtu.be/oIYQOMXgY-0
-[3] Vladmsorensen. Welcome To The Game
-https://youtu.be/M7xsvPmD97I
-[4] Nihilore. An Unwavering Will
-http://www.nihilore.com/latest-tracks/2021/6/6/an-unwavering-will
+[1] Jahzzar. Siesta. https://youtu.be/zeBrsLs2SoA
+[2] PunchDeck. I Cant Stop. https://youtu.be/oIYQOMXgY-0
+[3] Vladmsorensen. Welcome To The Game. https://youtu.be/M7xsvPmD97I
+[4] Nihilore. An Unwavering Will. http://www.nihilore.com/latest-tracks/2021/6/6/an-unwavering-will

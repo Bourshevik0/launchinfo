@@ -1,3 +1,4 @@
+编号：2021-F01
 火箭制造方：中国
 时间：2021-02-01 16:15(UTC+8)
 位置：酒泉卫星发射中心
@@ -7,6 +8,7 @@
 结果：失败[1]
 备注：在双曲线一号遥一的基础上做了很多改装[2]
 
+编号：2021-008
 火箭制造方：俄罗斯
 时间：2021-02-02 20:45:28(UTC)
 位置：普列谢茨克43/4号工位
@@ -17,6 +19,7 @@
 轨道：240 x 899 km, 67.14° LEO(近地轨道)[4]
 结果：成功
 
+编号：2021-009
 火箭制造方：美国
 时间：2021-02-04 06:19(UTC)
 位置：卡角太空军基地SLC-40
@@ -24,44 +27,48 @@
 发射提供方：SpaceX
 载荷运营方：SpaceX
 载荷信息：60颗星链卫星(第19批)(宽带通信卫星)共15.6吨
-载具：猎鹰9号Block 5(B1060.5)
-轨道：200km多的高度, 53.05° LEO(近地轨道)[5]
+载具：猎鹰9号Block 5(B1060.5)[6]
+轨道：251 x 291 km, 53.05° LEO(近地轨道)[5]
 结果：成功
 回收船：OCISLY(Of Course I Still Love You)
 备注：刷新一级最短周转时间27天[6]
 
+编号：2021-010
 火箭制造方：中国
 时间：2021-02-04 23:36(UTC+8)
 位置：西昌卫星发射中心3号工位
 发射提供方：航天科技
-载荷信息：通信技术试验卫星六号
+载荷信息：通信技术试验卫星六号[1]
+载荷质量：5.5吨[7]
 载具：长征三号乙遥77[1]
 轨道：195 x 35811 km, 28.47° GTO(地球同步转移轨道)[4]
 结果：成功
 
+编号：2021-011
 火箭制造方：俄罗斯
 时间：2021-02-15 04:45:05(UTC)
 位置：拜科努尔31/6号工位
-发射提供方：俄罗斯航天集团
-载荷运营方：俄罗斯航天集团[1]
-载荷信息：进步MS-16(货运飞船)共7吨，载货2.4605吨[7]
+发射与载荷：俄罗斯航天集团
+载荷信息：进步MS-16(货运飞船)共7吨，载货2.4605吨[8]
+载荷质量：2.4605吨
 载具：联盟-2.1a
 轨道：190 x 221 km, 51.64° LEO(近地轨道)[4]
 结果：成功
 
+编号：2021-012
 火箭制造方：美国
 时间：2021-02-16 03:59(UTC)
 位置：卡角太空军基地SLC-40
 任务名：Starlink v1.0 L19
-发射提供方：SpaceX
-载荷运营方：SpaceX
+发射与载荷：SpaceX
 载荷信息：60颗星链卫星(第20批)(宽带通信卫星)共15.6吨
 载具：猎鹰9号Block 5(B1059.6)
-轨道：200km多的高度, 53.05° LEO(近地轨道)[8]
+轨道：254 x 287 km, 53.05° LEO(近地轨道)[9]
 结果：成功
 回收船：OCISLY(Of Course I Still Love You)
-备注：一级回收失败，疑似发动机故障[9]
+备注：一级回收失败，疑似发动机故障[10]
 
+编号：2021-013
 火箭制造方：美国
 时间：2021-02-20 17:36(UTC)
 位置：中大西洋区太空空港(MARS)LP-0A
@@ -73,15 +80,18 @@
 轨道：180 x 358 km, 51.66° LEO(近地轨道)[4]
 结果：成功
 
+编号：2021-014
 火箭制造方：中国
 时间：2021-02-24 10:22(UTC+8)
 位置：酒泉卫星发射中心9401工位
 发射提供方：航天科技
-载荷信息：遥感三十一号03组(电磁环境探测)3颗卫星[11]
-载具：长征四号丙遥32[12]
+载荷信息：遥感三十一号03组(电磁环境探测)3颗卫星[12]
+载荷质量：2.8吨[7]
+载具：长征四号丙遥32[13]
 轨道：1090 x 1097 km, 63.41° LEO(近地轨道)[4]
 结果：成功
 
+编号：2021-015
 火箭制造方：印度
 时间：2021-02-28 04:53(UTC)
 位置：萨迪什·达万航天中心一号工位
@@ -93,105 +103,92 @@ Space Kidz India的SDSAT(教育卫星)，
 蜂群技术(Swarm Technologies)的太空蜜蜂(SpaceBEE)(窄带通信卫星)12颗，
 JIT / GHRCE / SIET的UNITYsat(技术验证卫星)3颗，
 PESU / DRDO的SindhuNetra(间谍卫星)
-8个客户的18颗卫星共0.022吨
-载具：PSLV-DL[1][13]
+8个客户的18颗卫星共0.022吨[14]
+载荷质量：0.659吨
+载具：PSLV-DL[1]
 轨道：742 x 757 km, 98.51° SSO(太阳同步轨道)[4]
 结果：成功
 
+编号：2021-016
 火箭制造方：俄罗斯
 时间：2021-02-28 06:55(UTC)
 位置：拜科努尔31/6号工位
-发射提供方：俄罗斯航天集团
-载荷运营方：俄罗斯航天集团
+发射与载荷：俄罗斯航天集团
 载荷信息：北极-M一号星(气象卫星)2.1吨
-载具：联盟-2.1b / 军舰鸟-M
-轨道：HEO(大椭圆轨道)
-结果：成功[14]
+载具：联盟-2.1b / 军舰鸟-M[15]
+轨道：1027 x 39754km，63.32° HEO(大椭圆轨道)[4]
+结果：成功
+
+关于轨道
+无额外标注的情况下，轨道一般指载荷所在的初始轨道，可以是预期轨道，或者实际轨道，具体类型根据来源判断。
+
+两组不同的概念
+初始轨道(initial orbit)：载荷与末级火箭分离后所在的轨道，一般不是运营轨道。如果不是发射相关方提供的数据(supTLE)，则以第三方(USSSN)发布的首个TLE数据为准，在后者的情况下会存在误差。
+运营轨道(operational orbit)：载荷长时间运行，执行任务所在的轨道，一般比初始轨道更高，末级难以或不必送入的轨道。
+
+预期轨道(desired orbit)：发射前预期载荷将进入的轨道，可以是初始轨道或者运营轨道。
+实际轨道(actual orbit)：发射后相关方提供的(supTLE)或第三方(USSSN)追踪到的轨道。
+
+若使用USSSN(Space-Track.Org)来源的轨道信息，会标注该数据使用的NORAD ID和epoch，以备查询与核实。需注册后才可查询。
 
 猎鹰9号芯一级代号说明
-B1xxx.x
+B1xxx.xx
 B代表Block，本意为第几代的代，此处无含义
-小数点前的xxx为芯级编号，小数点后的x为使用次数，如第二次发射时，此处为2
+小数点前的xxx为芯级编号，小数点后的xx为使用次数，如第二次发射时，此处为2
+
+龙飞船代号说明
+C2xx.xx
+C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
+小数点前的xxx为飞船编号，小数点后的xx为使用次数，如第二次使用时，此处为2
 
 来源格式说明
-[时间顺序] 作者/来源.标题
+[(文案)引用顺序] 作者/来源.标题
 链接
-(备注)
+
+编号格式说明
+年份-当年成功发射次序(实际时间顺序)
+使用COSPAR ID中去掉字母的部分，在剪辑不按照实际时间顺序进行时起标识的作用
 
 数据来源
-[1] Wikipedia. 2021 in spaceflight (January–June)
-https://en.wikipedia.org/wiki/2021_in_spaceflight_(January%E2%80%93June)
-[2] Phil_Leaf. 双曲线一号遥一与遥二除了一子级相同外
-https://weibo.com/2645044133/JFW2npW2m
-[3] NextSpaceflight. Soyuz 2.1b | Cosmos 2549
-https://nextspaceflight.com/launches/details/5759
-[4] Zarya. 2021 - Satellite & Spacecraft Launches and Detailed Orbits
-https://www.zarya.info/Diaries/Launches/Launches.php?year=2021
-[5] T.S. Kelso. Starlink L18 SupTLE
-https://twitter.com/TSKelso/status/1357400821776830465
-[6] NextSpaceflight. Falcon 9 Block 5 | Starlink V1 L18
-https://nextspaceflight.com/launches/details/2673
-[7] Wikipedia. Progress MS-16
-https://en.wikipedia.org/wiki/Progress_MS-16
-[8] T.S. Kelso. Starlink L19 SupTLE
-https://twitter.com/TSKelso/status/1361727430021406721
-[9] NextSpaceflight. Falcon 9 Block 5 | Starlink V1 L19
-https://nextspaceflight.com/launches/details/2674
-[10] Wikipedia. Cygnus NG-15
-https://en.wikipedia.org/wiki/Cygnus_NG-15
-[11] 中国航天报. 长四丙火箭成功发射遥感三十一号03组卫星
-https://mp.weixin.qq.com/s/CTjUGYIL1D8c7wKAn5w6Wg
-[12] 航空航天港. 遥感三十一号03组卫星
-https://9ifly.spacety.com/thread-94499-1-1.html
-[13] NextSpaceflight. PSLV-DL | Amazônia 1 & Others
-https://nextspaceflight.com/launches/details/5651
-[14] NextSpaceflight. Soyuz 2.1b/Fregat-M | Arktika-M n°1
-https://nextspaceflight.com/launches/details/383
+[1] Wikipedia. 2021 in spaceflight (January–June). https://en.wikipedia.org/wiki/2021_in_spaceflight_(January%E2%80%93June)
+[2] Phil_Leaf. 双曲线一号遥一与遥二除了一子级相同外. https://weibo.com/2645044133/JFW2npW2m
+[3] NextSpaceflight. Soyuz 2.1b | Cosmos 2549. https://nextspaceflight.com/launches/details/5759
+[4] Zarya. 2021 - Satellite & Spacecraft Launches and Detailed Orbits. https://www.zarya.info/Diaries/Launches/Launches.php?year=2021
+[5] T.S. Kelso. Starlink L18 SupTLE. https://twitter.com/TSKelso/status/1357400821776830465
+[6] NextSpaceflight. Falcon 9 Block 5 | Starlink V1 L18. https://nextspaceflight.com/launches/details/2673
+[7] Space Launch Report. Long March Data Sheet. https://www.spacelaunchreport.com/cz.html
+[8] Wikipedia. Progress MS-16. https://en.wikipedia.org/wiki/Progress_MS-16
+[9] T.S. Kelso. Starlink L19 SupTLE. https://twitter.com/TSKelso/status/1361727430021406721
+[10] NextSpaceflight. Falcon 9 Block 5 | Starlink V1 L19. https://nextspaceflight.com/launches/details/2674
+[11] Wikipedia. Cygnus NG-15. https://en.wikipedia.org/wiki/Cygnus_NG-15
+[12] 中国航天报. 长四丙火箭成功发射遥感三十一号03组卫星. https://mp.weixin.qq.com/s/CTjUGYIL1D8c7wKAn5w6Wg
+[13] 航空航天港. 遥感三十一号03组卫星. https://9ifly.spacety.com/thread-94499-1-1.html
+[14] NextSpaceflight. PSLV-DL | Amazônia 1 & Others. https://nextspaceflight.com/launches/details/5651
+[15] NextSpaceflight. Soyuz 2.1b/Fregat-M | Arktika-M n°1. https://nextspaceflight.com/launches/details/383
 
 徽章来源
-[1] SpaceX. Starlink
-https://www.elonx.net/spacex-mission-patches/#jp-carousel-3624
-[2] Wikipedia. Cygnus NG-15
-https://en.wikipedia.org/wiki/Cygnus_NG-15
-[3] 上海航天. 牛气冲天，牛年首发：长四丙一箭三星圆满成功
-https://mp.weixin.qq.com/s/FlwD8vrVs2qRmcz2cJ9-eg
+[1] SpaceX. Starlink. https://www.elonx.net/spacex-mission-patches/#jp-carousel-3624
+[2] Wikipedia. Cygnus NG-15. https://en.wikipedia.org/wiki/Cygnus_NG-15
+[3] 上海航天. 牛气冲天，牛年首发：长四丙一箭三星圆满成功. https://mp.weixin.qq.com/s/FlwD8vrVs2qRmcz2cJ9-eg
 
 视频素材来源
-[1] Asumoyz苏沫玖. 航天动态丨2021/02/01，双曲线一号遥二运载火箭发射多颗载荷失利
-https://b23.tv/av288976355
-[2] Минобороны России. Пуск ракеты-носителя «Союз-2» с космодрома Плесецк
-https://youtu.be/Q-upVqcn6t8
-[3] SpaceX. Starlink Mission
-https://youtu.be/fe6HBw1y6bA
-[4] Роскосмос ТВ. Запуск грузового корабля «Прогресс МС-16»
-https://youtu.be/Zxm0El1Sh_I
-[5] SciNews. Progress MS-16 launch (On-board camera view)
-https://youtu.be/LyqiKQCEMS8
-[6] SpaceX. Starlink Mission
-https://youtu.be/L0dkyV09Zso
-[7] NASA. Northrop Grumman Cargo Launch to the Space Station from NASA Wallops
-https://youtu.be/UDTkp2PpH-w
-[8] SciNews. Long March-4C launches Yaogan-31 03
-https://youtu.be/PKR8IjY6u0E
-[9] ISRO Official. Watch Live - Launch of Amazonia-1 and 18 Co-passenger satellites onboard PSLV-C51
-https://youtu.be/lr91aM3nbW0
-[10] ISRO Official. Lift-off and Onboard Camera view of PSLV-C51_Amazonia-1 Mission
-https://youtu.be/SCHgaumVHis
-[11] Роскосмос ТВ. Запуск космического аппарата «Арктика-М»
-https://youtu.be/6drTIv77-L4
+[1] Asumoyz苏沫玖. 航天动态丨2021/02/01，双曲线一号遥二运载火箭发射多颗载荷失利. https://b23.tv/av288976355
+[2] Минобороны России. Пуск ракеты-носителя «Союз-2» с космодрома Плесецк. https://youtu.be/Q-upVqcn6t8
+[3] SpaceX. Starlink Mission. https://youtu.be/fe6HBw1y6bA
+[4] Роскосмос ТВ. Запуск грузового корабля «Прогресс МС-16». https://youtu.be/Zxm0El1Sh_I
+[5] SciNews. Progress MS-16 launch (On-board camera view). https://youtu.be/LyqiKQCEMS8
+[6] SpaceX. Starlink Mission. https://youtu.be/L0dkyV09Zso
+[7] NASA. Northrop Grumman Cargo Launch to the Space Station from NASA Wallops. https://youtu.be/UDTkp2PpH-w
+[8] SciNews. Long March-4C launches Yaogan-31 03. https://youtu.be/PKR8IjY6u0E
+[9] ISRO Official. Watch Live - Launch of Amazonia-1 and 18 Co-passenger satellites onboard PSLV-C51. https://youtu.be/lr91aM3nbW0
+[10] ISRO Official. Lift-off and Onboard Camera view of PSLV-C51_Amazonia-1 Mission. https://youtu.be/SCHgaumVHis
+[11] Роскосмос ТВ. Запуск космического аппарата «Арктика-М». https://youtu.be/6drTIv77-L4
 
 封面来源
-[1] 航空航天港. 双曲线一号Y2火箭
-https://9ifly.spacety.com/forum.php?mod=viewthread&tid=93692&page=9#pid799968
-[2] 我们的太空. 通信技术试验卫星六号
-https://zhuanlan.zhihu.com/p/349351644
-[3]Роскосмос. Корабль «Прогресс МС-16» на пути к МКС - Новости - Госкорпорация «Роскосмос»
-https://www.roscosmos.ru/29963/
-[4] Northrop Grumman. NASA Commercial Resupply Mission-NG-15
-https://www.northropgrumman.com/space/nasa-commercial-resupply-mission-ng-15/
-[5] 我们的太空. 遥感三十一号03组
-https://zhuanlan.zhihu.com/p/352530225
-[6] ISRO. PSLV-C51/Amazonia-1
-https://www.isro.gov.in/launcher/pslv-c51-amazonia-1
-[7] Роскосмос. Ракета-носитель «Союз-2.1б» успешно стартовала с Байконура - Новости - Госкорпорация «Роскосмос»
-http://www.roscosmos.ru/30087/
+[1] 航空航天港. 双曲线一号Y2火箭. https://9ifly.spacety.com/forum.php?mod=viewthread&tid=93692&page=9#pid799968
+[2] 我们的太空. 通信技术试验卫星六号. https://zhuanlan.zhihu.com/p/349351644
+[3] Роскосмос. Корабль «Прогресс МС-16» на пути к МКС - Новости - Госкорпорация «Роскосмос». https://www.roscosmos.ru/29963/
+[4] Northrop Grumman. NASA Commercial Resupply Mission-NG-15. https://www.northropgrumman.com/space/nasa-commercial-resupply-mission-ng-15/
+[5] 我们的太空. 遥感三十一号03组. https://zhuanlan.zhihu.com/p/352530225
+[6] ISRO. PSLV-C51/Amazonia-1. https://www.isro.gov.in/launcher/pslv-c51-amazonia-1
+[7] Роскосмос. Ракета-носитель «Союз-2.1б» успешно стартовала с Байконура - Новости - Госкорпорация «Роскосмос». http://www.roscosmos.ru/30087/

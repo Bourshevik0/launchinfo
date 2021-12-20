@@ -34,7 +34,7 @@
 天仪研究院的“宝酝号”和“丽泽一号”(科学试验卫星)，
 中科星睿的“金紫荆五号”(遥感卫星)，
 零重空间的“金紫荆一号03”(遥感卫星)[7]
-载荷质量：0.23吨[8]
+载荷质量：0.3吨[8]
 载具：谷神星一号遥二[7]
 轨道：483 x 499 km，97.39° SSO(太阳同步轨道)[9]
 结果：成功
@@ -120,7 +120,7 @@ LDPE-1(技术验证卫星)
 载荷运营方：俄罗斯卫星通信[1]
 载荷信息：Ekspress-AMU3，AMU7共4.13吨[25]
 载具：质子-M / 微风-M上面级[1]
-轨道：18692 x 52871 km，49.00° SSTO(超同步转移轨道)[26]
+轨道：18692 x 52871 km，1.68° SSTO(超同步转移轨道)[26] 
 结果：成功
 
 编号：2021-124
@@ -128,8 +128,8 @@ LDPE-1(技术验证卫星)
 时间：2021-12-14 00:09(UTC+8)
 位置：西昌卫星发射中心3号工位[1]
 发射提供方：航天科技一院
-载荷研制方：航天科技五院[27]
-载荷信息：天链二号02星(宽带通信卫星)
+载荷研制方：航天科技五院
+载荷信息：天链二号02星(宽带通信卫星)[27]
 载荷质量：5.5吨[23]
 载具：长征三号乙遥82[1]
 轨道：184 x 35830 km，27.08° GTO(地球同步转移轨道)[28]
@@ -142,8 +142,33 @@ LDPE-1(技术验证卫星)
 发射提供方：航天科工火箭技术
 载荷信息：GeeSAT-1A，GeeSAT-1B(导航定位卫星)
 载具：快舟一号甲遥16
-轨道：SSO(太阳同步轨道)[1]
+轨道：LEO(太阳同步轨道)[1]
 结果：失败
+
+编号：2021-125
+火箭制造方：美国
+时间：2021-12-18 12:41:40(UTC)[1]
+位置：范登堡太空军基地SLC-4E
+组名：Starlink Group 4-4(G4-4)
+发射与载荷：SpaceX
+载荷信息：SpaceX的52颗星链卫星(宽带通信卫星)共约11.804吨[3][29]
+载具：猎鹰9号Block 5(B1051.11)[29]
+轨道：210 x 341 km，53.22° LEO(近地轨道)[30]
+结果(发射与回收)：成功
+回收船：OCISLY(Of Course I Still Love You)[29]
+
+编号：2021-126
+火箭制造方：美国
+时间：2021-12-19 03:58:39(UTC)[1]
+位置：卡角太空军基地SLC-40
+发射提供方：SpaceX
+载荷运营方：土耳其卫星
+载荷信息：土耳其星5B(宽带通信卫星)质量4.5吨
+载具：猎鹰9号Block 5(B1067.3)[31]
+轨道：198 x 68931 km，27.12° SSTO(超同步转移轨道) 
+结果(发射与回收)：成功
+回收船：ASOG(A Shortfall of Gravitas)[31] 
+备注：刷新猎鹰9号发射最短间隔时间至15小时17分钟[1]
 
 关于轨道
 无额外标注的情况下，轨道一般指载荷所在的初始轨道，可以是预期轨道，或者实际轨道，具体类型根据来源判断。
@@ -203,9 +228,13 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [23] Space Launch Report. Long March Data Sheet. https://www.spacelaunchreport.com/cz.html
 [24] Space-Track.Org. NORAD ID 49961 epoch 2021-12-10T12:11:57.782688. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/49961/orderby/EPOCH%20asc/limit/1/format/json
 [25] NextSpaceflight. Proton-M/Briz-M | Ekspress-AMU3 & AMU7. https://nextspaceflight.com/launches/details/4104
-[26] Zarya. 2021 - Satellite & Spacecraft Launches and Detailed Orbits. https://www.zarya.info/Diaries/Launches/Launches.php?year=2021
+[26] Space-Track.Org. NORAD ID 50001 epoch 2021-12-17T02:52:45.829632. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/50001/orderby/EPOCH%20asc/limit/1/format/json
 [27] 中国航天报. 有了它，“北京明白”！天链二号02星由长三乙发射成功. https://mp.weixin.qq.com/s/K9aK3Cfgyzh5CsrPFpjFiA
 [28] Space-Track.Org. NORAD ID 50005 epoch 2021-12-13T19:03:07.208352. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/50005/orderby/EPOCH%20asc/limit/1/format/json
+[29] NextSpaceflight. Falcon 9 Block 5 | Starlink Group 4-4. https://nextspaceflight.com/launches/details/6798
+[30] T.S. Kelso. 52 #Starlink satellites launched on a Falcon 9 rocket from Vandenberg SFB on Dec 18 at 1241 UTC. https://twitter.com/TSKelso/status/1472369679674925056
+[31] NextSpaceflight. Falcon 9 Block 5 | Türksat 5B. https://nextspaceflight.com/launches/details/104
+[32] Space-Track.Org. NORAD ID 50212 epoch 2021-12-19T23:27:52.083360. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/50212/orderby/EPOCH%20asc/limit/1/format/json
 
 视频素材来源
 [1] SpaceX. Starlink Mission. https://youtu.be/594TbXriaAk

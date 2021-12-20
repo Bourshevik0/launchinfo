@@ -77,7 +77,8 @@
 轨道：211 x 337 km，53.22° LEO(近地轨道)[18]
 结果(发射与回收)：成功
 回收船：JRTI(Just Read the Instructions)[17]
-备注：第四轨道面首批卫星(540km，53.2°)
+备注：第四轨道面首批卫星(540km，53.2°)，
+自2016年9月3日以来连续100次发射成功[19]
 
 编号：2021-105
 火箭制造方：欧洲
@@ -88,8 +89,8 @@
 载荷运营方：CNES / DGA
 载荷信息：三颗CERES卫星(电子信号情报卫星)，
 质量共1.548吨
-载具：织女星[19]
-轨道：672 x 672 km，75.00° LEO(近地轨道)[20]
+载具：织女星[20]
+轨道：672 x 672 km，75.00° LEO(近地轨道)[21]
 结果：成功
 
 编号：2021-106
@@ -101,8 +102,8 @@
 载荷运营方：黑天(BlackSky)
 载荷信息：黑天10，11(地球观测卫星)
 质量共0.112吨
-载具：电子火箭[21]
-轨道：428 x 439 km，42.02° LEO(近地轨道)[22]
+载具：电子火箭[22]
+轨道：428 x 439 km，42.02° LEO(近地轨道)[23]
 结果：成功
 
 编号：2021-107
@@ -113,8 +114,8 @@
 载荷研制方：航天科技五院
 载荷信息：高分十一号03星
 载荷质量：2.8吨[2]
-载具：长征四号乙遥52[23]
-轨道：246 x 696 km，97.45° 太阳同步转移轨道[25]
+载具：长征四号乙遥52[24]
+轨道：246 x 696 km，97.45° 太阳同步转移轨道[26]
 结果：成功
 
 编号：2021-108
@@ -124,9 +125,9 @@
 发射提供方：Astra
 载荷运营方：美国太空军
 载荷信息：STP-27AD2(不可分离的测试载荷)[3]
-载荷质量：0.025吨[24]
+载荷质量：0.025吨[25]
 载具：Rocket 3 LV0007[3]
-轨道：438 x 507 km，86° LEO(近地轨道)[26]
+轨道：438 x 507 km，86° LEO(近地轨道)[27]
 结果：成功
 备注：Astra首次轨道级火箭发射成功
 
@@ -138,10 +139,10 @@
 载荷研制方：航天科技五院
 载荷信息：高分三号02星
 载荷质量：2.8吨[2]
-载具：长征四号丙遥37[27]
-轨道：738 x 745 km，98.41° SSO(太阳同步轨道)[28]
+载具：长征四号丙遥37[28]
+轨道：738 x 745 km，98.41° SSO(太阳同步轨道)[29]
 结果：成功
-备注：长四丙首次采用天基中继测控[27]
+备注：长四丙首次采用天基中继测控[28]
 
 编号：2021-110
 火箭制造方：美国
@@ -149,12 +150,12 @@
 位置：范登堡太空军基地SLC-4E
 发射提供方：SpaceX
 载荷信息：NASA的DART小行星撞击器0.61吨，
-ASI(意大利航天局)的莉西亚立方星(LICIACube)0.014吨[29]
+ASI(意大利航天局)的莉西亚立方星(LICIACube)0.014吨[30]
 载荷质量：0.624吨
-载具：猎鹰9号Block 5(B1063.3)[30]
-轨道：半长轴-6.14E+04 km，离心率1.11，倾角79.1°(日心轨道)[31]
+载具：猎鹰9号Block 5(B1063.3)[31]
+轨道：半长轴-6.14E+04 km，离心率1.11，倾角79.1°(日心轨道)[32]
 结果(发射与回收)：成功
-回收船：OCISLY(Of Course I Still Love You)[30]
+回收船：OCISLY(Of Course I Still Love You)[31]
 
 编号：2021-111
 火箭制造方：俄罗斯
@@ -162,23 +163,23 @@ ASI(意大利航天局)的莉西亚立方星(LICIACube)0.014吨[29]
 位置：拜科努尔31/6号工位
 发射与载荷：俄罗斯航天集团
 载荷信息：进步M-UM与码头号节点舱组合体，
-共8.18吨，其中码头号节点舱质量4.65吨[32][33]
+共8.18吨，其中码头号节点舱质量4.65吨[33][34]
 载荷质量：4.65吨
 载具：联盟-2.1b[3]
-轨道：193 x 240 km，51.67° LEO(近地轨道)[34]
+轨道：193 x 240 km，51.67° LEO(近地轨道)[35]
 结果：成功
 备注：码头号于11月26日15:20:06
-对接至ISS科学号实验舱天底对接口[33]
+对接至ISS科学号实验舱天底对接口[34]
 
 编号：2021-112
 火箭制造方：中国
 时间：2021-11-25 07:41(UTC+8)
 位置：酒泉卫星发射中心
 发射提供方：航天科工火箭技术
-载荷信息：试验11号(技术验证卫星)[35]
-载荷质量：0.2吨[36]
-载具：快舟一号甲遥13[35]
-轨道：489 x 502 km，97.45° SSO(太阳同步轨道)[37]
+载荷信息：试验11号(技术验证卫星)[36]
+载荷质量：0.2吨[37]
+载具：快舟一号甲遥13[36]
+轨道：489 x 502 km，97.45° SSO(太阳同步轨道)[38]
 结果：成功
 
 编号：2021-113
@@ -188,9 +189,9 @@ ASI(意大利航天局)的莉西亚立方星(LICIACube)0.014吨[29]
 发射提供方：俄罗斯空天军
 载荷运营方：俄罗斯国防部
 载荷信息：EKS-5(红外预警卫星)
-载荷质量：2.4吨[38]
+载荷质量：2.4吨[39]
 载具：联盟2.1b / 军舰鸟上面级[3]
-轨道：1634 x 38522 km，63.8° 苔原轨道[3][39]
+轨道：1634 x 38522 km，63.8° 苔原轨道[3][40]
 结果：成功
 
 编号：2021-114
@@ -199,10 +200,10 @@ ASI(意大利航天局)的莉西亚立方星(LICIACube)0.014吨[29]
 位置：西昌卫星发射中心2号工位
 发射提供方：航天科技一院
 载荷研制方：航天科技五院
-载荷信息：中星1D(宽带通信卫星)[40]
+载荷信息：中星1D(宽带通信卫星)[41]
 载荷质量：5.5吨[2]
 载具：长征三号乙遥79[3]
-轨道：186 x 35832 km，27.06° GTO(地球同步转移轨道)[41]
+轨道：186 x 35832 km，27.06° GTO(地球同步转移轨道)[42]
 结果：成功
 
 关于轨道
@@ -256,29 +257,30 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [16] Wikipedia. SpaceX Crew-3. https://en.wikipedia.org/wiki/SpaceX_Crew-3
 [17] NextSpaceflight. Falcon 9 Block 5 | Starlink Group 4-1. https://nextspaceflight.com/launches/details/5341
 [18] T.S. Kelso. #Starlink Group 4-1. https://twitter.com/TSKelso/status/1459722955261296640
-[19] Arianespace. Vega Flight VV20. https://www.arianespace.com/mission/vega-flight-vv20/
-[20] T.S. Kelso. 3 CERES. https://twitter.com/TSKelso/status/1460642246970077187
-[21] NextSpaceflight. Electron/Curie | Love At First Insight. https://nextspaceflight.com/launches/details/6827
-[22] Space-Track.Org. NORAD ID 49469 epoch 2021-11-18T05:30:51.988896. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/49469/orderby/EPOCH%20asc/limit/1/format/json
-[23] 上海航天. 长征四号乙运载火箭发射圆满成功. https://mp.weixin.qq.com/s/lO_87d_LLDswNy6CQcvxkw
-[24] Space Launch Report. Astra Space Rocket. https://www.spacelaunchreport.com/astra.html
-[25] Space-Track.Org. NORAD ID 49492 epoch 2021-11-20T03:15:57.495168. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/49492/orderby/EPOCH%20asc/limit/1/format/json
-[26] Space-Track.Org. NORAD ID 49494 epoch 2021-11-20T07:51:48.398400. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/49494/orderby/EPOCH%20asc/limit/1/format/json
-[27] 上海航天. 长征四号丙运载火箭发射圆满成功. https://mp.weixin.qq.com/s/syqz_D_dAIBBGpKj2QLBqg
-[28] Space-Track.Org. NORAD ID 49495 epoch 2021-11-23T02:47:46.218624. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/49495/orderby/EPOCH%20asc/limit/1/format/json
-[29] Wikipedia. Double Asteroid Redirection Test. https://en.wikipedia.org/wiki/Double_Asteroid_Redirection_Test
-[30] NextSpaceflight. Falcon 9 Block 5 | DART. https://nextspaceflight.com/launches/details/1373
-[31] JPL. DART Horizons API A.D. 2021-Nov-24 07:19:00.0000 TDB. https://ssd.jpl.nasa.gov/api/horizons.api?format=text&COMMAND=%27DART%27&OBJ_DATA=%27YES%27&MAKE_EPHEM=%27YES%27&EPHEM_TYPE=%27ELEMENTS%27&START_TIME=%272021-11-24%2007:19%27&STOP_TIME=%272021-11-24%2007:20%27
-[32] Wikipedia. Progress M-UM. https://en.wikipedia.org/wiki/Progress_M-UM
-[33] Wikipedia. Prichal (ISS module). https://en.wikipedia.org/wiki/Prichal_(ISS_module)
-[34] Роскосмос. «Причал» летит к МКС. https://www.roscosmos.ru/33443/
-[35] 中国航天报. 快舟一号甲火箭发射试验十一号卫星. https://mp.weixin.qq.com/s/k2cfkSgAlwFiQ4bV5kfNPg
-[36] Space Launch Report. Kuaizhou Data Sheet. https://www.spacelaunchreport.com/kz.html
-[37] Space-Track.Org. NORAD ID 49501 epoch 2021-11-25T06:04:47.714592. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/49501/orderby/EPOCH%20asc/limit/1/format/json
-[38] Space Launch Report. Soyuz Data Sheet. http://www.spacelaunchreport.com/soyuz.html
-[39] Space-Track.Org. NORAD ID 49503 epoch 2021-11-25T06:37:02.939808. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/49503/orderby/EPOCH%20asc/limit/1/format/json
-[40] 中国运载火箭技术研究院. 长三乙火箭成功发射中星1D卫星. https://mp.weixin.qq.com/s/dr91haOJc_ZH10Z7eyz2hQ
-[41] Space-Track.Org. NORAD ID 49505 epoch 2021-11-26T20:06:41.613696. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/49505/orderby/EPOCH%20asc/limit/1/format/json
+[19] Wikipedia. List of Falcon 9 and Falcon Heavy launches. https://en.wikipedia.org/wiki/List_of_Falcon_9_and_Falcon_Heavy_launches#2021
+[20] Arianespace. Vega Flight VV20. https://www.arianespace.com/mission/vega-flight-vv20/
+[21] T.S. Kelso. 3 CERES. https://twitter.com/TSKelso/status/1460642246970077187
+[22] NextSpaceflight. Electron/Curie | Love At First Insight. https://nextspaceflight.com/launches/details/6827
+[23] Space-Track.Org. NORAD ID 49469 epoch 2021-11-18T05:30:51.988896. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/49469/orderby/EPOCH%20asc/limit/1/format/json
+[24] 上海航天. 长征四号乙运载火箭发射圆满成功. https://mp.weixin.qq.com/s/lO_87d_LLDswNy6CQcvxkw
+[25] Space Launch Report. Astra Space Rocket. https://www.spacelaunchreport.com/astra.html
+[26] Space-Track.Org. NORAD ID 49492 epoch 2021-11-20T03:15:57.495168. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/49492/orderby/EPOCH%20asc/limit/1/format/json
+[27] Space-Track.Org. NORAD ID 49494 epoch 2021-11-20T07:51:48.398400. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/49494/orderby/EPOCH%20asc/limit/1/format/json
+[28] 上海航天. 长征四号丙运载火箭发射圆满成功. https://mp.weixin.qq.com/s/syqz_D_dAIBBGpKj2QLBqg
+[29] Space-Track.Org. NORAD ID 49495 epoch 2021-11-23T02:47:46.218624. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/49495/orderby/EPOCH%20asc/limit/1/format/json
+[30] Wikipedia. Double Asteroid Redirection Test. https://en.wikipedia.org/wiki/Double_Asteroid_Redirection_Test
+[31] NextSpaceflight. Falcon 9 Block 5 | DART. https://nextspaceflight.com/launches/details/1373
+[32] JPL. DART Horizons API A.D. 2021-Nov-24 07:19:00.0000 TDB. https://ssd.jpl.nasa.gov/api/horizons.api?format=text&COMMAND=%27DART%27&OBJ_DATA=%27YES%27&MAKE_EPHEM=%27YES%27&EPHEM_TYPE=%27ELEMENTS%27&START_TIME=%272021-11-24%2007:19%27&STOP_TIME=%272021-11-24%2007:20%27
+[33] Wikipedia. Progress M-UM. https://en.wikipedia.org/wiki/Progress_M-UM
+[34] Wikipedia. Prichal (ISS module). https://en.wikipedia.org/wiki/Prichal_(ISS_module)
+[35] Роскосмос. «Причал» летит к МКС. https://www.roscosmos.ru/33443/
+[36] 中国航天报. 快舟一号甲火箭发射试验十一号卫星. https://mp.weixin.qq.com/s/k2cfkSgAlwFiQ4bV5kfNPg
+[37] Space Launch Report. Kuaizhou Data Sheet. https://www.spacelaunchreport.com/kz.html
+[38] Space-Track.Org. NORAD ID 49501 epoch 2021-11-25T06:04:47.714592. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/49501/orderby/EPOCH%20asc/limit/1/format/json
+[39] Space Launch Report. Soyuz Data Sheet. http://www.spacelaunchreport.com/soyuz.html
+[40] Space-Track.Org. NORAD ID 49503 epoch 2021-11-25T06:37:02.939808. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/49503/orderby/EPOCH%20asc/limit/1/format/json
+[41] 中国运载火箭技术研究院. 长三乙火箭成功发射中星1D卫星. https://mp.weixin.qq.com/s/dr91haOJc_ZH10Z7eyz2hQ
+[42] Space-Track.Org. NORAD ID 49505 epoch 2021-11-26T20:06:41.613696. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/49505/orderby/EPOCH%20asc/limit/1/format/json
 
 视频素材来源
 [1] SciNews. Long March-2C launches Yaogan-32 02. https://youtu.be/rZs17faxZHo
