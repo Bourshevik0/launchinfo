@@ -170,6 +170,19 @@ LDPE-1(技术验证卫星)
 回收船：ASOG(A Shortfall of Gravitas)[31] 
 备注：刷新猎鹰9号发射最短间隔时间至15小时17分钟[1]
 
+编号：2021-127
+火箭制造方：美国
+时间：2021-12-21 10:07:08(UTC)
+位置：肯尼迪航天中心LC-39A
+任务名：CRS-24
+发射提供方：SpaceX
+载荷运营方：NASA
+载荷信息：C209.2龙2货运飞船载货2.989吨[33][34]
+载具：猎鹰9号Block 5(B1069.1)[36]
+轨道：212 x 363 km，51.64° LEO(近地轨道)[35]
+结果(发射与回收)：成功
+回收船：JRTI(Just Read the Instructions)[36]
+
 关于轨道
 无额外标注的情况下，轨道一般指载荷所在的初始轨道，可以是预期轨道，或者实际轨道，具体类型根据来源判断。
 
@@ -235,6 +248,10 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [30] T.S. Kelso. 52 #Starlink satellites launched on a Falcon 9 rocket from Vandenberg SFB on Dec 18 at 1241 UTC. https://twitter.com/TSKelso/status/1472369679674925056
 [31] NextSpaceflight. Falcon 9 Block 5 | Türksat 5B. https://nextspaceflight.com/launches/details/104
 [32] Space-Track.Org. NORAD ID 50212 epoch 2021-12-19T23:27:52.083360. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/50212/orderby/EPOCH%20asc/limit/1/format/json
+[33] Wikipedia. SpaceX CRS-24. https://en.wikipedia.org/wiki/SpaceX_CRS-24
+[34] Wikipedia. Cargo Dragon C209. https://en.wikipedia.org/wiki/Cargo_Dragon_C209
+[35] Space-Track.Org. NORAD ID 50318 epoch 2021-12-21T12:04:08.173632. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/50318/orderby/EPOCH%20asc/limit/1/format/json
+[36] Wikipedia. List of Falcon 9 first-stage boosters. https://en.wikipedia.org/wiki/List_of_Falcon_9_first-stage_boosters#Block_5
 
 视频素材来源
 [1] SpaceX. Starlink Mission. https://youtu.be/594TbXriaAk
