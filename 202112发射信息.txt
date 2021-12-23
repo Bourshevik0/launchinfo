@@ -195,6 +195,17 @@ LDPE-1(技术验证卫星)
 轨道：147 x 63516 km，30.11° SSTO(超地球同步转移轨道)[38]
 结果：成功
 
+编号：2021-129
+火箭制造方：中国
+时间：2021-12-23 18:12:08(UTC+8)
+位置：文昌航天发射场2号工位
+发射提供方：航天科技
+载荷信息：试验12号01，02星(技术验证卫星)[1]
+载荷质量：7.0吨[39]
+载具：长征七号甲遥二
+轨道：189 x 35778 km, 19.53° GTO(地球同步转移轨道)[40]
+结果：成功
+
 关于轨道
 无额外标注的情况下，轨道一般指载荷所在的初始轨道，可以是预期轨道，或者实际轨道，具体类型根据来源判断。
 
@@ -266,6 +277,8 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [36] Wikipedia. List of Falcon 9 first-stage boosters. https://en.wikipedia.org/wiki/List_of_Falcon_9_first-stage_boosters#Block_5
 [37] Wikipedia. Inmarsat-6 F1. https://en.wikipedia.org/wiki/Inmarsat-6_F1
 [38] Space-Track.Org. NORAD ID 50319 epoch 2021-12-22T17:40:37.036128. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/50319/orderby/EPOCH%20asc/limit/1/format/json
+[39] 维基百科. 长征七号改运载火箭. https://zh.wikipedia.org/wiki/长征七号改运载火箭
+[40] Space-Track.Org. NORAD ID 50321 epoch 2021-12-23T14:48:08.763840. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/50321/orderby/EPOCH%20asc/limit/1/format/json
 
 视频素材来源
 [1] SpaceX. Starlink Mission. https://youtu.be/594TbXriaAk
