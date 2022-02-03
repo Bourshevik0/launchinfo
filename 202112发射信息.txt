@@ -156,6 +156,7 @@ LDPE-1(技术验证卫星)
 轨道：210 x 341 km，53.22° LEO(近地轨道)[30]
 结果(发射与回收)：成功
 回收船：OCISLY(Of Course I Still Love You)[29]
+备注：首次11手火箭回收成功[1]
 
 编号：2021-126
 火箭制造方：美国
@@ -165,9 +166,9 @@ LDPE-1(技术验证卫星)
 载荷运营方：土耳其卫星
 载荷信息：土耳其星5B(宽带通信卫星)质量4.5吨
 载具：猎鹰9号Block 5(B1067.3)[31]
-轨道：198 x 68931 km，27.12° SSTO(超同步转移轨道) 
+轨道：198 x 68931 km，27.12° SSTO(超同步转移轨道)[32]
 结果(发射与回收)：成功
-回收船：ASOG(A Shortfall of Gravitas)[31] 
+回收船：ASOG(A Shortfall of Gravitas)[31]
 备注：刷新猎鹰9号发射最短间隔时间至15小时17分钟[1]
 
 编号：2021-127
@@ -189,7 +190,7 @@ LDPE-1(技术验证卫星)
 位置：种子岛航天中心LA-Y1
 飞行编号：F45
 发射提供方：三菱重工
-载荷运营方：国际海事卫星组织[1]
+载荷运营方：国际海事卫星[1]
 载荷信息：Inmarsat-6 F1(宽带通信卫星)，质量5.47吨[37]
 载具：H-IIA 204[1]
 轨道：147 x 63516 km，30.11° SSTO(超地球同步转移轨道)[38]
@@ -199,12 +200,95 @@ LDPE-1(技术验证卫星)
 火箭制造方：中国
 时间：2021-12-23 18:12:08(UTC+8)
 位置：文昌航天发射场2号工位
-发射提供方：航天科技
+发射提供方：航天科技一院
 载荷信息：试验12号01，02星(技术验证卫星)[1]
 载荷质量：7.0吨[39]
-载具：长征七号甲遥二
+载具：长征七号甲遥三[1]
 轨道：189 x 35778 km, 19.53° GTO(地球同步转移轨道)[40]
 结果：成功
+
+编号：2021-130
+火箭制造方：欧洲
+时间：2021-12-25 12:20(UTC)
+位置：圭亚那航天中心ELA-3
+飞行编号：VA256
+发射提供方：阿丽亚娜空间
+载荷运营方：NASA / ESA / CSA
+载荷信息：詹姆斯·韦伯太空望远镜，质量6.1614吨[1][41]
+载具：阿丽亚娜5 ECA
+轨道：半长轴5.36E+05km，离心率0.99，近地点553km，远地点1064622km，倾角0.24° HEO(大椭圆轨道)[42]
+结果：成功
+
+编号：2021-131
+火箭制造方：中国
+时间：2021-12-26 11:11:31(UTC+8)[1]
+位置：太原卫星发射中心9号工位
+发射提供方：航天科技八院
+载荷研制方：航天科技五院
+载荷信息：资源一号02E星(光学遥感卫星)，
+一零一中学科普小卫星(教育卫星)[43]
+载荷质量：2.8吨[23]
+载具：长征四号乙遥39[22]
+轨道：764 x 768 km，98.60° SSO(太阳同步轨道)[44]
+结果：成功
+
+编号：2021-132
+火箭制造方：俄罗斯
+时间：2021-12-27 13:10:37(UTC) 
+位置：拜科努尔31/6号工位
+飞行编号：ST37
+发射提供方：阿丽亚娜空间 / Starsem
+载荷运营方：OneWeb
+载荷信息：第12批36颗OneWeb卫星(宽带通信卫星)共5.4吨[1][45]
+载具：联盟-2.1b / 军舰鸟-M[1][46]
+轨道：441 x 467 km，87.40° LEO(近地轨道)[47]
+结果：成功
+
+编号：2021-133
+火箭制造方：俄罗斯
+时间：2021-12-27 19:00(UTC)
+位置：普列谢茨克35/1号工位
+发射提供方：俄罗斯战略导弹部队
+载荷信息：模拟载荷
+载具：安加拉A5 / 珀西
+预期轨道：SSTO(超地球同步转移轨道)[1]
+实际轨道：179 x 201 km，63.39° LEO(近地轨道)[48]
+结果：失败
+备注：珀西上面级的首次验证发射[1]
+
+编号：2021-134
+火箭制造方：中国
+时间：2021-12-29 19:13(UTC+8)
+位置：酒泉卫星发射中心9401工位
+发射提供方：航天科技八院
+载荷研制方：航天科技五院
+载荷信息：天绘-4A，B两颗卫星(地球观测卫星)
+载荷质量：3.5吨[23]
+载具：长征二号丁遥41[49]
+轨道：483 x 498 km，89.00° LEO(近地轨道)
+结果：成功
+
+编号：2021-135
+火箭制造方：中国
+时间：2021-12-30 00:43:03(UTC+8)
+位置：西昌卫星发射中心3号工位[1]
+发射提供方：航天科技一院
+载荷研制方：航天科技五院
+载荷信息：通信技术试验卫星九号(技术验证卫星)[51]
+载荷质量：5.5吨[23]
+载具：长征三号乙遥84[1]
+轨道：168 x 35820 km，27.09° GTO(地球同步转移轨道)[52]
+结果：成功
+
+编号：2021-Q01
+火箭制造方：伊朗
+时间：2021-12-30 03:30(UTC)
+位置：伊玛目霍梅尼卫星发射中心LP-2
+发射提供方：伊朗航天局(ISA)
+载具：凤凰号火箭
+轨道：LEO(近地轨道)
+结果：失败
+备注：最高点达到了470km，但未能入轨[1]
 
 关于轨道
 无额外标注的情况下，轨道一般指载荷所在的初始轨道，可以是预期轨道，或者实际轨道，具体类型根据来源判断。
@@ -279,6 +363,18 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [38] Space-Track.Org. NORAD ID 50319 epoch 2021-12-22T17:40:37.036128. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/50319/orderby/EPOCH%20asc/limit/1/format/json
 [39] 维基百科. 长征七号改运载火箭. https://zh.wikipedia.org/wiki/长征七号改运载火箭
 [40] Space-Track.Org. NORAD ID 50321 epoch 2021-12-23T14:48:08.763840. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/50321/orderby/EPOCH%20asc/limit/1/format/json
+[41] Stephen Clark. The exact launch mass of the James Webb Space Telescope. https://twitter.com/StephenClark1/status/1473999069706129419
+[42] JPL. JWST Horizons API A.D. 2021-Dec-25 12:50:00.0000 TDB. https://ssd.jpl.nasa.gov/api/horizons.api?format=text&COMMAND=%27JWST%27&OBJ_DATA=%27YES%27&MAKE_EPHEM=%27YES%27&EPHEM_TYPE=%27ELEMENTS%27&START_TIME=%272021-12-25%2012:50%27&STOP_TIME=%272021-12-25%2012:51%27
+[43] 上海航天. 长征四号丙运载火箭发射圆满成功. https://mp.weixin.qq.com/s/7ZiPVkbLIKwJNsxzOp8GyQ
+[44] Space-Track.Org. NORAD ID 50465 epoch 2021-12-26T08:05:18.165984. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/50465/orderby/EPOCH%20asc/limit/1/format/json
+[45] Wikipedia. OneWeb satellite constellation. https://en.wikipedia.org/wiki/OneWeb_satellite_constellation
+[46] NASASpaceflight. Soyuz-ST update. https://forum.nasaspaceflight.com/index.php?topic=13239.msg2303146#msg2303146
+[47] Space-Track.Org. NORAD ID 50469 epoch 2021-12-28T20:00:01.000224. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/50469/orderby/EPOCH%20asc/limit/1/format/json
+[48] Space-Track.Org. NORAD ID 50505 epoch 2021-12-27T23:35:29.567040. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/50505/orderby/EPOCH%20asc/limit/1/format/json
+[49] 上海航天. 长征二号丁：圆满成功！八院年度宇航发射：圆满收官！. https://mp.weixin.qq.com/s/B4Q93gpM6F2L1SJpcbI_Bg
+[50] Space-Track.Org. NORAD ID 50572 epoch 2021-12-29T17:36:34.919136. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/50572/orderby/EPOCH%20asc/limit/1/format/json
+[51] 中国航天报. 48次全胜！中国长征火箭2021年发射成功率100%！. https://mp.weixin.qq.com/s/7YcPEiIRSFJvC3yfxDbshQ
+[52] Space-Track.Org. NORAD ID 50574 epoch 2021-12-29T20:00:03.358080. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/50574/orderby/EPOCH%20asc/limit/1/format/json
 
 视频素材来源
 [1] SpaceX. Starlink Mission. https://youtu.be/594TbXriaAk
@@ -288,6 +384,9 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [5] Роскосмос ТВ. Техническая трансляция запуска пилотируемого корабля «Союз МС-20». https://youtu.be/3WNDLIOcsls
 [6] Rocket Lab. 'A Data With Destiny' Launch. https://youtu.be/PmCl2Hs8enc
 [7] SpaceX. Imaging X-ray Polarimetry Explorer (IXPE) Mission. https://youtu.be/CpmHsN5GUn8
+[8] SpaceX. Starlink Mission. https://youtu.be/q4Ed3EBx90s
+[9] SpaceX. CRS-24 Mission. https://youtu.be/gEv6HLHYhWo
+[10] DiscoverMHI (Mitsubishi Heavy Industries, Ltd.). Live streaming for the launch of H-IIA F45 with I-6 F1/ H-IIAロケット45号機による通信衛星Inmarsat-6 F1 打上げライブ中継. https://youtu.be/-46i9KT83wM
 
 封面来源
 
@@ -297,3 +396,9 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [3] Rocket Lab. A Data With Destiny. https://www.rocketlabusa.com/missions/completed-missions/a-data-with-destiny/
 [4] Wikipedia. IXPE. https://en.wikipedia.org/wiki/IXPE
 [5] 上海航天. 长征火箭400发，长四乙成功发射实践六号05组卫星. https://mp.weixin.qq.com/s/USHlbmUgujDHDgNLMIlFkw
+[6] SpaceX. Truksat 5B. https://www.elonx.net/spacex-mission-patches/#jp-carousel-5109
+[7] Wikipedia. SpaceX CRS-24. https://en.wikipedia.org/wiki/SpaceX_CRS-24
+[8] Wikipedia. James Webb Space Telescope. https://en.wikipedia.org/wiki/James_Webb_Space_Telescope
+[9] 上海航天. 长征四号丙运载火箭发射圆满成功. https://mp.weixin.qq.com/s/7ZiPVkbLIKwJNsxzOp8GyQ
+[10] OneWeb. Launch#12. https://oneweb.net/launch12-mediakit
+[11] 上海航天. 长征二号丁：圆满成功！八院年度宇航发射：圆满收官！. https://mp.weixin.qq.com/s/B4Q93gpM6F2L1SJpcbI_Bg
