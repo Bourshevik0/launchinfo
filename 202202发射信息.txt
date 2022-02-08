@@ -1,0 +1,87 @@
+编号：2022-009
+火箭制造方：美国
+时间：2022-02-02 20:27:26(UTC)
+位置：范登堡太空军基地SLC-E
+任务名：NROL-87
+发射提供方：SpaceX
+载荷运营方：美国国家侦察局(NRO)[1]
+载荷质量：3.2吨[2]
+载具：猎鹰9号Block 5(B1071.1)[3]
+轨道：515 x 529 km，97.40° SSO(太阳同步轨道)[4]
+结果(发射与回收)：成功
+备注：芯级陆上返场回收成功，回收区域LZ-4[3]
+
+编号：2022-010
+火箭制造方：美国
+时间：2022-02-03 18:13:20(UTC)
+位置：肯尼迪航天中心LC-39A
+组名：Starlink Group 4-7(G4-7)
+发射与载荷：SpaceX[1]
+载荷信息：49颗星链卫星(宽带通信卫星)共约12.74吨
+载具：猎鹰9号Block 5(B1061.6)[5]
+轨道：210 x 336 km，53.22° LEO(近地轨道)[6]
+结果(发射与回收)：成功
+回收船：ASOG(A Shortfall of Gravitas)[5]
+
+编号：2022-011
+火箭制造方：俄罗斯
+时间：2021-11-25 01:09:13(UTC)
+位置：普列谢茨克43/4号工位
+发射提供方：俄罗斯空天军
+载荷运营方：俄罗斯国防部[1]
+载荷信息：中子一号星(军事侦察卫星)[1][7]
+载荷质量：1吨[8]
+载具：联盟2.1a / 军舰鸟上面级[1]
+轨道：1987 x 1994 km，67.08° LEO(近地轨道)[9]
+结果：成功
+
+关于轨道
+无额外标注的情况下，轨道一般指载荷所在的初始轨道，可以是预期轨道，或者实际轨道，具体类型根据来源判断。
+
+两组不同的概念
+初始轨道(initial orbit)：载荷与末级火箭分离后所在的轨道，一般不是运营轨道。如果不是发射相关方提供的数据(supTLE)，则以第三方(USSSN)发布的首个TLE数据为准，在后者的情况下会存在误差。
+运营轨道(operational orbit)：载荷长时间运行，执行任务所在的轨道，一般比初始轨道更高，末级难以或不必送入的轨道。
+
+预期轨道(desired orbit)：发射前预期载荷将进入的轨道，可以是初始轨道或者运营轨道。
+实际轨道(actual orbit)：发射后相关方提供的(supTLE)或第三方(USSSN)追踪到的轨道。
+
+若使用USSSN(Space-Track.Org)来源的轨道信息，会标注该数据使用的NORAD ID和epoch，以备查询与核实。需注册后才可查询。
+
+猎鹰9号芯一级代号说明
+B1xxx.xx
+B代表Block，本意为第几代的代，此处无含义
+小数点前的xxx为芯级编号，小数点后的xx为使用次数，如第二次发射时，此处为2
+
+龙飞船代号说明
+C2xx.xx
+C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
+小数点前的xxx为飞船编号，小数点后的xx为使用次数，如第二次使用时，此处为2
+
+来源格式说明
+[(文案)引用顺序] 作者/来源.标题
+链接
+
+编号格式说明
+年份-当年成功发射次序(实际时间顺序)
+使用COSPAR ID中去掉字母的部分，在剪辑不按照实际时间顺序进行时起标识的作用
+
+音乐来源
+
+数据来源
+[1] Wikipedia. List of spaceflight launches in January–June 2022. https://en.wikipedia.org/wiki/List_of_spaceflight_launches_in_January%E2%80%93June_2022
+[2] OneSpeed. Here is a comparison of the first stage telemetry from the CSG-2 and NROL-87 webcasts. https://forum.nasaspaceflight.com/index.php?topic=47476.msg2337268#msg2337268
+[3] NASASpaceflight. SpaceX Falcon 9 : NROL-87 : SLC-4E Vandenberg : 2 February 2022 (20:27 UTC). https://forum.nasaspaceflight.com/index.php?topic=47476.0
+[4] Zarya. 2022 - Satellite & Spacecraft Launches and Detailed Orbits. https://www.zarya.info/Diaries/Launches/Launches.php?year=2022
+[5] NASASpaceflight. SpaceX F9 : Starlink Group 4-7 : KSC LC-39A : 3 February 2022 (18:13 UTC). https://forum.nasaspaceflight.com/index.php?topic=55615.0
+[6] T. S. Kelso. 37 of the 49 #Starlink Group 4-7 satellites. https://twitter.com/TSKelso/status/1489525862194049025
+[7] B. Hendrickx. NPOMash's 14F01/Neitron satellites. https://forum.nasaspaceflight.com/index.php?topic=45081.0
+[8] B. Hendrickx. NPOMash's 14F01/Neitron satellites mass. https://forum.nasaspaceflight.com/index.php?topic=45081.msg2214233#msg2214233
+[9] Space-Track.Org. NORAD ID 51511 epoch 2022-02-05T11:11:57.448896. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/51511/orderby/EPOCH%20asc/limit/1/format/json
+
+视频素材来源
+
+封面来源
+
+徽章来源
+[1] Wikipedia. List of NRO launches. https://en.wikipedia.org/wiki/List_of_NRO_launches#Launch_history
+[2] SpaceX. Starlink. https://www.elonx.net/spacex-mission-patches/#jp-carousel-3624
