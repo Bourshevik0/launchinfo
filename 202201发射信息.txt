@@ -1,0 +1,166 @@
+编号：2022-001
+火箭制造方：美国
+时间：2022-01-06 21:49:10(UTC)
+位置：肯尼迪航天中心LC-39A
+组名：Starlink Group 4-5(G4-5)
+发射与载荷：SpaceX[1]
+载荷信息：49颗星链卫星(宽带通信卫星)共约12.74吨
+载具：猎鹰9号Block 5(B1062.4)[2]
+轨道：210 x 339 km，53.22° LEO(近地轨道)[3]
+结果(发射与回收)：成功
+回收船：ASOG(A Shortfall of Gravitas)[2]
+
+编号：2022-002
+火箭制造方：美国
+时间：2022-01-13 15:25:39(UTC)
+位置：卡角太空军基地SLC-40
+任务名：运输车3(Transporter 3)
+发射提供方：SpaceX
+载荷信息：105个载荷[4]
+载荷质量：3吨
+载具：猎鹰9号Block 5(B1058.10)[5]
+轨道：525 x 537 km，97.49° SSO(太阳同步轨道)[6]
+结果(发射与回收)：成功
+备注：芯级陆上返场回收成功，回收区域LZ-1[4]
+
+编号：2022-003
+火箭制造方：美国
+时间：2022-01-13 22:51:39(UTC)
+位置：从莫哈维航空航天港起飞的宇宙女孩
+任务名：云端之上(Above the Clouds)
+发射提供方：维珍轨道
+载荷信息：STP-VP27B任务载荷四颗(技术验证卫星)，
+包括两颗美国国防部运营的卫星，
+以及NASA ELaNa 29计划载荷两颗；
+另外三个运营方的三个载荷[1]
+载荷质量：0.3吨[7]
+载具：发射器一号[1]
+轨道：496 x 502 km，44.98° LEO(近地轨道)[8]
+结果：成功
+
+编号：2022-004
+火箭制造方：中国
+时间：2022-01-17 10:35(UTC+8)
+位置：太原卫星发射中心9号工位
+发射提供方：航天科技八院
+载荷研制方：中科院微小卫星创新研究院
+载荷信息：试验十三号卫星(技术验证卫星)[9]
+载荷质量：2吨[10]
+载具：长征二号丁遥70[9]
+轨道：468 x 493 km，97.44° SSO(太阳同步轨道)[11]
+结果：成功
+
+编号：2022-005
+火箭制造方：美国
+时间：2022-01-19 02:02:40(UTC)
+位置：肯尼迪航天中心LC-39A
+组名：Starlink Group 4-6(G4-6)
+发射与载荷：SpaceX[1]
+载荷信息：49颗星链卫星(宽带通信卫星)共约12.74吨
+载具：猎鹰9号Block 5(B1060.10)[12]
+轨道：210 x 341 km，53.23° LEO(近地轨道)[13] 
+结果(发射与回收)：成功
+回收船：ASOG(A Shortfall of Gravitas)[2]
+
+编号：2022-006
+火箭制造方：美国
+时间：2022-01-21 19:00:00(UTC)
+位置：卡角太空军基地SLC-41
+任务名：USSF-8
+飞行编号：AV-084
+发射提供方：ULA
+载荷运营方：美国太空军
+载荷信息：GSSAP-5，6(太空监测卫星)[1]
+载荷质量：2吨[14]
+载具：宇宙神五511[1]
+轨道：36106 x 36165 km，0.00° GEO(地球同步轨道)[15]
+结果：成功
+
+编号：2022-007
+火箭制造方：中国
+时间：2022-01-26 07:44(UTC+8)
+位置：酒泉卫星发射中心9401工位[1]
+发射提供方：航天科技八院
+载荷研制方：航天科技八院[16]
+载荷运营方：自然资源部[1]
+载荷信息：陆地探测一号01组A星(合成孔径雷达遥感卫星)约3.2吨
+载具：长征四号丙遥29[16]
+轨道：591 x 601 km，98.80° SSO(太阳同步轨道)[17]
+结果：成功
+
+编号：2022-008
+火箭制造方：美国
+时间：2022-01-31 23:11:14(UTC)
+位置：卡角太空军基地SLC-40
+发射提供方：SpaceX
+载荷运营方：意大利航天局(ASI)[1]
+载荷信息：CSG-2(合成孔径雷达遥感卫星)质量2.205吨[18]
+载具：猎鹰9号Block 5(B1052.3)[19]
+轨道：620 x 626 km，97.89° SSO(太阳同步轨道)[20]
+结果(发射与回收)：成功
+备注：芯级陆上返场回收成功，回收区域LZ-1[19]
+
+关于轨道
+无额外标注的情况下，轨道一般指载荷所在的初始轨道，可以是预期轨道，或者实际轨道，具体类型根据来源判断。
+
+两组不同的概念
+初始轨道(initial orbit)：载荷与末级火箭分离后所在的轨道，一般不是运营轨道。如果不是发射相关方提供的数据(supTLE)，则以第三方(USSSN)发布的首个TLE数据为准，在后者的情况下会存在误差。
+运营轨道(operational orbit)：载荷长时间运行，执行任务所在的轨道，一般比初始轨道更高，末级难以或不必送入的轨道。
+
+预期轨道(desired orbit)：发射前预期载荷将进入的轨道，可以是初始轨道或者运营轨道。
+实际轨道(actual orbit)：发射后相关方提供的(supTLE)或第三方(USSSN)追踪到的轨道。
+
+若使用USSSN(Space-Track.Org)来源的轨道信息，会标注该数据使用的NORAD ID和epoch，以备查询与核实。需注册后才可查询。
+
+猎鹰9号芯一级代号说明
+B1xxx.xx
+B代表Block，本意为第几代的代，此处无含义
+小数点前的xxx为芯级编号，小数点后的xx为使用次数，如第二次发射时，此处为2
+
+龙飞船代号说明
+C2xx.xx
+C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
+小数点前的xxx为飞船编号，小数点后的xx为使用次数，如第二次使用时，此处为2
+
+来源格式说明
+[(文案)引用顺序] 作者/来源.标题
+链接
+
+编号格式说明
+年份-当年成功发射次序(实际时间顺序)
+使用COSPAR ID中去掉字母的部分，在剪辑不按照实际时间顺序进行时起标识的作用
+
+音乐来源
+
+数据来源
+[1] Wikipedia. List of spaceflight launches in January–June 2022. https://en.wikipedia.org/wiki/List_of_spaceflight_launches_in_January%E2%80%93June_2022
+[2] NASASpaceflight. SpaceX F9 : Starlink Group 4-5 : KSC LC-39A : 6 January 2022 (21:49 UTC). https://forum.nasaspaceflight.com/index.php?topic=55323.0
+[3] T. S. Kelso. 49 #Starlink Group 4-5 satellites. https://twitter.com/TSKelso/status/1478567941683646464
+[4] NASASpaceflight. SpaceX F9 : Transporter-3 Rideshare : CCSFS SLC-40 : 13 January 2022 (1525 UTC). https://forum.nasaspaceflight.com/index.php?topic=52372.0
+[5] Wikipedia. List of Falcon 9 and Falcon Heavy launches – Wikipedia. https://en.wikipedia.org/wiki/List_of_Falcon_9_and_Falcon_Heavy_launches#2022
+[6] T. S. Kelso. 44 @Planet Super-Doves. https://twitter.com/TSKelso/status/1481727280812412930
+[7] Wikipedia. LauncherOne. https://en.wikipedia.org/wiki/LauncherOne
+[8] Space-Track.Org. NORAD ID 51097 epoch 2022-01-14T12:58:25.125312. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/51097/orderby/EPOCH%20asc/limit/1/format/json
+[9] 上海航天. 中国航天2022年开门红！长二丁新征程再出发. https://mp.weixin.qq.com/s/RzSmXdXmyileuyS6vZc_Ug
+[10] Space Launch Report. Long March Data Sheet. https://www.spacelaunchreport.com/cz.html
+[11] Space-Track.Org. NORAD ID 51102 epoch 2022-01-17T02:35:17.999808. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/51102/orderby/EPOCH%20asc/limit/1/format/json
+[12] NASASpaceflight. SpaceX F9 : Starlink Group 4-6 : KSC LC-39A : 18/19 January 2022. https://forum.nasaspaceflight.com/index.php?topic=55562.0
+[13] T. S. Kelso. 49 #Starlink Group 4-6 satellites. https://twitter.com/TSKelso/status/1483725519749214210
+[14] ULA. Atlas V. https://www.ulalaunch.com/rockets/atlas-v
+[15] Zarya. 2022 - Satellite & Spacecraft Launches and Detailed Orbits. https://www.zarya.info/Diaries/Launches/Launches.php?year=2022
+[16] 上海航天. 长四丙成功发射陆地探测一号01组A星，填补多项国内空白. https://mp.weixin.qq.com/s/j8Bp0NRS5n6iQj0IRQFxkw
+[17] Space-Track.Org. NORAD ID 51284 epoch 2022-01-26T01:13:59.386656. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/51284/orderby/EPOCH%20asc/limit/1/format/json
+[18] Wikipedia. COSMO-SkyMed. https://en.wikipedia.org/wiki/COSMO-SkyMed
+[19] NASASpaceflight. SpaceX F9 : CSG-2 : CCSFS SLC-40 : 31 January 2022 (23:11 UTC). https://forum.nasaspaceflight.com/index.php?topic=54913.0
+[20] Space-Track.Org. NORAD ID 51444 epoch 2022-02-01T05:48:43.871616. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/51444/orderby/EPOCH%20asc/limit/1/format/json
+
+视频素材来源
+
+封面来源
+
+徽章来源
+[1] SpaceX. Starlink. https://www.elonx.net/spacex-mission-patches/#jp-carousel-3624
+[2] Virgin Orbit. Introducing Our Next Mission: Above the Clouds. https://virginorbit.com/the-latest/introducing-our-next-mission-above-the-clouds/
+[3] 上海航天. 中国航天2022年开门红！长二丁新征程再出发. https://mp.weixin.qq.com/s/RzSmXdXmyileuyS6vZc_Ug
+[4] NASASpaceflight. Atlas V 511 - USSF-8 (GSSAP-5 & 6) - CC SLC-41 - 21 January 2022 (19:00 UTC). https://forum.nasaspaceflight.com/index.php?topic=50123.msg2332136#msg2332136
+[5] 上海航天. 长四丙成功发射陆地探测一号01组A星，填补多项国内空白. https://mp.weixin.qq.com/s/j8Bp0NRS5n6iQj0IRQFxkw
