@@ -164,3 +164,4 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [3] 上海航天. 中国航天2022年开门红！长二丁新征程再出发. https://mp.weixin.qq.com/s/RzSmXdXmyileuyS6vZc_Ug
 [4] NASASpaceflight. Atlas V 511 - USSF-8 (GSSAP-5 & 6) - CC SLC-41 - 21 January 2022 (19:00 UTC). https://forum.nasaspaceflight.com/index.php?topic=50123.msg2332136#msg2332136
 [5] 上海航天. 长四丙成功发射陆地探测一号01组A星，填补多项国内空白. https://mp.weixin.qq.com/s/j8Bp0NRS5n6iQj0IRQFxkw
+[6] SpaceX. CSG-2. https://www.elonx.net/spacex-mission-patches/#jp-carousel-5277

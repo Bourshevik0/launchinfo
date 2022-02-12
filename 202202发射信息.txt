@@ -1,7 +1,7 @@
 编号：2022-009
 火箭制造方：美国
 时间：2022-02-02 20:27:26(UTC)
-位置：范登堡太空军基地SLC-E
+位置：范登堡太空军基地SLC-4E
 任务名：NROL-87
 发射提供方：SpaceX
 载荷运营方：美国国家侦察局(NRO)[1]
@@ -34,6 +34,30 @@
 载具：联盟2.1a / 军舰鸟上面级[1]
 轨道：1987 x 1994 km，67.08° LEO(近地轨道)[9]
 结果：成功
+
+编号：2022-012
+火箭制造方：俄罗斯
+时间：2022-02-10 18:09:37(UTC) 
+位置：圭亚那航天中心库鲁ELS
+飞行编号：VS27
+发射提供方：阿丽亚娜空间
+载荷运营方：OneWeb
+载荷信息：第13批34颗OneWeb卫星(宽带通信卫星)共5.495吨[1][10]
+载具：联盟-2.1b / 军舰鸟-MT[1]
+轨道：463 x 481 km，87.40° LEO(近地轨道)[11]
+结果：成功
+
+编号：2021-F01
+火箭制造方：美国
+时间：2021-02-10 20:00(UTC)
+位置：卡角太空军基地SLC-46
+发射提供方：Astra
+载荷运营方：NASA
+载荷信息：ELaNa 41任务立方星四颗
+载具：Rocket 3 LV0008
+轨道：LEO(近地轨道)
+结果：失败[1]
+备注：整流罩分离失败导致发射失败[12]
 
 关于轨道
 无额外标注的情况下，轨道一般指载荷所在的初始轨道，可以是预期轨道，或者实际轨道，具体类型根据来源判断。
@@ -77,6 +101,9 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [7] B. Hendrickx. NPOMash's 14F01/Neitron satellites. https://forum.nasaspaceflight.com/index.php?topic=45081.0
 [8] B. Hendrickx. NPOMash's 14F01/Neitron satellites mass. https://forum.nasaspaceflight.com/index.php?topic=45081.msg2214233#msg2214233
 [9] Space-Track.Org. NORAD ID 51511 epoch 2022-02-05T11:11:57.448896. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/51511/orderby/EPOCH%20asc/limit/1/format/json
+[10] Arianespace. Soyuz Flight VS27 – Arianespace. https://www.arianespace.com/mission/soyuz-flight-vs27/
+[11] T.S. Kelso. all 34 satellites from the @OneWeb 13 launch. https://twitter.com/TSKelso/status/1491962652456730625
+[12] SpaceNews. Astra launch of NASA-sponsored cubesats fails. https://spacenews.com/astra-launch-of-nasa-sponsored-cubesats-fails/
 
 视频素材来源
 
@@ -85,3 +112,4 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 徽章来源
 [1] Wikipedia. List of NRO launches. https://en.wikipedia.org/wiki/List_of_NRO_launches#Launch_history
 [2] SpaceX. Starlink. https://www.elonx.net/spacex-mission-patches/#jp-carousel-3624
+[3] OneWeb. Launch#13. https://oneweb.net/launch13-mediakit
