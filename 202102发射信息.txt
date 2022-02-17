@@ -98,12 +98,12 @@
 飞行编号：C51
 发射提供方：ISRO
 主载荷信息：巴西国家空间研究所(INPE)的Amazônia-1(土地资源卫星)0.637吨，
-拼车载荷信息：墨西哥国立自治大学(UNAM)的SAI-1(技术验证卫星)，
+搭车载荷信息：墨西哥国立自治大学(UNAM)的SAI-1(技术验证卫星)，
 Space Kidz India的SDSAT(教育卫星)，
 蜂群技术(Swarm Technologies)的太空蜜蜂(SpaceBEE)(窄带通信卫星)12颗，
 JIT / GHRCE / SIET的UNITYsat(技术验证卫星)3颗，
 PESU / DRDO的SindhuNetra(间谍卫星)
-8个客户的18颗卫星共0.022吨[14]
+8个运营方的18颗卫星共0.022吨[14]
 载荷质量：0.659吨
 载具：PSLV-DL[1]
 轨道：742 x 757 km, 98.51° SSO(太阳同步轨道)[4]
