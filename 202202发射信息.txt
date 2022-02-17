@@ -59,6 +59,32 @@
 结果：失败[1]
 备注：整流罩分离失败导致发射失败[12]
 
+编号：2022-013
+火箭制造方：印度
+时间：2022-02-14 00:29(UTC)
+位置：萨迪什·达万航天中心一号工位
+飞行编号：C52
+发射提供方：ISRO
+主载荷信息：ISRO的EOS-04(地球观测卫星)质量1.71吨
+搭车载荷信息：5个运营方2个载荷
+载荷质量：1.73吨
+载具：PSLV-XL[13]
+轨道：516 x 534 km, 97.53° SSO(太阳同步轨道)[14]
+结果：成功
+
+
+编号：2022-014
+火箭制造方：俄罗斯
+时间：2022-02-15 04:25:39(UTC)
+位置：拜科努尔31/6号工位
+发射与载荷：俄罗斯航天集团
+载荷信息：进步MS-19(货运飞船)共7吨，载货2.523吨
+载具：联盟-2.1a
+载荷质量：2.523吨
+轨道：195 x 226 km，51.64° LEO(近地轨道)[16]
+结果：成功
+备注：飞船于UTC时间2月17日07:03:20 对接至国际空间站[15]
+
 关于轨道
 无额外标注的情况下，轨道一般指载荷所在的初始轨道，可以是预期轨道，或者实际轨道，具体类型根据来源判断。
 
@@ -104,6 +130,10 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [10] Arianespace. Soyuz Flight VS27 – Arianespace. https://www.arianespace.com/mission/soyuz-flight-vs27/
 [11] T.S. Kelso. all 34 satellites from the @OneWeb 13 launch. https://twitter.com/TSKelso/status/1491962652456730625
 [12] SpaceNews. Astra launch of NASA-sponsored cubesats fails. https://spacenews.com/astra-launch-of-nasa-sponsored-cubesats-fails/
+[13] NextSpaceflight. PSLV-XL | EOS-04 & Others. https://nextspaceflight.com/launches/details/2023
+[14] Space-Track.Org. NORAD ID 51656 epoch 2022-02-14T01:49:58.931328. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/51656/orderby/EPOCH%20asc/limit/1/format/json
+[15] Wikipedia. Progress MS-19. https://en.wikipedia.org/wiki/Progress_MS-19
+[16] Space-Track.Org. NORAD ID 51660 epoch 2022-02-15T04:56:53.630592. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/51660/orderby/EPOCH%20asc/limit/1/format/json
 
 视频素材来源
 
