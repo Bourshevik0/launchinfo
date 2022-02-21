@@ -85,6 +85,18 @@
 结果：成功
 备注：飞船于UTC时间2月17日07:03:20 对接至国际空间站[15]
 
+编号：2022-015
+火箭制造方：美国
+时间：2022-02-19 17:40:03(UTC)
+位置：中大西洋区太空空港(MARS)LP-0A
+任务名：CRS NG-17
+发射提供方：诺斯罗普格鲁曼
+载荷运营方：NASA
+载荷信息：天鹅座S. S.皮尔斯·塞勒斯(货运飞船)载货3.8吨
+载具：安塔瑞斯230+[17]
+轨道：254 x 313 km, 51.66° LEO(近地轨道)[18]
+结果：成功
+
 关于轨道
 无额外标注的情况下，轨道一般指载荷所在的初始轨道，可以是预期轨道，或者实际轨道，具体类型根据来源判断。
 
@@ -134,6 +146,8 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [14] Space-Track.Org. NORAD ID 51656 epoch 2022-02-14T01:49:58.931328. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/51656/orderby/EPOCH%20asc/limit/1/format/json
 [15] Wikipedia. Progress MS-19. https://en.wikipedia.org/wiki/Progress_MS-19
 [16] Space-Track.Org. NORAD ID 51660 epoch 2022-02-15T04:56:53.630592. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/51660/orderby/EPOCH%20asc/limit/1/format/json
+[17] Wikipedia. Cygnus NG-17. https://en.wikipedia.org/wiki/Cygnus_NG-17
+[18] Space-Track.Org. NORAD ID 51712 epoch 2022-02-19T19:20:24.523296. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/51712/orderby/EPOCH%20asc/limit/1/format/json
 
 视频素材来源
 
