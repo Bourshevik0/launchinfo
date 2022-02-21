@@ -57,7 +57,7 @@
 载具：Rocket 3 LV0008
 轨道：LEO(近地轨道)
 结果：失败[1]
-备注：整流罩分离失败导致发射失败[12]
+失败原因：整流罩分离失败[12]
 
 编号：2022-013
 火箭制造方：印度
@@ -71,7 +71,6 @@
 载具：PSLV-XL[13]
 轨道：516 x 534 km, 97.53° SSO(太阳同步轨道)[14]
 结果：成功
-
 
 编号：2022-014
 火箭制造方：俄罗斯
@@ -150,6 +149,14 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [18] Space-Track.Org. NORAD ID 51712 epoch 2022-02-19T19:20:24.523296. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/51712/orderby/EPOCH%20asc/limit/1/format/json
 
 视频素材来源
+[1] SpaceX. NROL-87. https://youtu.be/bVk8XyjhTKo
+[2] SpaceX. Starlink Mission. https://youtu.be/UY3fZ6PwuUY
+[3] Минобороны России. Пуск ракеты-носителя «Союз-2.1а» с космодрома Плесецк. https://youtu.be/F-A2ShK6Cmc
+[4] OneWeb. OneWeb Launch#13. https://youtu.be/HOSvDC0tVik
+[5] NASASpaceflight. Astra Launches NASA's ELaNa 41 Mission. https://youtu.be/8jlQmW7mnYM
+[6] ISRO Official. Launch of PSLV-C52/EOS-04. https://youtu.be/3fGDXyRYLKQ
+[7] Роскосмос ТВ. Трансляция запуска грузового корабля «Прогресс МС-19». https://youtu.be/GhiB15bXoeM
+[8] NASA. Watch S.S. Piers Sellers Cygnus Capsule Launch to the Space Station – Official NASA Broadcast. https://youtu.be/EmJt3Hj2pZY
 
 封面来源
 
