@@ -96,6 +96,18 @@
 轨道：254 x 313 km, 51.66° LEO(近地轨道)[18]
 结果：成功
 
+编号：2022-016
+火箭制造方：美国
+时间：2022-02-21 14:44:20(UTC)
+位置：卡角太空军基地SLC-40
+组名：Starlink Group 4-8(G4-8)
+发射与载荷：SpaceX
+载荷信息：46颗星链卫星(宽带通信卫星)共约11.96吨
+载具：猎鹰9号Block 5(B1058.11)[19]
+轨道：324 x 336 km，53.22° LEO(近地轨道)[20]
+结果(发射与回收)：成功
+回收船：ASOG(A Shortfall of Gravitas)[19]
+
 关于轨道
 无额外标注的情况下，轨道一般指载荷所在的初始轨道，可以是预期轨道，或者实际轨道，具体类型根据来源判断。
 
@@ -147,6 +159,8 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [16] Space-Track.Org. NORAD ID 51660 epoch 2022-02-15T04:56:53.630592. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/51660/orderby/EPOCH%20asc/limit/1/format/json
 [17] Wikipedia. Cygnus NG-17. https://en.wikipedia.org/wiki/Cygnus_NG-17
 [18] Space-Track.Org. NORAD ID 51712 epoch 2022-02-19T19:20:24.523296. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/51712/orderby/EPOCH%20asc/limit/1/format/json
+[19] NASASpaceflight. SpaceX F9 : Starlink group 4-8 : CCSFS SLC-40 : 21 February 2022 (14:44 UTC). https://forum.nasaspaceflight.com/index.php?topic=55686.0
+[20] T. S. Kelso. 46 satellites from the #Starlink Group 4-8 launch. https://twitter.com/TSKelso/status/1496213289474600961
 
 视频素材来源
 [1] SpaceX. NROL-87. https://youtu.be/bVk8XyjhTKo
