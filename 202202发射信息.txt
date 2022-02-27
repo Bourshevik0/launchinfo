@@ -93,7 +93,7 @@
 载荷运营方：NASA
 载荷信息：天鹅座S. S.皮尔斯·塞勒斯(货运飞船)载货3.8吨
 载具：安塔瑞斯230+[17]
-轨道：254 x 313 km, 51.66° LEO(近地轨道)[18]
+轨道：182 x 320 km, 51.64° LEO(近地轨道)[18]
 结果：成功
 
 编号：2022-016
@@ -107,6 +107,41 @@
 轨道：324 x 336 km，53.22° LEO(近地轨道)[20]
 结果(发射与回收)：成功
 回收船：ASOG(A Shortfall of Gravitas)[19]
+
+编号：2022-017
+火箭制造方：美国
+时间：2022-02-25 17:12:10(UTC)
+位置：范登堡太空军基地SLC-4E
+组名：Starlink Group 4-11(G4-11)
+发射与载荷：SpaceX
+载荷信息：50颗星链卫星(宽带通信卫星)共约13吨
+载具：猎鹰9号Block 5(B1063.4)[21]
+轨道：304 x 313 km，53.22° LEO(近地轨道)[22]
+结果(发射与回收)：成功
+回收船：OCISLY(Of Course I Still Love You)[21]
+
+编号：2022-018
+火箭制造方：中国
+时间：2022-02-27 07:44(UTC+8)
+位置：酒泉卫星发射中心9401工位[1]
+发射提供方：航天科技八院
+载荷研制方：航天科技八院[23]
+载荷运营方：自然资源部[1]
+载荷信息：陆地探测一号01组A星(合成孔径雷达遥感卫星)约3.2吨
+载具：长征四号丙遥30[23]
+轨道：596 x 600 km，97.81° SSO(太阳同步轨道)[24]
+结果：成功
+
+编号：2021-019
+火箭制造方：中国
+时间：2022-02-27 11:06(UTC+8)
+位置：文昌航天发射场2号工位(LC-201)[1]
+发射提供方：航天科技一院
+载荷信息：7个研制方的22颗卫星[25]
+载荷质量：2.6吨
+载具：长征八号遥二(无助推器)
+轨道：500km SSO(太阳同步轨道)[26]
+结果：成功
 
 关于轨道
 无额外标注的情况下，轨道一般指载荷所在的初始轨道，可以是预期轨道，或者实际轨道，具体类型根据来源判断。
@@ -158,9 +193,15 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [15] Wikipedia. Progress MS-19. https://en.wikipedia.org/wiki/Progress_MS-19
 [16] Space-Track.Org. NORAD ID 51660 epoch 2022-02-15T04:56:53.630592. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/51660/orderby/EPOCH%20asc/limit/1/format/json
 [17] Wikipedia. Cygnus NG-17. https://en.wikipedia.org/wiki/Cygnus_NG-17
-[18] Space-Track.Org. NORAD ID 51712 epoch 2022-02-19T19:20:24.523296. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/51712/orderby/EPOCH%20asc/limit/1/format/json
+[18] NASA. Watch S.S. Piers Sellers Cygnus Capsule Launch to the Space Station – Official NASA Broadcast. https://youtu.be/EmJt3Hj2pZY?t=2160
 [19] NASASpaceflight. SpaceX F9 : Starlink group 4-8 : CCSFS SLC-40 : 21 February 2022 (14:44 UTC). https://forum.nasaspaceflight.com/index.php?topic=55686.0
 [20] T. S. Kelso. 46 satellites from the #Starlink Group 4-8 launch. https://twitter.com/TSKelso/status/1496213289474600961
+[21] NASASpaceflight. SpaceX F9 : Starlink group 4-11 : VSFB SLC-4E : 25 February 2022 (17:12 UTC). https://forum.nasaspaceflight.com/index.php?topic=55609.0
+[22] T. S. Kelso. 50 #Starlink Group 4-11 satellites. https://twitter.com/TSKelso/status/1497797393055580160
+[23] 上海航天. 长征四号丙火箭成功发射陆地探测一号01组B星. https://mp.weixin.qq.com/s/7YSWg8yvF29gU8_ofOsY5Q
+[24] Space-Track.Org. NORAD ID 51822 epoch 2022-02-27T02:40:47.233056. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/51822/orderby/EPOCH%20asc/limit/1/format/json
+[25] 航天科技一院. 一箭22星！长八，成功！ . https://mp.weixin.qq.com/s/iB7vrQ14bKiHZcxXeXgxqQ
+[26] 中国航天报. 创我国新纪录！. https://mp.weixin.qq.com/s/4ytIVMfGfyNDOVXrGyMplQ
 
 视频素材来源
 [1] SpaceX. NROL-87. https://youtu.be/bVk8XyjhTKo
@@ -171,10 +212,24 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [6] ISRO Official. Launch of PSLV-C52/EOS-04. https://youtu.be/3fGDXyRYLKQ
 [7] Роскосмос ТВ. Трансляция запуска грузового корабля «Прогресс МС-19». https://youtu.be/GhiB15bXoeM
 [8] NASA. Watch S.S. Piers Sellers Cygnus Capsule Launch to the Space Station – Official NASA Broadcast. https://youtu.be/EmJt3Hj2pZY
+[9] SpaceX. Starlink Mission. https://youtu.be/nnVOfKOzXHE
+[10] 大漠问天. 我国成功发射L-SAR 01组B星. https://mp.weixin.qq.com/s/z7dDKMtEuEl2ryVpEBWmMA
+[11] 大漠问天. 无人机视角看长征四号丙/陆地探测一号01组B星起飞. https://weibo.com/5616492130/LhnaS3OFc
+[12] SciNews. Long March-8 Y2 launches 22 satellites. https://youtu.be/h_dwt4jaUUM
 
 封面来源
+[1] SpaceX. NROL-87 Mission. https://www.flickr.com/photos/spacex/51859123422/
+[2] SpaceX. Starlink Mission. https://www.flickr.com/photos/spacex/51870446669/
+[3] Минобороны России. Пуск ракеты-носителя «Союз-2.1а» с космодрома Плесецк. https://youtu.be/F-A2ShK6Cmc
+[4] Arianespace.  #Soyuz successfully orbited 34 @OneWeb satellites. https://twitter.com/Arianespace/status/1491892295330942979
+[5] NASASpaceflight. Astra Launches NASA's ELaNa 41 Mission. https://youtu.be/8jlQmW7mnYM
+[6] ISRO. PSLV-C52/EOS-04 Mission. https://www.isro.gov.in/launcher/pslv-c52-eos-04-mission
+[7] Роскосмос. Новый «грузовик» стартовал к МКС - Новости – Госкорпорация. https://www.roscosmos.ru/34139/
+[8] NASA Wallops/Patrick Black. Antares NG CRS-17 Launch (NG17 Launch rc1). https://www.flickr.com/photos/gsfc/51891749002/
+[9] SpaceX. Starlink Mission. https://www.flickr.com/photos/spacex/51897183392/
 
 徽章来源
 [1] Wikipedia. List of NRO launches. https://en.wikipedia.org/wiki/List_of_NRO_launches#Launch_history
 [2] SpaceX. Starlink. https://www.elonx.net/spacex-mission-patches/#jp-carousel-3624
 [3] OneWeb. Launch#13. https://oneweb.net/launch13-mediakit
+[4] 上海航天. 长征四号丙火箭成功发射陆地探测一号01组B星. https://mp.weixin.qq.com/s/7YSWg8yvF29gU8_ofOsY5Q
