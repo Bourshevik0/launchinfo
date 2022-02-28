@@ -139,8 +139,8 @@
 发射提供方：航天科技一院
 载荷信息：7个研制方的22颗卫星[25]
 载荷质量：2.6吨
-载具：长征八号遥二(无助推器)
-轨道：500km SSO(太阳同步轨道)[26]
+载具：长征八号遥二(无助推器)[26]
+轨道：450 x 549 km，97.58° SSO(太阳同步轨道)[27]
 结果：成功
 
 关于轨道
@@ -202,6 +202,7 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [24] Space-Track.Org. NORAD ID 51822 epoch 2022-02-27T02:40:47.233056. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/51822/orderby/EPOCH%20asc/limit/1/format/json
 [25] 航天科技一院. 一箭22星！长八，成功！ . https://mp.weixin.qq.com/s/iB7vrQ14bKiHZcxXeXgxqQ
 [26] 中国航天报. 创我国新纪录！. https://mp.weixin.qq.com/s/4ytIVMfGfyNDOVXrGyMplQ
+[27] Space-Track.Org. NORAD ID 51824 epoch 2022-02-27T07:38:41.329824. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/51824/orderby/EPOCH%20asc/limit/1/format/json
 
 视频素材来源
 [1] SpaceX. NROL-87. https://youtu.be/bVk8XyjhTKo
