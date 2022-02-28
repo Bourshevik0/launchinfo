@@ -132,16 +132,18 @@
 轨道：596 x 600 km，97.81° SSO(太阳同步轨道)[24]
 结果：成功
 
-编号：2021-019
+编号：2022-019
 火箭制造方：中国
-时间：2022-02-27 11:06(UTC+8)
+时间：2022-02-27 11:06:28(UTC+8)
 位置：文昌航天发射场2号工位(LC-201)[1]
+任务代号：07-W11
 发射提供方：航天科技一院
 载荷信息：7个研制方的22颗卫星[25]
 载荷质量：2.6吨
 载具：长征八号遥二(无助推器)[26]
 轨道：450 x 549 km，97.58° SSO(太阳同步轨道)[27]
 结果：成功
+备注：刷新了长征火箭最短发射间隔纪录至3小时22分钟[26]
 
 关于轨道
 无额外标注的情况下，轨道一般指载荷所在的初始轨道，可以是预期轨道，或者实际轨道，具体类型根据来源判断。
@@ -228,6 +230,9 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [7] Роскосмос. Новый «грузовик» стартовал к МКС - Новости – Госкорпорация. https://www.roscosmos.ru/34139/
 [8] NASA Wallops/Patrick Black. Antares NG CRS-17 Launch (NG17 Launch rc1). https://www.flickr.com/photos/gsfc/51891749002/
 [9] SpaceX. Starlink Mission. https://www.flickr.com/photos/spacex/51897183392/
+[10] SpaceX. Starlink Mission. https://www.flickr.com/photos/spacex/51904998190/
+[11] 我们的太空. 长征四号丙遥三十·酒泉·成功发射陆地探测一号01组B星. https://zhuanlan.zhihu.com/p/473055530
+[12] 我们的太空. 我国成功发射泰景三号01卫星等22颗卫星！. https://zhuanlan.zhihu.com/p/473108684
 
 徽章来源
 [1] Wikipedia. List of NRO launches. https://en.wikipedia.org/wiki/List_of_NRO_launches#Launch_history
