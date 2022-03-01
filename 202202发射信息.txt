@@ -188,6 +188,9 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 使用COSPAR ID中去掉字母的部分，在剪辑不按照实际时间顺序进行时起标识的作用
 
 音乐来源
+[1] Stevia Sphere. A Sphere Made of Stevia. https://steviasphere.bandcamp.com/track/a-sphere-made-of-stevia
+[2] Vladmsorensen(Ft.Sheiko). Vigilante. https://youtu.be/2zT6h-sOGoU
+[3] Floating Anarchy. Let It Go. https://youtu.be/HgB4jaw-rcw
 
 数据来源
 [1] Wikipedia. List of spaceflight launches in January–June 2022. https://en.wikipedia.org/wiki/List_of_spaceflight_launches_in_January%E2%80%93June_2022
