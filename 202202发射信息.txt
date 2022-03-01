@@ -145,6 +145,18 @@
 结果：成功
 备注：刷新了长征火箭最短发射间隔纪录至3小时22分钟[26]
 
+编号：2022-020
+火箭制造方：美国
+时间：2022-02-28 20:37:25(UTC)
+位置：火箭实验室LC-1B(新西兰玛希亚)
+任务名：The Owl's Night Continues(猫头鹰之夜继续)
+发射提供方：火箭实验室
+载荷运营方：Synspective[1]
+载荷信息：StriX-β(雷达遥感卫星)质量约0.150吨[28]
+载具：电子火箭[1]
+轨道：555 x 572 km，97.78° SSO(太阳同步轨道)[29]
+结果：成功
+
 关于轨道
 无额外标注的情况下，轨道一般指载荷所在的初始轨道，可以是预期轨道，或者实际轨道，具体类型根据来源判断。
 
@@ -205,6 +217,8 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [25] 航天科技一院. 一箭22星！长八，成功！ . https://mp.weixin.qq.com/s/iB7vrQ14bKiHZcxXeXgxqQ
 [26] 中国航天报. 创我国新纪录！. https://mp.weixin.qq.com/s/4ytIVMfGfyNDOVXrGyMplQ
 [27] Space-Track.Org. NORAD ID 51824 epoch 2022-02-27T07:38:41.329824. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/51824/orderby/EPOCH%20asc/limit/1/format/json
+[28] Gunter's Space Page. StriX β. https://space.skyrocket.de/doc_sdat/strix-beta.htm
+[29] Space-Track.Org. NORAD ID 51822 epoch 2022-02-28T23:20:39.794784. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/51822/orderby/EPOCH%20asc/limit/1/format/json
 
 视频素材来源
 [1] SpaceX. NROL-87. https://youtu.be/bVk8XyjhTKo
@@ -219,6 +233,7 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [10] 大漠问天. 我国成功发射L-SAR 01组B星. https://mp.weixin.qq.com/s/z7dDKMtEuEl2ryVpEBWmMA
 [11] 大漠问天. 无人机视角看长征四号丙/陆地探测一号01组B星起飞. https://weibo.com/5616492130/LhnaS3OFc
 [12] SciNews. Long March-8 Y2 launches 22 satellites. https://youtu.be/h_dwt4jaUUM
+[13] Rocket Lab. "The Owl's Night Continues" Launch. http://youtu.be/MjfNJjTyfKY
 
 封面来源
 [1] SpaceX. NROL-87 Mission. https://www.flickr.com/photos/spacex/51859123422/
@@ -233,9 +248,11 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [10] SpaceX. Starlink Mission. https://www.flickr.com/photos/spacex/51904998190/
 [11] 我们的太空. 长征四号丙遥三十·酒泉·成功发射陆地探测一号01组B星. https://zhuanlan.zhihu.com/p/473055530
 [12] 我们的太空. 我国成功发射泰景三号01卫星等22颗卫星！. https://zhuanlan.zhihu.com/p/473108684
+[13] Rocket Lab. "The Owl's Night Continues" Launch. https://youtu.be/MjfNJjTyfKY?t=1153
 
 徽章来源
 [1] Wikipedia. List of NRO launches. https://en.wikipedia.org/wiki/List_of_NRO_launches#Launch_history
 [2] SpaceX. Starlink. https://www.elonx.net/spacex-mission-patches/#jp-carousel-3624
 [3] OneWeb. Launch#13. https://oneweb.net/launch13-mediakit
 [4] 上海航天. 长征四号丙火箭成功发射陆地探测一号01组B星. https://mp.weixin.qq.com/s/7YSWg8yvF29gU8_ofOsY5Q
+[5] Rocket Lab. The Owl's Night Continues. https://www.rocketlabusa.com/missions/completed-missions/the-owls-night-continues/
