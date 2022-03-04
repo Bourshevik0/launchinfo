@@ -11,6 +11,18 @@
 轨道：8893 x 35274 km，9.45° HPGTO(高近地点地球同步转移轨道)[3][4]
 结果：成功
 
+编号：2022-022
+火箭制造方：美国
+时间：2022-03-03 14:25:00(UTC)[1]
+位置：肯尼迪航天中心LC-39A
+组名：Starlink Group 4-9(G4-9)
+发射与载荷：SpaceX
+载荷信息：47颗星链卫星(宽带通信卫星)共约12.22吨
+载具：猎鹰9号Block 5(B1060.11)[5]
+轨道：305 x 317 km，53.21° LEO(近地轨道)[6]
+结果(发射与回收)：成功
+回收船：JRTI(Just Read the Instructions)[5]
+
 关于轨道
 无额外标注的情况下，轨道一般指载荷所在的初始轨道，可以是预期轨道，或者实际轨道，具体类型根据来源判断。
 
@@ -49,6 +61,8 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [2] Wikipedia. GOES-T. https://en.wikipedia.org/wiki/GOES-T
 [3] Space-Track.Org. NORAD ID 51850 epoch 2022-03-02T02:48:20.545344. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/51850/orderby/EPOCH%20asc/limit/1/format/json
 [4] Tory Bruno. orbital mechanics. https://twitter.com/torybruno/status/1288563313828343808
+[5] NASASpaceflight. SpaceX F9 : Starlink group 4-9 : KSC LC-39A : 3 March 2022 (14:25 UTC). https://forum.nasaspaceflight.com/index.php?topic=55819.0
+[6] T.S. Kelso. pre-launch SupTLEs for the #Starlink Group 4-9. https://twitter.com/TSKelso/status/1498929925419503619
 
 视频素材来源
 [1] 
