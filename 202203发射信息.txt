@@ -71,6 +71,18 @@
 轨道：470 x 537 km，97.49° SSO(太阳同步轨道)[16]
 结果：成功
 
+编号：2022-027
+火箭制造方：中国
+时间：2022-03-17 15:09(UTC+8)
+位置：酒泉卫星发射中心9401工位
+发射提供方：航天科技八院
+载荷研制方：航天科技八院
+载荷信息：遥感三十四号卫星02星(地球观测卫星)[17]
+载荷质量：4.2吨[18]
+载具：长征四号丙遥47[17]
+轨道：1092 x 1097 km，63.40° LEO(近地轨道)[19]
+结果：成功
+
 关于轨道
 无额外标注的情况下，轨道一般指载荷所在的初始轨道，可以是预期轨道，或者实际轨道，具体类型根据来源判断。
 
@@ -121,6 +133,9 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [14] T.S. Kelso. ephemeris-based SupTLEs for all 48 #Starlink Group 4-10. https://twitter.com/TSKelso/status/1501808140316119040
 [15] Wikipedia. List of Astra rocket launches. https://en.wikipedia.org/wiki/List_of_Astra_rocket_launches#Rocket_3
 [16] Space-Track.Org. NORAD ID 52008 epoch 2022-03-15T18:02:37.794048. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/52008/orderby/EPOCH%20asc/limit/1/format/json
+[17] 上海航天. 长四丙成功发射遥感三十四号02星. https://mp.weixin.qq.com/s/qqAW7TfIQEZcsFgRLUhAAw
+[18] Space Launch Report. Long March Data Sheet. https://www.spacelaunchreport.com/cz.html
+[19] Space-Track.Org. NORAD ID 52084 epoch 2022-03-15T18:02:37.794048. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/52084/orderby/EPOCH%20asc/limit/1/format/json
 
 视频素材来源
 [1] 
@@ -130,3 +145,5 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 
 徽章来源
 [1] NOAA/NASA. Color GOES-T Logo. https://www.goes-r.gov/multimedia/logos-T.html
+[2] SpaceX. Starlink. https://www.elonx.net/spacex-mission-patches/#jp-carousel-3624
+[3] 上海航天. 长四丙成功发射遥感三十四号02星. https://mp.weixin.qq.com/s/qqAW7TfIQEZcsFgRLUhAAw
