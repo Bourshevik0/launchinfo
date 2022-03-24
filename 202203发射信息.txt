@@ -89,7 +89,7 @@
 时间：2022-03-18 15:55:18(UTC)
 位置：拜科努尔31/6号工位
 发射与运营：俄罗斯航天集团[1]
-载荷信息：联盟MS-19(载人飞船)约7.1吨[20][21]
+载荷信息：联盟MS-21(载人飞船)约7.1吨[20][21]
 载具：联盟-2.1a
 轨道：200 x 244 km，51.67° LEO(近地轨道)[22]
 结果：成功
@@ -111,6 +111,17 @@
 回收船：JRTI(Just Read the Instructions)[24]
 备注：首次12手火箭回收成功[26]，
 目前为止最重的猎鹰9号载荷[23]
+
+编号：2022-030
+火箭制造方：俄罗斯
+时间：2022-03-22 12:48:22(UTC)
+位置：普列谢茨克43/4号工位
+发射提供方：俄罗斯战略导弹部队
+载荷运营方：俄罗斯国防部
+载荷信息：子午线-M 10号(宽带通信卫星)2吨[1][27]
+载具：联盟2.1a / 军舰鸟上面级[1]
+轨道：974 x 39767 km，62.82° HEO(大椭圆轨道)[28]
+结果：成功
 
 关于轨道
 无额外标注的情况下，轨道一般指载荷所在的初始轨道，可以是预期轨道，或者实际轨道，具体类型根据来源判断。
@@ -172,12 +183,14 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [24] NASASpaceflight. SpaceX F9 : Starlink group 4-12 : CCSFS SLC-40 : 19 March 2022 (04:42 UTC). https://forum.nasaspaceflight.com/index.php?topic=55877.0
 [25] T.S. Kelso. ephemeris-based SupTLEs for all 53 #Starlink Group 4-12. https://twitter.com/TSKelso/status/1505331003216203776
 [26] Wikipedia. List of Falcon 9 first-stage boosters. https://en.wikipedia.org/wiki/List_of_Falcon_9_first-stage_boosters#Block_5
+[27] Wikipedia. Meridian (satellite). https://en.wikipedia.org/wiki/Meridian_(satellite)
+[28] Space-Track.Org. NORAD ID 52145 epoch 2022-03-15T18:02:37.794048. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/52145/orderby/EPOCH%20asc/limit/1/format/json
 
 视频素材来源
-[1] 
+[1] 大漠问天. 我国成功发射遥感三十四号02星. https://mp.weixin.qq.com/s/NUs0rccVbzBio2xZpO7icg
 
 封面来源
-[1] 
+[1] 我们的太空. 长四丙火箭成功发射遥感三十四号02星. https://zhuanlan.zhihu.com/p/482591562
 
 徽章来源
 [1] NOAA/NASA. Color GOES-T Logo. https://www.goes-r.gov/multimedia/logos-T.html
