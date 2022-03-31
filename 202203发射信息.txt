@@ -178,8 +178,9 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 使用COSPAR ID中去掉字母的部分，在剪辑不按照实际时间顺序进行时起标识的作用
 
 音乐来源
-[1] HurricaneTurtle. Shelled Out. https://youtu.be/fzJUKXBFlc0
-[2] Nihilore. The Bright Lights of Summer. http://www.nihilore.com/latest-tracks/2021/12/13/the-bright-lights-of-summer
+[1] Stevia Sphere. A Sphere Made of Stevia. https://steviasphere.bandcamp.com/track/a-sphere-made-of-stevia
+[2] HurricaneTurtle. Shelled Out. https://youtu.be/fzJUKXBFlc0
+[3] Nihilore. The Bright Lights of Summer. http://www.nihilore.com/latest-tracks/2021/12/13/the-bright-lights-of-summer
 
 数据来源
 [1] Wikipedia. List of spaceflight launches in January–June 2022. https://en.wikipedia.org/wiki/List_of_spaceflight_launches_in_January%E2%80%93June_2022
