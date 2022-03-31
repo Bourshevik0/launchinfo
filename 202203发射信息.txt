@@ -25,7 +25,7 @@
 
 编号：2022-023
 火箭制造方：中国
-时间：2022-03-05 14:01(UTC+8)
+时间：2022-03-05 14:01:19(UTC+8)
 位置：西昌卫星发射中心3号工位[1]
 发射提供方：航天科技一院[7]
 载荷信息：银河航天的02批6颗卫星(宽带通信卫星)，
@@ -34,7 +34,7 @@
 载具：长征二号丙遥62[1]
 轨道：477 x 501 km，63.45° LEO(近地轨道)[10]
 结果：成功
-备注：长二丙两级构型首次中心承力筒侧挂式多星组网发射[7]
+备注：长二丙两级构型首次中心承力筒侧挂式多星组网发射[7]，
 验证整流罩落区控制技术[23]
 
 编号：2022-024
@@ -70,7 +70,6 @@
 载具：Rocket 3 LV0009[1]
 轨道：470 x 537 km，97.49° SSO(太阳同步轨道)[16]
 结果：成功
-
 
 编号：2022-027
 火箭制造方：中国
@@ -123,6 +122,31 @@
 轨道：974 x 39767 km，62.82° HEO(大椭圆轨道)[28]
 结果：成功
 
+编号：2022-031
+火箭制造方：中国
+时间：2022-03-29 09:50(UTC+8)[1]
+位置：太原卫星发射中心9A01工位[29]
+发射提供方：航天科技八院
+载荷信息：航天科技八院研制的浦江二号卫星(地球观测卫星)，
+航天科工二院研制的天鲲二号(技术验证卫星)
+载荷质量：4吨[30]
+载具：长征六号甲遥一[1]
+轨道：588 x 605 km，97.79° SSO(太阳同步轨道)[31]
+结果：成功
+备注：长六甲首飞
+
+编号：2022-032
+火箭制造方：中国
+时间：2022-03-30 10:29(UTC+8)
+位置：酒泉卫星发射中心
+发射提供方：航天科技一院
+载荷信息：航天科工二院研制的天平二号A卫星(雷达标定卫星)，
+浙江大学研制的天平二号B，C卫星(大气科学卫星)[32]
+载荷质量：0.7吨[33]
+载具：长征十一号遥10[1]
+轨道：595 x 601 km，97.79° SSO(太阳同步轨道)[34]
+结果：成功
+
 关于轨道
 无额外标注的情况下，轨道一般指载荷所在的初始轨道，可以是预期轨道，或者实际轨道，具体类型根据来源判断。
 
@@ -154,7 +178,8 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 使用COSPAR ID中去掉字母的部分，在剪辑不按照实际时间顺序进行时起标识的作用
 
 音乐来源
-[1] 
+[1] HurricaneTurtle. Shelled Out. https://youtu.be/fzJUKXBFlc0
+[2] Nihilore. The Bright Lights of Summer. http://www.nihilore.com/latest-tracks/2021/12/13/the-bright-lights-of-summer
 
 数据来源
 [1] Wikipedia. List of spaceflight launches in January–June 2022. https://en.wikipedia.org/wiki/List_of_spaceflight_launches_in_January%E2%80%93June_2022
@@ -185,15 +210,43 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [26] Wikipedia. List of Falcon 9 first-stage boosters. https://en.wikipedia.org/wiki/List_of_Falcon_9_first-stage_boosters#Block_5
 [27] Wikipedia. Meridian (satellite). https://en.wikipedia.org/wiki/Meridian_(satellite)
 [28] Space-Track.Org. NORAD ID 52145 epoch 2022-03-15T18:02:37.794048. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/52145/orderby/EPOCH%20asc/limit/1/format/json
+[29] 科技日报. #长征六号改运载火箭首飞#. https://weibo.com/3515639462/Lm08jeQqE
+[30] 上海航天. 长六改首飞圆满成功，我国新一代运载火箭再添新成员. https://mp.weixin.qq.com/s/0cK1Ob63VDyLXyidQH-xlA
+[31] Space-Track.Org. NORAD ID 52150 epoch 2022-03-29T12:57:20.530080. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/52150/orderby/EPOCH%20asc/limit/1/format/json
+[32] 中国航天报. 这次是“全固”，长十一“一箭三星”发射成功. https://mp.weixin.qq.com/s/lZMV1me60jgzQZMBzNtwfg
+[33] Space Launch Report. Chang Zheng 11 Data Sheet. https://www.spacelaunchreport.com/cz11.html
+[34] Space-Track.Org. NORAD ID 52153 epoch 2022-03-30T05:23:48.318720. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/52153/orderby/EPOCH%20asc/limit/1/format/json
 
 视频素材来源
-[1] 大漠问天. 我国成功发射遥感三十四号02星. https://mp.weixin.qq.com/s/NUs0rccVbzBio2xZpO7icg
+[1] NASA. Watch NOAA's GOES-T Weather Satellite Launch to Geostationary Orbit. https://youtu.be/q0giRXI3FvA
+[2] United Launch Alliance. Atlas V GOES-T Launch Highlights. https://youtu.be/dSa739G2aXU
+[3] United Launch Alliance. Atlas V GOES-T Rocket Cam. https://youtu.be/e4dRTs0YAoo
+[4] SpaceX. Starlink Mission. https://youtu.be/ypb2sDdUkRo
+[5] SciNews. Long March-2C launches seven satellites. https://youtu.be/5GCn4pvEiKM
+[6] IMA Media. IMA Media Download Center. https://s.imadl.ir/2u
+[7] SpaceX. Starlink Mission. https://youtu.be/uqAppamdGyo
+[8] NASASpaceflight. Astra Launches Spaceflight Astra-1 Mission. https://youtu.be/zYNXoC1qTLo
+[9] Astra. Spaceflight Astra-1 mission. https://vimeo.com/688711956
+[10] 大漠问天. 我国成功发射遥感三十四号02星. https://mp.weixin.qq.com/s/NUs0rccVbzBio2xZpO7icg
+[11] Роскосмос. Трансляция запуска «бауманского» экипажа на МКС. https://vk.com/video-30315369_456242997
+[12] SpaceX. Starlink Mission. https://youtu.be/0giA6VZOICs
+[13] Минобороны России. Пуск ракеты-носителя среднего класса «Союз-2.1а». https://vk.com/video/@milz=video-133441491_456252476
 
 封面来源
-[1] 我们的太空. 长四丙火箭成功发射遥感三十四号02星. https://zhuanlan.zhihu.com/p/482591562
+[1] NASA/Kevin O'Connell & Kevin Dav. GOES-T Stellite Atlas Liftoff. https://www.flickr.com/photos/noaasatellites/51924815445/
+[2] SpaceX. Starlink Mission. https://www.flickr.com/photos/spacex/51924933910/
+[3] 银河航天. 一箭七星！星地融合5G试验网络“小蜘蛛网”组网成功. https://news.sina.cn/2022-03-05/detail-imcwiwss4369617.d.html
+[4] IMA Media. IMA Media Download Center. https://s.imadl.ir/2u
+[5] SpaceX. Starlink Mission. https://www.flickr.com/photos/spacex/51929288928/
+[6] Astra. Spaceflight Astra-1 Mission Gallery. https://astra.com/news/spaceflight-astra-1-mission/
+[7] 我们的太空. 长四丙火箭成功发射遥感三十四号02星. https://zhuanlan.zhihu.com/p/482591562
+[8] Роскосмос. Трансляция запуска «бауманского» экипажа на МКС. https://vk.com/video-30315369_456242997
+[9] SpaceX. Starlink Mission. https://www.flickr.com/photos/spacex/51946071252/
+[10] Роскосмос. С космодрома Плесецк запущена ракета «Союз-2». https://www.roscosmos.ru/34504/
 
 徽章来源
 [1] NOAA/NASA. Color GOES-T Logo. https://www.goes-r.gov/multimedia/logos-T.html
 [2] SpaceX. Starlink. https://www.elonx.net/spacex-mission-patches/#jp-carousel-3624
 [3] 上海航天. 长四丙成功发射遥感三十四号02星. https://mp.weixin.qq.com/s/qqAW7TfIQEZcsFgRLUhAAw
 [4] SPACEFACTS. Soyuz MS-21 mission patch. http://www.spacefacts.de/mission/patches_hi/soyuz-ms-21.jpg
+[5] 上海航天. 长六改首飞圆满成功，我国新一代运载火箭再添新成员. https://mp.weixin.qq.com/s/0cK1Ob63VDyLXyidQH-xlA
