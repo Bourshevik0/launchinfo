@@ -125,7 +125,7 @@
 编号：2022-031
 火箭制造方：中国
 时间：2022-03-29 09:50(UTC+8)[1]
-位置：太原卫星发射中心9A01工位[29]
+位置：太原卫星发射中心9A工位[29]
 发射提供方：航天科技八院
 载荷信息：航天科技八院研制的浦江二号卫星(地球观测卫星)，
 航天科工二院研制的天鲲二号(技术验证卫星)
@@ -231,6 +231,8 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [11] Роскосмос. Трансляция запуска «бауманского» экипажа на МКС. https://vk.com/video-30315369_456242997
 [12] SpaceX. Starlink Mission. https://youtu.be/0giA6VZOICs
 [13] Минобороны России. Пуск ракеты-носителя среднего класса «Союз-2.1а». https://vk.com/video/@milz=video-133441491_456252476
+[14] SciNews. The first launch of Long March-6A. https://youtu.be/4gMifyUj6a4
+[15] SciNews. Long March-11 launches Tianping-2A, Tianping-2B and Tianping-2C. https://youtu.be/2nu3qvS4f-A
 
 封面来源
 [1] NASA/Kevin O'Connell & Kevin Dav. GOES-T Stellite Atlas Liftoff. https://www.flickr.com/photos/noaasatellites/51924815445/
@@ -243,6 +245,8 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [8] Роскосмос. Трансляция запуска «бауманского» экипажа на МКС. https://vk.com/video-30315369_456242997
 [9] SpaceX. Starlink Mission. https://www.flickr.com/photos/spacex/51946071252/
 [10] Роскосмос. С космодрома Плесецк запущена ракета «Союз-2». https://www.roscosmos.ru/34504/
+[11] 我们的太空. 我国成功发射长征六号改运载火箭. https://zhuanlan.zhihu.com/p/489790007
+[12] 我们的太空. 我国成功发射天平二号A、B、C卫星. https://zhuanlan.zhihu.com/p/490078001
 
 徽章来源
 [1] NOAA/NASA. Color GOES-T Logo. https://www.goes-r.gov/multimedia/logos-T.html
