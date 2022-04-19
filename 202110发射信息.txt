@@ -118,7 +118,7 @@
 飞行编号：F44
 发射提供方：三菱重工
 载荷运营方：日本宇宙航空机构(JAXA)[18]
-载荷信息：QZS-1R (导航定位卫星)，
+载荷信息：QZS-1R(导航定位卫星)，
 质量4.1吨[19]
 载具：H-IIA 202[4]
 轨道：235 x 36005 km，31.93° HEO(大椭圆轨道)[3]
@@ -205,9 +205,17 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [22] Wikipedia. Progress MS-18. https://en.wikipedia.org/wiki/Progress_MS-18
 
 视频素材来源(实际时间顺序)
-[1] Roscosmos. Roscosmos Oneweb #11 Mission. https://youtu.be/yRo3cpwv-kI
-[2] SciNews. Long March-2D launches Xihe and 10 small satellites. https://youtu.be/6ntqA5YNKkg
-[3] 大漠问天. 我国成功发射吉林一号高分02F卫星. https://mp.weixin.qq.com/s/JkYGoXNyJPpHr_87pQFMsA
+[1] Роскосмос ТВ. Трансляция запуска пилотируемого корабля «Союз МС-19». https://youtu.be/Yc7Mpoau2lA
+[2] Роскосмос ТВ. Roscosmos Oneweb #11 Mission. https://youtu.be/yRo3cpwv-kI
+[3] SciNews. Long March-2D launches Xihe and 10 small satellites. https://youtu.be/6ntqA5YNKkg
+[4] 二次元的中科院物理所. 【无解说纯享版】神舟十三号发射全程完整回顾. https://www.bilibili.com/video/BV1zf4y177t2
+[5] United Launch Alliance. Atlas V Lucy Launch Highlights. https://youtu.be/m9BOVaz0egc
+[6] United Launch Alliance. Atlas V Lucy Rocket Cam. https://youtu.be/IthrIVLmvTo
+[7] 한국항공우주연구원 KARI TV. 누리호 1차 시험 발사 장면. https://youtu.be/7PWTnX0EwcU
+[8] 한국항공우주연구원 KARI TV. 누리호가 찍은 지구! 누리호 동체 탑재카메라 촬영영상. https://youtu.be/rCxn-6ZvX2c
+[9] SciNews. Long March-3B launches Shijian-21. https://youtu.be/J2dNneiGItg
+[10] arianespace. Arianespace Vol VA255 – SES-17 / SYRACUSE 4A (FR). http://youtu.be/uIOjitcC1x0
+[11] 大漠问天. 我国成功发射吉林一号高分02F卫星. https://mp.weixin.qq.com/s/JkYGoXNyJPpHr_87pQFMsA
 
 封面来源(实际时间顺序)
 [1] Роскосмос. Началась экспедиция «Вызова»!. https://www.roscosmos.ru/32825/
