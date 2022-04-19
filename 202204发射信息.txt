@@ -24,6 +24,88 @@
 轨道：430 x 441 km，53.00° LEO(近地轨道)[10]
 结果：成功
 
+编号：2022-035
+火箭制造方：中国
+时间：2022-04-07 07:47(UTC+8)
+位置：酒泉卫星发射中心9401工位
+发射提供方：航天科技八院
+载荷研制方：航天科技五院[11]
+载荷运营方：自然资源部
+载荷信息：高分三号03星(地球观测卫星)[1]
+载荷质量：2.8吨[13]
+载具：长征四号丙遥38[11]
+轨道：738 x 745 km，98.41° SSO(太阳同步轨道)[14]
+结果：成功
+
+编号：2022-036
+火箭制造方：俄罗斯
+时间：2022-04-07 11:20:18(UTC)
+位置：普列谢茨克43/3号工位
+发射提供方：俄罗斯战略导弹部队
+载荷运营方：俄罗斯国防部
+载荷信息：莲花-S1五号星(信号情报卫星)[1]
+载荷质量：6吨[15]
+载具：联盟-2.1b
+轨道：239 x 900 km，67.14° LEO(近地轨道)[16]
+结果：成功
+
+编号：2022-037
+火箭制造方：美国
+时间：2022-04-08 15:17:12(UTC)
+位置：肯尼迪航天中心LC-39A
+任务名：公理1号(Ax-1)
+发射提供方：SpaceX
+载荷运营方：SpaceX / 公理太空(Axiom Space)
+载荷信息：C206.3奋进号龙2(载人飞船)共12.519吨[17][18]
+载具：猎鹰9号Block 5(B1062.5)
+轨道：207 x 252 km，51.64° LEO(近地轨道)[19]
+结果(发射与回收)：成功
+回收船：ASOG(A Shortfall of Gravitas)[20]
+备注：首个前往国际空间站的全商业资助乘组任务，
+指令长洛佩斯·阿莱格里亚，
+飞行员拉里·康納，
+一号任务专家埃坦·斯蒂比，
+二号任务专家马克·帕西。
+飞船于UTC时间4月9日12:29对接至国际空间站[17]。
+
+编号：2022-038
+火箭制造方：中国
+时间：2022-04-15 20:00(UTC+8)
+位置：西昌卫星发射中心2号工位
+发射提供方：航天科技一院
+载荷研制方：航天科技五院
+载荷信息：中星6D(宽带通信卫星)
+载荷质量：5.5吨[13]
+载具：长征三号乙遥89[1]
+轨道：231 x 35765 km，28.46° GTO(地球同步转移轨道)[22]
+结果：成功
+
+编号：2022-039
+火箭制造方：中国
+时间：2022-04-16 02:16(UTC+8)
+位置：太原卫星发射中心9号工位
+发射与载荷：航天科技八院
+载荷运营方：生态环境部
+载荷信息：大气环境监测卫星(环境监测卫星)
+载荷质量：2.8吨[24]
+载具：长征四号丙遥28[1]
+轨道：681 x 690 km，98.12° SSO(太阳同步轨道)[25]
+结果：成功
+
+编号：2022-040
+火箭制造方：美国
+时间：2022-04-17 13:13:12(UTC)
+位置：范登堡太空军基地SLC-4E
+任务名：NROL-85
+发射提供方：SpaceX
+载荷运营方：美国国家侦察局(NRO)
+载荷信息：信号情报卫星[1]
+载荷质量：3.2吨[27]
+载具：猎鹰9号Block 5(B1071.2)[26]
+轨道：1021 x 1191 km，63.5° LEO(近地轨道)[28]
+结果(发射与回收)：成功
+备注：芯级陆上返场回收成功，回收区域LZ-4[26]
+
 关于轨道
 无额外标注的情况下，轨道一般指载荷所在的初始轨道，可以是预期轨道，或者实际轨道，具体类型根据来源判断。
 
@@ -68,9 +150,31 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [8] Everyday Astronaut. Transporter 4 | Falcon 9 Block 5. https://everydayastronaut.com/transporter-4-falcon-9-block-5-2/
 [9] Gunter's Space Page. BlackSky 1, ..., 60. https://space.skyrocket.de/doc_sdat/blacksky-global.htm
 [10] Space-Track.Org. NORAD ID 52195 epoch 2022-04-02T15:18:01.622592. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/52195/orderby/EPOCH%20asc/limit/1/format/json
+[11] 上海航天. 越是艰难越向前！长四丙发射圆满成功！. https://mp.weixin.qq.com/s/3eLLS5aClTFVvDlK4HrRoA
+[12] 自然资源部. 第二颗1米C-SAR业务卫星成功发射. http://www.mnr.gov.cn/dt/ywbb/202204/t20220408_2732831.html
+[13] Space Launch Report. Long March Data Sheet. https://www.spacelaunchreport.com/cz.html
+[14] Space-Track.Org. NORAD ID 52200 epoch 2022-04-07T02:55:32.446848. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/52200/orderby/EPOCH%20asc/limit/1/format/json
+[15] NextSpaceflight. Soyuz 2.1b | Cosmos 2554. https://nextspaceflight.com/launches/details/6924
+[16] Space-Track.Org. NORAD ID 52202 epoch 2022-04-07T16:09:57.914208. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/52202/orderby/EPOCH%20asc/limit/1/format/json
+[17] Wikipedia. Axiom Mission 1. https://en.wikipedia.org/wiki/Axiom_Mission_1
+[18] Wikipedia. Crew Dragon Endeavour. https://en.wikipedia.org/wiki/Crew_Dragon_Endeavour
+[19] Space-Track.Org. NORAD ID 52204 epoch 2022-04-07T16:09:57.914208. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/52204/orderby/EPOCH%20asc/limit/1/format/json
+[20] NextSpaceflight. Falcon 9 Block 5 | Axiom Mission 1 (Ax-1). https://nextspaceflight.com/launches/details/3954
+[21] 中国航天报. 4.15，415！. https://mp.weixin.qq.com/s/gWKCjQoGXCO5GBHDQNUuyw
+[22] Space-Track.Org. NORAD ID 52255 epoch 2022-04-15T14:46:57.406944. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/52255/orderby/EPOCH%20asc/limit/1/format/json
+[23] 上海航天. 世界首颗，激光测碳。长四丙火箭成功发射大气环境监测卫星. https://mp.weixin.qq.com/s/c8EtBYFNNnO1F9iwvWROAw
+[24] 生态环境部. 大气环境监测卫星成功发射. https://www.mee.gov.cn/ywdt/hjywnews/202204/t20220416_974889.shtml
+[25] Space-Track.Org. NORAD ID 52257 epoch 2022-04-15T21:24:44.115264. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/52257/orderby/EPOCH%20asc/limit/1/format/json
+[26] NASASpaceflight. SpaceX Falcon 9 : NROL-85 : Vandenberg : 17 April 2022 (13:13 UTC). https://forum.nasaspaceflight.com/index.php?topic=47475.0
+[27] OneSpeed. Here is a comparison of the first stage telemetry from the CSG-2 and NROL-87 webcasts. https://forum.nasaspaceflight.com/index.php?topic=47476.msg2337268#msg2337268
+[28] SatTrackCam Leiden (b)log. NROL-85 observed. https://sattrackcam.blogspot.com/2022/04/nrol-85-observed-but-is-it-intrudernoss.html
 
 视频素材来源
 
 封面来源
 
 徽章来源
+[1] Rocket Lab. Without Mission A Beat. https://www.rocketlabusa.com/missions/completed-missions/without-mission-a-beat/
+[2] 上海航天. 越是艰难越向前！长四丙发射圆满成功！. https://mp.weixin.qq.com/s/3eLLS5aClTFVvDlK4HrRoA
+[3] 上海航天. 世界首颗，激光测碳。长四丙火箭成功发射大气环境监测卫星. https://mp.weixin.qq.com/s/c8EtBYFNNnO1F9iwvWROAw
+[4] Wikipedia. List of NRO launches. https://en.wikipedia.org/wiki/List_of_NRO_launches#Launch_history
