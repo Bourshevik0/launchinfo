@@ -27,7 +27,7 @@
 编号：2022-035
 火箭制造方：中国
 时间：2022-04-07 07:47(UTC+8)
-位置：酒泉卫星发射中心9401工位
+位置：酒泉卫星发射中心9401工位[1]
 发射提供方：航天科技八院
 载荷研制方：航天科技五院[11]
 载荷运营方：自然资源部
@@ -57,7 +57,7 @@
 发射提供方：SpaceX
 载荷运营方：SpaceX / 公理太空(Axiom Space)
 载荷信息：C206.3奋进号龙2(载人飞船)共12.519吨[17][18]
-载具：猎鹰9号Block 5(B1062.5)
+载具：猎鹰9号Block 5(B1062.5)[17]
 轨道：207 x 252 km，51.64° LEO(近地轨道)[19]
 结果(发射与回收)：成功
 回收船：ASOG(A Shortfall of Gravitas)[20]
@@ -70,13 +70,14 @@
 
 编号：2022-038
 火箭制造方：中国
-时间：2022-04-15 20:00(UTC+8)
+时间：2022-04-15 20:00:04(UTC+8)
 位置：西昌卫星发射中心2号工位
+任务代号：07-140
 发射提供方：航天科技一院
 载荷研制方：航天科技五院
-载荷信息：中星6D(宽带通信卫星)
+载荷信息：中星6D(宽带通信卫星)[1]
 载荷质量：5.5吨[13]
-载具：长征三号乙遥89[1]
+载具：长征三号乙改二遥89[1]
 轨道：231 x 35765 km，28.46° GTO(地球同步转移轨道)[22]
 结果：成功
 
@@ -86,7 +87,7 @@
 位置：太原卫星发射中心9号工位
 发射与载荷：航天科技八院
 载荷运营方：生态环境部
-载荷信息：大气环境监测卫星(环境监测卫星)
+载荷信息：大气环境监测卫星(环境监测卫星)[23]
 载荷质量：2.8吨[24]
 载具：长征四号丙遥28[1]
 轨道：681 x 690 km，98.12° SSO(太阳同步轨道)[25]
@@ -100,11 +101,11 @@
 发射提供方：SpaceX
 载荷运营方：美国国家侦察局(NRO)
 载荷信息：信号情报卫星[1]
-载荷质量：3.2吨[27]
-载具：猎鹰9号Block 5(B1071.2)[26]
+载荷质量：3.2吨[26]
+载具：猎鹰9号Block 5(B1071.2)[27]
 轨道：1021 x 1191 km，63.5° LEO(近地轨道)[28]
 结果(发射与回收)：成功
-备注：芯级陆上返场回收成功，回收区域LZ-4[26]
+备注：芯级陆上返场回收成功，回收区域LZ-4[27]
 
 关于轨道
 无额外标注的情况下，轨道一般指载荷所在的初始轨道，可以是预期轨道，或者实际轨道，具体类型根据来源判断。
@@ -165,8 +166,8 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [23] 上海航天. 世界首颗，激光测碳。长四丙火箭成功发射大气环境监测卫星. https://mp.weixin.qq.com/s/c8EtBYFNNnO1F9iwvWROAw
 [24] 生态环境部. 大气环境监测卫星成功发射. https://www.mee.gov.cn/ywdt/hjywnews/202204/t20220416_974889.shtml
 [25] Space-Track.Org. NORAD ID 52257 epoch 2022-04-15T21:24:44.115264. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/52257/orderby/EPOCH%20asc/limit/1/format/json
-[26] NASASpaceflight. SpaceX Falcon 9 : NROL-85 : Vandenberg : 17 April 2022 (13:13 UTC). https://forum.nasaspaceflight.com/index.php?topic=47475.0
-[27] OneSpeed. Here is a comparison of the first stage telemetry from the CSG-2 and NROL-87 webcasts. https://forum.nasaspaceflight.com/index.php?topic=47476.msg2337268#msg2337268
+[26] OneSpeed. Here is a comparison of the first stage telemetry from the CSG-2 and NROL-87 webcasts. https://forum.nasaspaceflight.com/index.php?topic=47476.msg2337268#msg2337268
+[27] NASASpaceflight. SpaceX Falcon 9 : NROL-85 : Vandenberg : 17 April 2022 (13:13 UTC). https://forum.nasaspaceflight.com/index.php?topic=47475.0
 [28] SatTrackCam Leiden (b)log. NROL-85 observed. https://sattrackcam.blogspot.com/2022/04/nrol-85-observed-but-is-it-intrudernoss.html
 
 视频素材来源
