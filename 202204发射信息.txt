@@ -62,10 +62,10 @@
 结果(发射与回收)：成功
 回收船：ASOG(A Shortfall of Gravitas)[20]
 备注：首个前往国际空间站的全商业资助乘组任务，
-指令长洛佩斯·阿莱格里亚，
-飞行员拉里·康納，
-一号任务专家埃坦·斯蒂比，
-二号任务专家马克·帕西。
+指令长为美国宇航员洛佩斯·阿莱格里亚，
+飞行员为美国人拉里·康納，
+一号任务专家为以色列人埃坦·斯蒂比，
+二号任务专家为加拿大人马克·帕西。
 飞船于UTC时间4月9日12:29对接至国际空间站[17]。
 
 编号：2022-038
@@ -107,6 +107,18 @@
 结果(发射与回收)：成功
 备注：芯级陆上返场回收成功，回收区域LZ-4[27]
 
+编号：2022-041
+火箭制造方：美国
+时间：2022-04-21 17:51(UTC)
+位置：卡角太空军基地SLC-40
+组名：Starlink Group 4-14(G4-14)
+发射与载荷：SpaceX
+载荷信息：53颗星链卫星(宽带通信卫星)共约15.9吨
+载具：猎鹰9号Block 5(B1060.12)[29]
+轨道：304 x 318 km，53.22° LEO(近地轨道)[30]
+结果(发射与回收)：成功
+回收船：JRTI(Just Read the Instructions)[29]
+
 关于轨道
 无额外标注的情况下，轨道一般指载荷所在的初始轨道，可以是预期轨道，或者实际轨道，具体类型根据来源判断。
 
@@ -128,6 +140,9 @@ B代表Block，本意为第几代的代，此处无含义
 C2xx.xx
 C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 小数点前的xxx为飞船编号，小数点后的xx为使用次数，如第二次使用时，此处为2
+
+任务徽章说明
+视频中没有括号备注的情况下使用载荷运营方的任务徽章，否则为相关方面的任务徽章
 
 来源格式说明
 [(文案)引用顺序] 作者/来源.标题
@@ -169,6 +184,8 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [26] OneSpeed. Here is a comparison of the first stage telemetry from the CSG-2 and NROL-87 webcasts. https://forum.nasaspaceflight.com/index.php?topic=47476.msg2337268#msg2337268
 [27] NASASpaceflight. SpaceX Falcon 9 : NROL-85 : Vandenberg : 17 April 2022 (13:13 UTC). https://forum.nasaspaceflight.com/index.php?topic=47475.0
 [28] SatTrackCam Leiden (b)log. NROL-85 observed. https://sattrackcam.blogspot.com/2022/04/nrol-85-observed-but-is-it-intrudernoss.html
+[29] NASASpaceflight. SpaceX F9 : Starlink group 4-14 : CCSFS SLC-40 : 21 April 2022 (17:51 UTC). https://forum.nasaspaceflight.com/index.php?topic=55971.0
+[30] CelesTrak. Starlink-G4-14 Pre-Launch. https://celestrak.com/NORAD/elements/supplemental/table.php?tleFile=starlink-g4-14&title=Starlink-G4-14%20Pre-Launch&orbits=2&pointsPerRev=90&frame=1
 
 视频素材来源
 
@@ -177,5 +194,7 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 徽章来源
 [1] Rocket Lab. Without Mission A Beat. https://www.rocketlabusa.com/missions/completed-missions/without-mission-a-beat/
 [2] 上海航天. 越是艰难越向前！长四丙发射圆满成功！. https://mp.weixin.qq.com/s/3eLLS5aClTFVvDlK4HrRoA
-[3] 上海航天. 世界首颗，激光测碳。长四丙火箭成功发射大气环境监测卫星. https://mp.weixin.qq.com/s/c8EtBYFNNnO1F9iwvWROAw
-[4] Wikipedia. List of NRO launches. https://en.wikipedia.org/wiki/List_of_NRO_launches#Launch_history
+[3] Wikipedia. Axiom Mission 1. https://en.wikipedia.org/wiki/Axiom_Mission_1
+[4] 上海航天. 世界首颗，激光测碳。长四丙火箭成功发射大气环境监测卫星. https://mp.weixin.qq.com/s/c8EtBYFNNnO1F9iwvWROAw
+[5] Wikipedia. List of NRO launches. https://en.wikipedia.org/wiki/List_of_NRO_launches#Launch_history
+[6] SpaceX. Starlink. https://www.elonx.net/spacex-mission-patches/#jp-carousel-3624
