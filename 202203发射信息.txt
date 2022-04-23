@@ -43,9 +43,9 @@
 位置：沙赫鲁德导弹测试场
 发射与载荷：伊斯兰革命卫队
 载荷信息：努尔-2(地球观测卫星)[1]
-载荷质量：0.05吨[11]
-载具：Qased
-轨道：495 x 513 km，58.30° LEO(近地轨道)[12]
+载荷质量：0.012吨[11][12]
+载具：Qased[1]
+轨道：495 x 513 km，58.30° LEO(近地轨道)[13]
 结果：成功
 
 编号：2022-025
@@ -55,10 +55,10 @@
 组名：Starlink Group 4-10(G4-10)
 发射与载荷：SpaceX
 载荷信息：48颗星链卫星(宽带通信卫星)共约12.48吨
-载具：猎鹰9号Block 5(B1052.4)[13]
-轨道：302 x 316 km，53.22° LEO(近地轨道)[14]
+载具：猎鹰9号Block 5(B1052.4)[14]
+轨道：302 x 316 km，53.22° LEO(近地轨道)[15]
 结果(发射与回收)：成功
-回收船：ASOG(A Shortfall of Gravitas)[13]
+回收船：ASOG(A Shortfall of Gravitas)[14]
 
 编号：2022-026
 火箭制造方：美国
@@ -66,9 +66,9 @@
 位置：科迪亚克PSCA LP-3B
 发射提供方：Astra
 载荷信息：3个运营方的22个载荷[1]
-载荷质量：0.025吨[15]
+载荷质量：0.025吨[16]
 载具：Rocket 3 LV0009[1]
-轨道：470 x 537 km，97.49° SSO(太阳同步轨道)[16]
+轨道：470 x 537 km，97.49° SSO(太阳同步轨道)[17]
 结果：成功
 
 编号：2022-027
@@ -77,10 +77,10 @@
 位置：酒泉卫星发射中心9401工位
 发射提供方：航天科技八院
 载荷研制方：航天科技八院
-载荷信息：遥感三十四号02星(地球观测卫星)[17]
-载荷质量：4.2吨[18]
-载具：长征四号丙遥47[17]
-轨道：1092 x 1097 km，63.40° LEO(近地轨道)[19]
+载荷信息：遥感三十四号02星(地球观测卫星)[18]
+载荷质量：4.2吨[19]
+载具：长征四号丙遥47[18]
+轨道：1092 x 1097 km，63.40° LEO(近地轨道)[20]
 结果：成功
 
 编号：2022-028
@@ -88,11 +88,11 @@
 时间：2022-03-18 15:55:18(UTC)
 位置：拜科努尔31/6号工位
 发射与载荷：俄罗斯航天集团[1]
-载荷信息：联盟MS-21(载人飞船)约7.1吨[20][21]
+载荷信息：联盟MS-21(载人飞船)约7.1吨[21][22]
 载具：联盟-2.1a
-轨道：200 x 244 km，51.67° LEO(近地轨道)[22]
+轨道：200 x 244 km，51.67° LEO(近地轨道)[23]
 结果：成功
-备注：使用三小时快速对接模式，于UTC时间同日19点12分完成对接[20]。
+备注：使用三小时快速对接模式，于UTC时间同日19点12分完成对接[21]。
 所有乘员均为俄罗斯宇航员，指令长为奥列格·阿尔捷米耶夫，
 一号飞行工程师为丹尼斯·马特维耶夫，
 二号飞行工程师为谢尔盖·科萨科夫
@@ -103,13 +103,13 @@
 位置：卡角太空军基地SLC-40
 组名：Starlink Group 4-12(G4-12)
 发射与载荷：SpaceX[1]
-载荷信息：53颗星链卫星(宽带通信卫星)共约16.25吨[1][23]
+载荷信息：53颗星链卫星(宽带通信卫星)共约16.25吨[1][24]
 载具：猎鹰9号Block 5(B1051.12)
-轨道：303 x 317 km，53.22° LEO(近地轨道)[25]
+轨道：303 x 317 km，53.22° LEO(近地轨道)[26]
 结果(发射与回收)：成功
-回收船：JRTI(Just Read the Instructions)[24]
-备注：首次12手火箭回收成功[26]，
-目前为止最重的猎鹰9号载荷[23]
+回收船：JRTI(Just Read the Instructions)[25]
+备注：首次12手火箭回收成功[27]，
+目前为止最重的猎鹰9号载荷[24]
 
 编号：2022-030
 火箭制造方：俄罗斯
@@ -117,21 +117,21 @@
 位置：普列谢茨克43/4号工位
 发射提供方：俄罗斯战略导弹部队
 载荷运营方：俄罗斯国防部
-载荷信息：子午线-M 10号(宽带通信卫星)2吨[1][27]
+载荷信息：子午线-M 10号(宽带通信卫星)2吨[1][28]
 载具：联盟2.1a / 军舰鸟上面级[1]
-轨道：974 x 39767 km，62.82° HEO(大椭圆轨道)[28]
+轨道：974 x 39767 km，62.82° HEO(大椭圆轨道)[29]
 结果：成功
 
 编号：2022-031
 火箭制造方：中国
 时间：2022-03-29 17:50(UTC+8)[1]
-位置：太原卫星发射中心9A工位[29]
+位置：太原卫星发射中心9A工位[30]
 发射提供方：航天科技八院
 载荷信息：航天科技八院研制的浦江二号卫星(地球观测卫星)，
 航天科工二院研制的天鲲二号(技术验证卫星)
-载荷质量：4吨[30]
+载荷质量：4吨[31]
 载具：长征六号甲遥一[1]
-轨道：588 x 605 km，97.79° SSO(太阳同步轨道)[31]
+轨道：588 x 605 km，97.79° SSO(太阳同步轨道)[32]
 结果：成功
 备注：长六甲首飞
 
@@ -141,10 +141,10 @@
 位置：酒泉卫星发射中心
 发射提供方：航天科技一院
 载荷信息：航天科工二院研制的天平二号A卫星(雷达标定卫星)，
-浙江大学研制的天平二号B，C卫星(大气科学卫星)[32]
-载荷质量：0.7吨[33]
+浙江大学研制的天平二号B，C卫星(大气科学卫星)[33]
+载荷质量：0.7吨[34]
 载具：长征十一号遥10[1]
-轨道：595 x 601 km，97.79° SSO(太阳同步轨道)[34]
+轨道：595 x 601 km，97.79° SSO(太阳同步轨道)[35]
 结果：成功
 
 关于轨道
@@ -193,30 +193,31 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [8] 中国航天报. 惊蛰，万物萌动，火箭起飞. https://mp.weixin.qq.com/s/Z6UVdO0GBA6JqidzYk_uSg
 [9] 银河航天. 一箭七星！我国成功发射银河航天02批批产卫星. https://mp.weixin.qq.com/s/8W2LA8bTadKQJcUxSSBOwA
 [10] Space-Track.Org. NORAD ID 51946 epoch 2022-03-05T08:55:23.997792. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/51946/orderby/EPOCH%20asc/limit/1/format/json
-[11] Wikipedia. Qased (rocket). https://en.wikipedia.org/wiki/Qased_(rocket)
-[12] Space-Track.Org. NORAD ID 51954 epoch 2022-03-08T09:43:02.849376. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/51954/orderby/EPOCH%20asc/limit/1/format/json
-[13] NASASpaceflight. SpaceX F9 : Starlink group 4-10 : CCSFS SLC-40 : 9 March 2022 (13:45 UTC). https://forum.nasaspaceflight.com/index.php?topic=55847.0
-[14] T.S. Kelso. ephemeris-based SupTLEs for all 48 #Starlink Group 4-10. https://twitter.com/TSKelso/status/1501808140316119040
-[15] Wikipedia. List of Astra rocket launches. https://en.wikipedia.org/wiki/List_of_Astra_rocket_launches#Rocket_3
-[16] Space-Track.Org. NORAD ID 52008 epoch 2022-03-15T18:02:37.794048. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/52008/orderby/EPOCH%20asc/limit/1/format/json
-[17] 上海航天. 长四丙成功发射遥感三十四号02星. https://mp.weixin.qq.com/s/qqAW7TfIQEZcsFgRLUhAAw
-[18] Space Launch Report. Long March Data Sheet. https://www.spacelaunchreport.com/cz.html
-[19] Space-Track.Org. NORAD ID 52084 epoch 2022-03-15T18:02:37.794048. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/52084/orderby/EPOCH%20asc/limit/1/format/json
-[20] Wikipedia. Soyuz MS-21. https://en.wikipedia.org/wiki/Soyuz_MS-21
-[21] Wikipedia. Soyuz MS. https://en.wikipedia.org/wiki/Soyuz_MS
-[22] Роскосмос. Три бауманца в космосе - Новости – Госкорпорация. https://www.roscosmos.ru/34457/
-[23] Elon Musk. Also the heaviest Falcon 9 payload at 16.25 metric tons. https://twitter.com/elonmusk/status/1505058886130311169
-[24] NASASpaceflight. SpaceX F9 : Starlink group 4-12 : CCSFS SLC-40 : 19 March 2022 (04:42 UTC). https://forum.nasaspaceflight.com/index.php?topic=55877.0
-[25] T.S. Kelso. ephemeris-based SupTLEs for all 53 #Starlink Group 4-12. https://twitter.com/TSKelso/status/1505331003216203776
-[26] Wikipedia. List of Falcon 9 first-stage boosters. https://en.wikipedia.org/wiki/List_of_Falcon_9_first-stage_boosters#Block_5
-[27] Wikipedia. Meridian (satellite). https://en.wikipedia.org/wiki/Meridian_(satellite)
-[28] Space-Track.Org. NORAD ID 52145 epoch 2022-03-15T18:02:37.794048. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/52145/orderby/EPOCH%20asc/limit/1/format/json
-[29] 科技日报. #长征六号改运载火箭首飞#. https://weibo.com/3515639462/Lm08jeQqE
-[30] 上海航天. 长六改首飞圆满成功，我国新一代运载火箭再添新成员. https://mp.weixin.qq.com/s/0cK1Ob63VDyLXyidQH-xlA
-[31] Space-Track.Org. NORAD ID 52150 epoch 2022-03-29T12:57:20.530080. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/52150/orderby/EPOCH%20asc/limit/1/format/json
-[32] 中国航天报. 这次是“全固”，长十一“一箭三星”发射成功. https://mp.weixin.qq.com/s/lZMV1me60jgzQZMBzNtwfg
-[33] Space Launch Report. Chang Zheng 11 Data Sheet. https://www.spacelaunchreport.com/cz11.html
-[34] Space-Track.Org. NORAD ID 52153 epoch 2022-03-30T05:23:48.318720. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/52153/orderby/EPOCH%20asc/limit/1/format/json
+[11] Wikipedia. CubeSat. https://en.wikipedia.org/wiki/CubeSat
+[12] Gunter's Space Page. Noor 1, 2. https://space.skyrocket.de/doc_sdat/noor.htm
+[13] Space-Track.Org. NORAD ID 51954 epoch 2022-03-08T09:43:02.849376. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/51954/orderby/EPOCH%20asc/limit/1/format/json
+[14] NASASpaceflight. SpaceX F9 : Starlink group 4-10 : CCSFS SLC-40 : 9 March 2022 (13:45 UTC). https://forum.nasaspaceflight.com/index.php?topic=55847.0
+[15] T.S. Kelso. ephemeris-based SupTLEs for all 48 #Starlink Group 4-10. https://twitter.com/TSKelso/status/1501808140316119040
+[16] Wikipedia. List of Astra rocket launches. https://en.wikipedia.org/wiki/List_of_Astra_rocket_launches#Rocket_3
+[17] Space-Track.Org. NORAD ID 52008 epoch 2022-03-15T18:02:37.794048. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/52008/orderby/EPOCH%20asc/limit/1/format/json
+[18] 上海航天. 长四丙成功发射遥感三十四号02星. https://mp.weixin.qq.com/s/qqAW7TfIQEZcsFgRLUhAAw
+[19] Space Launch Report. Long March Data Sheet. https://www.spacelaunchreport.com/cz.html
+[20] Space-Track.Org. NORAD ID 52084 epoch 2022-03-15T18:02:37.794048. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/52084/orderby/EPOCH%20asc/limit/1/format/json
+[21] Wikipedia. Soyuz MS-21. https://en.wikipedia.org/wiki/Soyuz_MS-21
+[22] Wikipedia. Soyuz MS. https://en.wikipedia.org/wiki/Soyuz_MS
+[23] Роскосмос. Три бауманца в космосе - Новости – Госкорпорация. https://www.roscosmos.ru/34457/
+[24] Elon Musk. Also the heaviest Falcon 9 payload at 16.25 metric tons. https://twitter.com/elonmusk/status/1505058886130311169
+[25] NASASpaceflight. SpaceX F9 : Starlink group 4-12 : CCSFS SLC-40 : 19 March 2022 (04:42 UTC). https://forum.nasaspaceflight.com/index.php?topic=55877.0
+[26] T.S. Kelso. ephemeris-based SupTLEs for all 53 #Starlink Group 4-12. https://twitter.com/TSKelso/status/1505331003216203776
+[27] Wikipedia. List of Falcon 9 first-stage boosters. https://en.wikipedia.org/wiki/List_of_Falcon_9_first-stage_boosters#Block_5
+[28] Wikipedia. Meridian (satellite). https://en.wikipedia.org/wiki/Meridian_(satellite)
+[29] Space-Track.Org. NORAD ID 52145 epoch 2022-03-15T18:02:37.794048. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/52145/orderby/EPOCH%20asc/limit/1/format/json
+[30] 科技日报. #长征六号改运载火箭首飞#. https://weibo.com/3515639462/Lm08jeQqE
+[31] 上海航天. 长六改首飞圆满成功，我国新一代运载火箭再添新成员. https://mp.weixin.qq.com/s/0cK1Ob63VDyLXyidQH-xlA
+[32] Space-Track.Org. NORAD ID 52150 epoch 2022-03-29T12:57:20.530080. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/52150/orderby/EPOCH%20asc/limit/1/format/json
+[33] 中国航天报. 这次是“全固”，长十一“一箭三星”发射成功. https://mp.weixin.qq.com/s/lZMV1me60jgzQZMBzNtwfg
+[34] Space Launch Report. Chang Zheng 11 Data Sheet. https://www.spacelaunchreport.com/cz11.html
+[35] Space-Track.Org. NORAD ID 52153 epoch 2022-03-30T05:23:48.318720. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/52153/orderby/EPOCH%20asc/limit/1/format/json
 
 视频素材来源
 [1] NASA. Watch NOAA's GOES-T Weather Satellite Launch to Geostationary Orbit. https://youtu.be/q0giRXI3FvA

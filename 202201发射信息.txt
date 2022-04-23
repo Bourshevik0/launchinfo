@@ -33,9 +33,9 @@
 包括两颗美国国防部运营的卫星，
 以及NASA ELaNa 29计划载荷两颗；
 另外三个运营方的三个载荷[1]
-载荷质量：0.3吨[7]
+载荷质量：0.0392吨[7][8][9][10][11][12][13]
 载具：发射器一号[1]
-轨道：496 x 502 km，44.98° LEO(近地轨道)[8]
+轨道：496 x 502 km，44.98° LEO(近地轨道)[14]
 结果：成功
 
 编号：2022-004
@@ -44,10 +44,10 @@
 位置：太原卫星发射中心9号工位
 发射提供方：航天科技八院
 载荷研制方：中科院微小卫星创新研究院
-载荷信息：试验十三号卫星(技术验证卫星)[9]
-载荷质量：2吨[10]
-载具：长征二号丁遥70[9]
-轨道：468 x 493 km，97.44° SSO(太阳同步轨道)[11]
+载荷信息：试验十三号卫星(技术验证卫星)[15]
+载荷质量：2吨[16]
+载具：长征二号丁遥70[15]
+轨道：468 x 493 km，97.44° SSO(太阳同步轨道)[17]
 结果：成功
 
 编号：2022-005
@@ -57,8 +57,8 @@
 组名：Starlink Group 4-6(G4-6)
 发射与载荷：SpaceX[1]
 载荷信息：49颗星链卫星(宽带通信卫星)共约12.74吨
-载具：猎鹰9号Block 5(B1060.10)[12]
-轨道：210 x 341 km，53.23° LEO(近地轨道)[13] 
+载具：猎鹰9号Block 5(B1060.10)[18]
+轨道：210 x 341 km，53.23° LEO(近地轨道)[19] 
 结果(发射与回收)：成功
 回收船：ASOG(A Shortfall of Gravitas)[2]
 
@@ -71,9 +71,9 @@
 发射提供方：ULA
 载荷运营方：美国太空军
 载荷信息：GSSAP-5，6(太空监测卫星)[1]
-载荷质量：2吨[14]
+载荷质量：2吨[20]
 载具：宇宙神五511[1]
-轨道：36106 x 36165 km，0.00° GEO(地球同步轨道)[15]
+轨道：36106 x 36165 km，0.00° GEO(地球同步轨道)[21]
 结果：成功
 
 编号：2022-007
@@ -81,11 +81,11 @@
 时间：2022-01-26 07:44(UTC+8)
 位置：酒泉卫星发射中心9401工位[1]
 发射提供方：航天科技八院
-载荷研制方：航天科技八院[16]
+载荷研制方：航天科技八院[22]
 载荷运营方：自然资源部[1]
 载荷信息：陆地探测一号01组A星(合成孔径雷达遥感卫星)约3.2吨
-载具：长征四号丙遥29[16]
-轨道：591 x 601 km，98.80° SSO(太阳同步轨道)[17]
+载具：长征四号丙遥29[22]
+轨道：591 x 601 km，98.80° SSO(太阳同步轨道)[23]
 结果：成功
 
 编号：2022-008
@@ -94,11 +94,11 @@
 位置：卡角太空军基地SLC-40
 发射提供方：SpaceX
 载荷运营方：意大利航天局(ASI)[1]
-载荷信息：CSG-2(合成孔径雷达遥感卫星)质量2.205吨[18]
-载具：猎鹰9号Block 5(B1052.3)[19]
-轨道：620 x 626 km，97.89° SSO(太阳同步轨道)[20]
+载荷信息：CSG-2(合成孔径雷达遥感卫星)质量2.205吨[24]
+载具：猎鹰9号Block 5(B1052.3)[25]
+轨道：620 x 626 km，97.89° SSO(太阳同步轨道)[26]
 结果(发射与回收)：成功
-备注：芯级陆上返场回收成功，回收区域LZ-1[19]
+备注：芯级陆上返场回收成功，回收区域LZ-1[25]
 
 关于轨道
 无额外标注的情况下，轨道一般指载荷所在的初始轨道，可以是预期轨道，或者实际轨道，具体类型根据来源判断。
@@ -139,20 +139,26 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [4] NASASpaceflight. SpaceX F9 : Transporter-3 Rideshare : CCSFS SLC-40 : 13 January 2022 (1525 UTC). https://forum.nasaspaceflight.com/index.php?topic=52372.0
 [5] Wikipedia. List of Falcon 9 and Falcon Heavy launches – Wikipedia. https://en.wikipedia.org/wiki/List_of_Falcon_9_and_Falcon_Heavy_launches#2022
 [6] T. S. Kelso. 44 @Planet Super-Doves. https://twitter.com/TSKelso/status/1481727280812412930
-[7] Wikipedia. LauncherOne. https://en.wikipedia.org/wiki/LauncherOne
-[8] Space-Track.Org. NORAD ID 51097 epoch 2022-01-14T12:58:25.125312. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/51097/orderby/EPOCH%20asc/limit/1/format/json
-[9] 上海航天. 中国航天2022年开门红！长二丁新征程再出发. https://mp.weixin.qq.com/s/RzSmXdXmyileuyS6vZc_Ug
-[10] Space Launch Report. Long March Data Sheet. https://www.spacelaunchreport.com/cz.html
-[11] Space-Track.Org. NORAD ID 51102 epoch 2022-01-17T02:35:17.999808. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/51102/orderby/EPOCH%20asc/limit/1/format/json
-[12] NASASpaceflight. SpaceX F9 : Starlink Group 4-6 : KSC LC-39A : 18/19 January 2022. https://forum.nasaspaceflight.com/index.php?topic=55562.0
-[13] T. S. Kelso. 49 #Starlink Group 4-6 satellites. https://twitter.com/TSKelso/status/1483725519749214210
-[14] ULA. Atlas V. https://www.ulalaunch.com/rockets/atlas-v
-[15] Zarya. 2022 - Satellite & Spacecraft Launches and Detailed Orbits. https://www.zarya.info/Diaries/Launches/Launches.php?year=2022
-[16] 上海航天. 长四丙成功发射陆地探测一号01组A星，填补多项国内空白. https://mp.weixin.qq.com/s/j8Bp0NRS5n6iQj0IRQFxkw
-[17] Space-Track.Org. NORAD ID 51284 epoch 2022-01-26T01:13:59.386656. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/51284/orderby/EPOCH%20asc/limit/1/format/json
-[18] Wikipedia. COSMO-SkyMed. https://en.wikipedia.org/wiki/COSMO-SkyMed
-[19] NASASpaceflight. SpaceX F9 : CSG-2 : CCSFS SLC-40 : 31 January 2022 (23:11 UTC). https://forum.nasaspaceflight.com/index.php?topic=54913.0
-[20] Space-Track.Org. NORAD ID 51444 epoch 2022-02-01T05:48:43.871616. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/51444/orderby/EPOCH%20asc/limit/1/format/json
+[7] Gunter's Space Page. ADLER 1. https://space.skyrocket.de/doc_sdat/adler-1.htm
+[8] Gunter's Space Page. GEARRS 3 (GEARRSAT 3). https://space.skyrocket.de/doc_sdat/gearrs-3.htm
+[9] Gunter's Space Page. PAN. https://space.skyrocket.de/doc_sdat/pan_cubesat.htm
+[10] Gunter's Space Page. SteamSat 2. https://space.skyrocket.de/doc_sdat/steamsat-2.htm
+[11] Gunter's Space Page. STORK 1, ..., 14. https://space.skyrocket.de/doc_sdat/stork-1.htm
+[12] Gunter's Space Page. TechEdSat 13 (TES 13). https://space.skyrocket.de/doc_sdat/techedsat-13.htm
+[13] Wikipedia. CubeSat. https://en.wikipedia.org/wiki/CubeSat
+[14] Space-Track.Org. NORAD ID 51097 epoch 2022-01-14T12:58:25.125312. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/51097/orderby/EPOCH%20asc/limit/1/format/json
+[15] 上海航天. 中国航天2022年开门红！长二丁新征程再出发. https://mp.weixin.qq.com/s/RzSmXdXmyileuyS6vZc_Ug
+[16] Space Launch Report. Long March Data Sheet. https://www.spacelaunchreport.com/cz.html
+[17] Space-Track.Org. NORAD ID 51102 epoch 2022-01-17T02:35:17.999808. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/51102/orderby/EPOCH%20asc/limit/1/format/json
+[18] NASASpaceflight. SpaceX F9 : Starlink Group 4-6 : KSC LC-39A : 18/19 January 2022. https://forum.nasaspaceflight.com/index.php?topic=55562.0
+[19] T. S. Kelso. 49 #Starlink Group 4-6 satellites. https://twitter.com/TSKelso/status/1483725519749214210
+[20] ULA. Atlas V. https://www.ulalaunch.com/rockets/atlas-v
+[21] Zarya. 2022 - Satellite & Spacecraft Launches and Detailed Orbits. https://www.zarya.info/Diaries/Launches/Launches.php?year=2022
+[22] 上海航天. 长四丙成功发射陆地探测一号01组A星，填补多项国内空白. https://mp.weixin.qq.com/s/j8Bp0NRS5n6iQj0IRQFxkw
+[23] Space-Track.Org. NORAD ID 51284 epoch 2022-01-26T01:13:59.386656. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/51284/orderby/EPOCH%20asc/limit/1/format/json
+[24] Wikipedia. COSMO-SkyMed. https://en.wikipedia.org/wiki/COSMO-SkyMed
+[25] NASASpaceflight. SpaceX F9 : CSG-2 : CCSFS SLC-40 : 31 January 2022 (23:11 UTC). https://forum.nasaspaceflight.com/index.php?topic=54913.0
+[26] Space-Track.Org. NORAD ID 51444 epoch 2022-02-01T05:48:43.871616. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/51444/orderby/EPOCH%20asc/limit/1/format/json
 
 视频素材来源
 
