@@ -8,7 +8,7 @@
 载荷质量：轨道①，约1.02吨；轨道②，约0.605吨[3][4][5][6]
 载具：猎鹰9号Block 5(B1061.7)[3]
 轨道：①，636 x 651 km，97.95° SSO(太阳同步轨道)；
-②，496 x 510 km，97.40° SSO(太阳同步轨道)[7]
+②，496 x 510 km，97.40° SSO[7]
 结果(发射与回收)：成功
 回收船：JRTI(Just Read the Instructions)[8]
 
@@ -75,6 +75,7 @@
 任务代号：07-140
 发射提供方：航天科技一院
 载荷研制方：航天科技五院
+载荷运营方：中国卫通
 载荷信息：中星6D(宽带通信卫星)[1]
 载荷质量：5.5吨[13]
 载具：长征三号乙改二遥89[1]
@@ -119,6 +120,25 @@
 结果(发射与回收)：成功
 回收船：JRTI(Just Read the Instructions)[29]
 
+编号：2022-042
+火箭制造方：美国
+时间：2022-04-27 07:52:55(UTC)
+位置：肯尼迪航天中心LC-39A
+任务名：乘员-4(Crew-4)
+发射提供方：SpaceX
+载荷运营方：NASA
+载荷信息：C212自由号(Freedom)
+龙2飞船(载人飞船)共12.519吨[31][32]
+载具：猎鹰9号Block 5(B1067.4)[31]
+轨道：191 x 211km，51.65° LEO(近地轨道)[33]
+结果(发射与回收)：成功
+回收船：ASOG(A Shortfall of Gravitas)[34]
+备注：搭载的宇航员为美国宇航员指令长林其儿，
+飞行员罗伯特·海因斯，
+二号任务专家杰西卡·沃特金斯；
+一号任务专家ESA/意大利宇航员萨曼塔·克里斯托福雷蒂，
+飞船于UTC时间同日23:37对接ISS[31]
+
 关于轨道
 无额外标注的情况下，轨道一般指载荷所在的初始轨道，可以是预期轨道，或者实际轨道，具体类型根据来源判断。
 
@@ -154,6 +174,9 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 
 音乐来源
 [1] Stevia Sphere. A Sphere Made of Stevia. https://steviasphere.bandcamp.com/track/a-sphere-made-of-stevia
+[2] Vladmsorensen. Apex. https://vladm.bandcamp.com/track/apex
+[3] White Bat Audio. Hackers. https://youtu.be/NZ4Of3lID84
+[4] Vladmsorensen & Hizuvi. Ultimate Contender. https://vladm.bandcamp.com/track/ultimate-contender
 
 数据来源
 [1] Wikipedia. List of spaceflight launches in January–June 2022. https://en.wikipedia.org/wiki/List_of_spaceflight_launches_in_January%E2%80%93June_2022
@@ -186,10 +209,33 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [28] SatTrackCam Leiden (b)log. NROL-85 observed. https://sattrackcam.blogspot.com/2022/04/nrol-85-observed-but-is-it-intrudernoss.html
 [29] NASASpaceflight. SpaceX F9 : Starlink group 4-14 : CCSFS SLC-40 : 21 April 2022 (17:51 UTC). https://forum.nasaspaceflight.com/index.php?topic=55971.0
 [30] CelesTrak. Starlink-G4-14 Pre-Launch. https://celestrak.com/NORAD/elements/supplemental/table.php?tleFile=starlink-g4-14&title=Starlink-G4-14%20Pre-Launch&orbits=2&pointsPerRev=90&frame=1
+[31] Wikipedia. SpaceX Crew-4. https://en.wikipedia.org/wiki/SpaceX_Crew-4
+[32] Wikipedia. Crew Dragon Freedom. https://en.wikipedia.org/wiki/Crew_Dragon_Freedom
+[33] Space-Track.Org. NORAD ID 52318 epoch 2022-04-27T08:17:01.906080. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/52318/orderby/EPOCH%20asc/limit/1/format/json
+[34] NextSpaceflight. Falcon 9 Block 5 | SpaceX Crew-4. https://nextspaceflight.com/launches/details/4749
 
 视频素材来源
+[1] SpaceX. Transporter-4 Mission. https://youtu.be/4NqSoHnkKEM
+[2] Rocket Lab. Without Mission A Beat Launch 04/02/2022. https://youtu.be/yU2-0J5w0oE
+[3] SciNews. Long March-4C launches Gaofen-3 03. https://youtu.be/WYZ9eB9SrBU
+[4] Новости. С космодрома "Плесецк" выведен на орбиту аппарат "Космос" с порядковым номером 2554. https://rutube.ru/video/56fc7835ab805f1fcef50e2bc583ce6e/
+[5] SpaceX. Ax-1 Mission | Launch. https://youtu.be/5nLk_Vqp7nw
+[6] 中国航天报. 4.15，415！. https://mp.weixin.qq.com/s/gWKCjQoGXCO5GBHDQNUuyw
+[7] 中国航天报. 世界首颗！中国成功发射激光二氧化碳探测卫星. https://mp.weixin.qq.com/s/i5zDIps4hi-QFmQsjrNqPA
+[8] SpaceX. NROL-85 Mission. https://youtu.be/mMcmf1g4qSA
+[9] SpaceX. Starlink Mission. https://youtu.be/s6yBwQSrtFY
+[10] SpaceX. Crew-4 Mission | Launch. https://youtu.be/orN0PaqQECs
 
 封面来源
+[1] SpaceX. Transporter-4 Mission. https://www.flickr.com/photos/spacex/51982975529/
+[2] Rocket Lab. Without Mission A Beat Launch 04/02/2022. https://youtu.be/yU2-0J5w0oE?t=1127
+[3] 我们的太空. 我国成功发射高分三号03星. https://zhuanlan.zhihu.com/p/494218744
+[4] Министерство обороны Российской Федерации. Воздушно-космические силы провели успешный пуск ракеты-носителя «Союз-2» с космодрома Плесецк. https://function.mil.ru/news_page/country/more.htm?id=12416474@egNews
+[5] SpaceX. Axiom-1 Mission. https://www.flickr.com/photos/spacex/51991498488/
+[6] 我们的太空. 我国成功发射中星6D卫星. https://zhuanlan.zhihu.com/p/499343604
+[7] 我们的太空. 我国成功发射大气环境监测卫星. https://zhuanlan.zhihu.com/p/499446791
+[8] SpaceX. NROL-85 Mission. https://www.flickr.com/photos/spacex/52013376989/
+[9] SpaceX. NASA Crew-4 Mission. https://www.flickr.com/photos/spacex/52034684153/
 
 徽章来源
 [1] Rocket Lab. Without Mission A Beat. https://www.rocketlabusa.com/missions/completed-missions/without-mission-a-beat/
@@ -198,3 +244,4 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [4] 上海航天. 世界首颗，激光测碳。长四丙火箭成功发射大气环境监测卫星. https://mp.weixin.qq.com/s/c8EtBYFNNnO1F9iwvWROAw
 [5] Wikipedia. List of NRO launches. https://en.wikipedia.org/wiki/List_of_NRO_launches#Launch_history
 [6] SpaceX. Starlink. https://www.elonx.net/spacex-mission-patches/#jp-carousel-3624
+[7] Wikipedia. SpaceX Crew-4. https://en.wikipedia.org/wiki/SpaceX_Crew-4
