@@ -139,6 +139,19 @@
 一号任务专家ESA/意大利宇航员萨曼塔·克里斯托福雷蒂，
 飞船于UTC时间同日23:37对接ISS[31]
 
+编号：2022-043
+火箭制造方：中国
+时间：2022-04-29 12:11(UTC+8)
+位置：酒泉卫星发射中心9401工位
+发射提供方：航天科技一院
+载荷研制方：航天科技五院
+载荷运营方：中国四维
+载荷信息：四维01，02卫星(光学遥感卫星)
+载荷质量：1.08吨
+载具：长征二号丙[35]
+轨道：491 x 504 km，97.47° SSO(太阳同步轨道)[36]
+结果：成功
+
 关于轨道
 无额外标注的情况下，轨道一般指载荷所在的初始轨道，可以是预期轨道，或者实际轨道，具体类型根据来源判断。
 
@@ -176,7 +189,7 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [1] Stevia Sphere. A Sphere Made of Stevia. https://steviasphere.bandcamp.com/track/a-sphere-made-of-stevia
 [2] Vladmsorensen. Apex. https://vladm.bandcamp.com/track/apex
 [3] White Bat Audio. Hackers. https://youtu.be/NZ4Of3lID84
-[4] Vladmsorensen & Hizuvi. Ultimate Contender. https://vladm.bandcamp.com/track/ultimate-contender
+[4] Timecrawler 82. Phantasia. https://timecrawler82.bandcamp.com/track/phantasia
 
 数据来源
 [1] Wikipedia. List of spaceflight launches in January–June 2022. https://en.wikipedia.org/wiki/List_of_spaceflight_launches_in_January%E2%80%93June_2022
@@ -213,6 +226,8 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [32] Wikipedia. Crew Dragon Freedom. https://en.wikipedia.org/wiki/Crew_Dragon_Freedom
 [33] Space-Track.Org. NORAD ID 52318 epoch 2022-04-27T08:17:01.906080. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/52318/orderby/EPOCH%20asc/limit/1/format/json
 [34] NextSpaceflight. Falcon 9 Block 5 | SpaceX Crew-4. https://nextspaceflight.com/launches/details/4749
+[35] 中国航天报. 金牌老将长二丙火箭成功发射四维01/02卫星. https://mp.weixin.qq.com/s/IQwpE4vimZ9Z9yP47V86wA
+[36] Space-Track.Org. NORAD ID 52320 epoch 2022-04-27T08:17:01.906080. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/52320/orderby/EPOCH%20asc/limit/1/format/json
 
 视频素材来源
 [1] SpaceX. Transporter-4 Mission. https://youtu.be/4NqSoHnkKEM
@@ -225,6 +240,7 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [8] SpaceX. NROL-85 Mission. https://youtu.be/mMcmf1g4qSA
 [9] SpaceX. Starlink Mission. https://youtu.be/s6yBwQSrtFY
 [10] SpaceX. Crew-4 Mission | Launch. https://youtu.be/orN0PaqQECs
+[11] 中国航天报. 金牌老将长二丙火箭成功发射四维01/02卫星. https://mp.weixin.qq.com/s/IQwpE4vimZ9Z9yP47V86wA
 
 封面来源
 [1] SpaceX. Transporter-4 Mission. https://www.flickr.com/photos/spacex/51982975529/
@@ -235,7 +251,9 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [6] 我们的太空. 我国成功发射中星6D卫星. https://zhuanlan.zhihu.com/p/499343604
 [7] 我们的太空. 我国成功发射大气环境监测卫星. https://zhuanlan.zhihu.com/p/499446791
 [8] SpaceX. NROL-85 Mission. https://www.flickr.com/photos/spacex/52013376989/
-[9] SpaceX. NASA Crew-4 Mission. https://www.flickr.com/photos/spacex/52034684153/
+[9] SpaceX. Starlink Mission. https://www.flickr.com/photos/spacex/52022202591/
+[10] SpaceX. NASA Crew-4 Mission. https://www.flickr.com/photos/spacex/52034684153/
+[11] 我们的太空. 成功发射四维01/02卫星. https://zhuanlan.zhihu.com/p/507252852
 
 徽章来源
 [1] Rocket Lab. Without Mission A Beat. https://www.rocketlabusa.com/missions/completed-missions/without-mission-a-beat/
