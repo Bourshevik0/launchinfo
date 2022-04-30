@@ -1,6 +1,6 @@
 编号：2022-033
 火箭制造方：美国
-时间：2022-04-01 16:24:17(UTC)
+时间：2022-04-01 16:24:16(UTC)
 位置：卡角太空军基地SLC-40
 任务名：运输车4(Transporter 4)
 发射提供方：SpaceX[1]
@@ -110,7 +110,7 @@
 
 编号：2022-041
 火箭制造方：美国
-时间：2022-04-21 17:51(UTC)
+时间：2022-04-21 17:51:40(UTC)[1]
 位置：卡角太空军基地SLC-40
 组名：Starlink Group 4-14(G4-14)
 发射与载荷：SpaceX
@@ -122,7 +122,7 @@
 
 编号：2022-042
 火箭制造方：美国
-时间：2022-04-27 07:52:55(UTC)
+时间：2022-04-27 07:52:55(UTC)[1]
 位置：肯尼迪航天中心LC-39A
 任务名：乘员-4(Crew-4)
 发射提供方：SpaceX
@@ -150,6 +150,43 @@
 载荷质量：1.08吨
 载具：长征二号丙[35]
 轨道：491 x 504 km，97.47° SSO(太阳同步轨道)[36]
+结果：成功
+
+编号：2022-044
+火箭制造方：俄罗斯
+时间：2022-04-29 19:55:22(UTC)
+位置：普列谢茨克35/1号工位
+发射提供方：俄罗斯战略导弹部队
+载荷运营方：俄罗斯空天军
+载荷信息：MKA-R(侦察卫星)[1]
+载荷质量：0.5吨[37]
+载具：安加拉1.2[1]
+轨道：279 x 294 km，96.45° SSO(太阳同步轨道)[38]
+结果：成功
+
+编号：2022-045
+火箭制造方：美国
+时间：2022-04-29 21:27:10(UTC)[1]
+位置：卡角太空军基地SLC-40
+组名：Starlink Group 4-16(G4-16)
+发射与载荷：SpaceX
+载荷信息：53颗星链卫星(宽带通信卫星)共约15.9吨
+载具：猎鹰9号Block 5(B1062.6)[39]
+轨道：304 x 317 km，53.22° LEO(近地轨道)[40]
+结果(发射与回收)：成功
+回收船：JRTI(Just Read the Instructions)[39]
+
+编号：2022-046
+火箭制造方：中国
+时间：2022-04-30 11:30(UTC+8)
+位置：东海上的泰瑞号驳船(32.18°N / 123.80° E)[1][41]
+发射提供方：航天科技一院
+载荷运营方：长光卫星
+载荷信息：吉林一号高分03D04-07星，高分04A星
+共5颗(光学遥感卫星)[42]
+载荷质量：0.21吨[43]
+载具：长征十一号H遥三[1]
+轨道：528 x 546 km，97.53° SSO(太阳同步轨道)[44]
 结果：成功
 
 关于轨道
@@ -228,6 +265,14 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [34] NextSpaceflight. Falcon 9 Block 5 | SpaceX Crew-4. https://nextspaceflight.com/launches/details/4749
 [35] 中国航天报. 金牌老将长二丙火箭成功发射四维01/02卫星. https://mp.weixin.qq.com/s/IQwpE4vimZ9Z9yP47V86wA
 [36] Space-Track.Org. NORAD ID 52320 epoch 2022-04-27T08:17:01.906080. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/52320/orderby/EPOCH%20asc/limit/1/format/json
+[37] Gunter's Space Page. MKA-R. https://space.skyrocket.de/doc_sdat/mka-r.htm
+[38] Space-Track.Org. NORAD ID 52330 epoch 2022-04-29T23:14:32.852256. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/52330/orderby/EPOCH%20asc/limit/1/format/json
+[39] NASASpaceflight. SpaceX F9 : Starlink group 4-16 : CCSFS SLC-40 : 29 April 2022 (21:27 UTC). https://forum.nasaspaceflight.com/index.php?topic=56082.0
+[40] CelesTrak. Starlink-G4-16 Pre-Launch. https://celestrak.org/NORAD/elements/supplemental/table.php?tleFile=starlink-g4-16&title=Starlink-G4-16%20Pre-Launch&orbits=2&pointsPerRev=90&frame=1
+[41] NASASpaceflight. Jilin-1 Gaofen-03D 04-07/04A - CZ-11H - Tai Rui ECS - April 30, 2022 (03:30 UTC). https://forum.nasaspaceflight.com/index.php?topic=55382.msg2364067#msg2364067
+[42] 中国航天报. 长十一发射成功. https://mp.weixin.qq.com/s/fgBUq4W0zCiX2hi3E-eSLw
+[43] Gunter's Space Page. Jilin-1 Gaofen-03A, 03B, 03C, 03D (Jilin-1 High Resolution-03A, 03B, 03C, 03D)
+[44] Space-Track.Org. NORAD ID 52388 epoch 2022-04-30T04:50:47.635008. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/52388/orderby/EPOCH%20asc/limit/1/format/json
 
 视频素材来源
 [1] SpaceX. Transporter-4 Mission. https://youtu.be/4NqSoHnkKEM
@@ -241,6 +286,9 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [9] SpaceX. Starlink Mission. https://youtu.be/s6yBwQSrtFY
 [10] SpaceX. Crew-4 Mission | Launch. https://youtu.be/orN0PaqQECs
 [11] 中国航天报. 金牌老将长二丙火箭成功发射四维01/02卫星. https://mp.weixin.qq.com/s/IQwpE4vimZ9Z9yP47V86wA
+[12] Минобороны России. Пуск ракеты-носителя «Ангара-1.2» с космодрома Плесецк. https://vk.com/video/@mil?z=video-133441491_456257641
+[13] SpaceX. Starlink Mission. https://youtu.be/skNrXnubpwA
+[14] 中国航天科技集团. 大家要的海上发射视频来啦. https://weibo.com/5386897742/LqPsz0054
 
 封面来源
 [1] SpaceX. Transporter-4 Mission. https://www.flickr.com/photos/spacex/51982975529/
@@ -254,6 +302,9 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [9] SpaceX. Starlink Mission. https://www.flickr.com/photos/spacex/52022202591/
 [10] SpaceX. NASA Crew-4 Mission. https://www.flickr.com/photos/spacex/52034684153/
 [11] 我们的太空. 成功发射四维01/02卫星. https://zhuanlan.zhihu.com/p/507252852
+[12] Минобороны России. Пуск ракеты-носителя «Ангара-1.2» с космодрома Плесецк. https://vk.com/video/@mil?z=video-133441491_456257641
+[13] SpaceX. Starlink Mission. https://www.flickr.com/photos/spacex/52039138604/
+[14] 中国航天科技集团. 海上一箭打五星！长十一，成功！ . https://mp.weixin.qq.com/s/R7PkQh0ol-t-E5ALtcAoHA
 
 徽章来源
 [1] Rocket Lab. Without Mission A Beat. https://www.rocketlabusa.com/missions/completed-missions/without-mission-a-beat/
