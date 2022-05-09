@@ -148,7 +148,7 @@
 载荷运营方：中国四维
 载荷信息：四维01，02卫星(光学遥感卫星)
 载荷质量：1.08吨
-载具：长征二号丙[35]
+载具：长征二号丙遥70[1][35]
 轨道：491 x 504 km，97.47° SSO(太阳同步轨道)[36]
 结果：成功
 
@@ -234,7 +234,7 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [3] NASASpaceflight. SpaceX F9 : Transporter-4 Rideshare : CCSFS SLC-40 : 1 April 2022 (16:24 UTC). https://forum.nasaspaceflight.com/index.php?topic=54106.0
 [4] Gunter's Space Page. GNOMES 1, ..., 20. https://space.skyrocket.de/doc_sdat/gnomes-1.htm
 [5] Gunter's Space Page. SharedSat 1, 2, 3, 4 (Spartan). https://space.skyrocket.de/doc_sdat/spartan.htm
-[6] Wikipedia. CubeSat. https://en.wikipedia.org/wiki/CubeSat
+[6] NASA. CubeSats Overview. https://www.nasa.gov/mission_pages/cubesats/overview
 [7] T.S. Kelso. 20 objects from the @SpaceX #Transporter-4 launch. https://twitter.com/TSKelso/status/1509639240589590548
 [8] Everyday Astronaut. Transporter 4 | Falcon 9 Block 5. https://everydayastronaut.com/transporter-4-falcon-9-block-5-2/
 [9] Gunter's Space Page. BlackSky 1, ..., 60. https://space.skyrocket.de/doc_sdat/blacksky-global.htm
