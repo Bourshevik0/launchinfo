@@ -16,13 +16,25 @@
 位置：太原卫星发射中心9号工位
 发射提供方：航天科技八院
 载荷研制方：长光卫星
-载荷信息：1颗吉林一号宽幅01C卫星；
-7颗吉林一号高分03D卫星；
-(地球观测卫星)[15]
+载荷信息：吉林一号宽幅01C卫星1颗；
+吉林一号高分03D卫星27-33共7颗；
+(地球观测卫星)[1][15]
 载荷质量：2吨[16]
 载具：长征二号丁遥79[15]
-轨道：LEO(近地轨道)[1]
+轨道：530 x 546 km，97.69° SSO(太阳同步轨道)[17]
 结果：成功
+
+编号：2022-049
+火箭制造方：美国
+时间：2022-05-06 09:42(UTC)[1]
+位置：肯尼迪航天中心LC-39A
+组名：Starlink Group 4-17(G4-17)
+发射与载荷：SpaceX
+载荷信息：53颗星链卫星(宽带通信卫星)共约15.9吨
+载具：猎鹰9号Block 5(B1058.12)[18]
+轨道：303 x 317 km，53.21° LEO(近地轨道)[19]
+结果(发射与回收)：成功
+回收船：ASOG(A Shortfall of Gravitas)[18]
 
 关于轨道
 无额外标注的情况下，轨道一般指载荷所在的初始轨道，可以是预期轨道，或者实际轨道，具体类型根据来源判断。
@@ -77,14 +89,21 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [14] Wikipedia. Sun-synchronous orbit. https://en.wikipedia.org/wiki/Sun-synchronous_orbit#Technical_details
 [15] 上海航天. 一箭八星，长二丁发射圆满成功！. https://mp.weixin.qq.com/s/gXMFfURuqKWMygsJ7_zHkQ
 [16] Space Launch Report. Long March Data Sheet. https://www.spacelaunchreport.com/cz.html
+[17] Space-Track.Org. NORAD ID 52443 epoch 2022-05-05T13:55:25.402368. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/52443/orderby/EPOCH%20asc/limit/1/format/json
+[18] NASASpaceflight. SpaceX F9 : Starlink group 4-17 : KSC LC-39A : 6 May 2022 (09:42 UTC). https://forum.nasaspaceflight.com/index.php?topic=56101.0
+[19] T.S. Kelso. #Starlink Group 4-17 launch (2022-049) from Cape Canaveral on May 6 at 0942 UTC. https://twitter.com/TSKelso/status/1522852430030917632/
 
 视频素材来源
 [1] Rocket Lab. 'There And Back Again' Launch. https://youtu.be/6nODVPGHQcc
 [2] 上海航天. 一箭八星，长二丁发射圆满成功！. https://mp.weixin.qq.com/s/gXMFfURuqKWMygsJ7_zHkQ
+[3] SpaceX. Starlink Mission. https://youtu.be/KzpVUXxdc68
 
 封面来源
-[1] 
+[1] Rocket Lab. 'There And Back Again' Launch. https://youtu.be/6nODVPGHQcc?t=2241
+[2] 我们的太空. 太原·吉林一号宽幅01C星成功发射. https://zhuanlan.zhihu.com/p/509516646
+[3] SpaceX. Starlink Mission. https://www.flickr.com/photos/spacex/52055543783/
 
 徽章来源
 [1] Rocket Lab. There And Back Again. https://www.rocketlabusa.com/missions/completed-missions/there-and-back-again/
 [2] 上海航天. 一箭八星，长二丁发射圆满成功！. https://mp.weixin.qq.com/s/gXMFfURuqKWMygsJ7_zHkQ
+[3] SpaceX. Starlink. https://www.elonx.net/spacex-mission-patches/#jp-carousel-3624
