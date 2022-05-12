@@ -36,6 +36,21 @@
 结果(发射与回收)：成功
 回收船：ASOG(A Shortfall of Gravitas)[18]
 
+编号：2022-050
+火箭制造方：中国
+时间：2022-05-10 01:56:37.370(UTC+8)
+位置：文昌航天发射场2号工位(LC-201)
+任务代号：TGHY3/TZ-4
+发射提供方：航天科技
+载荷运营方：国家航天局
+载荷信息：天舟四号货运飞船[1][20]
+载货6吨，推进剂0.75吨[21]
+载具：长征七号遥五[1]
+轨道：363 x 376 km，41.46° LEO(近地轨道)[22]
+结果：成功
+备注：与核心舱对接采用了6.5小时快速对接模式，
+于UTC+8时间同日8时54分完成对接[23]
+
 关于轨道
 无额外标注的情况下，轨道一般指载荷所在的初始轨道，可以是预期轨道，或者实际轨道，具体类型根据来源判断。
 
@@ -92,18 +107,25 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [17] Space-Track.Org. NORAD ID 52443 epoch 2022-05-05T13:55:25.402368. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/52443/orderby/EPOCH%20asc/limit/1/format/json
 [18] NASASpaceflight. SpaceX F9 : Starlink group 4-17 : KSC LC-39A : 6 May 2022 (09:42 UTC). https://forum.nasaspaceflight.com/index.php?topic=56101.0
 [19] T.S. Kelso. #Starlink Group 4-17 launch (2022-049) from Cape Canaveral on May 6 at 0942 UTC. https://twitter.com/TSKelso/status/1522852430030917632/
+[20] 二次元的中科院物理所. 【无解说纯享版】天舟四号货运飞船发射全程完整回顾. https://www.bilibili.com/video/BV13u411k79V
+[21] 中国载人航天. “宇宙级带货”再登场，天舟四号看点多！. http://www.cmse.gov.cn/xwzx/202205/t20220511_49742.html
+[22] Space-Track.Org. NORAD ID 52509 epoch 2022-05-09T22:12:30.932064. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/52509/orderby/EPOCH%20asc/limit/1/format/json
+[23] 中国载人航天. 天舟四号货运飞船与空间站组合体完成自主快速交会对接. http://www.cmse.gov.cn/fxrw/tz4/dtyw/202205/t20220510_49710.html
 
 视频素材来源
 [1] Rocket Lab. 'There And Back Again' Launch. https://youtu.be/6nODVPGHQcc
 [2] 上海航天. 一箭八星，长二丁发射圆满成功！. https://mp.weixin.qq.com/s/gXMFfURuqKWMygsJ7_zHkQ
 [3] SpaceX. Starlink Mission. https://youtu.be/KzpVUXxdc68
+[4] 二次元的中科院物理所. 【无解说纯享版】天舟四号货运飞船发射全程完整回顾. https://www.bilibili.com/video/BV13u411k79V
 
 封面来源
 [1] Rocket Lab. 'There And Back Again' Launch. https://youtu.be/6nODVPGHQcc?t=2241
 [2] 我们的太空. 太原·吉林一号宽幅01C星成功发射. https://zhuanlan.zhihu.com/p/509516646
 [3] SpaceX. Starlink Mission. https://www.flickr.com/photos/spacex/52055543783/
+[4] 我们的太空. 长征七号遥五火箭成功发射天舟四号货运飞船！. https://zhuanlan.zhihu.com/p/511887353
 
 徽章来源
 [1] Rocket Lab. There And Back Again. https://www.rocketlabusa.com/missions/completed-missions/there-and-back-again/
 [2] 上海航天. 一箭八星，长二丁发射圆满成功！. https://mp.weixin.qq.com/s/gXMFfURuqKWMygsJ7_zHkQ
 [3] SpaceX. Starlink. https://www.elonx.net/spacex-mission-patches/#jp-carousel-3624
+[4] 中国载人航天. 星河如梦，舟行万里，天舟四号任务标识发布！. https://mp.weixin.qq.com/s/llJzo6WTytBkpHnFs9Jabg
