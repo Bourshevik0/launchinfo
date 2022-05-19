@@ -51,6 +51,53 @@
 备注：与核心舱对接采用了6.5小时快速对接模式，
 于UTC+8时间同日8时54分完成对接[23]
 
+编号：2021-F02
+火箭制造方：中国
+时间：2022-05-13 15:09(UTC+8)
+位置：酒泉卫星发射中心
+发射提供方：星际荣耀
+载荷运营方：长光卫星
+载荷信息：吉林一号魔方01A(地球观测卫星)
+载具：双曲线一号遥四
+预期轨道：SSO(太阳同步轨道)
+结果：失败[1]
+
+编号：2022-051
+火箭制造方：美国
+时间：2022-05-13 22:07:50(UTC)[1]
+位置：范登堡太空军基地SLC-4E
+组名：Starlink Group 4-13(G4-13)
+发射与载荷：SpaceX
+载荷信息：53颗星链卫星(宽带通信卫星)共约15.9吨
+载具：猎鹰9号Block 5(B1063.5)[24]
+轨道：306 x 315 km，53.22° LEO(近地轨道)[25]
+结果(发射与回收)：成功
+回收船：OCISLY(Of Course I Still Love You)[24]
+
+编号：2022-052
+火箭制造方：美国
+时间：2022-05-14 20:40:50(UTC)[1]
+位置：卡角太空军基地SLC-40
+组名：Starlink Group 4-15(G4-15)
+发射与载荷：SpaceX
+载荷信息：53颗星链卫星(宽带通信卫星)共约15.9吨
+载具：猎鹰9号Block 5(B1073.1)[26]
+轨道：305 x 318 km，53.22° LEO(近地轨道)[27]
+结果(发射与回收)：成功
+回收船：JRTI(Just Read the Instructions)[26]
+
+编号：2022-053
+火箭制造方：美国
+时间：2022-05-18 10:59:40(UTC)[1]
+位置：肯尼迪航天中心LC-39A
+组名：Starlink Group 4-18(G4-18)
+发射与载荷：SpaceX
+载荷信息：53颗星链卫星(宽带通信卫星)共约15.9吨
+载具：猎鹰9号Block 5(B1052.5)[28]
+轨道：304 x 318 km，53.22° LEO(近地轨道)[29]
+结果(发射与回收)：成功
+回收船：ASOG(A Shortfall of Gravitas)[28]
+
 关于轨道
 无额外标注的情况下，轨道一般指载荷所在的初始轨道，可以是预期轨道，或者实际轨道，具体类型根据来源判断。
 
@@ -111,6 +158,12 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [21] 中国载人航天. “宇宙级带货”再登场，天舟四号看点多！. http://www.cmse.gov.cn/xwzx/202205/t20220511_49742.html
 [22] Space-Track.Org. NORAD ID 52509 epoch 2022-05-09T22:12:30.932064. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/52509/orderby/EPOCH%20asc/limit/1/format/json
 [23] 中国载人航天. 天舟四号货运飞船与空间站组合体完成自主快速交会对接. http://www.cmse.gov.cn/fxrw/tz4/dtyw/202205/t20220510_49710.html
+[24] NASASpaceflight. SpaceX F9 : Starlink group 4-13 : VSFB SLC-4E : 13 May 2022 (22:07 UTC). https://forum.nasaspaceflight.com/index.php?topic=55884.0
+[25] CelesTrak. Starlink-G4-13 Pre-Launch. https://celestrak.org/NORAD/elements/supplemental/table.php?tleFile=starlink-g4-13&title=Starlink-G4-13%20Pre-Launch&orbits=2&pointsPerRev=90&frame=1
+[26] NASASpaceflight. SpaceX F9 : Starlink group 4-15 : CCSFS SLC-40 : 14 May 2022 (20:40 UTC). https://forum.nasaspaceflight.com/index.php?topic=56084.0
+[27] CelesTrak. Starlink-G4-15 Pre-Launch. https://celestrak.org/NORAD/elements/supplemental/table.php?tleFile=starlink-g4-15&title=Starlink-G4-15%20Pre-Launch&orbits=2&pointsPerRev=90&frame=1
+[28] NASASpaceflight. SpaceX F9 : Starlink group 4-18 : KSC LC-39A : 18 May 2022 (10:59 UTC). https://forum.nasaspaceflight.com/index.php?topic=56184.0
+[29] CelesTrak. Starlink-G4-18 Pre-Launch. https://celestrak.org/NORAD/elements/supplemental/table.php?tleFile=starlink-g4-18&title=Starlink-G4-18%20Pre-Launch&orbits=2&pointsPerRev=90&frame=1
 
 视频素材来源
 [1] Rocket Lab. 'There And Back Again' Launch. https://youtu.be/6nODVPGHQcc
