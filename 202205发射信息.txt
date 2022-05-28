@@ -98,6 +98,61 @@
 结果(发射与回收)：成功
 回收船：ASOG(A Shortfall of Gravitas)[28]
 
+编号：2022-054
+火箭制造方：俄罗斯
+时间：2022-05-19 08:03:32(UTC)
+位置：普列谢茨克43/4号工位
+发射提供方：俄罗斯战略导弹部队
+载荷运营方：俄罗斯空天军
+载荷信息：Bars-M 3L(光学侦察卫星)
+载荷质量：4吨
+载具：联盟-2.1a[1][30]
+轨道：557 x 337 km，97.70° SSO(太阳同步轨道)[31]
+结果：成功
+
+编号：2022-055
+火箭制造方：美国
+时间：2022-05-19 22:54:47(UTC)
+位置：卡角太空军基地SLC-41
+任务名：波音OFT-2
+飞行编号：AV-082
+发射提供方：ULA
+载荷运营方：波音 / NASA
+载荷信息：CST-100星际客机2号(载人飞船)
+载荷质量：13吨
+载具：宇宙神五N22[1][32]
+初始轨道：73 x 181 km，51.62° 亚轨道[33]
+结果：成功
+备注：(以下均为UTC时间)飞船于5月21日00:28对接ISS，
+并于25日18:36与ISS分离，
+25日22:49返回美国白沙导弹靶场[32]
+
+编号：2022-056
+火箭制造方：中国
+时间：2022-05-20 18:30(UTC+8)
+位置：酒泉卫星发射中心9401工位
+发射提供方：航天科技一院
+载荷信息：低轨通信试验卫星三颗，
+其中一颗来自航天科技五院，
+两颗来自长光卫星[34]
+载荷质量：2.8吨[35]
+载具：长征二号丙遥53 / 远征一号S上面级[1]
+轨道：871 x 896 km，86.00° LEO(近地轨道)[36]
+结果：成功
+
+编号：2022-057
+火箭制造方：美国
+时间：2022-05-25 18:35:00(UTC)
+位置：卡角太空军基地SLC-40
+任务名：运输车5(Transporter 5)
+发射提供方：SpaceX
+载荷信息：59个载荷
+载荷质量：1.36吨[37][38][39][40]
+载具：猎鹰9号Block 5(B1061.8)[37]
+轨道：526 x 537 km，97.51° SSO(太阳同步轨道)[41]
+结果(发射与回收)：成功
+备注：芯级陆上返场回收成功，回收区域LZ-1[42]
+
 关于轨道
 无额外标注的情况下，轨道一般指载荷所在的初始轨道，可以是预期轨道，或者实际轨道，具体类型根据来源判断。
 
@@ -164,6 +219,19 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [27] CelesTrak. Starlink-G4-15 Pre-Launch. https://celestrak.org/NORAD/elements/supplemental/table.php?tleFile=starlink-g4-15&title=Starlink-G4-15%20Pre-Launch&orbits=2&pointsPerRev=90&frame=1
 [28] NASASpaceflight. SpaceX F9 : Starlink group 4-18 : KSC LC-39A : 18 May 2022 (10:59 UTC). https://forum.nasaspaceflight.com/index.php?topic=56184.0
 [29] CelesTrak. Starlink-G4-18 Pre-Launch. https://celestrak.org/NORAD/elements/supplemental/table.php?tleFile=starlink-g4-18&title=Starlink-G4-18%20Pre-Launch&orbits=2&pointsPerRev=90&frame=1
+[30] Gunter's Space Page. Bars-M (14F148). https://space.skyrocket.de/doc_sdat/bars-m.htm
+[31] Space-Track.Org. NORAD ID 52713 epoch 2022-05-19T09:54:28.080000. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/52713/orderby/EPOCH%20asc/limit/1/format/json
+[32] Wikipedia. Boeing Orbital Flight Test 2. https://en.wikipedia.org/wiki/Boeing_Orbital_Flight_Test_2
+[33] NASASpaceflight. Atlas V N22 : Starliner OFT-2 : Canaveral SLC-41 : 19 May 2022 (22:54 UTC). https://forum.nasaspaceflight.com/index.php?topic=51827.msg2370211#msg2370211
+[34] 中国航天报. “一箭三星”！长二丙/远征一号S成功发射低轨通信试验卫星. https://mp.weixin.qq.com/s/FqXyHwF_5FyRgnXc0APFUQ
+[35] Space Launch Report. Long March Data Sheet. https://www.spacelaunchreport.com/cz.html
+[36] Space-Track.Org. NORAD ID 52716 epoch 2022-05-20T15:31:53.244192. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/52716/orderby/EPOCH%20asc/limit/1/format/json
+[37] NASASpaceflight. SpaceX F9 : Transporter-5 Rideshare : CCSFS SLC-40 : 25 May 2022 (18:35 UTC). https://forum.nasaspaceflight.com/index.php?topic=53091.0
+[38] Wikipedia. ÑuSat. https://en.wikipedia.org/wiki/%C3%91uSat
+[39] Gunter's Space Page. ICEYE X2. https://space.skyrocket.de/doc_sdat/iceye-x2.htm
+[40] NASA. CubeSats Overview. https://www.nasa.gov/mission_pages/cubesats/overview
+[41] CelesTrak. Transporter-5 Pre-Launch. https://celestrak.org/NORAD/elements/supplemental/table.php?tleFile=transporter-5&title=Transporter-5%20Pre-Launch&orbits=2&pointsPerRev=90&frame=1
+[42] NASASpaceflight. SpaceX F9 : Transporter-5 Rideshare : CCSFS SLC-40 : 25 May 2022 (18:35 UTC). https://forum.nasaspaceflight.com/index.php?topic=53091.msg2371925#msg2371925
 
 视频素材来源
 [1] Rocket Lab. 'There And Back Again' Launch. https://youtu.be/6nODVPGHQcc
