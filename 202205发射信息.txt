@@ -179,8 +179,7 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 视频中没有括号备注的情况下使用载荷运营方的任务徽章，否则为相关方面的任务徽章
 
 来源格式说明
-[(文案)引用顺序] 作者/来源.标题
-链接
+[(文案)引用顺序] 作者/来源. 标题. 链接
 
 编号格式说明
 年份-当年成功发射次序(实际时间顺序)
@@ -238,6 +237,16 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [2] 上海航天. 一箭八星，长二丁发射圆满成功！. https://mp.weixin.qq.com/s/gXMFfURuqKWMygsJ7_zHkQ
 [3] SpaceX. Starlink Mission. https://youtu.be/KzpVUXxdc68
 [4] 二次元的中科院物理所. 【无解说纯享版】天舟四号货运飞船发射全程完整回顾. https://www.bilibili.com/video/BV13u411k79V
+[5] PhilLeafSpace. 双曲线一号遥四火箭点火起飞视频. https://weibo.com/2645044133/LsOOooYvL
+[6] SpaceX. Starlink Mission. https://youtu.be/bG6AwvGPd-E
+[7] SpaceX. Starlink Mission. https://youtu.be/nFDkWL2Hmh8
+[8] SpaceX. Starlink Mission. https://youtu.be/dQTgX40R-IQ
+[9] Минобороны России. Запуск ракеты «Союз-2.1а». https://vk.com/video-133441491_456259214
+[10] NASA. Boeing Starliner OFT-2 Launch (Official NASA Broadcast). https://youtu.be/gy6iam6NjsU
+[11] United Launch Alliance. Atlas V OFT-2 Rocket Cam. https://youtu.be/5awDcUDreWg
+[12] United Launch Alliance. Atlas V OFT-2 Launch Highlights. https://youtu.be/3Ni-YetdacA
+[13] 中国航天科技集团. 长二丙携手远征，“一箭三星”成功. https://weibo.com/5386897742/LtUv30vKy
+[14] SpaceX. Transporter-5 Mission. https://youtu.be/KHt3MyimuqU
 
 封面来源
 [1] Rocket Lab. 'There And Back Again' Launch. https://youtu.be/6nODVPGHQcc?t=2241
@@ -250,3 +259,4 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [2] 上海航天. 一箭八星，长二丁发射圆满成功！. https://mp.weixin.qq.com/s/gXMFfURuqKWMygsJ7_zHkQ
 [3] SpaceX. Starlink. https://www.elonx.net/spacex-mission-patches/#jp-carousel-3624
 [4] 中国载人航天. 星河如梦，舟行万里，天舟四号任务标识发布！. https://mp.weixin.qq.com/s/llJzo6WTytBkpHnFs9Jabg
+[5] Boeing. Boeing OFT-2 Mission Patch. http://www.collectspace.com/images/news-121620a.jpg
