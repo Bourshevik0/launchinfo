@@ -16,8 +16,8 @@
 位置：太原卫星发射中心9号工位
 发射提供方：航天科技八院
 载荷研制方：长光卫星
-载荷信息：吉林一号宽幅01C卫星1颗；
-吉林一号高分03D卫星27-33共7颗；
+载荷信息：吉林一号宽幅01C卫星1颗，
+吉林一号高分03D卫星27-33共7颗
 (地球观测卫星)[1][15]
 载荷质量：2吨[16]
 载具：长征二号丁遥79[15]
@@ -51,7 +51,7 @@
 备注：与核心舱对接采用了6.5小时快速对接模式，
 于UTC+8时间同日8时54分完成对接[23]
 
-编号：2021-F02
+编号：2022-F02
 火箭制造方：中国
 时间：2022-05-13 15:09(UTC+8)
 位置：酒泉卫星发射中心
@@ -187,6 +187,8 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 
 音乐来源
 [1] Stevia Sphere. A Sphere Made of Stevia. https://steviasphere.bandcamp.com/track/a-sphere-made-of-stevia
+[2] Punch Deck. Drive. https://punchdeck.bandcamp.com/track/drive
+[3] Nihilore. Garden. http://www.nihilore.com/latest-tracks/2022/4/28/garden
 
 数据来源
 [1] Wikipedia. List of spaceflight launches in January–June 2022. https://en.wikipedia.org/wiki/List_of_spaceflight_launches_in_January%E2%80%93June_2022
