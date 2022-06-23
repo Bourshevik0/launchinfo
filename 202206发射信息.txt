@@ -52,6 +52,110 @@
 结果(发射与回收)：成功
 回收船：JRTI(Just Read the Instructions)[10]
 
+编号：2022-062
+火箭制造方：美国
+时间：2022-06-12 17:43(UTC)
+位置：卡角太空军基地SLC-46
+发射提供方：Astra
+载荷运营方：NASA
+载荷信息：热带星两颗(地球观测卫星)[1]
+载荷质量：0.01068吨[12]
+载具：Rocket 3 LV0010[1]
+轨道：高度600 km，倾角30.00° LEO(近地轨道)[12]
+结果：失败
+失败原因：二级过早关机[1]
+
+编号：2022-053
+火箭制造方：美国
+时间：2022-06-17 16:09:20(UTC)
+位置：肯尼迪航天中心LC-39A
+组名：Starlink Group 4-19(G4-19)
+发射与载荷：SpaceX
+载荷信息：53颗星链卫星(宽带通信卫星)共约15.9吨
+载具：猎鹰9号Block 5(B1060.13)[13]
+轨道：232 x 337 km，53.22° LEO(近地轨道)[14]
+结果(发射与回收)：成功
+回收船：ASOG(A Shortfall of Gravitas)[13]
+备注：首次13手火箭回收成功[15]
+
+编号：2022-063
+火箭制造方：美国
+时间：2022-06-18 14:19:52(UTC)
+位置：范登堡太空军基地SLC-4E
+发射提供方：SpaceX
+载荷运营方：德国联邦国防军[1]
+载荷信息：SARah-1(雷达侦察卫星)
+载荷质量：2.2吨
+载具：猎鹰9号Block 5(B1071.3)[16]
+轨道：743 x 751 km，98.40° SSO(太阳同步轨道)[17]
+结果(发射与回收)：成功
+备注：芯级陆上返场回收成功，回收区域LZ-4
+
+编号：2022-064
+火箭制造方：美国
+时间：2022-06-19 04:27:36(UTC)
+位置：卡角太空军基地SLC-40
+发射提供方：SpaceX
+载荷运营方：全球星 / 未知
+载荷信息：全球星FM15(窄带通信卫星) / 四颗未知载荷
+载荷质量：0.7吨；约1.2吨
+载具：猎鹰9号Block 5(B1061.9)[18]
+轨道：1111 x 1125 km，51.97° LEO(近地轨道)[19]；
+520 x 531 km，53.0° LEO(近地轨道)[20]
+结果(发射与回收)：成功
+回收船：JRTI(Just Read the Instructions)[18]
+
+编号：2022-065
+火箭制造方：韩国
+时间：2022-06-21 07:00(UTC)
+位置：罗老宇宙中心LC-2
+发射与载荷：韩国航空宇宙研究院(KARI)
+载荷信息：模拟载荷 / PVSAT
+载荷质量：0.1625吨[21]
+轨道：695 x 707 km，98.02° SSO(太阳同步轨道)[22]
+载具：世界号(KSLV-II)
+结果：成功
+备注：这是韩国首枚完全自主研发的
+运载火箭发射成功[23]
+
+编号：2022-066
+火箭制造方：中国
+时间：2022-06-22 10:08(UTC+8)
+位置：酒泉卫星发射中心
+发射提供方：航天科工火箭技术
+载荷信息：天行一号(空间环境探测)[24]
+载荷质量：0.3吨[25]
+载具：快舟一号甲遥17[1]
+轨道：275 x 291 km，96.76° SSO(太阳同步轨道)[27]
+结果：成功
+备注：2021年12月15日发射失败以来的首次成功发射[25]
+
+编号：2022-067
+火箭制造方：欧洲
+时间：2022-06-22 21:50(UTC)
+位置：圭亚那航天中心ELA-3
+飞行编号：VA257
+发射提供方：阿丽亚娜空间
+载荷信息：马来西亚东亚卫星(MEASAT)的MEASAT-3d(宽带通信卫星)，
+质量5.648吨；
+NSIL的GSAT-24(宽带通信卫星)，质量4.181吨
+载荷质量：10.863吨
+载具：阿丽亚娜5 ECA[1][26]
+轨道：274 x 35815 km，5.97° GTO(地球同步转移轨道)[27] 
+结果：成功
+
+编号：2022-068
+火箭制造方：中国
+时间：2022-06-23 10:22(UTC+8)
+位置：西昌卫星发射中心3号工位
+发射提供方：航天科技八院
+载荷研制方：航天科技五院 / 八院
+载荷信息：遥感三十五号02组三颗卫星(地球观测卫星)[28]
+载荷质量：3.5吨[29]
+载具：长征二号丁遥64[28]
+轨道：481 x 498 km，34.99° LEO(近地轨道)[30]
+结果：成功
+
 关于轨道
 无额外标注的情况下，轨道一般指载荷所在的初始轨道，可以是预期轨道，或者实际轨道，具体类型根据来源判断。
 
@@ -99,6 +203,25 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [9] Wikipedia. Shenzhou 14. https://en.wikipedia.org/wiki/Shenzhou_14
 [10] NASASpaceflight. SpaceX F9 : Nilesat-301 : CCSFS SLC-40 : 8 June 2022 (21:04 UTC). https://forum.nasaspaceflight.com/index.php?topic=49956.0
 [11] Space-Track.Org. NORAD ID 52817 epoch 2022-06-08T22:39:17.963424. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/52817/orderby/EPOCH%20asc/limit/1/format/json
+[12] Wikipedia. TROPICS. https://en.wikipedia.org/wiki/Time-Resolved_Observations_of_Precipitation_structure_and_storm_Intensity_with_a_Constellation_of_Smallsats
+[13] NASASpaceflight. SpaceX F9 : Starlink group 4-19 : KSC LC-39A : 17 June 2022 (16:09 UTC). https://forum.nasaspaceflight.com/index.php?topic=56243.0
+[14] CelesTrak. Starlink-G4-19 Pre-Launch. https://celestrak.org/NORAD/elements/supplemental/table.php?tleFile=starlink-g4-19&title=Starlink-G4-19%20Pre-Launch&orbits=2&pointsPerRev=90&frame=1
+[15] Wikipedia. List of Falcon 9 first-stage boosters. https://en.wikipedia.org/wiki/List_of_Falcon_9_first-stage_boosters#Block_5
+[16] NASASpaceflight. SpaceX Falcon 9 : SARah 1 : Vandenberg : 18 June 2022 (14:19 UTC). https://forum.nasaspaceflight.com/index.php?topic=32563.0
+[17] Space-Track.Org. NORAD ID 52887 epoch 2022-06-19T08:32:16.596096. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/52887/orderby/EPOCH%20asc/limit/1/format/json
+[18] NASASpaceflight. SpaceX F9 : USA 328-331 / Globalstar FM15 : SLC-40 : 19 June 2022 (04:27 UTC). https://forum.nasaspaceflight.com/index.php?topic=56471.0
+[19] Space-Track.Org. NORAD ID 52888 epoch 2022-06-19T16:44:56.550336. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/52888/orderby/EPOCH%20asc/limit/1/format/json
+[20] SatTrackCam Leiden (b)log. Observing newly launched USA 328, USA 329, USA 330, USA 331 and a Falcon 9 debris piece. https://sattrackcam.blogspot.com/2022/06/observing-newly-launched-usa-328-usa.html
+[21] NASASpaceflight. KARI reaches orbit on second test flight of domestic Nuri rocket. https://www.nasaspaceflight.com/2022/06/nuri-second-test-flight/
+[22] Space-Track.Org. NORAD ID 52894 epoch 2022-06-21T10:07:25.140864. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/52894/orderby/EPOCH%20asc/limit/1/format/json
+[23] Wikipedia. Nuri (rocket). https://en.wikipedia.org/wiki/Nuri_(rocket)
+[24] 大漠问天. 刚刚！快舟一号甲，发射成功！. https://mp.weixin.qq.com/s/LifanF1SaoBzkiR0Ypo5SA
+[25] Wikipedia. Kuaizhou. https://en.wikipedia.org/wiki/Kuaizhou
+[26] Arianespace. Ariane Flight VA257. https://www.arianespace.com/mission/ariane-flight-va257/
+[27] Space-Track.Org. NORAD ID 52903 epoch 2022-06-22T23:17:02.317344. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/52903/orderby/EPOCH%20asc/limit/1/format/json
+[28] 上海航天. 长二丁成功发射遥感三十五号02组卫星. https://mp.weixin.qq.com/s/0Dz48l20nwYKRC_77yCgeg
+[29] Space Launch Report. Long March Data Sheet. https://web.archive.org/web/20220411235210/http://www.spacelaunchreport.com/cz.html
+[30] Space-Track.Org. NORAD ID 52907 epoch 2022-06-23T08:30:14.105952. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/52907/orderby/EPOCH%20asc/limit/1/format/json
 
 视频素材来源
 [1] 航天科技一院. 时隔 13天，一箭九星，长二丙火箭再次发射成功！. https://mp.weixin.qq.com/s/b5seTy-a3IBSsVq-zLccVg
@@ -110,3 +233,9 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 
 徽章来源
 [1] 中国载人航天. 官方 | 星辰大海，征途万里，神舟十四号载人飞行任务标识发布. https://mp.weixin.qq.com/s/5aPUuiRY1umDn2VrOm4QHQ
+[2] SpaceX. Nilesat-301. https://www.elonx.net/spacex-mission-patches/#jp-carousel-5961
+[3] SpaceX. Starlink. https://www.elonx.net/spacex-mission-patches/#jp-carousel-3624
+[4] SpaceX. SARah-1. https://www.elonx.net/spacex-mission-patches/#jp-carousel-5960
+[5] SpaceX. Globalstar FM15. https://www.elonx.net/spacex-mission-patches/#jp-carousel-5974
+[6] ArianeSpace. We are getting closer to our Flight #VA257!. https://twitter.com/Arianespace/status/1537721207197507585/
+[7] 上海航天. 长二丁成功发射遥感三十五号02组卫星. https://mp.weixin.qq.com/s/0Dz48l20nwYKRC_77yCgeg
