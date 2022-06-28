@@ -189,6 +189,7 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [1] Stevia Sphere. A Sphere Made of Stevia. https://steviasphere.bandcamp.com/track/a-sphere-made-of-stevia
 [2] Punch Deck. Drive. https://punchdeck.bandcamp.com/track/drive
 [3] Nihilore. Garden. http://www.nihilore.com/latest-tracks/2022/4/28/garden
+[4] Vladmsorensen. Welcome To The Game. https://youtu.be/M7xsvPmD97I
 
 数据来源
 [1] Wikipedia. List of spaceflight launches in January–June 2022. https://en.wikipedia.org/wiki/List_of_spaceflight_launches_in_January%E2%80%93June_2022
@@ -236,25 +237,35 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 
 视频素材来源
 [1] Rocket Lab. 'There And Back Again' Launch. https://youtu.be/6nODVPGHQcc
-[2] 上海航天. 一箭八星，长二丁发射圆满成功！. https://mp.weixin.qq.com/s/gXMFfURuqKWMygsJ7_zHkQ
-[3] SpaceX. Starlink Mission. https://youtu.be/KzpVUXxdc68
-[4] 二次元的中科院物理所. 【无解说纯享版】天舟四号货运飞船发射全程完整回顾. https://www.bilibili.com/video/BV13u411k79V
-[5] PhilLeafSpace. 双曲线一号遥四火箭点火起飞视频. https://weibo.com/2645044133/LsOOooYvL
-[6] SpaceX. Starlink Mission. https://youtu.be/bG6AwvGPd-E
-[7] SpaceX. Starlink Mission. https://youtu.be/nFDkWL2Hmh8
-[8] SpaceX. Starlink Mission. https://youtu.be/dQTgX40R-IQ
-[9] Минобороны России. Запуск ракеты «Союз-2.1а». https://vk.com/video-133441491_456259214
-[10] NASA. Boeing Starliner OFT-2 Launch (Official NASA Broadcast). https://youtu.be/gy6iam6NjsU
-[11] United Launch Alliance. Atlas V OFT-2 Rocket Cam. https://youtu.be/5awDcUDreWg
-[12] United Launch Alliance. Atlas V OFT-2 Launch Highlights. https://youtu.be/3Ni-YetdacA
-[13] 中国航天科技集团. 长二丙携手远征，“一箭三星”成功. https://weibo.com/5386897742/LtUv30vKy
-[14] SpaceX. Transporter-5 Mission. https://youtu.be/KHt3MyimuqU
+[2] Rocket Lab. Now these are views we could get used to. https://twitter.com/RocketLab/status/1524478432507088896
+[3] Rocket Lab. COPIA has spread its wings!. https://twitter.com/RocketLab/status/1521615338307158018
+[4] 上海航天. 一箭八星，长二丁发射圆满成功！. https://mp.weixin.qq.com/s/gXMFfURuqKWMygsJ7_zHkQ
+[5] SpaceX. Starlink Mission. https://youtu.be/KzpVUXxdc68
+[6] 二次元的中科院物理所. 【无解说纯享版】天舟四号货运飞船发射全程完整回顾. https://www.bilibili.com/video/BV13u411k79V
+[7] PhilLeafSpace. 双曲线一号遥四火箭点火起飞视频. https://weibo.com/2645044133/LsOOooYvL
+[8] SpaceX. Starlink Mission. https://youtu.be/bG6AwvGPd-E
+[9] SpaceX. Starlink Mission. https://youtu.be/nFDkWL2Hmh8
+[10] SpaceX. Starlink Mission. https://youtu.be/dQTgX40R-IQ
+[11] Минобороны России. Запуск ракеты «Союз-2.1а». https://vk.com/video-133441491_456259214
+[12] NASA. Boeing Starliner OFT-2 Launch (Official NASA Broadcast). https://youtu.be/gy6iam6NjsU
+[13] United Launch Alliance. Atlas V OFT-2 Rocket Cam. https://youtu.be/5awDcUDreWg
+[14] United Launch Alliance. Atlas V OFT-2 Launch Highlights. https://youtu.be/3Ni-YetdacA
+[15] 中国航天科技集团. 长二丙携手远征，“一箭三星”成功. https://weibo.com/5386897742/LtUv30vKy
+[16] SpaceX. Transporter-5 Mission. https://youtu.be/KHt3MyimuqU
 
 封面来源
 [1] Rocket Lab. 'There And Back Again' Launch. https://youtu.be/6nODVPGHQcc?t=2241
 [2] 我们的太空. 太原·吉林一号宽幅01C星成功发射. https://zhuanlan.zhihu.com/p/509516646
 [3] SpaceX. Starlink Mission. https://www.flickr.com/photos/spacex/52055543783/
 [4] 我们的太空. 长征七号遥五火箭成功发射天舟四号货运飞船！. https://zhuanlan.zhihu.com/p/511887353
+[5] PhilLeafSpace. 双曲线一号遥四火箭点火起飞视频. https://weibo.com/2645044133/LsOOooYvL
+[6] SpaceX. Starlink Mission. https://www.flickr.com/photos/spacex/52076218883/
+[7] SpaceX. Starlink Mission. https://www.flickr.com/photos/spacex/52073740636/
+[8] SpaceX. Starlink Mission. https://www.flickr.com/photos/spacex/52085860001/
+[9] Минобороны России. Запуск ракеты «Союз-2.1а». https://vk.com/video-133441491_456259214
+[10] United Launch Alliance. Atlas V OFT-2 Launch Highlights. https://youtu.be/3Ni-YetdacA
+[11] 我们的太空. 我国成功发射3颗低轨通信试验卫星. https://zhuanlan.zhihu.com/p/517583384
+[12] SpaceX. Transporter-5 Mission. https://www.flickr.com/photos/spacex/52099933715/
 
 徽章来源
 [1] Rocket Lab. There And Back Again. https://www.rocketlabusa.com/missions/completed-missions/there-and-back-again/
