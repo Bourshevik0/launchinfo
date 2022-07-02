@@ -156,6 +156,57 @@ NSIL的GSAT-24(宽带通信卫星)，质量4.181吨
 轨道：481 x 498 km，34.99° LEO(近地轨道)[30]
 结果：成功
 
+编号：2022-069
+火箭制造方：中国
+时间：2022-06-27 23:46(UTC+8)
+位置：酒泉卫星发射中心9401工位
+发射与载荷：航天科技八院
+载荷信息：高分十二号03星(地球观测卫星)[31]
+载荷质量：2.8吨[29]
+载具：长征四号丙遥38[31]
+轨道：595 x 599 km，97.98° SSO(太阳同步轨道)[32]
+结果：成功
+
+编号：2022-070
+火箭制造方：美国
+时间：2022-06-28 09:55:52(UTC)
+位置：火箭实验室LC-1B(新西兰玛希亚)
+发射提供方：火箭实验室
+载荷运营方：NASA
+载荷信息：顶石号(技术验证卫星)
+载荷质量：0.025吨
+载具：电子火箭 / 光子上面级[33]
+初始轨道：169 x 1045 km，39.12° LEO(近地轨道)[34]
+运营轨道：NRHO(近直线晕轨道)[1]
+结果：成功
+备注：顶石号是首个运行在NRHO的航天器[33]
+
+编号：2022-071
+火箭制造方：美国
+时间：2022-06-29 21:04(UTC)
+位置：卡角太空军基地SLC-40
+发射提供方：SpaceX
+载荷运营方：SES
+载荷信息：SES-22(宽带通信卫星)3.5吨
+载具：猎鹰9号Block 5(B1073.2)[35][36]
+轨道：310 x  35627 km，16.53° GTO(同步转移轨道)[37]
+结果(发射与回收)：成功
+回收船：ASOG(A Shortfall of Gravitas)[35]
+
+编号：2022-072
+火箭制造方：印度
+时间：2022-06-30 12:32(UTC)
+位置：萨迪什·达万航天中心2号工位
+飞行编号：C53
+发射提供方：ISRO
+载荷信息：新加坡国防科技局的DS-EO(地球观测卫星)质量0.365吨；
+新加坡科工的NeuSAR(地球观测卫星)质量0.155吨；
+南洋理工大学的Scoob-1(教育卫星)质量0.0028吨[1][38]
+载荷质量：0.5228吨
+载具：PSLV-CA[1]
+轨道：461 x 573 km, 9.92° LEO(近地轨道)[39]
+结果：成功
+
 1. 关于载荷质量
 1.1 货运飞船仅将货物质量计入载荷质量，模拟载荷与有效载荷一起搭载时仅计入有效载荷质量。若仅搭载货运飞船或模拟载荷，将其整体质量计入载荷质量。
 1.2 载人飞船将其整体质量计入载荷质量。
@@ -222,6 +273,15 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [28] 上海航天. 长二丁成功发射遥感三十五号02组卫星. https://mp.weixin.qq.com/s/0Dz48l20nwYKRC_77yCgeg
 [29] Space Launch Report. Long March Data Sheet. https://web.archive.org/web/20220411235210/http://www.spacelaunchreport.com/cz.html
 [30] Space-Track.Org. NORAD ID 52907 epoch 2022-06-23T08:30:14.105952. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/52907/orderby/EPOCH%20asc/limit/1/format/json
+[31] 上海航天. 长四丙成功发射高分十二号03星. https://mp.weixin.qq.com/s/_xPdEdXcL_Evy8tpGzXlzA
+[32] Space-Track.Org. NORAD ID 52912 epoch 2022-06-27T18:42:00.675072. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/52912/orderby/EPOCH%20asc/limit/1/format/json
+[33] Wikipedia. CAPSTONE. https://en.wikipedia.org/wiki/CAPSTONE
+[34] Space-Track.Org. NORAD ID 52914 epoch 2022-06-28T10:54:41.285664. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/52914/orderby/EPOCH%20asc/limit/1/format/json
+[35] NASASpaceflight. SpaceX F9 : SES-22 : CCSFS SLC-40 : 29 June 2022 (21:04 UTC). https://forum.nasaspaceflight.com/index.php?topic=55912.0
+[36] Gunter's Space Page. SES 22, 23. https://space.skyrocket.de/doc_sdat/ses-22.htm
+[37] Space-Track.Org. NORAD ID 52933 epoch 2022-06-29T23:00:50.979168. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/52933/orderby/EPOCH%20asc/limit/1/format/json
+[38] Wikipedia. PSLV-C53. https://en.wikipedia.org/wiki/PSLV-C53
+[39] Space-Track.Org. NORAD ID 52935 epoch 2022-06-30T20:23:26.406816. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/52935/orderby/EPOCH%20asc/limit/1/format/json
 
 视频素材来源
 [1] 航天科技一院. 时隔 13天，一箭九星，长二丙火箭再次发射成功！. https://mp.weixin.qq.com/s/b5seTy-a3IBSsVq-zLccVg
@@ -238,6 +298,7 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [12] SciNews. Long March-2D launches Yaogan-35 02 satellites. https://youtu.be/OP-MEwBVqE4
 
 封面来源
+[1] 中国载人航天. 官方 | 星辰大海，征途万里，神舟十四号载人飞行任务标识发布. https://mp.weixin.qq.com/s/5aPUuiRY1umDn2VrOm4QHQ
 
 徽章来源
 [1] 中国载人航天. 官方 | 星辰大海，征途万里，神舟十四号载人飞行任务标识发布. https://mp.weixin.qq.com/s/5aPUuiRY1umDn2VrOm4QHQ
@@ -247,3 +308,6 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [5] SpaceX. Globalstar FM15. https://www.elonx.net/spacex-mission-patches/#jp-carousel-5974
 [6] ArianeSpace. We are getting closer to our Flight #VA257!. https://twitter.com/Arianespace/status/1537721207197507585/
 [7] 上海航天. 长二丁成功发射遥感三十五号02组卫星. https://mp.weixin.qq.com/s/0Dz48l20nwYKRC_77yCgeg
+[8] 上海航天. 长四丙成功发射高分十二号03星. https://mp.weixin.qq.com/s/_xPdEdXcL_Evy8tpGzXlzA
+[9] Rocket Lab. CAPSTONE. https://www.rocketlabusa.com/missions/completed-missions/capstone/
+[10] SpaceX. SES-22. https://www.elonx.net/spacex-mission-patches/#jp-carousel-6019
