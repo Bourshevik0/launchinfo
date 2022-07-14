@@ -50,6 +50,61 @@ NASA的ELaNa 39任务2颗[1]
 结果(发射与回收)：成功
 回收船：JRTI(Just Read the Instructions)[17]
 
+编号：2022-077
+火箭制造方：美国
+时间：2022-07-11 01:39:40(UTC)[1]
+位置：范登堡太空军基地SLC-4E
+组名：Starlink Group 3-1(G3-1)
+发射与载荷：SpaceX
+载荷信息：46颗星链卫星(宽带通信卫星)共约13.8吨
+载具：猎鹰9号Block 5(B1063.6)[19] 
+轨道：306 x 319 km，97.67° SSO(太阳同步轨道)[20]
+结果(发射与回收)：成功
+回收船：OCISLY(Of Course I Still Love You)[17]
+备注：第一个太阳同步轨道的全星链任务[1]
+
+编号：2022-078
+火箭制造方：中国
+时间：2022-07-13 00:30(UTC+8)
+位置：西昌卫星发射中心2号工位[1]
+发射提供方：航天科技一院
+载荷研制方：航天科技五院
+载荷信息：天链二号03星(宽带通信卫星)[21]
+载荷质量：5.5吨[21]
+载具：长征三号乙改二遥85[1]
+轨道：188 x 35829 km，27.16° GTO(地球同步转移轨道)[22]
+结果：成功
+备注：我国第二代GEO中继卫星正式建成[21]
+
+编号：2022-079
+火箭制造方：美国
+时间：2022-07-13 06:30(UTC)
+位置：火箭实验室LC-1A(新西兰玛希亚)
+任务名：Wise One Looks Ahead(智者虑远)
+发射提供方：火箭实验室
+载荷运营方：美国国家侦察局(NRO)
+载荷信息：RASR-3 (NROL-162)[1]
+载荷质量：0.3吨[23]
+载具：电子火箭
+轨道：400 km x 400 km LEO(近地轨道)(估计)
+结果：成功
+
+编号：2022-080
+火箭制造方：欧洲
+时间：2022-07-13 13:13(UTC)
+位置：圭亚那航天中心库鲁ELA-1
+飞行编号：VV21
+发射提供方：阿丽亚娜空间[1]
+主载荷信息：意大利航天局(ASI)的LARES 2 (激光测距卫星)
+质量0.3868吨[24]
+搭车载荷信息：5个运营方的6个载荷，质量0.01631吨[25][26][27][28][29][30][31]
+载荷质量：0.3868吨；0.01631吨
+载具：织女星-C[20]
+轨道：5893 x 5893 km，70° MEO(中地球轨道)；
+5841 x 5841 km，70° MEO(中地球轨道)[32]
+结果：成功
+备注：织女星-C首飞[1]
+
 1. 关于载荷质量
 1.1 货运飞船仅将货物质量计入载荷质量，模拟载荷与有效载荷一起搭载时仅计入有效载荷质量。若仅搭载货运飞船或模拟载荷，将其整体质量计入载荷质量。
 1.2 载人飞船将其整体质量计入载荷质量。
@@ -104,10 +159,34 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [16] Space-Track.Org. NORAD ID 52984 epoch 2022-07-02T13:23:39.407136. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/52984/orderby/EPOCH%20asc/limit/1/format/json
 [17] NASASpaceflight. SpaceX F9 : Starlink group 4-21 : CCSFS SLC-40 : 7 July 2022 (13:11 UTC). https://forum.nasaspaceflight.com/index.php?topic=56390.0
 [18] CelesTrak. Starlink G4-21 Pre-Launch. https://celestrak.org/NORAD/elements/supplemental/table.php?FILE=starlink-g4-21&FORMAT=tle
+[19] NASASpaceflight. SpaceX F9 : Starlink group 3-1 : Vandenberg : 11 July 2022 (01:39 UTC). https://forum.nasaspaceflight.com/index.php?topic=56402.0
+[20] T.S. Kelso. ephemeris-based SupGP data for all 46 #Starlink Group 3-1 satellites. https://twitter.com/TSKelso/status/1546702882912624642
+[21] 中国航天报. 长三乙成功发射天链二号03星. https://mp.weixin.qq.com/s/r77-yRrl32k-ip2Kolovcw
+[22] Space-Track.Org. NORAD ID 53100 epoch 2022-07-12T19:52:26.021280. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/53100/orderby/EPOCH%20asc/limit/1/format/json
+[23] Wikipedia. Rocket Lab Electron. https://en.wikipedia.org/wiki/Rocket_Lab_Electron
+[24] Wikipedia. LARES (satellite). https://en.wikipedia.org/wiki/LARES_(satellite)
+[25] NASA. CubeSats Overview. https://www.nasa.gov/mission_pages/cubesats/overview
+[26] Gunter's Space Page. ALPHA. https://space.skyrocket.de/doc_sdat/alpha_arca.htm
+[27] Gunter's Space Page. Astrobio Cubesat (ABCS). https://space.skyrocket.de/doc_sdat/abcs.htm
+[28] Gunter's Space Page. CELESTA (ROBUSTA 1D). https://space.skyrocket.de/doc_sdat/celesta.htm
+[29] Gunter's Space Page. GreenCube. https://space.skyrocket.de/doc_sdat/greencube.htm
+[30] Gunter's Space Page. MTCube 1, 2 (ROBUSTA 1C, 1F). https://space.skyrocket.de/doc_sdat/mtcube.htm
+[31] Gunter's Space Page. TRISAT R. https://space.skyrocket.de/doc_sdat/trisat-r.htm
+[32] ESA. Vega-C inaugural flight VV21 media kit. https://www.esa.int/Enabling_Support/Space_Transportation/Vega/Vega-C_inaugural_flight_VV21_media_kit
 
 视频素材来源
+[1] ULA. July 1 Live Broadcast: Atlas V USSF-12. https://youtu.be/bq7XexCXqaI
+[2] United Launch Alliance. Atlas V USSF-12 Launch Highlights. https://youtu.be/x3Pwe1O6Dh8
+[3] United Launch Alliance. Atlas V USSF-12 Rocket Cam. https://youtu.be/MLA9Ef4apVw
+[4] Virgin Orbit. Virgin Orbit’s Straight Up Mission. https://youtu.be/O662GsLrdhc
+[5] Roscosmos Media. С космодрома Плесецк успешно запущен спутник «Глонасс-К». https://youtu.be/1PITIJXB3sY
+[6] SpaceX. Starlink Mission. http://youtu.be/u_A7xdnVllM
 
 封面来源
 
 徽章来源
+[1] Virgin Orbit. Straight Up. https://virginorbit.com/straight-up/
+[2] SpaceX. Starlink. https://www.elonx.net/spacex-mission-patches/#jp-carousel-3624
+[3] Rocket Lab. Wise One Looks Ahead. https://www.rocketlabusa.com/missions/completed-missions/wise-one-looks-ahead/
+
 
