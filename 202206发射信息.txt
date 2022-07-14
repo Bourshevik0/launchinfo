@@ -1,10 +1,10 @@
 编号：2022-058
 火箭制造方：中国
-时间：2022-06-02 12:00(UTC+8)
+时间：2022-06-02 12:00:00.336(UTC+8)
 位置：西昌卫星发射中心3号工位
 发射提供方：航天科技一院
 载荷运营方：时空道宇
-载荷信息：吉利卫星1-9(导航定位卫星)[1][2]
+载荷信息：吉利星座01组卫星01-09(导航定位卫星)[1][2]
 载荷质量：1.17吨[3]
 载具：长征二号丙遥65[1]
 轨道：600 x 619 km，49.99° LEO(近地轨道)[4]
@@ -125,7 +125,7 @@
 发射提供方：航天科工火箭技术
 载荷信息：天行一号(空间环境探测)[24]
 载荷质量：0.3吨[25]
-载具：快舟一号甲遥17[1]
+载具：快舟一号甲[1]
 轨道：275 x 291 km，96.76° SSO(太阳同步轨道)[27]
 结果：成功
 备注：2021年12月15日发射失败以来的首次成功发射[25]
@@ -146,7 +146,7 @@ NSIL的GSAT-24(宽带通信卫星)，质量4.181吨
 
 编号：2022-068
 火箭制造方：中国
-时间：2022-06-23 10:22(UTC+8)
+时间：2022-06-23 10:22:06(UTC+8)
 位置：西昌卫星发射中心3号工位
 发射提供方：航天科技八院
 载荷研制方：航天科技五院 / 八院
@@ -163,7 +163,7 @@ NSIL的GSAT-24(宽带通信卫星)，质量4.181吨
 发射与载荷：航天科技八院
 载荷信息：高分十二号03星(地球观测卫星)[31]
 载荷质量：2.8吨[29]
-载具：长征四号丙遥38[31]
+载具：长征四号丙遥46[31]
 轨道：595 x 599 km，97.98° SSO(太阳同步轨道)[32]
 结果：成功
 
@@ -176,7 +176,8 @@ NSIL的GSAT-24(宽带通信卫星)，质量4.181吨
 载荷信息：顶石号(技术验证卫星)
 载荷质量：0.025吨
 载具：电子火箭 / 光子上面级[33]
-初始轨道：169 x 1045 km，39.12° LEO(近地轨道)[34]
+轨道(二级)：154 x 171 km，39.11° LEO(近地轨道)[34]
+初始轨道：6642 x 1170811 km，24.69° HEO(大椭圆轨道)[35]
 运营轨道：NRHO(近直线晕轨道)[1]
 结果：成功
 备注：顶石号是首个运行在NRHO的航天器[33]
@@ -188,10 +189,10 @@ NSIL的GSAT-24(宽带通信卫星)，质量4.181吨
 发射提供方：SpaceX
 载荷运营方：SES
 载荷信息：SES-22(宽带通信卫星)3.5吨
-载具：猎鹰9号Block 5(B1073.2)[35][36]
-轨道：310 x  35627 km，16.53° GTO(同步转移轨道)[37]
+载具：猎鹰9号Block 5(B1073.2)[36][37]
+轨道：310 x  35627 km，16.53° GTO(同步转移轨道)[38]
 结果(发射与回收)：成功
-回收船：ASOG(A Shortfall of Gravitas)[35]
+回收船：ASOG(A Shortfall of Gravitas)[36]
 
 编号：2022-072
 火箭制造方：印度
@@ -201,10 +202,10 @@ NSIL的GSAT-24(宽带通信卫星)，质量4.181吨
 发射提供方：ISRO
 载荷信息：新加坡国防科技局的DS-EO(地球观测卫星)质量0.365吨；
 新加坡科工的NeuSAR(地球观测卫星)质量0.155吨；
-南洋理工大学的Scoob-1(教育卫星)质量0.0028吨[1][38]
+南洋理工大学的Scoob-1(教育卫星)质量0.0028吨[1][39]
 载荷质量：0.5228吨
 载具：PSLV-CA[1]
-轨道：461 x 573 km, 9.92° LEO(近地轨道)[39]
+轨道：461 x 573 km, 9.92° LEO(近地轨道)[40]
 结果：成功
 
 1. 关于载荷质量
@@ -241,6 +242,9 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 
 音乐来源
 [1] Stevia Sphere. A Sphere Made of Stevia. https://steviasphere.bandcamp.com/track/a-sphere-made-of-stevia
+[2] Punch Deck. Maximalism. https://punchdeck.bandcamp.com/track/maximalism
+[3] HurricaneTurtle. First Mile. https://hurricaneturtles.bandcamp.com/track/first-mile
+[4] Nihilore. Symbols In The Shape Of A Word. http://www.nihilore.com/latest-tracks/2022/6/9/symbols-in-the-shape-of-a-word
 
 数据来源
 [1] Wikipedia. List of spaceflight launches in January–June 2022. https://en.wikipedia.org/wiki/List_of_spaceflight_launches_in_January%E2%80%93June_2022
@@ -276,12 +280,13 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [31] 上海航天. 长四丙成功发射高分十二号03星. https://mp.weixin.qq.com/s/_xPdEdXcL_Evy8tpGzXlzA
 [32] Space-Track.Org. NORAD ID 52912 epoch 2022-06-27T18:42:00.675072. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/52912/orderby/EPOCH%20asc/limit/1/format/json
 [33] Wikipedia. CAPSTONE. https://en.wikipedia.org/wiki/CAPSTONE
-[34] Space-Track.Org. NORAD ID 52914 epoch 2022-06-28T10:54:41.285664. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/52914/orderby/EPOCH%20asc/limit/1/format/json
-[35] NASASpaceflight. SpaceX F9 : SES-22 : CCSFS SLC-40 : 29 June 2022 (21:04 UTC). https://forum.nasaspaceflight.com/index.php?topic=55912.0
-[36] Gunter's Space Page. SES 22, 23. https://space.skyrocket.de/doc_sdat/ses-22.htm
-[37] Space-Track.Org. NORAD ID 52933 epoch 2022-06-29T23:00:50.979168. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/52933/orderby/EPOCH%20asc/limit/1/format/json
-[38] Wikipedia. PSLV-C53. https://en.wikipedia.org/wiki/PSLV-C53
-[39] Space-Track.Org. NORAD ID 52935 epoch 2022-06-30T20:23:26.406816. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/52935/orderby/EPOCH%20asc/limit/1/format/json
+[34] Space-Track.Org. NORAD ID 52915 epoch 2022-06-28T12:02:40.755840. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/52915/orderby/EPOCH%20asc/limit/1/format/json
+[35] JPL. CAPSTONE Horizons API A.D. 2022-Jul-04 07:30:00.0000 TDB.  https://ssd.jpl.nasa.gov/api/horizons.api?format=text&COMMAND=%27CAPSTONE%27&OBJ_DATA=%27YES%27&MAKE_EPHEM=%27YES%27&EPHEM_TYPE=%27ELEMENTS%27&START_TIME=%272022-07-04%2007:30%27&STOP_TIME=%272022-07-04%2007:32%27
+[36] NASASpaceflight. SpaceX F9 : SES-22 : CCSFS SLC-40 : 29 June 2022 (21:04 UTC). https://forum.nasaspaceflight.com/index.php?topic=55912.0
+[37] Gunter's Space Page. SES 22, 23. https://space.skyrocket.de/doc_sdat/ses-22.htm
+[38] Space-Track.Org. NORAD ID 52933 epoch 2022-06-29T23:00:50.979168. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/52933/orderby/EPOCH%20asc/limit/1/format/json
+[39] Wikipedia. PSLV-C53. https://en.wikipedia.org/wiki/PSLV-C53
+[40] Space-Track.Org. NORAD ID 52935 epoch 2022-06-30T20:23:26.406816. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/52935/orderby/EPOCH%20asc/limit/1/format/json
 
 视频素材来源
 [1] 航天科技一院. 时隔 13天，一箭九星，长二丙火箭再次发射成功！. https://mp.weixin.qq.com/s/b5seTy-a3IBSsVq-zLccVg
@@ -293,12 +298,33 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [7] SpaceX. SARah-1 Mission. https://youtu.be/lCX-KUCn4A4
 [8] SpaceX. Globalstar FM15 Mission. https://youtu.be/94cClvOFWH4
 [9] 한국항공우주연구원 KARI TV. 누리호 발사 성공! 대한민국 우주발사체 누리호가 촬영한 지구. https://youtu.be/aQdeC8jOxvo
-[10] SciNews. Kuaizhou-1A launches Tianxing-1. https://youtu.be/GYN4x5r4s0U
-[11] Arianespace. Flight VA257 – MEASAT-3d / GSAT-24 | Ariane 5 Launch | Arianespace. https://youtu.be/ArIzvsvtK-E
-[12] SciNews. Long March-2D launches Yaogan-35 02 satellites. https://youtu.be/OP-MEwBVqE4
+[10] MBN News. 🔴[현장 LIVE] 누리호 2차 발사 생중계... "다시 우주로!" 2022.06.21. https://youtu.be/ZKWppTeP0h4
+[11] SciNews. Kuaizhou-1A launches Tianxing-1. https://youtu.be/GYN4x5r4s0U
+[12] Arianespace. Flight VA257 – MEASAT-3d / GSAT-24 | Ariane 5 Launch | Arianespace. https://youtu.be/ArIzvsvtK-E
+[13] Centre spatial guyanais. 22/06/2022 - Décollage VA257. https://youtu.be/87OmmCgaCgQ
+[14] SciNews. Long March-2D launches Yaogan-35 02 satellites. https://youtu.be/OP-MEwBVqE4
+[15] SciNews. Long March-4C launches Gaofen-12-03. https://youtu.be/0wFsjBfdzMg
+[16] Rocket Lab. CAPSTONE Launch 06/28/2022. https://youtu.be/HptHSdDYHrU
+[17] SpaceX. SES-22 Mission. https://youtu.be/ZjUvXWg2_fE
+[18] ISRO. Launch of PSLV-C53/DS-EO Mission. http://youtu.be/n0HnrG6xafU
 
 封面来源
-[1] 中国载人航天. 官方 | 星辰大海，征途万里，神舟十四号载人飞行任务标识发布. https://mp.weixin.qq.com/s/5aPUuiRY1umDn2VrOm4QHQ
+[1] 我们的太空. 我国成功发射吉利星座01组卫星. https://zhuanlan.zhihu.com/p/523534381
+[2] Роскосмос. Ракета «Донбасс» успешно стартовала с Байконура - Новости – Госкорпорация. https://www.roscosmos.ru/37548/
+[3] 我们的太空. 神箭长二F的三宗“最”. https://zhuanlan.zhihu.com/p/524509175
+[4] SpaceX. Nilesat-301 Mission. https://www.flickr.com/photos/spacex/52134413985/
+[5] NASASpaceflight. Astra Launch of TROPICS-1 for NASA. https://youtu.be/HztFm2XGO7s
+[6] SpaceX. Starlink Mission. https://www.flickr.com/photos/spacex/52154044871/
+[7] SpaceX. SARah-1 Mission. https://www.flickr.com/photos/spacex/52161360730/
+[8] SpaceX. Globalstar FM15 Mission. https://www.flickr.com/photos/spacex/52161346450/
+[9] MBN News. 🔴[현장 LIVE] 누리호 2차 발사 생중계... "다시 우주로!" 2022.06.21. https://youtu.be/ZKWppTeP0h4
+[10] 我们的太空. 我国成功发射天行一号试验卫星. https://zhuanlan.zhihu.com/p/532174479
+[11] Centre spatial guyanais. 22/06/2022 - Décollage VA257. https://youtu.be/87OmmCgaCgQ
+[12] 我们的太空. 我国长二丁成功发射遥感三十五号02组卫星. https://zhuanlan.zhihu.com/p/532656123
+[13] 我们的太空. 我国成功发射高分十二号03星. https://zhuanlan.zhihu.com/p/534639368
+[14] Rocket Lab. CAPSTONE Launch 06/28/2022. https://youtu.be/HptHSdDYHrU
+[15] SpaceX. SES-22 Mission. https://www.flickr.com/photos/spacex/52183699962/
+[16] ISRO. PSLV-C53/DS-EO Gallery. https://www.isro.gov.in/pslv-c53-ds-eo-mission/pslv-c53-ds-eo-gallery
 
 徽章来源
 [1] 中国载人航天. 官方 | 星辰大海，征途万里，神舟十四号载人飞行任务标识发布. https://mp.weixin.qq.com/s/5aPUuiRY1umDn2VrOm4QHQ
