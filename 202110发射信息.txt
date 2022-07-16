@@ -177,9 +177,12 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 年份-当年成功发射次序(实际时间顺序)
 使用Zarya.info网站提供的编号，在剪辑不按照实际时间顺序进行时起标识的作用
 
-音乐来源(视频时间顺序)
+音乐来源
+[1] Stevia Sphere. A Sphere Made of Stevia. https://steviasphere.bandcamp.com/track/a-sphere-made-of-stevia
+[2] Vladmsorensen. Miami Turbodriver. https://youtu.be/yiDJHBnfvtE
+[3] Selecta Character. Bewitching Witch. https://lmnlrecords.com/track/bewitching-witch
 
-数据来源(实际时间顺序)
+数据来源
 [1] Wikipedia. Soyuz MS-19. https://en.wikipedia.org/wiki/Soyuz_MS-19
 [2] Wikipedia. Soyuz MS. https://en.wikipedia.org/wiki/Soyuz_MS
 [3] Zarya. 2021 - Satellite & Spacecraft Launches and Detailed Orbits. https://www.zarya.info/Diaries/Launches/Launches.php?year=2021
@@ -203,7 +206,7 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [21] Space Launch Report. Kuaizhou Data Sheet. https://www.spacelaunchreport.com/kz.html
 [22] Wikipedia. Progress MS-18. https://en.wikipedia.org/wiki/Progress_MS-18
 
-视频素材来源(实际时间顺序)
+视频素材来源
 [1] Роскосмос ТВ. Трансляция запуска пилотируемого корабля «Союз МС-19». https://youtu.be/Yc7Mpoau2lA
 [2] Роскосмос ТВ. Roscosmos Oneweb #11 Mission. https://youtu.be/yRo3cpwv-kI
 [3] SciNews. Long March-2D launches Xihe and 10 small satellites. https://youtu.be/6ntqA5YNKkg
@@ -214,21 +217,30 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [8] 한국항공우주연구원 KARI TV. 누리호가 찍은 지구! 누리호 동체 탑재카메라 촬영영상. https://youtu.be/rCxn-6ZvX2c
 [9] SciNews. Long March-3B launches Shijian-21. https://youtu.be/J2dNneiGItg
 [10] arianespace. Arianespace Vol VA255 – SES-17 / SYRACUSE 4A (FR). http://youtu.be/uIOjitcC1x0
-[11] DiscoverMHI (Mitsubishi Heavy Industries, Ltd.). H-IIAロケット44号機打上げライブ中継 / Live streaming for the launch of H-IIA Launch Vehicle No.44. https://youtu.be/HUj8VUfd3Cc
-[12] 大漠问天. 我国成功发射吉林一号高分02F卫星. https://mp.weixin.qq.com/s/JkYGoXNyJPpHr_87pQFMsA
-[13] Роскосмос ТВ. Пуск ракеты-носителя «Союз-2.1a» с грузовым кораблём «Прогресс МС-18» с космодрома Байконур. https://youtu.be/IHVhV3zTN7s
+[11] Centre spatial guyanais. VA255  - les opérations de préparation au lancement. http://youtu.be/LcnLmT_l5xk
+[12] DiscoverMHI (Mitsubishi Heavy Industries, Ltd.). H-IIAロケット44号機打上げライブ中継 / Live streaming for the launch of H-IIA Launch Vehicle No.44. https://youtu.be/HUj8VUfd3Cc
+[13] 大漠问天. 我国成功发射吉林一号高分02F卫星. https://mp.weixin.qq.com/s/JkYGoXNyJPpHr_87pQFMsA
+[14] Роскосмос ТВ. Пуск ракеты-носителя «Союз-2.1a» с грузовым кораблём «Прогресс МС-18» с космодрома Байконур. https://youtu.be/IHVhV3zTN7s
 
-封面来源(实际时间顺序)
+封面来源
 [1] Роскосмос. Началась экспедиция «Вызова»!. https://www.roscosmos.ru/32825/
 [2] Роскосмос. Состоялся 11-й пуск по программе OneWeb. https://www.roscosmos.ru/32954/
 [3] 我们的太空. 我国太阳探测科学技术试验卫星成功发射. https://zhuanlan.zhihu.com/p/421550187
 [4] 中国载人航天. 神舟十三号发射任务高清大图来袭. https://mp.weixin.qq.com/s/tvTVf5mKzJrB-5HOJp7JhQ
+[5] United Launch Alliance. Atlas V Lucy Launch Highlights. https://youtu.be/m9BOVaz0egc
+[6] 한국항공우주연구원 KARI TV. 누리호 1차 시험 발사 장면. https://youtu.be/7PWTnX0EwcU
+[7] 我们的太空. 我国成功发射实践二十一号卫星. https://zhuanlan.zhihu.com/p/425071382
+[8] Centre spatial guyanais. VA255  - les opérations de préparation au lancement. http://youtu.be/LcnLmT_l5xk
+[9] MHI Launch Services. #H2AF44. https://twitter.com/MHI_LS/status/1452828125323149313/
+[10] 我们的太空. 快舟一号甲火箭成功发射吉林一号高分02F卫星. https://zhuanlan.zhihu.com/p/426349374
+[11] Роскосмос. Корабль «Прогресс МС-18» на пути к МКС. https://www.roscosmos.ru/33133/
 
-徽章来源(实际时间顺序)
+徽章来源
 [1] Wikipedia. Soyuz MS-19. https://en.wikipedia.org/wiki/Soyuz_MS-19
 [2] OneWeb. # OneWebLaunch11. https://twitter.com/OneWeb/status/1446158378565206016
 [3] 上海航天. 长征二号丁·上海世界技能大赛号运载火箭成功发射太阳探测科学技术试验卫星. https://mp.weixin.qq.com/s/5iUaAvm2_NeBi0zp_mnT6g
 [4] 中国载人航天. 神舟十三号载人飞行任务标识正式发布！. https://mp.weixin.qq.com/s/kByTbG2Tfd8UJYOfJHllsA
 [5] Wikipedia. Lucy (spacecraft). https://en.wikipedia.org/wiki/Lucy_(spacecraft)
 [6] Arianespace. Ariane Flight VA255. https://twitter.com/Arianespace/status/1451786314622308353
-[7] 航天科工火箭技术有限公司. “快舟•新洲”号成功发射吉林一号高分02F（航天星云·常熟一号）卫星. https://mp.weixin.qq.com/s/Timmtp9MoJnGNAcfsHMf0g
+[7] 内閣府. 打上げ用ロゴマーク｜みちびき初号機後継機特設サイト. https://qzss.info/logo.html
+[8] 航天科工火箭技术有限公司. “快舟•新洲”号成功发射吉林一号高分02F（航天星云·常熟一号）卫星. https://mp.weixin.qq.com/s/Timmtp9MoJnGNAcfsHMf0g

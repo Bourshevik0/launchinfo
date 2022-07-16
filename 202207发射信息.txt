@@ -74,7 +74,7 @@ NASA的ELaNa 39任务2颗[1]
 载具：长征三号乙改二遥85[1]
 轨道：188 x 35829 km，27.16° GTO(地球同步转移轨道)[22]
 结果：成功
-备注：我国第二代GEO中继卫星正式建成[21]
+备注：我国第二代GEO中继卫星系统正式建成[21]
 
 编号：2022-079
 火箭制造方：美国
@@ -83,7 +83,7 @@ NASA的ELaNa 39任务2颗[1]
 任务名：Wise One Looks Ahead(智者虑远)
 发射提供方：火箭实验室
 载荷运营方：美国国家侦察局(NRO)
-载荷信息：RASR-3 (NROL-162)[1]
+载荷信息：RASR-3(NROL-162)[1]
 载荷质量：0.3吨[23]
 载具：电子火箭
 轨道：400 km x 400 km LEO(近地轨道)(估计)
@@ -92,7 +92,7 @@ NASA的ELaNa 39任务2颗[1]
 编号：2022-080
 火箭制造方：欧洲
 时间：2022-07-13 13:13(UTC)
-位置：圭亚那航天中心库鲁ELA-1
+位置：圭亚那航天中心ELA-1
 飞行编号：VV21
 发射提供方：阿丽亚娜空间[1]
 主载荷信息：意大利航天局(ASI)的LARES 2 (激光测距卫星)
@@ -180,7 +180,12 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [3] United Launch Alliance. Atlas V USSF-12 Rocket Cam. https://youtu.be/MLA9Ef4apVw
 [4] Virgin Orbit. Virgin Orbit’s Straight Up Mission. https://youtu.be/O662GsLrdhc
 [5] Roscosmos Media. С космодрома Плесецк успешно запущен спутник «Глонасс-К». https://youtu.be/1PITIJXB3sY
-[6] SpaceX. Starlink Mission. http://youtu.be/u_A7xdnVllM
+[6] SpaceX. Starlink Mission. https://youtu.be/u_A7xdnVllM
+[7] SpaceX. Starlink Mission. https://youtu.be/_c738Z_zQR0
+[8] SciNews. Long March-3B launches TianLian-2 03. https://youtu.be/ZNMJh7KjtKY
+[9] Rocket Lab. Rocket Lab 'Wise One Looks Ahead' Launch. https://youtu.be/f6Nphz4f9oY
+[10] European Space Agency, ESA. Vega-C launch (operational audio only). https://youtu.be/sJTm-3QxDQc
+[11] European Space Agency, ESA. Highlights of the inaugural Vega-C launch. https://youtu.be/MheZ0OYrhnA
 
 封面来源
 
