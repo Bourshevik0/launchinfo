@@ -191,6 +191,19 @@ NASA的ELaNa 39任务2颗[1]
 轨道：494 x 511 km，97.41° SSO(太阳同步轨道)[51]
 结果：成功
 
+编号：2022-088
+火箭制造方：中国
+时间：2022-07-29 21:28:44(UTC+8)
+任务代号：07-144[52]
+位置：西昌卫星发射中心3号工位
+发射提供方：航天科技八院
+载荷研制方：航天科技五院 / 八院
+载荷信息：遥感三十五号03组三颗卫星(地球观测卫星)[53]
+载荷质量：3.5吨[54]
+载具：长征二号丁遥65[53]
+轨道：461 x 515 km，35.00° LEO(近地轨道)[55]
+结果：成功
+
 1. 关于载荷质量
 1.1 货运飞船仅将货物质量计入载荷质量，模拟载荷与有效载荷一起搭载时仅计入有效载荷质量。若仅搭载货运飞船或模拟载荷，将其整体质量计入载荷质量。
 1.2 载人飞船将其整体质量计入载荷质量。
@@ -281,6 +294,10 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [49] CelesTrak. Starlink G4-25 Pre-Launch. https://celestrak.org/NORAD/elements/supplemental/table.php?FILE=starlink-g4-25&FORMAT=tle
 [50] 力学研究所. 我国迄今运载能力最大的固体运载火箭“力箭一号”首飞成功. http://www.imech.ac.cn/xwdt/tpxw/202207/t20220727_6494295.html
 [51] Space-Track.Org. NORAD ID 53299 epoch 2022-07-27T07:11:53.808576. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/53299/orderby/EPOCH%20asc/limit/1/format/json
+[52] Asumoyz苏沫玖. 热烈祝贺07—144发射任务🇨🇳圆满成功. https://t.bilibili.com/688518781235888153
+[53] 上海航天. 长二丁成功发射遥感三十五号03组卫星. https://mp.weixin.qq.com/s/7ZRYOpdE2We4o5IOL6D62g
+[54] Space Launch Report. Long March Data Sheet. https://web.archive.org/web/20220411235210/http://www.spacelaunchreport.com/cz.html
+[55] Space-Track.Org. NORAD ID 53316 epoch 2022-07-29T17:44:15.694656. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/53316/orderby/EPOCH%20asc/limit/1/format/json
 
 视频素材来源
 [1] ULA. July 1 Live Broadcast: Atlas V USSF-12. https://youtu.be/bq7XexCXqaI
@@ -303,6 +320,7 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [18] 央视频. 中国空间站问天实验舱发射全程完整回顾. https://www.bilibili.com/video/BV1vT411E7iv
 [19] SpaceX. Starlink Mission. https://youtu.be/BuXdtORWrpg
 [20] SciNews. Lijian-1 first launch (ZK-1A). https://youtu.be/aKo9Pc7jRes
+[21] SciNews. Long March-2D launches Yaogan-35 03 satellites. https://youtu.be/W4v9A6LXt8k
 
 封面来源
 [1] United Launch Alliance. Atlas V USSF-12 Launch Highlights. https://youtu.be/x3Pwe1O6Dh8
@@ -320,6 +338,7 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [13] 央视频. 中国空间站问天实验舱发射全程完整回顾. https://www.bilibili.com/video/BV1vT411E7iv
 [14] SpaceX. Starlink Mission. https://www.flickr.com/photos/spacex/52238594995/
 [15] 中科院之声. 我国迄今运载能力最大的固体运载火箭#“力箭一号”首飞成功#. https://weibo.com/3494982177/LEduGnIkV
+[16] 我们的太空. 我国成功发射遥感三十五号03组卫星. https://zhuanlan.zhihu.com/p/547790180
 
 徽章来源
 [1] Virgin Orbit. Straight Up. https://virginorbit.com/straight-up/
@@ -327,4 +346,5 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [3] Rocket Lab. Wise One Looks Ahead. https://www.rocketlabusa.com/missions/completed-missions/wise-one-looks-ahead/
 [4] NASA. SpaceX CRS-25. https://en.wikipedia.org/wiki/SpaceX_CRS-25
 [5] 中国载人航天. 问天实验舱飞行任务标识发布. https://mp.weixin.qq.com/s/rsiXyZRa5UtAd5ClAVSlDw
+[6] 上海航天. 长二丁成功发射遥感三十五号03组卫星. https://mp.weixin.qq.com/s/7ZRYOpdE2We4o5IOL6D62g
 
