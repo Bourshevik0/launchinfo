@@ -1,13 +1,13 @@
 编号：2021-099
 火箭制造方：中国
-时间：2021-11-03 07:43(UTC+8)
+时间：2021-11-03 15:43(UTC+8)
 位置：酒泉卫星发射中心9401工位
 发射提供方：航天科技一院
 载荷研制方：航天科技五院
 载荷信息：遥感三十二号02组两颗卫星(技术验证卫星)[1]
 载荷质量：2.8吨[2]
 载具：长征二号丙遥41 / 远征一号S遥四上面级[3]
-轨道：687 x 700 km，98.09° SSO (太阳同步轨道) [4]
+轨道：687 x 700 km，98.09° SSO(太阳同步轨道) [4]
 结果：成功
 
 编号：2021-100
@@ -27,7 +27,7 @@
 时间：2021-11-06 11:00(UTC+8)
 位置：西昌卫星发射中心3号工位[3]
 发射提供方：航天科技八院
-载荷信息：遥感三十五号A，B，C星(地球观测卫星)[7]
+载荷信息：遥感三十五号A，B，C星(地球观测卫星)[8]
 载荷质量：3.5吨[2]
 载荷研制方：东方红卫星(A，B)，航天科技八院(C)
 载具：长征二号丁遥63[8]
@@ -166,7 +166,7 @@ ASI(意大利航天局)的莉西亚立方星(LICIACube)0.014吨[30]
 共8.18吨，其中码头号节点舱质量4.65吨[33][34]
 载荷质量：4.65吨
 载具：联盟-2.1b[3]
-轨道：193 x 240 km，51.67° LEO(近地轨道)[35]
+轨道：193 x 245 km，51.67° LEO(近地轨道)[35]
 结果：成功
 备注：码头号于11月26日15:20:06
 对接至ISS科学号实验舱天底对接口[34]
@@ -236,6 +236,9 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 使用COSPAR ID中去掉字母的部分，在剪辑不按照实际时间顺序进行时起标识的作用
 
 音乐来源
+[1] Stevia Sphere. A Sphere Made of Stevia. https://steviasphere.bandcamp.com/track/a-sphere-made-of-stevia
+[2] Mattie Pride. Changing The Times. https://youtu.be/dJ6ZnIhYzDw
+[3] Monin. Binary Stars. https://youtu.be/dJ6ZnIhYzDw
 
 数据来源
 [1] 中国航天报. 11月第一发！圆满成功. https://mp.weixin.qq.com/s/mZrYQY8l9VQ1afIBQCHo1w
@@ -288,8 +291,35 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [4] SciNews. Long March-2D launches the first Yaogan-35 satellites. https://youtu.be/lwDS2bNB08o
 [5] JAXA | 宇宙航空研究開発機構. 革新的衛星技術実証２号機／イプシロンロケット５号機打上げライブ中継. https://youtu.be/WtF378ZFyzM
 [6] NASA. NASA’s SpaceX Crew-3 Astronauts Launch to the Space Station. https://youtu.be/zekfpIRlVyY
+[7] SpaceX. Starlink Mission. https://youtu.be/AtmtP4vouSY
+[8] arianespace. Vol VV20 – CERES | Lancement Vega | Arianespace. https://youtu.be/aSmsA-G6q0g
+[9] Rocket Lab. Love At First Insight Launch 11/18/2021. https://youtu.be/N-sVCWo_xpE
+[10] SciNews. Long March-4B launches Gaofen-11 03. https://youtu.be/8j2SbwkALdU
+[11] NASASpaceflight. Astra Test Flight (Launch Vehicle 0007). https://youtu.be/97qhttuqtB4
+[12] 大漠问天. 我国成功发射高分三号02星. https://mp.weixin.qq.com/s/xtjMaaUGudB-pRvRxyUH-w
+[13] SpaceX. Double Asteroid Redirection Test (DART) Mission. https://youtu.be/XKRf6-NcMqI
+[14] Роскосмос ТВ. Прямая трансляция запуска с космодрома Байконур корабля-модуля «Прогресс М-УМ». https://youtu.be/eGSlvtuRjVM
+[15] 大漠问天. 我国成功发射试验十一号卫星. https://mp.weixin.qq.com/s/MsLMp2f86Q_Xlh5He4r6kQ
+[16] Минобороны России. Пуск ракеты-носителя «Союз-2.1Б» с космодрома Плесецк. https://vk.com/video-133441491_456247623
+[17] SciNews. Long March-3B launches ZhongXing-1D (ChinaSat-1D). https://youtu.be/66Rgt-kDMw8
 
 封面来源
+[1] 我们的太空. 我国成功发射遥感三十二号02组卫星. https://zhuanlan.zhihu.com/p/428998352
+[2] 我们的太空. 我国成功发射广目地球科学卫星. https://zhuanlan.zhihu.com/p/429792872
+[3] SciNews. Long March-2D launches the first Yaogan-35 satellites. https://youtu.be/lwDS2bNB08o
+[4] JAXA | 宇宙航空研究開発機構. 革新的衛星技術実証２号機／イプシロンロケット５号機打上げライブ中継. https://youtu.be/WtF378ZFyzM
+[5] NASA/Joel Kowsky. SpaceX Crew-3 Launch (NHQ202111100022). https://www.flickr.com/photos/nasahqphoto/51672140540/
+[6] SpaceX. Starlink Mission. https://www.flickr.com/photos/spacex/51677186098/
+[7] arianespace. Vol VV20 – CERES | Lancement Vega | Arianespace. https://youtu.be/aSmsA-G6q0g
+[8] Centre spatial guyanais. 16/11/21 - Décollage VV20. https://youtu.be/h8Se-nkUezU
+[9] Rocket Lab. Love At First Insight Launch 11/18/2021. https://youtu.be/N-sVCWo_xpE
+[10] 我们的太空. 我国成功发射高分十一号03星. https://zhuanlan.zhihu.com/p/435530541
+[11] NASASpaceflight. Astra Test Flight (Launch Vehicle 0007). https://youtu.be/97qhttuqtB4
+[12] 我们的太空. 我国成功发射高分三号02星. https://zhuanlan.zhihu.com/p/436528516
+[13] SpaceX. NASA DART Mission. https://www.flickr.com/photos/spacex/51702654514/
+[14] Роскосмос. «Причал» летит к МКС. https://www.roscosmos.ru/33443/
+[15] 我们的太空. 快一甲成功发射. https://zhuanlan.zhihu.com/p/437446159
+[16] 我们的太空. 中星1D顺利入轨. https://zhuanlan.zhihu.com/p/438309821
 
 徽章来源
 [1] 上海航天. 商业航天先行者，长征六号发射圆满成功. https://mp.weixin.qq.com/s/JdcVUxhXm2p6NlIarc4UKA
