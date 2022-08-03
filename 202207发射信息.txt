@@ -343,7 +343,7 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 徽章来源
 [1] Virgin Orbit. Straight Up. https://virginorbit.com/straight-up/
 [2] SpaceX. Starlink. https://www.elonx.net/spacex-mission-patches/#jp-carousel-3624
-[3] Rocket Lab. Wise One Looks Ahead. https://www.rocketlabusa.com/missions/completed-missions/wise-one-looks-ahead/
+[3] NRO. #NROL162. https://en.wikipedia.org/wiki/List_of_NRO_launches#/media/File:NROL-162_Patch.png
 [4] NASA. SpaceX CRS-25. https://en.wikipedia.org/wiki/SpaceX_CRS-25
 [5] 中国载人航天. 问天实验舱飞行任务标识发布. https://mp.weixin.qq.com/s/rsiXyZRa5UtAd5ClAVSlDw
 [6] 上海航天. 长二丁成功发射遥感三十五号03组卫星. https://mp.weixin.qq.com/s/7ZRYOpdE2We4o5IOL6D62g
