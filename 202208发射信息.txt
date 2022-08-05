@@ -1,4 +1,4 @@
-编号：2021-081
+编号：2021-089
 火箭制造方：俄罗斯
 时间：2022-08-01 20:25:48(UTC)
 位置：普列谢茨克43/4号工位
@@ -8,6 +8,57 @@
 载荷质量：2.8吨[2]
 载具：联盟2.1v / 伏尔加上面级[1]
 轨道：435 x 452 km，97.26° SSO(太阳同步轨道)[3]
+结果：成功
+
+编号：2022-090
+火箭制造方：中国
+时间：2022-08-04 11:08(UTC+8)
+位置：太原卫星发射中心9号工位
+发射提供方：航天科技八院
+载荷信息：自然资源部的陆地生态系统碳监测卫星(地球观测卫星)，
+北京和德宇航技术的交通四号卫星(地球观测卫星)，
+航天八院的闵行少年星(教育卫星)[4]
+载荷质量：2.8吨[5]
+载具：长征四号乙遥40[4]
+轨道：491 x 504 km，97.47° SSO(太阳同步轨道)[6]
+结果：成功
+备注：2020年4月9日以来长征系列火箭第100次连续发射成功[1]
+
+编号：2022-091
+火箭制造方：美国
+时间：2022-08-04 05:00(UTC)
+位置：火箭实验室LC-1B(新西兰玛希亚)
+任务名：Antipodean Adventure(对跖点冒险)
+发射提供方：火箭实验室
+载荷运营方：美国国家侦察局(NRO)
+载荷信息：RASR-4(NROL-199)[1]
+载荷质量：0.24吨[7]
+载具：电子火箭
+轨道：550 km x 550 km，70° LEO(近地轨道)[8]
+结果：成功
+
+编号：2022-092
+火箭制造方：美国
+时间：2022-08-04 10:29(UTC)
+位置：卡角太空军基地SLC-41
+飞行编号：AV-097
+发射提供方：ULA
+载荷运营方：美国太空军
+载荷信息： SBIRS-GEO 6(红外预警卫星)[1]
+载荷质量：4.5吨[9]
+轨道：4416 x 34879 km，18.43° HPGTO(高近地点地球同步转移轨道)[10][11]
+载具：宇宙神五421
+结果：成功
+
+编号：2022-093
+国家：中国
+时间：2022-08-05(UTC+8)
+位置：酒泉卫星发射中心921工位
+发射提供方：航天科技一院
+载荷信息：可重复使用试验航天器[12]
+载荷质量：8.4吨[5]
+载具：长征二号F/T4[1]
+轨道： 346 x 593 km, 49.99° LEO (近地轨道)[13]
 结果：成功
 
 1. 关于载荷质量
@@ -49,12 +100,24 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [1] Wikipedia. List of spaceflight launches in July–December 2022. https://en.wikipedia.org/wiki/List_of_spaceflight_launches_in_July%E2%80%93December_2022
 [2] Wikipedia. Soyuz-2-1v. https://en.wikipedia.org/wiki/Soyuz-2-1v
 [3] Space-Track.Org. NORAD ID 53323 epoch 2022-08-02T00:53:55.067424. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/53323/orderby/EPOCH%20asc/limit/1/format/json
+[4] 上海航天. 七夕节，长四乙用圆满成功告白. https://mp.weixin.qq.com/s/lVPVLnouS9slgDw8A5I_Lw
+[5] Space Launch Report. Long March Data Sheet. https://web.archive.org/web/20220411235210/http://www.spacelaunchreport.com/cz.html
+[6] Space-Track.Org. NORAD ID 53346 epoch 2022-08-04T07:20:46.432608. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/53346/orderby/EPOCH%20asc/limit/1/format/json
+[7] Rocket Lab. Payload user's guide. https://www.rocketlabusa.com/assets/Uploads/Payload-User-Guide-LAUNCH-V6.6.pdf
+[8] Orbital Focus. 2022 - Satellite & Spacecraft Launches and Detailed Orbits. https://www.orbitalfocus.uk/Diaries/Launches/Launches.php?year=2022#091
+[9] Gunter's Space Page. SBIRS-GEO 5, 6. https://space.skyrocket.de/doc_sdat/sbirs-geo-5.htm
+[10] Space-Track.Org. NORAD ID 53355 epoch 2022-08-04T14:35:54.330144. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/53355/orderby/EPOCH%20asc/limit/1/format/json
+[11] Tory Bruno. orbital mechanics. https://twitter.com/torybruno/status/1288563313828343808
+[12] 中国航天报. 我国成功发射可重复使用试验航天器. https://mp.weixin.qq.com/s/LT_QViuitJ5UAmRvIV9ULw
+[13] Space-Track.Org. NORAD ID 53357 epoch 2022-08-04T20:44:16.697760. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/53357/orderby/EPOCH%20asc/limit/1/format/json
 
 视频素材来源
 [1] Минобороны России. Ракета легкого класса «Союз-2.1в» стартовала с космодрома Плесецк. https://vk.com/video-133441491_456263274
-[2] Роскосмос. Воздушно-космические силы провели пуск ракеты-носителя «Союз-2.1в» с космодрома Плесецк. https://www.roscosmos.ru/38045/
 
 封面来源
+[1] Роскосмос. Воздушно-космические силы провели пуск ракеты-носителя «Союз-2.1в» с космодрома Плесецк. https://www.roscosmos.ru/38045/
 
 徽章来源
+[1] 上海航天. 七夕节，长四乙用圆满成功告白. https://mp.weixin.qq.com/s/lVPVLnouS9slgDw8A5I_Lw
+[2]  NRO. List of NRO launches. https://en.wikipedia.org/wiki/List_of_NRO_launches#Launch_history
 
