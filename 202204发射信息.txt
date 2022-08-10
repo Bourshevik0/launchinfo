@@ -270,7 +270,7 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [40] CelesTrak. Starlink-G4-16 Pre-Launch. https://celestrak.org/NORAD/elements/supplemental/table.php?tleFile=starlink-g4-16&title=Starlink-G4-16%20Pre-Launch&orbits=2&pointsPerRev=90&frame=1
 [41] NASASpaceflight. Jilin-1 Gaofen-03D 04-07/04A - CZ-11H - Tai Rui ECS - April 30, 2022 (03:30 UTC). https://forum.nasaspaceflight.com/index.php?topic=55382.msg2364067#msg2364067
 [42] 中国航天报. 长十一发射成功. https://mp.weixin.qq.com/s/fgBUq4W0zCiX2hi3E-eSLw
-[43] Gunter's Space Page. Jilin-1 Gaofen-03A, 03B, 03C, 03D (Jilin-1 High Resolution-03A, 03B, 03C, 03D)
+[43] Gunter's Space Page. Jilin-1 Gaofen-03A, 03B, 03C, 03D (Jilin-1 High Resolution-03A, 03B, 03C, 03D). https://space.skyrocket.de/doc_sdat/jilin-1-gaofen-03a.htm
 [44] Space-Track.Org. NORAD ID 52388 epoch 2022-04-30T04:50:47.635008. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/52388/orderby/EPOCH%20asc/limit/1/format/json
 
 视频素材来源
