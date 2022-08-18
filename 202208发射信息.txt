@@ -34,7 +34,7 @@
 载荷信息：RASR-4(NROL-199)[1]
 载荷质量：0.24吨[7]
 载具：电子火箭
-轨道：550 km x 550 km，70° LEO(近地轨道)[8]
+轨道：550 x 550 km，70° LEO(近地轨道)[8]
 结果：成功
 
 编号：2022-092
@@ -46,8 +46,8 @@
 载荷运营方：美国太空军
 载荷信息： SBIRS-GEO 6(红外预警卫星)[1]
 载荷质量：4.5吨[9]
+载具：宇宙神五421[1]
 轨道：4416 x 34879 km，18.43° HPGTO(高近地点地球同步转移轨道)[10][11]
-载具：宇宙神五421
 结果：成功
 
 编号：2022-093
@@ -73,7 +73,7 @@
 结果：成功
 回收船：JRTI(Just Read the Instructions)[15]
 
-编号：2022-095
+编号：2022-F04
 火箭制造方：印度
 时间：2022-08-07 03:48(UTC)
 位置：萨迪什·达万航天中心1号工位
@@ -141,6 +141,18 @@ Space Kidz India的AzaadiSAT(教育卫星)质量0.008吨[19]
 载具：长征六号遥10[28]
 轨道：535 x 547 km，97.53° SSO(太阳同步轨道)[32]
 结果：成功
+
+编号：2022-099
+火箭制造方：美国
+时间：2022-08-12 21:40:20(UTC)[1]
+位置：范登堡太空军基地SLC-4E
+组名：Starlink Group 3-3(G3-3)
+发射与载荷：SpaceX
+载荷信息：46颗星链卫星(宽带通信卫星)共约13.8吨
+载具：猎鹰9号Block 5(B1061.10)[33]
+轨道：308 x 321 km，97.66° SSO(太阳同步轨道)[34]
+结果(发射与回收)：成功
+回收船：OCISLY(Of Course I Still Love You)[34]
 
 1. 关于载荷质量
 1.1 货运飞船仅将货物质量计入载荷质量，模拟载荷与有效载荷一起搭载时仅计入有效载荷质量。若仅搭载货运飞船或模拟载荷，将其整体质量计入载荷质量。
@@ -210,6 +222,8 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [30] Gunter's Space Page. Jilin-1 Gaofen-03A, 03B, 03C, 03D (Jilin-1 High Resolution-03A, 03B, 03C, 03D). https://space.skyrocket.de/doc_sdat/jilin-1-gaofen-03a.htm
 [31] Gunter's Space Page. Jilin-1 Hongwai-A01..., A06 (Jilin-1 Infrared-A01, ..., A06). https://space.skyrocket.de/doc_sdat/jilin-1-hongwai-a01.htm
 [32] Space-Track.Org. NORAD ID 53444 epoch 2022-08-10T07:53:45.302784. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/53444/orderby/EPOCH%20asc/limit/1/format/json
+[33] NASASpaceflight. SpaceX F9 : Starlink group 3-3 : Vandenberg : 12 August 2022 (21:40 UTC). https://forum.nasaspaceflight.com/index.php?topic=56653.0
+[34] CelesTrak. Starlink G3-3 Pre-Launch. https://celestrak.org/NORAD/elements/supplemental/table.php?FILE=starlink-g3-3&FORMAT=tle
 
 视频素材来源
 [1] Минобороны России. Ракета легкого класса «Союз-2.1в» стартовала с космодрома Плесецк. https://vk.com/video-133441491_456263274
@@ -217,9 +231,17 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [3] Rocket Lab. Antipodean Adventure Launch. http://youtu.be/ij94xGiXB5Q
 [4] United Launch Alliance. August 4 Live Broadcast: Atlas V SBIRS GEO 6. https://youtu.be/ojD3jJDvsSY
 [5] United Launch Alliance. Atlas V SBIRS GEO 6 Launch Highlights. https://youtu.be/JUJtjwjiMkc
+[6] SpaceX. KPLO Mission. https://youtu.be/rTrkHZjiO_8
+[7] ISRO Official. SSLV-D1/EOS-02 Mission launch is scheduled for Aug 7, 2022 at 9:18 hrs IST from SDSC, Sriharikota. https://youtu.be/m0tsABQCW1M
+[8] SciNews. Ceres-1 launches three satellites. https://youtu.be/6aEGq8DuRE4
+[9] Роскосмос. Техническая трансляция пуска ракеты-носителя «Союз-2.1б». https://vk.com/video-30315369_456243242
+[10] SpaceX. Starlink Mission. https://youtu.be/ck5z0uMGz8s
+[11] SciNews. Long March-6 launches 16 satellites. https://youtu.be/O-2esgMYRJU
+[12] SpaceX. Starlink Mission. https://youtu.be/SU5FbiCbjic
 
 封面来源
 [1] Роскосмос. Воздушно-космические силы провели пуск ракеты-носителя «Союз-2.1в» с космодрома Плесецк. https://www.roscosmos.ru/38045/
+[2] United Launch Alliance. Atlas V SBIRS GEO 6 Launch Highlights. https://youtu.be/JUJtjwjiMkc
 
 徽章来源
 [1] 上海航天. 七夕节，长四乙用圆满成功告白. https://mp.weixin.qq.com/s/lVPVLnouS9slgDw8A5I_Lw
