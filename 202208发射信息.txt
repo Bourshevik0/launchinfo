@@ -67,7 +67,7 @@
 位置：卡角太空军基地SLC-40
 发射提供方：SpaceX
 载荷运营方：韩国航空宇宙研究院(KARI)
-载荷信息：KPLO(月球探测器)0.675吨[14]
+载荷信息：KPLO(月球探测器)0.678吨[14]
 载具：猎鹰9号Block 5(B1052.6)[15]
 轨道：247 x 1212930 km, 5.06° HEO(大椭圆轨道)[17]
 结果：成功
@@ -80,7 +80,7 @@
 飞行编号：D1
 发射提供方：ISRO[1]
 载荷信息：ISRO的EOS-02(地球观测卫星)质量0.135吨[18]；
-Space Kidz India的AzaadiSAT(教育卫星)质量0.008吨[19]
+Space Kidz India的AzaadiSAT (教育卫星)质量0.008吨[19]
 载荷质量：0.143吨
 载具：SSLV
 预期轨道： LEO(近地轨道)
@@ -90,24 +90,26 @@ Space Kidz India的AzaadiSAT(教育卫星)质量0.008吨[19]
 编号：2022-095
 火箭制造方：中国
 时间：2022-08-09 12:11(UTC+8)
-位置：酒泉卫星发射中心
+位置：酒泉卫星发射中心[20]
+任务代号：01-157[21]
 冠名：星光益彩号
 任务名：White is the new black(白是新的黑)
 发射提供方：星河动力航天
 载荷信息：北京微纳星空科技的泰景一号01星，02星，
 航天八院的东海一号，
 均为地球观测卫星[20]
-载荷质量：0.3吨[21]
+载荷质量：0.3吨[22]
 载具：谷神星一号遥三
-轨道：437 x 549 km，97.42° SSO(太阳同步轨道)[22]
+预期轨道：500 x 542 km，97.40° SSO(太阳同步轨道)
+实际轨道：436 x 542 km，97.40° SSO(太阳同步轨道)[21] 
 结果：成功
+备注：预期轨道与实际轨道差异较大[21]
 
 编号：2022-096
 火箭制造方：俄罗斯
 时间：2022-08-09 05:52:38(UTC)
 位置：拜科努尔31/6号工位
 发射提供方：俄罗斯航天集团
-载荷运营方：俄罗斯国防部
 载荷信息：伊朗航天局的海亚姆(地球观测卫星)质量0.65吨[23]；
 16颗搭车立方星
 载荷质量： 0.694吨[24]
@@ -153,6 +155,55 @@ Space Kidz India的AzaadiSAT(教育卫星)质量0.008吨[19]
 轨道：308 x 321 km，97.66° SSO(太阳同步轨道)[34]
 结果(发射与回收)：成功
 回收船：OCISLY(Of Course I Still Love You)[34]
+
+编号：2022-100
+火箭制造方：中国
+时间：2022-08-20 01:37(UTC+8)[35]
+位置：西昌卫星发射中心3号工位[1]
+发射提供方：航天科技八院
+载荷研制方：航天科技五院 / 八院
+载荷信息：遥感三十五号04组三颗卫星(地球观测卫星)[35]
+载荷质量：3.5吨[5]
+载具：长征二号丁遥66[35]
+轨道：491 x 502 km，34.99° LEO(近地轨道)[36]
+结果：成功
+
+编号：2022-101
+火箭制造方：美国
+时间：2022-08-19 19:21:20(UTC) 
+位置：卡角太空军基地SLC-40
+组名：Starlink Group 4-27(G4-27)
+发射与载荷：SpaceX
+载荷信息：53颗星链卫星(宽带通信卫星)共约15.9吨
+载具：猎鹰9号Block 5(B1062.9)[37]
+轨道：232 x 335 km，53.22° LEO(近地轨道)[38]
+结果(发射与回收)：成功
+回收船：ASOG(A Shortfall of Gravitas)[37]
+
+编号：2022-102
+火箭制造方：中国
+时间：2022-08-23 10:36(UTC+8)
+位置：西昌卫星发射中心
+发射提供方：航天科工火箭技术
+载荷研制方：中国科学院微小卫星创新研究院
+载荷信息：创新十六号A，B星(技术验证卫星)[1][39]
+载荷质量：0.3吨[40]
+载具：快舟一号甲[1]
+轨道：590 x 596 km，29.01° SSO(太阳同步轨道)[41]
+结果：成功
+备注：快舟一号甲首次在西昌发射[40]
+
+编号：2022-103
+火箭制造方：中国
+时间：2022-08-24 11:01(UTC+8)
+位置：太原卫星发射中心9号工位
+发射提供方：航天科技八院
+载荷研制方：航天科技五院
+载荷信息：北京三号B星(地球观测卫星)[42]
+载荷质量：2吨[5]
+载具：长征二号丁遥75
+轨道：SSO(太阳同步轨道)[42]
+结果：成功
 
 1. 关于载荷质量
 1.1 货运飞船仅将货物质量计入载荷质量，模拟载荷与有效载荷一起搭载时仅计入有效载荷质量。若仅搭载货运飞船或模拟载荷，将其整体质量计入载荷质量。
@@ -210,8 +261,8 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [18] Wikipedia. EOS 02. https://en.wikipedia.org/wiki/EOS_02
 [19] Wikipedia. AzaadiSAT. https://en.wikipedia.org/wiki/AzaadiSAT
 [20] 星河动力. 星河动力率先迈入民营火箭规模化发射新阶段. https://mp.weixin.qq.com/s/Z7yNR-Bv2IE5Kke0_pNS5Q
-[21] 星河动力. 谷神星一号. http://www.galactic-energy.cn/index.php/List/cid/1
-[22] Space-Track.Org. NORAD ID 53367 epoch 2022-08-09T11:57:10.197216. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/53367/orderby/EPOCH%20asc/limit/1/format/json
+[21] 星河动力火箭姬. 谷神星一号遥三纪录片震撼发布. https://www.bilibili.com/video/av514766772
+[22] 星河动力. 谷神星一号. http://www.galactic-energy.cn/index.php/List/cid/1
 [23] NASASpaceFlight. Russia launches Soyuz rocket with Iranian satellite and CubeSats. https://www.nasaspaceflight.com/2022/08/russia-soyuz-iranian-satellite/
 [24] NASA. CubeSats Overview. https://www.nasa.gov/mission_pages/cubesats/overview
 [25] Space-Track.Org. NORAD ID 53367 epoch 2022-08-09T11:57:10.197216. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/53367/orderby/EPOCH%20asc/limit/1/format/json
@@ -224,6 +275,14 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [32] Space-Track.Org. NORAD ID 53444 epoch 2022-08-10T07:53:45.302784. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/53444/orderby/EPOCH%20asc/limit/1/format/json
 [33] NASASpaceflight. SpaceX F9 : Starlink group 3-3 : Vandenberg : 12 August 2022 (21:40 UTC). https://forum.nasaspaceflight.com/index.php?topic=56653.0
 [34] CelesTrak. Starlink G3-3 Pre-Launch. https://celestrak.org/NORAD/elements/supplemental/table.php?FILE=starlink-g3-3&FORMAT=tle
+[35] 上海航天. 长二丁成功发射遥感三十五号04组卫星. https://mp.weixin.qq.com/s/kSahM8ab013wCIfZsyd1jQ
+[36] Space-Track.Org. NORAD ID 53522 epoch 2022-08-20T01:26:37.956192. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/53522/orderby/EPOCH%20asc/limit/1/format/json
+[37] NASASpaceflight. SpaceX F9 : Starlink group 4-27 : CCSFS SLC-40 : 19 August 2022 (19:21 UTC). https://forum.nasaspaceflight.com/index.php?topic=56706.0
+[38] CelesTrak. Starlink G4-27 Pre-Launch. https://celestrak.org/NORAD/elements/supplemental/table.php?FILE=starlink-g4-27&FORMAT=tle
+[39] 中科院微小卫星创新研究院. 创新十六号卫星发射成功. https://mp.weixin.qq.com/s/KsyyMs0hzd_vF2y-08KtVQ
+[40] Wikipedia. Kuaizhou. https://en.wikipedia.org/wiki/Kuaizhou
+[41] Space-Track.Org. NORAD ID 53586 epoch 2022-08-23T10:32:16.296000. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/53586/orderby/EPOCH%20asc/limit/1/format/json
+[42] 上海航天. 时隔四天！长征二号丁运载火箭又一次圆满成功！. https://mp.weixin.qq.com/s/JL5fvGAZBOvBEnWq947m8g
 
 视频素材来源
 [1] Минобороны России. Ракета легкого класса «Союз-2.1в» стартовала с космодрома Плесецк. https://vk.com/video-133441491_456263274
@@ -238,15 +297,22 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [10] SpaceX. Starlink Mission. https://youtu.be/ck5z0uMGz8s
 [11] SciNews. Long March-6 launches 16 satellites. https://youtu.be/O-2esgMYRJU
 [12] SpaceX. Starlink Mission. https://youtu.be/SU5FbiCbjic
+[13] SciNews. Long March-2D launches Yaogan-35 04 satellites. https://youtu.be/6huSgB1z_yk
+[14] SpaceX. Starlink Mission. https://youtu.be/M018DAaNd_E
+[15] SciNews. Kuaizhou-1A launches Chuangxin-16. https://youtu.be/gNNaA-YKfl4
+[16] 中国航天报. 104次连胜！长征火箭破纪录后再出发！. https://mp.weixin.qq.com/s/jZelFT8LEWoeMjRs-Kn6rQ
 
 封面来源
 [1] Роскосмос. Воздушно-космические силы провели пуск ракеты-носителя «Союз-2.1в» с космодрома Плесецк. https://www.roscosmos.ru/38045/
 [2] United Launch Alliance. Atlas V SBIRS GEO 6 Launch Highlights. https://youtu.be/JUJtjwjiMkc
+[3] SpaceX. KPLO Mission. https://www.flickr.com/photos/spacex/52264517689/
 
 徽章来源
 [1] 上海航天. 七夕节，长四乙用圆满成功告白. https://mp.weixin.qq.com/s/lVPVLnouS9slgDw8A5I_Lw
 [2]  NRO. List of NRO launches. https://en.wikipedia.org/wiki/List_of_NRO_launches#Launch_history
 [3] Gen. Jay Raymond. SBIRS GEO-6 launch. https://twitter.com/SpaceForceCSO/status/1555168754899865600
-[4] SpaceX. Starlink. https://www.elonx.net/spacex-mission-patches/#jp-carousel-3624
-[5] 上海航天. 长征六号一箭16星发射圆满成功. https://mp.weixin.qq.com/s/VqnV7GixiivJYmcATf6Csg
+[4] SpaceX. KPLO. https://www.elonx.net/spacex-mission-patches/#jp-carousel-6183
+[5] SpaceX. Starlink. https://www.elonx.net/spacex-mission-patches/#jp-carousel-3624
+[6] 上海航天. 长征六号一箭16星发射圆满成功. https://mp.weixin.qq.com/s/VqnV7GixiivJYmcATf6Csg
+[7] 上海航天. 时隔四天！长征二号丁运载火箭又一次圆满成功！. https://mp.weixin.qq.com/s/JL5fvGAZBOvBEnWq947m8g
 
