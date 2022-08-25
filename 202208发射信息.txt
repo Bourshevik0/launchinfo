@@ -189,7 +189,7 @@ Space Kidz India的AzaadiSAT (教育卫星)质量0.008吨[19]
 载荷信息：创新十六号A，B星(技术验证卫星)[1][39]
 载荷质量：0.3吨[40]
 载具：快舟一号甲[1]
-轨道：590 x 596 km，29.01° SSO(太阳同步轨道)[41]
+轨道：590 x 596 km，29.01° LEO(近地轨道)[41]
 结果：成功
 备注：快舟一号甲首次在西昌发射[40]
 
@@ -201,8 +201,8 @@ Space Kidz India的AzaadiSAT (教育卫星)质量0.008吨[19]
 载荷研制方：航天科技五院
 载荷信息：北京三号B星(地球观测卫星)[42]
 载荷质量：2吨[5]
-载具：长征二号丁遥75
-轨道：SSO(太阳同步轨道)[42]
+载具：长征二号丁遥75[42]
+轨道：597 x 615 km，97.94° SSO(太阳同步轨道)[43]
 结果：成功
 
 1. 关于载荷质量
@@ -283,6 +283,7 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [40] Wikipedia. Kuaizhou. https://en.wikipedia.org/wiki/Kuaizhou
 [41] Space-Track.Org. NORAD ID 53586 epoch 2022-08-23T10:32:16.296000. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/53586/orderby/EPOCH%20asc/limit/1/format/json
 [42] 上海航天. 时隔四天！长征二号丁运载火箭又一次圆满成功！. https://mp.weixin.qq.com/s/JL5fvGAZBOvBEnWq947m8g
+[43] Space-Track.Org. NORAD ID 53587 epoch 2022-08-24T06:06:55.940832. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/53587/orderby/EPOCH%20asc/limit/1/format/json
 
 视频素材来源
 [1] Минобороны России. Ракета легкого класса «Союз-2.1в» стартовала с космодрома Плесецк. https://vk.com/video-133441491_456263274
