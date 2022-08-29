@@ -205,6 +205,18 @@ Space Kidz India的AzaadiSAT (教育卫星)质量0.008吨[19]
 轨道：597 x 615 km，97.94° SSO(太阳同步轨道)[43]
 结果：成功
 
+编号：2022-104
+火箭制造方：美国
+时间：2022-08-28 03:41:20(UTC)[1]
+位置：卡角太空军基地SLC-40
+组名：Starlink Group 4-23(G4-23)
+发射与载荷：SpaceX
+载荷信息：54颗星链卫星(宽带通信卫星)共约16.7吨[44][45]
+载具：猎鹰9号Block 5(B1069.2)[44]
+轨道：232 x 336 km，53.22° LEO(近地轨道)[46]
+结果(发射与回收)：成功
+回收船：ASOG(A Shortfall of Gravitas)[44]
+
 1. 关于载荷质量
 1.1 货运飞船仅将货物质量计入载荷质量，模拟载荷与有效载荷一起搭载时仅计入有效载荷质量。若仅搭载货运飞船或模拟载荷，将其整体质量计入载荷质量。
 1.2 载人飞船将其整体质量计入载荷质量。
@@ -284,6 +296,9 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [41] Space-Track.Org. NORAD ID 53586 epoch 2022-08-23T10:32:16.296000. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/53586/orderby/EPOCH%20asc/limit/1/format/json
 [42] 上海航天. 时隔四天！长征二号丁运载火箭又一次圆满成功！. https://mp.weixin.qq.com/s/JL5fvGAZBOvBEnWq947m8g
 [43] Space-Track.Org. NORAD ID 53587 epoch 2022-08-24T06:06:55.940832. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/53587/orderby/EPOCH%20asc/limit/1/format/json
+[44] NASASpaceflight. SpaceX F9 : Starlink group 4-23 : CCSFS SLC-40 : 27/28 August 2022 (03:41 UTC). https://forum.nasaspaceflight.com/index.php?topic=56766.0
+[45] Justin Davenport. SpaceX just confirmed tonight’s launch payload weight was 16.7 tons. https://forum.nasaspaceflight.com/index.php?topic=56766.msg2400891#msg2400891
+[46] CelesTrak. Starlink G4-23 Pre-Launch. https://celestrak.org/NORAD/elements/supplemental/table.php?FILE=starlink-g4-23&FORMAT=tle
 
 视频素材来源
 [1] Минобороны России. Ракета легкого класса «Союз-2.1в» стартовала с космодрома Плесецк. https://vk.com/video-133441491_456263274
@@ -302,6 +317,7 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [14] SpaceX. Starlink Mission. https://youtu.be/M018DAaNd_E
 [15] SciNews. Kuaizhou-1A launches Chuangxin-16. https://youtu.be/gNNaA-YKfl4
 [16] 中国航天报. 104次连胜！长征火箭破纪录后再出发！. https://mp.weixin.qq.com/s/jZelFT8LEWoeMjRs-Kn6rQ
+[17] SpaceX. Starlink Mission. https://youtu.be/07RGJ04HRns
 
 封面来源
 [1] Роскосмос. Воздушно-космические силы провели пуск ракеты-носителя «Союз-2.1в» с космодрома Плесецк. https://www.roscosmos.ru/38045/
