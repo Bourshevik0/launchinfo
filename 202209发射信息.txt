@@ -1,0 +1,128 @@
+编号：2022-106
+火箭制造方：中国
+时间：2022-09-03 07:44(UTC+8)[1]
+位置：酒泉卫星发射中心9401工位
+发射与载荷：航天科技八院
+载荷信息：遥感三十三号02星(地球观测卫星)[2]
+载荷质量：2.8吨[3]
+载具：长征四号丙遥52[2]
+轨道：680 x 688 km，98.19° SSO(太阳同步轨道)[4]
+结果：成功
+
+编号：2022-107
+火箭制造方：美国
+时间：2022-09-05 02:09:40(UTC)[1]
+位置：卡角太空军基地SLC-40
+组名：Starlink Group 4-20(G4-20)
+发射提供方：SpaceX
+主载荷信息：51颗星链卫星(宽带通信卫星)共约15.3吨[5]
+搭车载荷信息：航天公司的夏尔巴-LTC(技术验证卫星)约0.18吨，
+搭载波音公司的伐楼拿-TDM通信试验载荷[6][7]
+载荷质量：15.48吨
+载具：猎鹰9号Block 5(B1052.7)[5]
+轨道：304 x 316 km，53.22° LEO(近地轨道)[8]
+结果(发射与回收)：成功
+回收船：JRTI(Just Read the Instructions)[5]
+
+编号：2022-108
+火箭制造方：中国
+时间：2022-09-06 10:24(UTC+8)
+位置：西昌卫星发射中心
+发射提供方：航天科工火箭技术
+载荷运营方：北京未来导航科技
+载荷信息：微厘空间S3/S4试验卫星(低轨导航增强系统)
+载荷质量：0.3吨
+载具：快舟一号甲[9]
+轨道：693 x 705 km，53.53° LEO(近地轨道)[10]
+结果：成功
+
+编号：2022-109
+火箭制造方：中国
+时间：2022-09-06 12:19(UTC+8)
+位置：西昌卫星发射中心3号工位[1]
+发射提供方：航天科技八院
+载荷研制方：航天科技五院 / 八院
+载荷信息：遥感三十五号05组3颗卫星 (地球观测卫星)
+载荷质量：2吨[3]
+载具：长征二号丁遥67[11]
+轨道：491 x 502 km，35.00° LEO(近地轨道)[12]
+结果：成功
+
+编号：2022-110
+火箭制造方：欧洲
+时间：2022-09-07 21:45(UTC)
+位置：圭亚那航天中心ELA-3
+飞行编号：VA257
+发射提供方：阿丽亚娜空间
+载荷运营方：欧洲卫通
+载荷信息：欧洲卫通Konnect VHTS(宽带通信卫星)[1]
+载荷质量：6.396吨[13]
+载具：阿丽亚娜5 ECA
+轨道：357 x 60743 km，3.40° SSTO(超地球同步转移轨道)[14]
+结果：成功
+
+1. 关于载荷质量
+1.1 货运飞船仅将货物质量计入载荷质量，模拟载荷与有效载荷一起搭载时仅计入有效载荷质量。若仅搭载货运飞船或模拟载荷，将其整体质量计入载荷质量。
+1.2 载人飞船将其整体质量计入载荷质量。
+1.3 (小卫星)上面级或摆渡级若自身没有任何不可分离的有效载荷，不计入载荷质量，若有，将其整体质量计入载荷质量。
+
+2. 关于轨道
+2.1 无额外标注的情况下，轨道一般指载荷所在的初始轨道，可以是预期轨道，或者实际轨道，具体类型根据来源判断。
+2.2 若使用USSSN(Space-Track.Org)来源的轨道信息，会标注该数据使用的NORAD ID和epoch，以备查询与核实。需注册登录后才可查询。
+
+3. 两组互斥的概念
+3.1 初始轨道(initial orbit)：载荷与末级火箭分离后所在的轨道，一般不是运营轨道。如果不是发射相关方提供的数据(supTLE)，则以第三方(USSSN)发布的首个TLE数据为准，在后者的情况下会存在误差。
+3.2 运营轨道(operational orbit)：载荷长时间运行，执行任务所在的轨道，一般比初始轨道更高，末级难以或不必送入的轨道。
+3.3 预期轨道(desired orbit)：发射前预期载荷将进入的轨道，可以是预期初始轨道或者预期运营轨道。
+3.4 实际轨道(actual orbit)：发射后相关方提供的(supTLE)或第三方(USSSN)追踪到的轨道。
+
+4. 猎鹰9号芯一级代号说明
+B1xxx.xx
+B代表Block，本意为第几代的代，此处无含义。小数点前的xxx为芯级编号，小数点后的xx为使用次数，如第二次发射时，此处为2。
+
+5. 龙飞船代号说明
+C2xx.xx
+C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代，小数点前的xxx为飞船编号，小数点后的xx为使用次数，如第二次使用时，此处为2。
+
+6. 任务徽章说明
+视频中没有括号备注的情况下使用载荷运营方绘制的任务徽章，否则为相关方面的任务徽章。
+
+7. 来源格式说明
+[(文案)引用顺序] 作者/来源. 标题. 链接
+
+8. 编号格式说明
+年份-当年成功发射次序(实际时间顺序)。即使用COSPAR ID中去掉字母的部分，在剪辑不按照实际时间顺序进行时起标识的作用。
+
+音乐来源
+[1] Stevia Sphere. A Sphere Made of Stevia. https://steviasphere.bandcamp.com/track/a-sphere-made-of-stevia
+
+数据来源
+[1] Wikipedia. List of spaceflight launches in July–December 2022. https://en.wikipedia.org/wiki/List_of_spaceflight_launches_in_July%E2%80%93December_2022
+[2] 上海航天. 长四丙成功发射遥感三十三号02星. https://mp.weixin.qq.com/s/WEOgQW68NyJPd12ISaxoCQ
+[3] Space Launch Report. Long March Data Sheet. https://web.archive.org/web/20220411235210/http://www.spacelaunchreport.com/cz.html
+[4] Space-Track.Org. NORAD ID 53698 epoch 2022-09-03T02:50:13.293888. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/53698/orderby/EPOCH%20asc/limit/1/format/json
+[5] NASASpaceflight. SpaceX F9 : Starlink 4-20 & Varuna : CCSFS SLC-40 : 4/5 Sep 2022 (02:09 UTC). https://forum.nasaspaceflight.com/index.php?topic=56396.0
+[6] Gunter's Space Page. Sherpa-LTC 1, 2. https://space.skyrocket.de/doc_sdat/sherpa-ltc.htm
+[7] Gunter's Space Page. Varuna-TDM (Sherpa-LTC 2). https://space.skyrocket.de/doc_sdat/varuna-tdm.htm
+[8] CelesTrak. Starlink G4-20 Pre-Launch. https://celestrak.org/NORAD/elements/supplemental/table.php?FILE=starlink-g4-20&FORMAT=tle
+[9] 航天科工. 快舟一号甲火箭成功发射微厘空间试验卫星. https://mp.weixin.qq.com/s/XJkjCI0YTWOnQx-8cLrB0A
+[10] Space-Track.Org. NORAD ID 53757 epoch 2022-09-06T07:11:04.248672. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/53757/orderby/EPOCH%20asc/limit/1/format/json
+[11] 上海航天. 长二丁成功发射遥感三十五号05组卫星. https://mp.weixin.qq.com/s/15IIMkAibbqvS_IAdEMPcw
+[12] Space-Track.Org. NORAD ID 53760 epoch 2022-09-06T12:04:54.026976. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/53760/orderby/EPOCH%20asc/limit/1/format/json
+[13] Gunter's Space Page. Eutelsat Konnect VHTS. https://space.skyrocket.de/doc_sdat/eutelsat-konnect-vhts.htm
+[14] Space-Track.Org. NORAD ID 53765 epoch 2022-09-07T23:47:35.799648. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/53765/orderby/EPOCH%20asc/limit/1/format/json
+
+视频素材来源
+[1] SciNews. Long March-4C launches Yaogan-33-02. https://youtu.be/W6UF5nCZmGw
+[2] SpaceX. Starlink Mission. https://youtu.be/NONM-xsKMSs
+[3] SciNews. Kuaizhou-1A launches CentiSpace-1 S3/ S4 satellites. https://youtu.be/9pjUm6ZVuFY
+
+封面来源
+[1] 
+
+徽章来源
+[1] 上海航天. 长四丙成功发射遥感三十三号02星. https://mp.weixin.qq.com/s/WEOgQW68NyJPd12ISaxoCQ
+[2] SpaceX. Starlink. https://www.elonx.net/spacex-mission-patches/#jp-carousel-3624
+[3] 上海航天. 长二丁成功发射遥感三十五号05组卫星. https://mp.weixin.qq.com/s/15IIMkAibbqvS_IAdEMPcw
+[4] ArianeGroup. VA258. https://twitter.com/ArianeGroup/status/1565765462272757761
+
