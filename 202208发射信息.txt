@@ -44,7 +44,7 @@
 飞行编号：AV-097
 发射提供方：ULA
 载荷运营方：美国太空军
-载荷信息： SBIRS-GEO 6(红外预警卫星)[1]
+载荷信息：SBIRS-GEO 6(红外预警卫星)[1]
 载荷质量：4.5吨[9]
 载具：宇宙神五421[1]
 轨道：4416 x 34879 km，18.43° HPGTO(高近地点地球同步转移轨道)[10][11]
@@ -58,7 +58,7 @@
 载荷信息：可重复使用试验航天器[12]
 载荷质量：8.4吨[5]
 载具：长征二号F/T4[1]
-轨道： 346 x 593 km, 49.99° LEO (近地轨道)[13]
+轨道：346 x 593 km, 49.99° LEO (近地轨道)[13]
 结果：成功
 
 编号：2022-094
@@ -83,7 +83,7 @@
 Space Kidz India的AzaadiSAT (教育卫星)质量0.008吨[19]
 载荷质量：0.143吨
 载具：SSLV
-预期轨道： LEO(近地轨道)
+预期轨道：LEO(近地轨道)
 结果：失败
 失败原因：末级火箭故障导致未完成点火过程[1]
 
@@ -112,7 +112,7 @@ Space Kidz India的AzaadiSAT (教育卫星)质量0.008吨[19]
 发射提供方：俄罗斯航天集团
 载荷信息：伊朗航天局的海亚姆(地球观测卫星)质量0.65吨[23]；
 16颗搭车立方星
-载荷质量： 0.694吨[24]
+载荷质量：0.694吨[24]
 载具：联盟2.1b / 军舰鸟上面级[1]
 轨道：437 x 549 km，97.41° SSO(太阳同步轨道)[25]
 结果：成功
@@ -224,11 +224,11 @@ Space Kidz India的AzaadiSAT (教育卫星)质量0.008吨[19]
 位置：范登堡太空军基地SLC-4E
 组名：Starlink Group 3-4(G3-4)
 发射与载荷：SpaceX
-载荷信息：46颗星链卫星(宽带通信卫星)共约13.8吨[1] 
+载荷信息：46颗星链卫星(宽带通信卫星)共约13.8吨[1]
 载具：猎鹰9号Block 5(B1063.7)[48]
 轨道：307 x 321 km，97.66° SSO(太阳同步轨道)[49]
 结果(发射与回收)：成功
-回收船：OCISLY(Of Course I Still Love You)[48] 
+回收船：OCISLY(Of Course I Still Love You)[48]
 
 1. 关于载荷质量
 1.1 货运飞船仅将货物质量计入载荷质量，模拟载荷与有效载荷一起搭载时仅计入有效载荷质量。若仅搭载货运飞船或模拟载荷，将其整体质量计入载荷质量。
@@ -266,6 +266,7 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [1] Stevia Sphere. A Sphere Made of Stevia. https://steviasphere.bandcamp.com/track/a-sphere-made-of-stevia
 [2] Bihler. Paradise. https://bihler.bandcamp.com/track/paradise
 [3] HurricaneTurtle. Next Left. https://hurricaneturtles.bandcamp.com/track/next-left
+[4] HurricaneTurtle. Stargate. https://hurricaneturtles.bandcamp.com/track/stargate
 
 数据来源
 [1] Wikipedia. List of spaceflight launches in July–December 2022. https://en.wikipedia.org/wiki/List_of_spaceflight_launches_in_July%E2%80%93December_2022
