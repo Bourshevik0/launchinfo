@@ -27,7 +27,7 @@
 编号：2022-108
 火箭制造方：中国
 时间：2022-09-06 10:24(UTC+8)
-位置：西昌卫星发射中心
+位置：酒泉卫星发射中心
 发射提供方：航天科工火箭技术
 载荷运营方：北京未来导航科技
 载荷信息：微厘空间S3/S4试验卫星(低轨导航增强系统)
@@ -59,6 +59,69 @@
 载荷质量：6.396吨[13]
 载具：阿丽亚娜5 ECA
 轨道：357 x 60743 km，3.40° SSTO(超地球同步转移轨道)[14]
+结果：成功
+
+编号：2022-111
+火箭制造方：美国
+时间：2022-09-11 01:20:00(UTC)[1]
+位置：肯尼迪航天中心LC-39A
+组名：Starlink Group 4-2(G4-2)
+发射提供方：SpaceX
+主载荷信息：34颗星链卫星(宽带通信卫星)共约10.2吨[15]
+搭车载荷信息：AST太空移动的BlueWalker 3(技术验证卫星)约1.5吨[16]
+载荷质量：10.2吨；1.5吨
+载具：猎鹰9号Block 5(B1058.14)[15]
+轨道：324 x 334 km，53.21° LEO(近地轨道)[17]；
+502 x 518 km，53.20° LEO[18]
+结果(发射与回收)：成功
+回收船：ASOG(A Shortfall Of Gravitas)[19]
+备注：首次14手火箭回收成功[20]
+
+编号：2022-112
+火箭制造方：中国
+时间：2022-09-13 21:18(UTC+8)[21]
+位置：文昌航天发射场2号工位
+发射提供方：航天科技一院
+载荷运营方：中国卫通
+载荷信息：中星1E(宽带通信卫星)[1]
+载荷质量：5.32吨[22]
+载具：长征七号甲遥五[1]
+轨道：197 x 35785 km, 13.93° GTO(地球同步转移轨道)[23]
+结果：成功
+
+编号：2022-113
+火箭制造方：美国
+时间：2022-09-15 20:38(UTC)
+位置：火箭实验室LC-1B(新西兰玛希亚)
+任务名：The Owl Spreads Its Wings(雕鸮展翅)
+发射提供方：火箭实验室
+载荷运营方：Synspective[1]
+载荷信息：StriX-1(地球观测卫星)质量0.1吨[24]
+载具：电子火箭[1]
+轨道：557 x 574 km，97.66° SSO(太阳同步轨道)[25]
+结果：成功
+
+编号：2022-114
+火箭制造方：美国
+时间：2022-08-19 00:18:40(UTC)[1]
+位置：卡角太空军基地SLC-40
+组名：Starlink Group 4-34(G4-34)
+发射与载荷：SpaceX
+载荷信息：54颗星链卫星(宽带通信卫星)共约16.2吨
+载具：猎鹰9号Block 5(B1067.6)[26]
+轨道：232 x 336 km，53.22° LEO(近地轨道)[27]
+结果(发射与回收)：成功
+回收船：JRTI(Just Read the Instructions)[26]
+
+编号：2022-115
+火箭制造方：中国
+时间：2022-09-21 07:15(UTC+8)[28]
+位置：酒泉卫星发射中心9401工位
+发射与载荷：航天科技八院[1]
+载荷信息：云海一号03星(地球观测卫星)
+载荷质量：1.3吨[28][29]
+载具：长征二号丁遥76[28]
+轨道：754 x 775 km，98.49° SSO(太阳同步轨道)[29]
 结果：成功
 
 1. 关于载荷质量
@@ -111,11 +174,29 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [12] Space-Track.Org. NORAD ID 53760 epoch 2022-09-06T12:04:54.026976. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/53760/orderby/EPOCH%20asc/limit/1/format/json
 [13] Gunter's Space Page. Eutelsat Konnect VHTS. https://space.skyrocket.de/doc_sdat/eutelsat-konnect-vhts.htm
 [14] Space-Track.Org. NORAD ID 53765 epoch 2022-09-07T23:47:35.799648. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/53765/orderby/EPOCH%20asc/limit/1/format/json
+[15] NASASpaceflight. SpaceX F9 : Starlink 4-2 & BlueWalker 3 : KSC LC-39A : 10/11 Sep 2022(01:20 UTC). https://forum.nasaspaceflight.com/index.php?topic=56457.0
+[16] Gunter's Space Page. BlueWalker 3 (BW 3). https://space.skyrocket.de/doc_sdat/bluewalker-3.htm
+[17] CelesTrak. Starlink G4-2 Pre-Launch. https://celestrak.org/NORAD/elements/supplemental/table.php?FILE=starlink-g4-2&FORMAT=tle
+[18] Space-Track.Org. NORAD ID 53807 epoch 2022-09-19T09:52:28.193088. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/53807/orderby/EPOCH%20asc/limit/1/format/json
+[19] NASASpaceflight. Falcon 9 B1058 lands on SpaceX drone ship "A Shortfall Of Gravitas". https://twitter.com/NASASpaceflight/status/1568773701646295040
+[20] Wikipedia. List of Falcon 9 and Falcon Heavy launches. https://en.wikipedia.org/wiki/List_of_Falcon_9_and_Falcon_Heavy_launches#2022
+[21] 中国航天报. 长七A成功发射中星1E. https://mp.weixin.qq.com/s/Gs1DKnVzsgKJ3T6hpx4ICg
+[22] Gunter's Space Page. ZX 1A, 1B, 1C. https://space.skyrocket.de/doc_sdat/fh-2.htm
+[23] Space-Track.Org. NORAD ID 53813 epoch 2022-09-13T22:47:22.391808. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/53813/orderby/EPOCH%20asc/limit/1/format/json
+[24] Gunter's Space Page. StriX 1, ..., 25. https://space.skyrocket.de/doc_sdat/strix-1.htm
+[25] Space-Track.Org. NORAD ID 53815 epoch 2022-09-15T21:48:52.704576. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/53815/orderby/EPOCH%20asc/limit/1/format/json
+[26] NASASpaceflight. SpaceX F9 : Starlink group 4-34 : CCSFS SLC-40 : 18/19 Sep. 2022 (00:18 UTC). https://forum.nasaspaceflight.com/index.php?topic=56921.0
+[27] CelesTrak. Starlink G4-34 Pre-Launch. https://celestrak.org/NORAD/elements/supplemental/table.php?FILE=starlink-g4-34&FORMAT=tle
+[28] 上海航天. 长征二号丁成功发射云海一号03星. https://mp.weixin.qq.com/s/WVQ859mL1q_-ylVelD_Esg
+[29] Space-Track.Org. NORAD ID 53877 epoch 2022-09-21T02:26:31.883424. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/53877/orderby/EPOCH%20asc/limit/1/format/json
 
 视频素材来源
 [1] SciNews. Long March-4C launches Yaogan-33-02. https://youtu.be/W6UF5nCZmGw
 [2] SpaceX. Starlink Mission. https://youtu.be/NONM-xsKMSs
 [3] SciNews. Kuaizhou-1A launches CentiSpace-1 S3/ S4 satellites. https://youtu.be/9pjUm6ZVuFY
+[4] SciNews. Long March-2D launches Yaogan-35 05 satellites. https://youtu.be/tQR8EEXxxjw
+[5] Arianespace. Flight VA258 – EUTELSAT KONNECT VHTS. https://youtu.be/rICRgPe2N08
+[6] SpaceX. Starlink Mission. https://youtu.be/a2lxdOPyR3Q
 
 封面来源
 [1] 
@@ -125,4 +206,6 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [2] SpaceX. Starlink. https://www.elonx.net/spacex-mission-patches/#jp-carousel-3624
 [3] 上海航天. 长二丁成功发射遥感三十五号05组卫星. https://mp.weixin.qq.com/s/15IIMkAibbqvS_IAdEMPcw
 [4] ArianeGroup. VA258. https://twitter.com/ArianeGroup/status/1565765462272757761
+[5] Rocket Lab. The Owl Spreads Its Wings. https://www.rocketlabusa.com/missions/completed-missions/the-owl-spreads-its-wings/
+[6] 上海航天. 长征二号丁成功发射云海一号03星. https://mp.weixin.qq.com/s/WVQ859mL1q_-ylVelD_Esg
 
