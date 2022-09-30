@@ -26,7 +26,7 @@
 
 编号：2022-108
 火箭制造方：中国
-时间：2022-09-06 10:24(UTC+8)
+时间：2022-09-06 10:24:30(UTC+8)
 位置：酒泉卫星发射中心
 发射提供方：航天科工火箭技术
 载荷运营方：北京未来导航科技
@@ -79,8 +79,9 @@
 
 编号：2022-112
 火箭制造方：中国
-时间：2022-09-13 21:18(UTC+8)[21]
+时间：2022-09-13 21:18:24(UTC+8)[21]
 位置：文昌航天发射场2号工位
+任务代号：07-W12
 发射提供方：航天科技一院
 载荷运营方：中国卫通
 载荷信息：中星1E(宽带通信卫星)[1]
@@ -122,6 +123,83 @@
 载荷质量：1.3吨[28][29]
 载具：长征二号丁遥76[28]
 轨道：754 x 775 km，98.49° SSO(太阳同步轨道)[29]
+结果：成功
+
+编号：2022-116
+火箭制造方：俄罗斯
+时间：2022-09-21 13:54:49(UTC)
+位置：拜科努尔31/6号工位
+发射与载荷：俄罗斯航天集团[1]
+载荷信息：联盟MS-22(载人飞船)约7.1吨[30]
+载具：联盟-2.1a
+轨道：204 x 220 km，51.63° LEO(近地轨道)[31]
+结果：成功
+备注：使用三小时快速对接模式，于UTC时间同日17点06分完成对接[32]。
+搭载的乘员为俄罗斯宇航员，指令长谢尔盖·普罗科皮耶夫，
+一号飞行工程师德米特里·佩捷林，
+美国宇航员，二号飞行工程师弗朗西斯科·卢比奥
+
+编号：2022-117
+火箭制造方：美国
+时间：2022-09-24 22:25:30(UTC)
+位置：范登堡太空军基地SLC-6
+任务名：NROL-91
+飞行编号：Delta 387
+发射提供方：ULA
+载荷运营方：美国国家侦察局[1]
+载荷信息：KH-11(光学遥感间谍卫星)19吨左右[33]
+载具：重型德尔塔四
+轨道：376 x 415 km，73.59° LEO(近地轨道)[34]
+结果：成功
+备注：范登堡发射的最后一枚重型德尔塔四[1]
+
+编号：2022-118
+火箭制造方：中国
+时间：2022-09-25 06:55(UTC+8)
+位置：酒泉卫星发射中心
+发射提供方：航天科工火箭技术
+载荷信息：航天科技五院的试验十四号(技术验证卫星)，
+航天科技八院的试验十五号(地球观测卫星)
+载荷质量：0.3吨
+载具：快舟一号甲[9][35]
+轨道：488 x 506 km，97.52° LEO(近地轨道)[36]
+结果：成功
+
+编号：2022-119
+火箭制造方：美国
+时间：2022-09-24 23:32:10(UTC)[1]
+位置：卡角太空军基地SLC-40
+组名：Starlink Group 4-35(G4-35)
+发射与载荷：SpaceX
+载荷信息：52颗星链卫星(宽带通信卫星)共约15.6吨
+载具：猎鹰9号Block 5(B1073.4)[37]
+轨道：232 x 337 km，53.22° LEO(近地轨道)[38]
+结果(发射与回收)：成功
+回收船：ASOG(A Shortfall of Gravitas)[37]
+
+编号：2022-120
+火箭制造方：中国
+时间：2022-09-26 21:38(UTC+8)
+位置：西昌卫星发射中心3号工位[1]
+发射提供方：航天科技八院
+载荷研制方：航天科技五院 / 八院
+载荷信息：遥感三十六号3颗卫星(地球观测卫星)
+载荷质量：3.5吨[3]
+载具：长征二号丁遥68[39]
+轨道：486 x 498 km，34.99° LEO(近地轨道)[40]
+结果：成功
+
+编号：2022-121
+火箭制造方：中国
+时间：2022-09-27 07:50(UTC+8)
+位置：太原卫星发射中心16号工位[1]
+发射提供方：航天科技八院
+载荷信息：航天科技五院研制的试验十七号卫星，
+航天科技八院研制的试验十六号A，B星，
+均为地球观测卫星[41][42]
+载荷质量：1.5吨[43]
+载具：长征六号遥九[41]
+轨道：505 x 521 km，97.45° SSO(太阳同步轨道)[44]
 结果：成功
 
 1. 关于载荷质量
@@ -189,6 +267,21 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [27] CelesTrak. Starlink G4-34 Pre-Launch. https://celestrak.org/NORAD/elements/supplemental/table.php?FILE=starlink-g4-34&FORMAT=tle
 [28] 上海航天. 长征二号丁成功发射云海一号03星. https://mp.weixin.qq.com/s/WVQ859mL1q_-ylVelD_Esg
 [29] Space-Track.Org. NORAD ID 53877 epoch 2022-09-21T02:26:31.883424. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/53877/orderby/EPOCH%20asc/limit/1/format/json
+[30] Wikipedia. Soyuz (spacecraft). https://en.wikipedia.org/wiki/Soyuz_(spacecraft)#Specifications
+[31] Space-Track.Org. NORAD ID 53879 epoch 2022-09-21T14:26:38.682240. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/53879/orderby/EPOCH%20asc/limit/1/format/json
+[32] Wikipedia. Soyuz MS-22. https://en.wikipedia.org/wiki/Soyuz_MS-22
+[33] Wikipedia. KH-11 KENNEN. https://en.wikipedia.org/wiki/KH-11_KENNEN#Size_and_mass
+[34] SatTrackCam Leiden (b)log. USA 338, the NROL-91 payload, observed. https://sattrackcam.blogspot.com/2022/09/usa-338-nrol-91-payload-observed.html
+[35] 航天科工. 快舟一号甲火箭成功发射两颗试验卫星. https://mp.weixin.qq.com/s/7XhVIpkTKHIUE0E5Wla5bw
+[36] Space-Track.Org. NORAD ID 53884 epoch 2022-09-25T01:54:08.743104. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/53884/orderby/EPOCH%20asc/limit/1/format/json
+[37] NASASpaceflight. SpaceX F9 : Starlink group 4-35 : Canaveral SLC-40 : 24 Sep 2022 (23:32 UTC). https://forum.nasaspaceflight.com/index.php?topic=56979.0
+[38] CelesTrak. Starlink G4-35 Pre-Launch. https://celestrak.org/NORAD/elements/supplemental/table.php?FILE=starlink-g4-35&FORMAT=tle
+[39] 上海航天. 长二丁成功发射遥感三十六号卫星. https://mp.weixin.qq.com/s/DzIUEzyVir88_rsRCE1HPQ
+[40] Space-Track.Org. NORAD ID 53943 epoch 2022-09-26T21:27:48.367584. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/53943/orderby/EPOCH%20asc/limit/1/format/json
+[41] 上海航天. 长征六号一箭三星任务取得圆满成功. https://mp.weixin.qq.com/s/LLjtg4-k4xEX2YelI0Gzrw
+[42] 中国航天科技集团. “一箭三星”迎国庆！长六十战十捷. https://mp.weixin.qq.com/s/jEPSyooVjVwaOcYcro0VGg
+[43] Space Launch Report. CZ-5 Data Sheet. https://web.archive.org/web/20220411235209/http://www.spacelaunchreport.com/cz5.html
+[44] Space-Track.Org. NORAD ID 53948 epoch 2022-09-27T02:52:01.458912. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/53948/orderby/EPOCH%20asc/limit/1/format/json
 
 视频素材来源
 [1] SciNews. Long March-4C launches Yaogan-33-02. https://youtu.be/W6UF5nCZmGw
@@ -197,9 +290,13 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [4] SciNews. Long March-2D launches Yaogan-35 05 satellites. https://youtu.be/tQR8EEXxxjw
 [5] Arianespace. Flight VA258 – EUTELSAT KONNECT VHTS. https://youtu.be/rICRgPe2N08
 [6] SpaceX. Starlink Mission. https://youtu.be/a2lxdOPyR3Q
+[7] 我们的太空. 我国成功发射“中星1E”卫星. https://www.bilibili.com/video/BV1Ge4y1y7Bd/
+[8] Rocket Lab. The Owl Spreads Its Wings Launch. https://youtu.be/I9aYHnHaFAk
+[9] SpaceX. Starlink Mission. https://youtu.be/ZlQHF_yBkMQ
+[10] 大漠问天. 我国成功发射云海一号03星. https://mp.weixin.qq.com/s/4sjGcmvFcjQ535dWBA87MQ
 
 封面来源
-[1] 
+[1] Роскосмос. Корабль «К.Э. Циолковский» с экипажем МКС выведен на орбиту. https://www.roscosmos.ru/38262/
 
 徽章来源
 [1] 上海航天. 长四丙成功发射遥感三十三号02星. https://mp.weixin.qq.com/s/WEOgQW68NyJPd12ISaxoCQ
@@ -208,4 +305,7 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [4] ArianeGroup. VA258. https://twitter.com/ArianeGroup/status/1565765462272757761
 [5] Rocket Lab. The Owl Spreads Its Wings. https://www.rocketlabusa.com/missions/completed-missions/the-owl-spreads-its-wings/
 [6] 上海航天. 长征二号丁成功发射云海一号03星. https://mp.weixin.qq.com/s/WVQ859mL1q_-ylVelD_Esg
+[7] Wikipedia. List of NRO launches. https://en.wikipedia.org/wiki/List_of_NRO_launches#Launch_history
+[8] 上海航天. 长二丁成功发射遥感三十六号卫星. https://mp.weixin.qq.com/s/DzIUEzyVir88_rsRCE1HPQ
+[9] 上海航天. 长征六号一箭三星任务取得圆满成功. https://mp.weixin.qq.com/s/LLjtg4-k4xEX2YelI0Gzrw
 
