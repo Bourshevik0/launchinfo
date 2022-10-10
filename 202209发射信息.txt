@@ -104,7 +104,7 @@
 
 编号：2022-114
 火箭制造方：美国
-时间：2022-08-19 00:18:40(UTC)[1]
+时间：2022-09-19 00:18:40(UTC)[1]
 位置：卡角太空军基地SLC-40
 组名：Starlink Group 4-34(G4-34)
 发射与载荷：SpaceX
@@ -134,7 +134,7 @@
 载具：联盟-2.1a
 轨道：204 x 220 km，51.63° LEO(近地轨道)[31]
 结果：成功
-备注：使用三小时快速对接模式，于UTC时间同日17点06分完成对接[32]。
+备注：使用三小时快速对接模式，于UTC时间同日17点06分与ISS完成对接[32]。
 搭载的乘员为俄罗斯宇航员，指令长谢尔盖·普罗科皮耶夫，
 一号飞行工程师德米特里·佩捷林，
 美国宇航员，二号飞行工程师弗朗西斯科·卢比奥
@@ -294,6 +294,7 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [8] Rocket Lab. The Owl Spreads Its Wings Launch. https://youtu.be/I9aYHnHaFAk
 [9] SpaceX. Starlink Mission. https://youtu.be/ZlQHF_yBkMQ
 [10] 大漠问天. 我国成功发射云海一号03星. https://mp.weixin.qq.com/s/4sjGcmvFcjQ535dWBA87MQ
+[11] Роскосмос. Трансляция запуска пилотируемого корабля «К.Э. Циолковский» («Союз МС-22»). https://vk.com/video-30315369_456243298
 
 封面来源
 [1] Роскосмос. Корабль «К.Э. Циолковский» с экипажем МКС выведен на орбиту. https://www.roscosmos.ru/38262/
@@ -305,7 +306,8 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [4] ArianeGroup. VA258. https://twitter.com/ArianeGroup/status/1565765462272757761
 [5] Rocket Lab. The Owl Spreads Its Wings. https://www.rocketlabusa.com/missions/completed-missions/the-owl-spreads-its-wings/
 [6] 上海航天. 长征二号丁成功发射云海一号03星. https://mp.weixin.qq.com/s/WVQ859mL1q_-ylVelD_Esg
-[7] Wikipedia. List of NRO launches. https://en.wikipedia.org/wiki/List_of_NRO_launches#Launch_history
-[8] 上海航天. 长二丁成功发射遥感三十六号卫星. https://mp.weixin.qq.com/s/DzIUEzyVir88_rsRCE1HPQ
-[9] 上海航天. 长征六号一箭三星任务取得圆满成功. https://mp.weixin.qq.com/s/LLjtg4-k4xEX2YelI0Gzrw
+[7] Роскосмос. Эмблема экипажа пилотируемого корабля «Союз МС-22» («Циолковский»). https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D1%8E%D0%B7_%D0%9C%D0%A1-22#/media/%D0%A4%D0%B0%D0%B9%D0%BB:Souz_MS-22_Logo_cr.jpg
+[8] Wikipedia. List of NRO launches. https://en.wikipedia.org/wiki/List_of_NRO_launches#Launch_history
+[9] 上海航天. 长二丁成功发射遥感三十六号卫星. https://mp.weixin.qq.com/s/DzIUEzyVir88_rsRCE1HPQ
+[10] 上海航天. 长征六号一箭三星任务取得圆满成功. https://mp.weixin.qq.com/s/LLjtg4-k4xEX2YelI0Gzrw
 
