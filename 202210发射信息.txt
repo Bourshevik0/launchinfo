@@ -1,0 +1,198 @@
+编号：2022-122
+火箭制造方：美国
+时间：2022-10-01 07:01(UTC)
+位置：范登堡太空军基地SLC-2W[1]
+任务名：To The Black(献给黑天)
+飞行编号：FLTA002
+发射提供方：萤火虫航天
+载荷信息：7个载荷
+载荷质量：0.035吨
+载具：萤火虫α 
+预期轨道：300 x 300 km，137° LEO(近地轨道)[2]
+实际轨道：219 x 278 km，136.90° LEO(近地轨道)[3]
+结果：失败
+备注：预期轨道与实际轨道差异较大且载荷在短时间内再入，
+被认为是（部分）失败[4]，
+同时是萤火虫航天首次成功入轨
+
+编号：2022-123
+火箭制造方：美国
+时间：2022-10-04 21:36:00(UTC)
+位置：卡角太空军基地SLC-41
+飞行编号：AV-099
+发射提供方：ULA
+载荷运营方：SES
+载荷信息：SES-20，21，
+均为宽带通信卫星[1]
+载荷质量：3.2吨[5]
+载具：宇宙神五531[1]
+轨道：34958 x 35021 km，1.86° GEO(地球同步轨道)[6]
+结果：成功
+
+编号：2022-124
+火箭制造方：美国
+时间：2022-10-05 16:00:57(UTC)
+位置：肯尼迪航天中心LC-39A
+任务名：乘员-5(Crew-5)
+发射提供方：SpaceX
+载荷运营方：SpaceX / NASA
+载荷信息：C210.2耐力号(Endurance)
+龙2飞船(载人飞船)共12.519吨[7][8]
+载具：猎鹰9号Block 5(B1077.1)[9]
+轨道：191 x 210 km，51.65° LEO(近地轨道)[10]
+结果(发射与回收)：成功
+回收船：JRTI(Just Read the Instructions)[9]
+备注：搭载的宇航员为美国宇航员指令长妮可·奥纳普·曼恩，
+飞行员乔希·卡萨达；
+一号任务专家日本宇航员若田光一；
+二号任务专家俄罗斯宇航员安娜·基金娜。
+飞船于UTC时间次日21:01对接ISS[11]
+
+编号：2022-125
+火箭制造方：美国
+时间：2022-10-05 23:10:30(UTC)[1]
+位置：范登堡太空军基地SLC-4E
+组名：Starlink Group 4-29(G4-29)
+发射与载荷：SpaceX
+载荷信息：52颗星链卫星(宽带通信卫星)共约15.6吨
+载具：猎鹰9号Block 5(B1071.5)[12]
+轨道：306 x 315 km，53.22° LEO(近地轨道)[13]
+结果(发射与回收)：成功
+回收船：OCISLY(Of Course I Still Love You)[12]
+
+编号：2022-126
+火箭制造方：中国
+时间：2022-10-07 21:10(UTC+8)[14]
+位置：海阳港近岸海域德浮15002驳船(36.23° N, 121.20° E)[15]
+发射提供方：航天科技一院
+载荷运营方：北京未来导航科技
+载荷信息：微厘空间S5/S6试验卫星(低轨导航增强系统)[1]
+载荷质量：0.194吨[16]
+载具：长征十一号H遥四[1]
+轨道：691 x 709 km，55.00° LEO(近地轨道)[17]
+结果：成功
+备注：长征十一号H首次在近岸海域发射[14]
+
+编号：2022-127
+火箭制造方：美国
+时间：2022-10-07 17:09:21(UTC)
+位置：火箭实验室LC-1B(新西兰玛希亚)
+任务名：It Argos Up From Here(阿尔戈斯就从这儿发射了)
+发射提供方：火箭实验室
+载荷运营方：NOAA / CNES
+载荷信息：瞪羚(窄带通信卫星)[1]
+载荷质量：0.18吨[18][19]
+载具：电子火箭[1]
+轨道：744 x 762 km，98.32° SSO(太阳同步轨道)[18]
+结果：成功
+
+编号：2022-128
+火箭制造方：美国
+时间：2022-10-08 23:05:00(UTC)
+位置：卡角太空军基地SLC-40
+发射提供方：SpaceX
+载荷运营方：Intelsat
+载荷信息：银河33，34(宽带通信卫星)[1]
+载荷质量：7.349吨[20]
+载具：猎鹰9号Block 5(B1060.14)[21]
+轨道：301 x 19834 km，26.84° sub GTO(亚同步转移轨道)[22]
+结果(发射与回收)：成功
+回收船：ASOG(A Shortfall Of Gravitas)[21]
+
+编号：2022-129
+火箭制造方：中国
+时间：2022-10-09 07:43(UTC+8)
+位置：西昌卫星发射中心9401工位[1]
+发射提供方：航天科技八院
+载荷研制方：中科院微小卫星创新研究院
+载荷信息：先进天基太阳天文台“夸父一号”(太空天气卫星)[23][24]
+载荷质量：0.888吨[25]
+载具：长征二号丁遥55[23]
+轨道：713 x 731 km，98.25° SSO(太阳同步轨道)[26]
+结果：成功
+
+编号：2022-130
+火箭制造方：俄罗斯
+时间：2022-10-10 02:52:32(UTC)
+位置：普列谢茨克43/4号工位
+发射提供方：俄罗斯战略导弹部队
+载荷运营方：俄罗斯空天军
+载荷信息：格洛纳斯17L(导航定位卫星)[1]
+载荷质量：0.962吨[27]
+载具：联盟-2.1b / 军舰鸟上面级[1]
+轨道：MEO(中地球轨道)
+结果：成功
+
+1. 关于载荷质量
+1.1 货运飞船仅将货物质量计入载荷质量，模拟载荷与有效载荷一起搭载时仅计入有效载荷质量。若仅搭载货运飞船或模拟载荷，将其整体质量计入载荷质量。
+1.2 载人飞船将其整体质量计入载荷质量。
+1.3 (小卫星)上面级或摆渡级若自身没有任何不可分离的有效载荷，不计入载荷质量，若有，将其整体质量计入载荷质量。
+
+2. 关于轨道
+2.1 无额外标注的情况下，轨道一般指载荷所在的初始轨道，可以是预期轨道，或者实际轨道，具体类型根据来源判断。
+2.2 若使用USSSN(Space-Track.Org)来源的轨道信息，会标注该数据使用的NORAD ID和epoch，以备查询与核实。需注册登录后才可查询。
+
+3. 两组互斥的概念
+3.1 初始轨道(initial orbit)：载荷与末级火箭分离后所在的轨道，一般不是运营轨道。如果不是发射相关方提供的数据(supTLE)，则以第三方(USSSN)发布的首个TLE数据为准，在后者的情况下会存在误差。
+3.2 运营轨道(operational orbit)：载荷长时间运行，执行任务所在的轨道，一般比初始轨道更高，末级难以或不必送入的轨道。
+3.3 预期轨道(desired orbit)：发射前预期载荷将进入的轨道，可以是预期初始轨道或者预期运营轨道。
+3.4 实际轨道(actual orbit)：发射后相关方提供的(supTLE)或第三方(USSSN)追踪到的轨道。
+
+4. 猎鹰9号芯一级代号说明
+B1xxx.xx
+B代表Block，本意为第几代的代，此处无含义。小数点前的xxx为芯级编号，小数点后的xx为使用次数，如第二次发射时，此处为2。
+
+5. 龙飞船代号说明
+C2xx.xx
+C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代，小数点前的xxx为飞船编号，小数点后的xx为使用次数，如第二次使用时，此处为2。
+
+6. 任务徽章说明
+视频中没有括号备注的情况下使用载荷运营方绘制的任务徽章，否则为相关方面的任务徽章。
+
+7. 来源格式说明
+[(文案)引用顺序] 作者/来源. 标题. 链接
+
+8. 编号格式说明
+年份-当年成功发射次序(实际时间顺序)。即使用COSPAR ID中去掉字母的部分，在剪辑不按照实际时间顺序进行时起标识的作用。
+
+音乐来源
+[1] Stevia Sphere. A Sphere Made of Stevia. https://steviasphere.bandcamp.com/track/a-sphere-made-of-stevia
+
+数据来源
+[1] Wikipedia. List of spaceflight launches in July–December 2022. https://en.wikipedia.org/wiki/List_of_spaceflight_launches_in_July%E2%80%93December_2022
+[2] Firefly Aerospace. FLTA002 -To The Black. https://firefly.com/alpha-flight-2-to-the-black/
+[3] Space-Track.Org. NORAD ID 53955 epoch 2022-10-01T12:32:02.616864. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/53955/orderby/EPOCH%20asc/limit/1/format/json
+[4] Wikipedia. Firefly Alpha Launch history. https://en.wikipedia.org/wiki/Firefly_Alpha#Launch_history
+[5] Gunter's Space Page. SES 20, 21. https://space.skyrocket.de/doc_sdat/ses-20.htm
+[6] Space-Track.Org. NORAD ID 53960 epoch 2022-10-05T13:56:08.689632. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/53960/orderby/EPOCH%20asc/limit/1/format/json
+[7] Wikipedia. Crew Dragon Endurance. https://en.wikipedia.org/wiki/Crew_Dragon_Endurance
+[8] Wikipedia. SpaceX Dragon 2. https://en.wikipedia.org/wiki/SpaceX_Dragon_2
+[9] NextSpaceflight. Falcon 9 Block 5 | SpaceX Crew-5. https://nextspaceflight.com/launches/details/5807
+[10] Space-Track.Org. NORAD ID 53963 epoch 2022-10-05T16:24:45.203328. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/53963/orderby/EPOCH%20asc/limit/1/format/json
+[11] Wikipedia. SpaceX Crew-5. https://en.wikipedia.org/wiki/SpaceX_Crew-5
+[12] NASASpaceflight. SpaceX F9 : Starlink group 4-29 : VSFB SLC-4E : 5 October 2022 (23:10 UTC). https://forum.nasaspaceflight.com/index.php?topic=57096.0
+[13] CelesTrak. Starlink G4-29 Pre-Launch. https://celestrak.org/NORAD/elements/supplemental/table.php?FILE=starlink-g4-29&FORMAT=tle
+[14] 航天科技一院. 长十一火箭“一箭双星” 献礼新中国成立73周年. https://mp.weixin.qq.com/s/UpN7PpayUAEhRRga6Y5SSA
+[15] Wikipedia. Long March 11. https://en.wikipedia.org/wiki/Long_March_11
+[16] Gunter's Space Page. CentiSpace-1 S1 (Xiangrikui 1). https://space.skyrocket.de/doc_sdat/centispace-1.htm
+[17] Space-Track.Org. NORAD ID 54020 epoch 2022-10-07T15:54:29.661120. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/54020/orderby/EPOCH%20asc/limit/1/format/json
+[18] Space-Track.Org. NORAD ID 54023 epoch 2022-10-07T19:31:28.333632. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/54023/orderby/EPOCH%20asc/limit/1/format/json
+[19] Rocket Lab. Electron payload user's guide. https://www.rocketlabusa.com/launch/electron/
+[20] Gunter's Space Page. Galaxy 33, 34. https://space.skyrocket.de/doc_sdat/galaxy-33.htm
+[21] NASASpaceflight. SpaceX F9 : Galaxy 33/Galaxy 34 : CCSFS SLC-40 : 8 October 2022 (23:05 UTC). https://forum.nasaspaceflight.com/index.php?topic=51966.0
+[22] Space-Track.Org. NORAD ID 54027 epoch 2022-10-08T20:51:26.284608. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/54027/orderby/EPOCH%20asc/limit/1/format/json
+[23] 上海航天. 十战十捷！长二丁发射圆满成功. https://mp.weixin.qq.com/s/v46u-mNJjscz8Wx40U8o5g
+[24] 中科院微小卫星创新研究院. 我国成功发射综合性太阳探测卫星“夸父一号”. https://mp.weixin.qq.com/s/IBUX5HO_8OngQiKO88yXvA
+[25] Gunter's Space Page. ASO-S (Kuafu). https://space.skyrocket.de/doc_sdat/aso-s.htm
+[26] Space-Track.Org. NORAD ID 54029 epoch 2022-10-09T01:14:02.529024. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/54029/orderby/EPOCH%20asc/limit/1/format/json
+[27] Gunter's Space Page.  Uragan-K (GLONASS-K, 14F143). https://space.skyrocket.de/doc_sdat/uragan-k1.htm
+
+视频素材来源
+[1] 航天科技一院. 长十一火箭“一箭双星” 献礼新中国成立73周年. https://mp.weixin.qq.com/s/UpN7PpayUAEhRRga6Y5SSA
+
+封面来源
+[1] 
+
+徽章来源
+[1] 
+
