@@ -120,7 +120,43 @@
 载荷信息：格洛纳斯17L(导航定位卫星)[1]
 载荷质量：0.962吨[27]
 载具：联盟-2.1b / 军舰鸟上面级[1]
-轨道：MEO(中地球轨道)
+轨道：19134 x 19147 km，64.76° MEO(中地球轨道)[28]
+结果：成功
+
+编号：2022-F05
+火箭制造方：日本
+时间：2022-10-12 00:50:43(UTC)
+位置：内之浦宇宙空间观测所
+发射提供方：JAXA
+载荷信息：8个载荷
+载具：艾普斯龙(Epsilon)运载火箭
+预期轨道：SSO(太阳同步轨道)
+结果：失败
+失败原因：二级关机后，三级出现异常，触发飞行中止系统[1][29]
+
+编号：2022-131
+火箭制造方：俄罗斯
+时间：2022-10-12 15:00:00(UTC)
+位置：拜科努尔81/24号工位
+发射提供方：俄罗斯航天集团
+载荷运营方：安哥拉国家航天计划管理办公室(GGPEN)[1][30]
+载荷信息：安哥拉星2号(宽带通信卫星)
+载荷质量：1.647吨[31]
+载具：质子-M / DM-03上面级[1]
+轨道：233 x 36201 km，48.88° GTO(同步转移轨道)[32]
+结果：成功
+
+编号：2022-132
+火箭制造方：中国
+时间：2022-10-13 06:53(UTC+8)
+位置：太原卫星发射中心9号工位[1]
+发射提供方：航天科技一院
+载荷研制方：航天科技五院
+载荷运营方：应急管理部 / 生态环境部
+载荷信息：环境减灾二号05卫星(合成孔径雷达遥感卫星)[33]
+载荷质量：1.4吨[34]
+载具：长征二号丙[33]
+轨道：487 x 503 km，97.40° SSO(太阳同步轨道)[35][36]
 结果：成功
 
 1. 关于载荷质量
@@ -186,9 +222,31 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [25] Gunter's Space Page. ASO-S (Kuafu). https://space.skyrocket.de/doc_sdat/aso-s.htm
 [26] Space-Track.Org. NORAD ID 54029 epoch 2022-10-09T01:14:02.529024. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/54029/orderby/EPOCH%20asc/limit/1/format/json
 [27] Gunter's Space Page.  Uragan-K (GLONASS-K, 14F143). https://space.skyrocket.de/doc_sdat/uragan-k1.htm
+[28] Space-Track.Org. NORAD ID 54031 epoch 2022-10-10T16:15:20.300256. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/54031/orderby/EPOCH%20asc/limit/1/format/json
+[29] Wikipedia. Epsilon (rocket). https://en.wikipedia.org/wiki/Epsilon_(rocket)#Launch_history
+[30] Wikipedia. National Space Program Management Office. https://en.wikipedia.org/wiki/National_Space_Program_Management_Office
+[31] Wikipedia. AngoSat 1. https://en.wikipedia.org/wiki/AngoSat_1
+[32] Space-Track.Org. NORAD ID 54033 epoch 2022-10-12T20:37:26.637312. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/54033/orderby/EPOCH%20asc/limit/1/format/json
+[33] 中国航天报. 长二丙成功发射环境减灾二号05卫星. https://mp.weixin.qq.com/s/Dc_iZqKE1Tr4o7G6XK2VOg
+[34] Wikipedia. Long March 2C. https://en.wikipedia.org/wiki/Long_March_2C
+[35] PhilLeafSpace. 5米S-SAR 01星初轨参数. https://weibo.com/2645044133/Ma8wZq81r
+[36] Space-Track.Org. NORAD ID 54037 epoch 2022-10-13T03:26:05.281152. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/54037/orderby/EPOCH%20asc/limit/1/format/json
 
 视频素材来源
-[1] 航天科技一院. 长十一火箭“一箭双星” 献礼新中国成立73周年. https://mp.weixin.qq.com/s/UpN7PpayUAEhRRga6Y5SSA
+[1] Everyday Astronaut. Watch Firefly Launch Their Alpha Rocket To Orbit For The First Time!. http://youtu.be/BntCkCRc55c
+[2] Firefly Aerospace. Flight 2 ＂To The Black＂. http://youtu.be/lqraRQlA5aY
+[3] Vandenberg Space Force Base. Firefly Alpha II Successfully Launches from Vandenberg. http://youtu.be/Q9JE9fiHQPM
+[4] United Launch Alliance. Atlas V SES-20/21 Launch Highlights. http://youtu.be/hv6P2IX5nlM
+[5] United Launch Alliance. Atlas V SES-20/21 Rocket Cam. http://youtu.be/0kyjm5xR5es
+[6] United Launch Alliance. Oct. 4 Live Broadcast: Atlas V SES-20/21. https://youtu.be/ejBteVXNxlQ
+[7] 航天科技一院. 长十一火箭“一箭双星” 献礼新中国成立73周年. https://mp.weixin.qq.com/s/UpN7PpayUAEhRRga6Y5SSA
+[8] SpaceX. Crew-5 Mission | Launch. https://youtu.be/5EwW8ZkArL4
+[9] SpaceX. Starlink Mission. https://youtu.be/wcq7xiTOPRg
+[10] 中国航天科技集团. 长征十一号H Y4运载火箭成功发射微厘空间S5/S6试验卫星. https://www.bilibili.com/video/BV1BV4y157E4/
+[11] Rocket Lab. It Argos Up From Here Launch. https://youtu.be/TffmQR1K04M
+[12] SpaceX. Intelsat G-33/G-34 Mission. https://youtu.be/NIgS3dPAbw0
+[13] SciNews. Long March-2D launches ASO-S (Advanced Space-based Solar Observatory). https://youtu.be/IGBp6tTC-3c
+[14]  Минобороны России. Воздушно-космические силы провели успешный пуск ракеты-носителя «Союз-2» с космодрома Плесецк. https://vk.com/video-133441491_456265654
 
 封面来源
 [1] 
