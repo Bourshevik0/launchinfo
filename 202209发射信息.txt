@@ -147,7 +147,7 @@
 飞行编号：Delta 387
 发射提供方：ULA
 载荷运营方：美国国家侦察局[1]
-载荷信息：KH-11(光学遥感间谍卫星)19吨左右[33]
+载荷信息：KH-11 19(光学遥感间谍卫星)19吨左右[1][33]
 载具：重型德尔塔四
 轨道：376 x 415 km，73.59° LEO(近地轨道)[34]
 结果：成功
@@ -156,13 +156,13 @@
 编号：2022-118
 火箭制造方：中国
 时间：2022-09-25 06:55(UTC+8)
-位置：酒泉卫星发射中心
+位置：太原卫星发射中心
 发射提供方：航天科工火箭技术
 载荷信息：航天科技五院的试验十四号(技术验证卫星)，
 航天科技八院的试验十五号(地球观测卫星)
 载荷质量：0.3吨
 载具：快舟一号甲[9][35]
-轨道：488 x 506 km，97.52° LEO(近地轨道)[36]
+轨道：488 x 506 km，97.52° SSO(太阳同步轨道)[36]
 结果：成功
 
 编号：2022-119
@@ -295,6 +295,13 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [9] SpaceX. Starlink Mission. https://youtu.be/ZlQHF_yBkMQ
 [10] 大漠问天. 我国成功发射云海一号03星. https://mp.weixin.qq.com/s/4sjGcmvFcjQ535dWBA87MQ
 [11] Роскосмос. Трансляция запуска пилотируемого корабля «К.Э. Циолковский» («Союз МС-22»). https://vk.com/video-30315369_456243298
+[12] United Launch Alliance. Sept. 24 Live Broadcast: Delta IV Heavy NROL-91. https://youtu.be/L1giJrmgMAQ
+[13] United Launch Alliance. Delta IV Heavy NROL-91 Launch Highlights. https://youtu.be/pXifOiq56uw
+[14] United Launch Alliance. Delta IV Heavy NROL-91 Rocket Cam. https://youtu.be/7EUMXb0Oo6s
+[15] SciNews. Kuaizhou-1A launches Shiyan-14 and Shiyan-15. https://youtu.be/qPC1kqAsVik
+[16] SpaceX. Starlink Mission. https://youtu.be/VVu2bSJJhgI
+[17] SciNews. Long March-2D launches Yaogan-36 01 satellites. https://youtu.be/UQRcH6Hn6Lc
+[18] SciNews. Long March-6 launches Shiyan-16A, Shiyan-16B and Shiyan-17. https://youtu.be/LMMxoML9t40
 
 封面来源
 [1] Роскосмос. Корабль «К.Э. Циолковский» с экипажем МКС выведен на орбиту. https://www.roscosmos.ru/38262/
