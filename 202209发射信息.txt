@@ -50,7 +50,7 @@
 
 编号：2022-110
 火箭制造方：欧洲
-时间：2022-09-07 21:45(UTC)
+时间：2022-09-07 21:45:07(UTC)
 位置：圭亚那航天中心ELA-3
 飞行编号：VA258
 发射提供方：阿丽亚娜空间
@@ -236,6 +236,9 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 
 音乐来源
 [1] Stevia Sphere. A Sphere Made of Stevia. https://steviasphere.bandcamp.com/track/a-sphere-made-of-stevia
+[2] Rolemusic. Bacterial Love. https://archive.org/details/rolemusic-pop-singles-compilation-2014/01_rolemusic_-_bacterial_love.mp3
+[3] Context Sensitive. Thermal. https://contextsensitive.bandcamp.com/track/thermal
+[4] Stevia Sphere. Drive it like you download it. https://steviasphere.bandcamp.com/track/drive-it-like-you-downloaded-it
 
 数据来源
 [1] Wikipedia. List of spaceflight launches in July–December 2022. https://en.wikipedia.org/wiki/List_of_spaceflight_launches_in_July%E2%80%93December_2022
@@ -289,22 +292,38 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [3] SciNews. Kuaizhou-1A launches CentiSpace-1 S3/ S4 satellites. https://youtu.be/9pjUm6ZVuFY
 [4] SciNews. Long March-2D launches Yaogan-35 05 satellites. https://youtu.be/tQR8EEXxxjw
 [5] Arianespace. Flight VA258 – EUTELSAT KONNECT VHTS. https://youtu.be/rICRgPe2N08
-[6] SpaceX. Starlink Mission. https://youtu.be/a2lxdOPyR3Q
-[7] 我们的太空. 我国成功发射“中星1E”卫星. https://www.bilibili.com/video/BV1Ge4y1y7Bd/
-[8] Rocket Lab. The Owl Spreads Its Wings Launch. https://youtu.be/I9aYHnHaFAk
-[9] SpaceX. Starlink Mission. https://youtu.be/ZlQHF_yBkMQ
-[10] 大漠问天. 我国成功发射云海一号03星. https://mp.weixin.qq.com/s/4sjGcmvFcjQ535dWBA87MQ
-[11] Роскосмос. Трансляция запуска пилотируемого корабля «К.Э. Циолковский» («Союз МС-22»). https://vk.com/video-30315369_456243298
-[12] United Launch Alliance. Sept. 24 Live Broadcast: Delta IV Heavy NROL-91. https://youtu.be/L1giJrmgMAQ
-[13] United Launch Alliance. Delta IV Heavy NROL-91 Launch Highlights. https://youtu.be/pXifOiq56uw
-[14] United Launch Alliance. Delta IV Heavy NROL-91 Rocket Cam. https://youtu.be/7EUMXb0Oo6s
-[15] SciNews. Kuaizhou-1A launches Shiyan-14 and Shiyan-15. https://youtu.be/qPC1kqAsVik
-[16] SpaceX. Starlink Mission. https://youtu.be/VVu2bSJJhgI
-[17] SciNews. Long March-2D launches Yaogan-36 01 satellites. https://youtu.be/UQRcH6Hn6Lc
-[18] SciNews. Long March-6 launches Shiyan-16A, Shiyan-16B and Shiyan-17. https://youtu.be/LMMxoML9t40
+[6] Centre spatial guyanais. VA258 : retour en vidéo sur la 113ème mission Ariane 5 !. https://youtu.be/Oh-1zghxhZw
+[7] SpaceX. Starlink Mission. https://youtu.be/a2lxdOPyR3Q
+[8] 我们的太空. 我国成功发射“中星1E”卫星. https://www.bilibili.com/video/BV1Ge4y1y7Bd/
+[9] Rocket Lab. The Owl Spreads Its Wings Launch. https://youtu.be/I9aYHnHaFAk
+[10] SpaceX. Starlink Mission. https://youtu.be/ZlQHF_yBkMQ
+[11] 大漠问天. 我国成功发射云海一号03星. https://mp.weixin.qq.com/s/4sjGcmvFcjQ535dWBA87MQ
+[12] Роскосмос. Трансляция запуска пилотируемого корабля «К.Э. Циолковский» («Союз МС-22»). https://vk.com/video-30315369_456243298
+[13] United Launch Alliance. Sept. 24 Live Broadcast: Delta IV Heavy NROL-91. https://youtu.be/L1giJrmgMAQ
+[14] United Launch Alliance. Delta IV Heavy NROL-91 Launch Highlights. https://youtu.be/pXifOiq56uw
+[15] United Launch Alliance. Delta IV Heavy NROL-91 Rocket Cam. https://youtu.be/7EUMXb0Oo6s
+[16] SciNews. Kuaizhou-1A launches Shiyan-14 and Shiyan-15. https://youtu.be/qPC1kqAsVik
+[17] SpaceX. Starlink Mission. https://youtu.be/VVu2bSJJhgI
+[18] SciNews. Long March-2D launches Yaogan-36 01 satellites. https://youtu.be/UQRcH6Hn6Lc
+[19] SciNews. Long March-6 launches Shiyan-16A, Shiyan-16B and Shiyan-17. https://youtu.be/LMMxoML9t40
 
 封面来源
-[1] Роскосмос. Корабль «К.Э. Циолковский» с экипажем МКС выведен на орбиту. https://www.roscosmos.ru/38262/
+[1] 我们的太空. 我国成功发射遥感三十三号02星. https://zhuanlan.zhihu.com/p/560778065
+[2] SpaceX. Starlink Mission. https://www.flickr.com/photos/spacex/52337888653/
+[3] 我们的太空. 我国成功发射微厘空间一号S3/S4试验卫星. https://zhuanlan.zhihu.com/p/561711608
+[4] 我们的太空. 我国成功发射遥感三十五号05组卫星. https://zhuanlan.zhihu.com/p/561752377
+[5] Arianespace. Flight VA258 – EUTELSAT KONNECT VHTS. https://youtu.be/rICRgPe2N08
+[6] SpaceX. Starlink Mission. https://www.flickr.com/photos/spacex/52348067522/
+[7] 我们的太空. 我国成功发射“中星1E”卫星. https://zhuanlan.zhihu.com/p/564076684
+[8] Rocket Lab. The Owl Spreads Its Wings Launch. https://youtu.be/I9aYHnHaFAk
+[9] SpaceX. Starlink Mission. https://www.flickr.com/photos/spacex/52367870891/
+[10] 中国航天科技集团. #云海一号03星发射成功#. https://weibo.com/5386897742/M6JjhuCQr
+[11] United Launch Alliance. Delta IV Heavy NROL-91 Launch Highlights. https://youtu.be/pXifOiq56uw
+[12] Роскосмос. Корабль «К.Э. Циолковский» с экипажем МКС выведен на орбиту. https://www.roscosmos.ru/38262/
+[13] United Launch Alliance. Delta IV Heavy NROL-91 Launch Highlights. https://youtu.be/pXifOiq56uw
+[14] 我们的太空. 我国成功发射试验十四号和试验十五号卫星. https://zhuanlan.zhihu.com/p/567898907
+[15] SpaceX. Starlink. https://www.flickr.com/photos/spacex/52381868236/
+[16] 我们的太空. 我国成功发射遥感三十六号卫星. https://zhuanlan.zhihu.com/p/568428507
 
 徽章来源
 [1] 上海航天. 长四丙成功发射遥感三十三号02星. https://mp.weixin.qq.com/s/WEOgQW68NyJPd12ISaxoCQ
