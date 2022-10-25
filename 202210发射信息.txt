@@ -7,7 +7,7 @@
 发射提供方：萤火虫航天
 载荷信息：7个载荷
 载荷质量：0.035吨
-载具：萤火虫α 
+载具：萤火虫α
 预期轨道：300 x 300 km，137° LEO(近地轨道)[2]
 实际轨道：219 x 278 km，136.90° LEO(近地轨道)[3]
 结果：失败
@@ -22,8 +22,7 @@
 飞行编号：AV-099
 发射提供方：ULA
 载荷运营方：SES
-载荷信息：SES-20，21，
-均为宽带通信卫星[1]
+载荷信息：SES-20，21，均为宽带通信卫星[1]
 载荷质量：3.2吨[5]
 载具：宇宙神五531[1]
 轨道：34958 x 35021 km，1.86° GEO(地球同步轨道)[6]
@@ -102,7 +101,7 @@
 编号：2022-129
 火箭制造方：中国
 时间：2022-10-09 07:43(UTC+8)
-位置：西昌卫星发射中心9401工位[1]
+位置：酒泉卫星发射中心9401工位[1]
 发射提供方：航天科技八院
 载荷研制方：中科院微小卫星创新研究院
 载荷信息：先进天基太阳天文台“夸父一号”(太空天气卫星)[23][24]
@@ -138,7 +137,7 @@
 火箭制造方：俄罗斯
 时间：2022-10-12 15:00:00(UTC)
 位置：拜科努尔81/24号工位
-发射提供方：俄罗斯航天集团
+发射提供方：俄罗斯国家航天集团
 载荷运营方：安哥拉国家航天计划管理办公室(GGPEN)[1][30]
 载荷信息：安哥拉星2号(宽带通信卫星)
 载荷质量：1.647吨[31]
@@ -159,14 +158,104 @@
 轨道：487 x 503 km，97.40° SSO(太阳同步轨道)[35][36]
 结果：成功
 
+编号：2022-133
+火箭制造方：中国
+时间：2022-10-15 03:12(UTC+8)
+位置：西昌卫星发射中心3号工位[1]
+发射提供方：航天科技八院
+载荷研制方：航天科技五院 / 八院
+载荷信息：遥感三十六号02组3颗卫星(地球观测卫星)[1][38]
+载荷质量：3.5吨[39]
+载具：长征二号丁遥69[38]
+轨道：486 x 498 km，34.99° LEO(近地轨道)[40]
+结果：成功
+
+编号：2022-134
+火箭制造方：美国
+时间：2022-10-15 05:22(UTC)
+位置：卡角太空军基地SLC-40
+发射提供方：SpaceX
+载荷运营方：欧洲卫通
+载荷信息：热鸟13F(宽带通信卫星)[1]
+载荷质量：4.476吨[41]
+载具：猎鹰9号Block 5(B1069.3)[42]
+轨道：376 x 55950 km，27.07° SSTO(超地球同步转移轨道)[43]
+结果(发射与回收)：成功
+回收船：JRTI(Just Read the Instructions)[42]
+
+编号：2022-135
+火箭制造方：俄罗斯
+时间：2022-10-15 19:55:15(UTC)
+位置：普列谢茨克35/1号工位
+发射提供方：俄罗斯国家航天集团
+载荷运营方：俄罗斯空天军
+载荷信息：EO MKA 3号星(技术验证卫星)[1]
+载荷质量：0.5吨[44]
+载具：安加拉1.2[1]
+轨道：329 x 344 km，96.35° SSO(太阳同步轨道)[45]
+结果：成功
+
+编号：2022-136
+火箭制造方：美国
+时间：2022-10-20 14:50:40(UTC)[1]
+位置：卡角太空军基地SLC-40
+组名：Starlink Group 4-36(G4-36)
+发射与载荷：SpaceX
+载荷信息：54颗星链卫星(宽带通信卫星)共约16.2吨
+载具：猎鹰9号Block 5(B1062.10)[46]
+轨道：232 x 336 km，53.22° LEO(近地轨道)[47]
+结果(发射与回收)：成功
+回收船：ASOG(A Shortfall Of Gravitas)
+
+编号：2022-137
+火箭制造方：俄罗斯
+时间：2022-10-21 19:20:15(UTC)
+位置：普列谢茨克43/4号工位
+发射提供方：俄罗斯国家航天集团
+载荷运营方：俄罗斯国防部
+载荷信息：MKA一号星，二号星(军事卫星)[1]
+载荷质量：2.8吨[48]
+载具：联盟2.1v / 伏尔加上面级[1]
+轨道：407 x 420 km，97.08° SSO(太阳同步轨道)[49]
+结果：成功
+
+编号：2022-138
+火箭制造方：印度
+时间：2022-10-22 18:37(UTC)
+位置：萨迪什·达万航天中心2号工位[1]
+飞行编号：M2
+发射提供方：ISRO
+载荷运营方：OneWeb
+载荷信息：第14批36颗OneWeb卫星(宽带通信卫星)[1][50]
+载荷质量：5.796吨[51]
+载具：GSLV Mk III
+轨道：588 x 604 km，87.43° LEO(近地轨道)[52]
+结果：成功
+备注：ISRO首次发射OneWeb卫星，
+GSLV Mk III首次执行商业发射任务，
+GSLV Mk III迄今为止发射的最重载荷[1]
+
+编号：2022-139
+火箭制造方：俄罗斯
+时间：2022-10-22 19:57:09(UTC)
+位置：东方航天发射场1S工位
+发射提供方：俄罗斯国家航天集团
+载荷信息：信使卫星系统的信使-M 23-25三颗(窄带通信卫星)，
+俄罗斯国家航天集团的Skif-D(技术验证卫星)[1]
+载荷质量：0.979吨[53][54]
+载具：联盟2.1b / 军舰鸟上面级[1]
+轨道：1484 x 1501 km，82.50° LEO(近地轨道)[55]
+结果：成功
+
 1. 关于载荷质量
 1.1 货运飞船仅将货物质量计入载荷质量，模拟载荷与有效载荷一起搭载时仅计入有效载荷质量。若仅搭载货运飞船或模拟载荷，将其整体质量计入载荷质量。
 1.2 载人飞船将其整体质量计入载荷质量。
-1.3 (小卫星)上面级或摆渡级若自身没有任何不可分离的有效载荷，不计入载荷质量，若有，将其整体质量计入载荷质量。
+1.3 (小卫星)上面级或摆渡级若自身没有任何不可分离的有效载荷，不计入载荷质量，若65有，将其整体质量计入载荷质量。
 
 2. 关于轨道
 2.1 无额外标注的情况下，轨道一般指载荷所在的初始轨道，可以是预期轨道，或者实际轨道，具体类型根据来源判断。
 2.2 若使用USSSN(Space-Track.Org)来源的轨道信息，会标注该数据使用的NORAD ID和epoch，以备查询与核实。需注册登录后才可查询。
+2.3 若存在多个载荷，且多个载荷分别进入了差异较大的初始轨道，即末级火箭经过多次机动后送入的不同轨道，不同轨道均会标出，否则采用主载荷或NORAD ID较小的载荷的轨道。
 
 3. 两组互斥的概念
 3.1 初始轨道(initial orbit)：载荷与末级火箭分离后所在的轨道，一般不是运营轨道。如果不是发射相关方提供的数据(supTLE)，则以第三方(USSSN)发布的首个TLE数据为准，在后者的情况下会存在误差。
@@ -231,6 +320,25 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [34] Wikipedia. Long March 2C. https://en.wikipedia.org/wiki/Long_March_2C
 [35] PhilLeafSpace. 5米S-SAR 01星初轨参数. https://weibo.com/2645044133/Ma8wZq81r
 [36] Space-Track.Org. NORAD ID 54037 epoch 2022-10-13T03:26:05.281152. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/54037/orderby/EPOCH%20asc/limit/1/format/json
+[37] 中国航天报. 长二丁火箭发射遥感三十六号卫星圆满成功！. https://mp.weixin.qq.com/s/dYU4zjXaryJM0XMvJO8P7g
+[38] 上海航天. 长二丁火箭成功发射遥感三十六号卫星. https://mp.weixin.qq.com/s/ndykKM-Zf6kvXxi9TrP9PQ
+[39] Space Launch Report. Long March Data Sheet. https://web.archive.org/web/20220411235210/http://www.spacelaunchreport.com/cz.html
+[40] Space-Track.Org. NORAD ID 54043 epoch 2022-10-15T03:01:06.541824. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/54043/orderby/EPOCH%20asc/limit/1/format/json
+[41] Wikipedia. Hotbird 13F. https://en.wikipedia.org/wiki/Hot_Bird#Hotbird_13F
+[42] NextSpaceflight. Falcon 9 Block 5 | Hotbird 13F. https://nextspaceflight.com/launches/details/7016
+[43] Space-Track.Org. NORAD ID 54048 epoch 2022-10-15T08:09:35.123904. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/54048/orderby/EPOCH%20asc/limit/1/format/json
+[44] Gunter's Space Page. EO-MKA. https://space.skyrocket.de/doc_sdat/emka.htm
+[45] Space-Track.Org. NORAD ID 54050 epoch 2022-10-15T23:16:46.511328. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/54050/orderby/EPOCH%20asc/limit/1/format/json
+[46] NASASpaceflight. SpaceX F9 : Starlink group 4-36 : CCSFS SLC-40 : 20 October 2022 (14:50 UTC). https://forum.nasaspaceflight.com/index.php?topic=57001.0
+[47] CelesTrak. Starlink G4-36 Pre-Launch. https://celestrak.org/NORAD/elements/supplemental/table.php?FILE=starlink-g4-36&FORMAT=tle
+[48] Wikipedia. Soyuz-2-1v. https://en.wikipedia.org/wiki/Soyuz-2-1v
+[49] Space-Track.Org. NORAD ID 54109 epoch 2022-10-21T21:09:27.197856. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/54109/orderby/EPOCH%20asc/limit/1/format/json
+[50] OneWeb. 36 OneWeb satellites successfully launched by ISRO/ NSIL from Sriharikota. https://oneweb.net/resources/36-oneweb-satellites-successfully-launched-isro-nsil-sriharikota
+[51] ISRO. LVM3 M2 / OneWeb India-1 Mission. https://www.isro.gov.in/LVM3_M2_OneWebIndia.html
+[52] T.S. Kelso. CelesTrak has ephemeris-based SupGP data for all 36 #OneWeb satellites on the launch (2022-138). https://twitter.com/TSKelso/status/1584015920476803072/
+[53] Gunter's Space Page. Gonets-M. https://space.skyrocket.de/doc_sdat/gonets-m.htm
+[54] RussianSpaceWeb. Soyuz to launch Gonets trio, Skif-D proto-satellite. http://russianspaceweb.com/gonets-block18-skif.html
+[55] Space-Track.Org. NORAD ID 54150 epoch 2022-10-23T00:08:02.486112. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/54150/orderby/EPOCH%20asc/limit/1/format/json
 
 视频素材来源
 [1] Everyday Astronaut. Watch Firefly Launch Their Alpha Rocket To Orbit For The First Time!. http://youtu.be/BntCkCRc55c
@@ -239,18 +347,27 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [4] United Launch Alliance. Atlas V SES-20/21 Launch Highlights. http://youtu.be/hv6P2IX5nlM
 [5] United Launch Alliance. Atlas V SES-20/21 Rocket Cam. http://youtu.be/0kyjm5xR5es
 [6] United Launch Alliance. Oct. 4 Live Broadcast: Atlas V SES-20/21. https://youtu.be/ejBteVXNxlQ
-[7] 航天科技一院. 长十一火箭“一箭双星” 献礼新中国成立73周年. https://mp.weixin.qq.com/s/UpN7PpayUAEhRRga6Y5SSA
-[8] SpaceX. Crew-5 Mission | Launch. https://youtu.be/5EwW8ZkArL4
-[9] SpaceX. Starlink Mission. https://youtu.be/wcq7xiTOPRg
-[10] 中国航天科技集团. 长征十一号H Y4运载火箭成功发射微厘空间S5/S6试验卫星. https://www.bilibili.com/video/BV1BV4y157E4/
-[11] Rocket Lab. It Argos Up From Here Launch. https://youtu.be/TffmQR1K04M
-[12] SpaceX. Intelsat G-33/G-34 Mission. https://youtu.be/NIgS3dPAbw0
-[13] SciNews. Long March-2D launches ASO-S (Advanced Space-based Solar Observatory). https://youtu.be/IGBp6tTC-3c
-[14]  Минобороны России. Воздушно-космические силы провели успешный пуск ракеты-носителя «Союз-2» с космодрома Плесецк. https://vk.com/video-133441491_456265654
+[7] SpaceX. Crew-5 Mission | Launch. https://youtu.be/5EwW8ZkArL4
+[8] SpaceX. Starlink Mission. https://youtu.be/wcq7xiTOPRg
+[9] 航天科技一院. 长十一火箭“一箭双星” 献礼新中国成立73周年. https://mp.weixin.qq.com/s/UpN7PpayUAEhRRga6Y5SSA
+[10] Rocket Lab. It Argos Up From Here Launch. https://youtu.be/TffmQR1K04M
+[11] SpaceX. Intelsat G-33/G-34 Mission. https://youtu.be/NIgS3dPAbw0
+[12] SciNews. Long March-2D launches ASO-S (Advanced Space-based Solar Observatory). https://youtu.be/IGBp6tTC-3c
+[13]  Минобороны России. Воздушно-космические силы провели успешный пуск ракеты-носителя «Союз-2» с космодрома Плесецк. https://vk.com/video-133441491_456265654
+[14] JAXA | 宇宙航空研究開発機構. JAXA RAISE-3 Mission. https://youtu.be/Blai5oZQtFs
+[15] Роскосмос. Трансляция пуска ракеты-носителя «Протон-М» с космодрома Байконур. https://vk.com/video-30315369_456243334
 
 封面来源
 [1] 
 
 徽章来源
-[1] 
+[1] Firefly Aerospace. Alpha Flight 2 - To The Black. https://firefly.com/alpha-flight-2-to-the-black/
+[2] NASA/JSC. Crew-5 logo. https://www.flickr.com/photos/nasa2explore/52243605329/in/album-72177720300742973/
+[3] SpaceX. Starlink. https://www.elonx.net/spacex-mission-patches/#jp-carousel-3624
+[4] Rocket Lab. It Argos Up From Here. https://www.rocketlabusa.com/missions/completed-missions/it-argos-up-from-here/
+[5] SpaceX. Intelsat Galaxy 33/34. https://www.elonx.net/spacex-mission-patches/#jp-carousel-6522
+[6] 上海航天. 十战十捷！长二丁发射圆满成功. https://mp.weixin.qq.com/s/v46u-mNJjscz8Wx40U8o5g
+[7] 上海航天. 长二丁火箭成功发射遥感三十六号卫星. https://mp.weixin.qq.com/s/ndykKM-Zf6kvXxi9TrP9PQ
+[8] SpaceX. Eutelsat Hotbird 13F. https://www.elonx.net/spacex-mission-patches/#jp-carousel-6560
+[9] OneWeb. Launch #14's mission patch. https://twitter.com/OneWeb/status/1583803370225119232
 
