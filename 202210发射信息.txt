@@ -116,7 +116,7 @@
 位置：普列谢茨克43/4号工位
 发射提供方：俄罗斯战略导弹部队
 载荷运营方：俄罗斯空天军
-载荷信息：格洛纳斯17L(导航定位卫星)[1]
+载荷信息：格洛纳斯-K 17L(导航定位卫星)[1]
 载荷质量：0.962吨[27]
 载具：联盟-2.1b / 军舰鸟上面级[1]
 轨道：19134 x 19147 km，64.76° MEO(中地球轨道)[28]
@@ -131,7 +131,7 @@
 载具：艾普斯龙(Epsilon)运载火箭
 预期轨道：SSO(太阳同步轨道)
 结果：失败
-失败原因：二级关机后，三级出现异常，触发飞行中止系统[1][29]
+失败原因：二级关机后，姿态控制系统出现异常，触发飞行中止系统[1][29]
 
 编号：2022-131
 火箭制造方：俄罗斯
@@ -140,9 +140,9 @@
 发射提供方：俄罗斯国家航天集团
 载荷运营方：安哥拉国家航天计划管理办公室(GGPEN)[1][30]
 载荷信息：安哥拉星2号(宽带通信卫星)
-载荷质量：1.647吨[31]
+载荷质量：1.964吨[31]
 载具：质子-M / DM-03上面级[1]
-轨道：233 x 36201 km，48.88° GTO(同步转移轨道)[32]
+轨道：36183 x 36194 km，0.03° GEO(地球同步轨道)[31][32]
 结果：成功
 
 编号：2022-132
@@ -247,6 +247,17 @@ GSLV Mk III迄今为止发射的最重载荷[1]
 轨道：1484 x 1501 km，82.50° LEO(近地轨道)[55]
 结果：成功
 
+编号：2022-140
+火箭制造方：俄罗斯
+时间：2022-10-26 00:20:09(UTC)
+位置：拜科努尔31/6号工位
+发射与载荷：俄罗斯国家航天集团
+载荷信息：进步MS-21(货运飞船)共7.4吨，载货2.52吨
+载具：联盟-2.1a
+载荷质量：2.52吨[56]
+轨道：257 x 282 km，51.65° LEO(近地轨道)[57]
+结果：成功
+
 1. 关于载荷质量
 1.1 货运飞船仅将货物质量计入载荷质量，模拟载荷与有效载荷一起搭载时仅计入有效载荷质量。若仅搭载货运飞船或模拟载荷，将其整体质量计入载荷质量。
 1.2 载人飞船将其整体质量计入载荷质量。
@@ -314,8 +325,8 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [28] Space-Track.Org. NORAD ID 54031 epoch 2022-10-10T16:15:20.300256. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/54031/orderby/EPOCH%20asc/limit/1/format/json
 [29] Wikipedia. Epsilon (rocket). https://en.wikipedia.org/wiki/Epsilon_(rocket)#Launch_history
 [30] Wikipedia. National Space Program Management Office. https://en.wikipedia.org/wiki/National_Space_Program_Management_Office
-[31] Wikipedia. AngoSat 1. https://en.wikipedia.org/wiki/AngoSat_1
-[32] Space-Track.Org. NORAD ID 54033 epoch 2022-10-12T20:37:26.637312. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/54033/orderby/EPOCH%20asc/limit/1/format/json
+[31] RussianSpaceWeb. AngoSat 2. https://www.russianspaceweb.com/angosat2.html
+[32] Space-Track.Org. NORAD ID 54033 epoch 2022-10-13T14:04:05.265120. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/54033/orderby/EPOCH%20asc/limit/3/format/json
 [33] 中国航天报. 长二丙成功发射环境减灾二号05卫星. https://mp.weixin.qq.com/s/Dc_iZqKE1Tr4o7G6XK2VOg
 [34] Wikipedia. Long March 2C. https://en.wikipedia.org/wiki/Long_March_2C
 [35] PhilLeafSpace. 5米S-SAR 01星初轨参数. https://weibo.com/2645044133/Ma8wZq81r
@@ -339,6 +350,8 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [53] Gunter's Space Page. Gonets-M. https://space.skyrocket.de/doc_sdat/gonets-m.htm
 [54] RussianSpaceWeb. Soyuz to launch Gonets trio, Skif-D proto-satellite. http://russianspaceweb.com/gonets-block18-skif.html
 [55] Space-Track.Org. NORAD ID 54150 epoch 2022-10-23T00:08:02.486112. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/54150/orderby/EPOCH%20asc/limit/1/format/json
+[56] RussianSpaceWeb. Progress MS-21 to resupply the ISS. http://russianspaceweb.com/progress-ms-21.html
+[57] Space-Track.Org. NORAD ID 54155 epoch 2022-10-26T04:55:29.644608. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/54155/orderby/EPOCH%20asc/limit/1/format/json
 
 视频素材来源
 [1] Everyday Astronaut. Watch Firefly Launch Their Alpha Rocket To Orbit For The First Time!. http://youtu.be/BntCkCRc55c
@@ -356,9 +369,10 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [13]  Минобороны России. Воздушно-космические силы провели успешный пуск ракеты-носителя «Союз-2» с космодрома Плесецк. https://vk.com/video-133441491_456265654
 [14] JAXA | 宇宙航空研究開発機構. JAXA RAISE-3 Mission. https://youtu.be/Blai5oZQtFs
 [15] Роскосмос. Трансляция пуска ракеты-носителя «Протон-М» с космодрома Байконур. https://vk.com/video-30315369_456243334
+[16] SciNews. Long March-2C launches Huanjing-2 05. https://youtu.be/e-Sb5Cqa6sg
 
 封面来源
-[1] 
+[1] Роскосмос. С Байконура к МКС отправился третий в 2022 году грузовой корабль. https://www.roscosmos.ru/38415/
 
 徽章来源
 [1] Firefly Aerospace. Alpha Flight 2 - To The Black. https://firefly.com/alpha-flight-2-to-the-black/
