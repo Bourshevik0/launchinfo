@@ -211,12 +211,12 @@
 火箭制造方：俄罗斯
 时间：2022-10-21 19:20:15(UTC)
 位置：普列谢茨克43/4号工位
-发射提供方：俄罗斯国家航天集团
+发射提供方：俄罗斯战略导弹部队
 载荷运营方：俄罗斯国防部
 载荷信息：MKA一号星，二号星(军事卫星)[1]
-载荷质量：2.8吨[48]
+载荷质量：2.8吨[49]
 载具：联盟2.1v / 伏尔加上面级[1]
-轨道：407 x 420 km，97.08° SSO(太阳同步轨道)[49]
+轨道：407 x 420 km，97.08° SSO(太阳同步轨道)[50]
 结果：成功
 
 编号：2022-138
@@ -226,10 +226,10 @@
 飞行编号：M2
 发射提供方：ISRO
 载荷运营方：OneWeb
-载荷信息：第14批36颗OneWeb卫星(宽带通信卫星)[1][50]
-载荷质量：5.796吨[51]
+载荷信息：第14批36颗OneWeb卫星(宽带通信卫星)[1][51]
+载荷质量：5.796吨[52]
 载具：GSLV Mk III
-轨道：588 x 604 km，87.43° LEO(近地轨道)[52]
+轨道：588 x 604 km，87.43° LEO(近地轨道)[53]
 结果：成功
 备注：ISRO首次发射OneWeb卫星，
 GSLV Mk III首次执行商业发射任务，
@@ -242,9 +242,9 @@ GSLV Mk III迄今为止发射的最重载荷[1]
 发射提供方：俄罗斯国家航天集团
 载荷信息：信使卫星系统的信使-M 23-25三颗(窄带通信卫星)，
 俄罗斯国家航天集团的Skif-D(技术验证卫星)[1]
-载荷质量：0.979吨[53][54]
+载荷质量：0.979吨[54][55]
 载具：联盟2.1b / 军舰鸟上面级[1]
-轨道：1484 x 1501 km，82.50° LEO(近地轨道)[55]
+轨道：1484 x 1501 km，82.50° LEO(近地轨道)[56]
 结果：成功
 
 编号：2022-140
@@ -254,19 +254,59 @@ GSLV Mk III迄今为止发射的最重载荷[1]
 发射与载荷：俄罗斯国家航天集团
 载荷信息：进步MS-21(货运飞船)共7.4吨，载货2.52吨
 载具：联盟-2.1a
-载荷质量：2.52吨[56]
-轨道：257 x 282 km，51.65° LEO(近地轨道)[57]
+载荷质量：2.52吨[57]
+轨道：257 x 282 km，51.65° LEO(近地轨道)[58]
+结果：成功
+备注：飞船于10月28日02:49:03(UTC)对接ISS[57]
+
+编号：2022-141
+火箭制造方：美国
+时间：2022-10-28 01:14:10(UTC)[1]
+位置：范登堡太空军基地SLC-4E
+组名：Starlink Group 4-31(G4-31)
+发射与载荷：SpaceX
+载荷信息：53颗星链卫星(宽带通信卫星)共约15.9吨
+载具：猎鹰9号Block 5(B1063.8)[59]
+轨道：230 x 337 km，53.22° LEO(近地轨道)[60]
+结果(发射与回收)：成功
+回收船：OSCISLY(Of Course I Still Love You)[59]
+
+编号：2022-142
+火箭制造方：中国
+时间：2022-10-29 09:01(UTC+8)
+位置：酒泉卫星发射中心9401工位[1]
+发射提供方：航天科技八院
+载荷研制方：中国科学院微小卫星创新研究院[61]
+载荷信息：试验二十号C卫星(技术验证卫星)[1]
+载荷质量：2吨[39][62]
+载具：长征二号丁遥72[61]
+轨道：750 x 796 km，59.99° LEO(近地轨道)[62]
+结果：成功
+备注：今年长征二号丁运载火箭发射12次，刷新纪录[61]
+
+编号：2022-143
+火箭制造方：中国
+时间：2022-10-31 15:37:23.191(UTC+8)[63]
+位置：文昌航天发射场1号工位(LC-101)[1]
+任务代号：TG/MT[64]
+发射提供方：航天科技一院[65]
+载荷运营方：国家航天局
+载荷信息：梦天实验舱(空间站)[1]
+载荷质量：23.3吨
+载具：长征五号乙遥四[65]
+轨道：171 x 313 km，41.47° LEO(近地轨道)[66]
 结果：成功
 
 1. 关于载荷质量
 1.1 货运飞船仅将货物质量计入载荷质量，模拟载荷与有效载荷一起搭载时仅计入有效载荷质量。若仅搭载货运飞船或模拟载荷，将其整体质量计入载荷质量。
 1.2 载人飞船将其整体质量计入载荷质量。
-1.3 (小卫星)上面级或摆渡级若自身没有任何不可分离的有效载荷，不计入载荷质量，若65有，将其整体质量计入载荷质量。
+1.3 (小卫星)上面级或摆渡级若自身没有任何不可分离的有效载荷，不计入载荷质量，若有，将其整体质量计入载荷质量。
 
 2. 关于轨道
 2.1 无额外标注的情况下，轨道一般指载荷所在的初始轨道，可以是预期轨道，或者实际轨道，具体类型根据来源判断。
-2.2 若使用USSSN(Space-Track.Org)来源的轨道信息，会标注该数据使用的NORAD ID和epoch，以备查询与核实。需注册登录后才可查询。
+2.2 若使用USSSN(Space-Track.Org)来源的轨道数据，会标注该数据使用的NORAD ID和epoch，以备查询与核实。需注册登录后才可查询。
 2.3 若存在多个载荷，且多个载荷分别进入了差异较大的初始轨道，即末级火箭经过多次机动后送入的不同轨道，不同轨道均会标出，否则采用主载荷或NORAD ID较小的载荷的轨道。
+2.4 若只有载荷与末级分离，进行机动后的轨道数据，且末级并未进行机动（或者是仅小幅机动），取末级轨道数据。
 
 3. 两组互斥的概念
 3.1 初始轨道(initial orbit)：载荷与末级火箭分离后所在的轨道，一般不是运营轨道。如果不是发射相关方提供的数据(supTLE)，则以第三方(USSSN)发布的首个TLE数据为准，在后者的情况下会存在误差。
@@ -342,16 +382,25 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [45] Space-Track.Org. NORAD ID 54050 epoch 2022-10-15T23:16:46.511328. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/54050/orderby/EPOCH%20asc/limit/1/format/json
 [46] NASASpaceflight. SpaceX F9 : Starlink group 4-36 : CCSFS SLC-40 : 20 October 2022 (14:50 UTC). https://forum.nasaspaceflight.com/index.php?topic=57001.0
 [47] CelesTrak. Starlink G4-36 Pre-Launch. https://celestrak.org/NORAD/elements/supplemental/table.php?FILE=starlink-g4-36&FORMAT=tle
-[48] Wikipedia. Soyuz-2-1v. https://en.wikipedia.org/wiki/Soyuz-2-1v
-[49] Space-Track.Org. NORAD ID 54109 epoch 2022-10-21T21:09:27.197856. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/54109/orderby/EPOCH%20asc/limit/1/format/json
-[50] OneWeb. 36 OneWeb satellites successfully launched by ISRO/ NSIL from Sriharikota. https://oneweb.net/resources/36-oneweb-satellites-successfully-launched-isro-nsil-sriharikota
-[51] ISRO. LVM3 M2 / OneWeb India-1 Mission. https://www.isro.gov.in/LVM3_M2_OneWebIndia.html
-[52] T.S. Kelso. CelesTrak has ephemeris-based SupGP data for all 36 #OneWeb satellites on the launch (2022-138). https://twitter.com/TSKelso/status/1584015920476803072/
-[53] Gunter's Space Page. Gonets-M. https://space.skyrocket.de/doc_sdat/gonets-m.htm
-[54] RussianSpaceWeb. Soyuz to launch Gonets trio, Skif-D proto-satellite. http://russianspaceweb.com/gonets-block18-skif.html
-[55] Space-Track.Org. NORAD ID 54150 epoch 2022-10-23T00:08:02.486112. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/54150/orderby/EPOCH%20asc/limit/1/format/json
-[56] RussianSpaceWeb. Progress MS-21 to resupply the ISS. http://russianspaceweb.com/progress-ms-21.html
-[57] Space-Track.Org. NORAD ID 54155 epoch 2022-10-26T04:55:29.644608. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/54155/orderby/EPOCH%20asc/limit/1/format/json
+[48] Ministry of Defence of the Russian Federation. Russian Aerospace Forces launch Soyuz-2.1v light carrier rocket from Plesetsk Cosmodrome. https://eng.mil.ru/en/news_page/country/more.htm?id=12442487
+[49] Wikipedia. Soyuz-2-1v. https://en.wikipedia.org/wiki/Soyuz-2-1v
+[50] Space-Track.Org. NORAD ID 54109 epoch 2022-10-21T21:09:27.197856. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/54109/orderby/EPOCH%20asc/limit/1/format/json
+[51] OneWeb. 36 OneWeb satellites successfully launched by ISRO/ NSIL from Sriharikota. https://oneweb.net/resources/36-oneweb-satellites-successfully-launched-isro-nsil-sriharikota
+[52] ISRO. LVM3 M2 / OneWeb India-1 Mission. https://www.isro.gov.in/LVM3_M2_OneWebIndia.html
+[53] T.S. Kelso. CelesTrak has ephemeris-based SupGP data for all 36 #OneWeb satellites on the launch (2022-138). https://twitter.com/TSKelso/status/1584015920476803072/
+[54] Gunter's Space Page. Gonets-M. https://space.skyrocket.de/doc_sdat/gonets-m.htm
+[55] RussianSpaceWeb. Soyuz to launch Gonets trio, Skif-D proto-satellite. http://russianspaceweb.com/gonets-block18-skif.html
+[56] Space-Track.Org. NORAD ID 54150 epoch 2022-10-23T00:08:02.486112. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/54150/orderby/EPOCH%20asc/limit/1/format/json
+[57] RussianSpaceWeb. Progress MS-21 to resupply the ISS. http://russianspaceweb.com/progress-ms-21.html
+[58] Space-Track.Org. NORAD ID 54155 epoch 2022-10-26T04:55:29.644608. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/54155/orderby/EPOCH%20asc/limit/1/format/json
+[59] NASASpaceflight. SpaceX F9 : Starlink group 4-31 : VSFB SLC-4E : 27/28 October 2022 (01:14 UTC). https://forum.nasaspaceflight.com/index.php?topic=57272.0
+[60] CelesTrak. Starlink G4-31 Pre-Launch. https://celestrak.org/NORAD/elements/supplemental/table.php?FILE=starlink-g4-31&FORMAT=tle
+[61] 上海航天. 长征二号丁发射任务取得圆满成功. https://mp.weixin.qq.com/s/roRyimhNo1NiThN1_KXINg
+[62] Space-Track.Org. NORAD ID 54214 epoch 2022-10-29T04:22:38.418240. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/54214/orderby/EPOCH%20asc/limit/1/format/json
+[63] China 'N Asia Spaceflight. To make the T0 more precise: 07:37:23.191 UTC on OCT.31 Long March 5B Y4 launch of #Mengtian Laboratory Module. https://twitter.com/cnspaceflight/status/1586991041063702528
+[64] 二次元的中科院物理所. 中国空间站梦天实验舱发射全程完整回顾. https://www.bilibili.com/video/BV1FV4y1V7WM/
+[65] 航天科技一院. 长征五号B火箭成功发射梦天实验舱. https://mp.weixin.qq.com/s/V-GU9p8HA0TRDZf6tBZ2qQ
+[66] Space-Track.Org. NORAD ID 54217 epoch 2022-10-31T13:01:40.143936. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/54217/orderby/EPOCH%20asc/limit/1/format/json
 
 视频素材来源
 [1] Everyday Astronaut. Watch Firefly Launch Their Alpha Rocket To Orbit For The First Time!. http://youtu.be/BntCkCRc55c
@@ -365,14 +414,26 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [9] 航天科技一院. 长十一火箭“一箭双星” 献礼新中国成立73周年. https://mp.weixin.qq.com/s/UpN7PpayUAEhRRga6Y5SSA
 [10] Rocket Lab. It Argos Up From Here Launch. https://youtu.be/TffmQR1K04M
 [11] SpaceX. Intelsat G-33/G-34 Mission. https://youtu.be/NIgS3dPAbw0
-[12] SciNews. Long March-2D launches ASO-S (Advanced Space-based Solar Observatory). https://youtu.be/IGBp6tTC-3c
-[13]  Минобороны России. Воздушно-космические силы провели успешный пуск ракеты-носителя «Союз-2» с космодрома Плесецк. https://vk.com/video-133441491_456265654
-[14] JAXA | 宇宙航空研究開発機構. JAXA RAISE-3 Mission. https://youtu.be/Blai5oZQtFs
-[15] Роскосмос. Трансляция пуска ракеты-носителя «Протон-М» с космодрома Байконур. https://vk.com/video-30315369_456243334
-[16] SciNews. Long March-2C launches Huanjing-2 05. https://youtu.be/e-Sb5Cqa6sg
+[12] SpaceX. View from the droneship of Falcon 9's launch and landing. https://twitter.com/SpaceX/status/1580014747516211202
+[13] SciNews. Long March-2D launches ASO-S (Advanced Space-based Solar Observatory). https://youtu.be/IGBp6tTC-3c
+[14] Минобороны России. Воздушно-космические силы провели успешный пуск ракеты-носителя «Союз-2» с космодрома Плесецк. https://vk.com/video-133441491_456265654
+[15] JAXA | 宇宙航空研究開発機構. JAXA RAISE-3 Mission. https://youtu.be/Blai5oZQtFs
+[16] Роскосмос. Трансляция пуска ракеты-носителя «Протон-М» с космодрома Байконур. https://vk.com/video-30315369_456243334
+[17] SciNews. Long March-2C launches Huanjing-2 05. https://youtu.be/e-Sb5Cqa6sg
+[18] SciNews. Long March-2D launches Yaogan-36. https://youtu.be/CnjZr0Z8zSQ
+[19] SpaceX. Eutelsat HOTBIRD 13F Mission. https://youtu.be/kZEuwBMzR3Q
+[20] Роскосмос. Пуск «Ангары-1.2» с космодрома Плесецк — как это было. https://vk.com/video-30315369_456243347
+[21] SpaceX. Starlink Mission. https://youtu.be/erH5mrvQkbc
+[22] Минобороны России. Воздушно-космические силы провели пуск ракеты-носителя «Союз-2.1в» с космодрома «Плесецк». https://vk.com/video-133441491_456265853
+[23] ISRO. Launch of LVM3-M2/OneWeb India-1 Mission from Satish Dhawan Space Centre (SDSC) SHAR, Sriharikota. https://youtu.be/dao7OrlESmU
+[24] Роскосмос. Трансляция пуска ракеты-носителя «Союз 2.1б» с космодрома Восточный. https://vk.com/video-30315369_456243348
+[25] Роскосмос. Трансляция запуска грузового корабля «Прогресс МС-21» с космодрома Байконур. https://vk.com/video-30315369_456243367
+[26] 二次元的中科院物理所. 中国空间站梦天实验舱发射全程完整回顾. https://www.bilibili.com/video/BV1FV4y1V7WM/
+[27] 
 
 封面来源
-[1] Роскосмос. С Байконура к МКС отправился третий в 2022 году грузовой корабль. https://www.roscosmos.ru/38415/
+[1] 我们的太空. 【快讯·航天】 我国·酒泉·长二丁·成功发射先进天基太阳天文台卫星. https://zhuanlan.zhihu.com/p/571681660
+[2] Роскосмос. С Байконура к МКС отправился третий в 2022 году грузовой корабль. https://www.roscosmos.ru/38415/
 
 徽章来源
 [1] Firefly Aerospace. Alpha Flight 2 - To The Black. https://firefly.com/alpha-flight-2-to-the-black/
