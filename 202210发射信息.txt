@@ -294,7 +294,7 @@ GSLV Mk III迄今为止发射的最重载荷[1]
 载荷信息：梦天实验舱(空间站)[1]
 载荷质量：23.3吨
 载具：长征五号乙遥四[65]
-轨道：171 x 313 km，41.47° LEO(近地轨道)[66]
+轨道(末级)：171 x 313 km，41.47° LEO(近地轨道)[66]
 结果：成功
 
 1. 关于载荷质量
@@ -333,6 +333,8 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 
 音乐来源
 [1] Stevia Sphere. A Sphere Made of Stevia. https://steviasphere.bandcamp.com/track/a-sphere-made-of-stevia
+[2] Punch Deck. Music To Wear Fingerless Gloves To. https://punchdeck.bandcamp.com/track/music-to-wear-fingerless-gloves-to
+[3] 
 
 数据来源
 [1] Wikipedia. List of spaceflight launches in July–December 2022. https://en.wikipedia.org/wiki/List_of_spaceflight_launches_in_July%E2%80%93December_2022
@@ -428,12 +430,34 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [23] ISRO. Launch of LVM3-M2/OneWeb India-1 Mission from Satish Dhawan Space Centre (SDSC) SHAR, Sriharikota. https://youtu.be/dao7OrlESmU
 [24] Роскосмос. Трансляция пуска ракеты-носителя «Союз 2.1б» с космодрома Восточный. https://vk.com/video-30315369_456243348
 [25] Роскосмос. Трансляция запуска грузового корабля «Прогресс МС-21» с космодрома Байконур. https://vk.com/video-30315369_456243367
-[26] 二次元的中科院物理所. 中国空间站梦天实验舱发射全程完整回顾. https://www.bilibili.com/video/BV1FV4y1V7WM/
-[27] 
+[26] SpaceX. Starlink Mission. https://youtu.be/iYtH2khNIgU
+[27] SciNews. Long March-2D launches Shiyan-20C. https://youtu.be/h6G_wwzWzyM
+[28] 二次元的中科院物理所. 中国空间站梦天实验舱发射全程完整回顾. https://www.bilibili.com/video/BV1FV4y1V7WM/
 
 封面来源
-[1] 我们的太空. 【快讯·航天】 我国·酒泉·长二丁·成功发射先进天基太阳天文台卫星. https://zhuanlan.zhihu.com/p/571681660
-[2] Роскосмос. С Байконура к МКС отправился третий в 2022 году грузовой корабль. https://www.roscosmos.ru/38415/
+[1] Everyday Astronaut. Watch Firefly Launch Their Alpha Rocket To Orbit For The First Time!. https://youtu.be/BntCkCRc55c?t=11813
+[2] United Launch Alliance. Atlas V SES-20/21 Launch Highlights. https://youtu.be/hv6P2IX5nlM?t=80
+[3] NASA/Joel Kowsky. NASA's SpaceX Crew-5 Launch (NHQ202210050012). https://www.flickr.com/photos/nasahqphoto/52406949776/
+[4] SpaceX. Starlink Mission. https://www.flickr.com/photos/spacex/52411124012/
+[5] 我们的太空. 【快讯·航天】海上升明焰！！我国长十一火箭成功发射微厘空间北斗低轨导航增强系统S5/S6试验卫星. https://zhuanlan.zhihu.com/p/571305124
+[6] Rocket Lab. It Argos Up From Here Launch. https://youtu.be/TffmQR1K04M?t=1618
+[7] SpaceX. Intelsat G-33/G-34 Mission. https://www.flickr.com/photos/spacex/52415909868/
+[8] 我们的太空. 【快讯·航天】 我国·酒泉·长二丁·成功发射先进天基太阳天文台卫星. https://zhuanlan.zhihu.com/p/571681660
+[9] Роскосмос. С космодрома Плесецк запущен навигационный спутник. https://www.roscosmos.ru/38351/
+[10] JAXA | 宇宙航空研究開発機構. JAXA RAISE-3 Mission. https://youtu.be/Blai5oZQtFs
+[11] Роскосмос. Ракета «Протон-М» с ангольским спутником стартовала с Байконура. https://www.roscosmos.ru/38347/
+[12] 我们的太空. 太原·长二丙发射5米S-SAR 01星. https://zhuanlan.zhihu.com/p/573064566
+[13] 我们的太空. 中国🇨🇳航天·西昌·长二丁·成功发射遥感三十六号卫星. https://zhuanlan.zhihu.com/p/573775986
+[14] SpaceX. Eutelsat HOTBIRD-F1 Mission. https://www.flickr.com/photos/spacex/52430108040/
+[15] Роскосмос. С космодрома Плесецк стартовала ракета-носитель «Ангара-1.2». https://www.roscosmos.ru/38374/
+[16] SpaceX. Starlink Mission. https://www.flickr.com/photos/spacex/52444210812/
+[17] Роскосмос. С космодрома Плесецк стартовала ракета-носитель «Союз-2.1в». https://www.roscosmos.ru/38405/
+[18] ISRO. LVM3 M2 / OneWeb India-1. https://www.isro.gov.in/mission_lvm3_gallery.html
+[19] Роскосмос. Ракета «Союз-2.1б» с первым спутником проекта «Сфера» стартовала с Восточного. https://www.roscosmos.ru/38386/
+[20] Роскосмос. С Байконура к МКС отправился третий в 2022 году грузовой корабль. https://www.roscosmos.ru/38415/
+[21] SpaceX. Starlink Mission. https://www.flickr.com/photos/spacex/52462055224/
+[22] 我们的太空. 酒泉·长二丁·我国成功发射试验二十号C星. https://zhuanlan.zhihu.com/p/578414154
+[23] 我们的太空. 梦天实验舱发射！圆满成功！. https://zhuanlan.zhihu.com/p/579047885
 
 徽章来源
 [1] Firefly Aerospace. Alpha Flight 2 - To The Black. https://firefly.com/alpha-flight-2-to-the-black/
@@ -445,4 +469,6 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [7] 上海航天. 长二丁火箭成功发射遥感三十六号卫星. https://mp.weixin.qq.com/s/ndykKM-Zf6kvXxi9TrP9PQ
 [8] SpaceX. Eutelsat Hotbird 13F. https://www.elonx.net/spacex-mission-patches/#jp-carousel-6560
 [9] OneWeb. Launch #14's mission patch. https://twitter.com/OneWeb/status/1583803370225119232
+[10] 上海航天. 长征二号丁发射任务取得圆满成功. https://mp.weixin.qq.com/s/roRyimhNo1NiThN1_KXINg
+[11] 中国载人航天. 寻梦天宫起征程！空间站建造阶段后续飞行任务标识发布. https://mp.weixin.qq.com/s/LNg0deyISN6VDRLa6eGxBg
 
