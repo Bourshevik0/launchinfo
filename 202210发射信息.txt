@@ -282,7 +282,6 @@ GSLV Mk III迄今为止发射的最重载荷[1]
 载具：长征二号丁遥72[61]
 轨道：750 x 796 km，59.99° LEO(近地轨道)[62]
 结果：成功
-备注：今年长征二号丁运载火箭发射12次，刷新纪录[61]
 
 编号：2022-143
 火箭制造方：中国
@@ -296,6 +295,7 @@ GSLV Mk III迄今为止发射的最重载荷[1]
 载具：长征五号乙遥四[65]
 轨道(末级)：171 x 313 km，41.47° LEO(近地轨道)[66]
 结果：成功
+备注：梦天实验舱于北京时间次日4时27分对接天和核心舱[67]
 
 1. 关于载荷质量
 1.1 货运飞船仅将货物质量计入载荷质量，模拟载荷与有效载荷一起搭载时仅计入有效载荷质量。若仅搭载货运飞船或模拟载荷，将其整体质量计入载荷质量。
@@ -334,7 +334,9 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 音乐来源
 [1] Stevia Sphere. A Sphere Made of Stevia. https://steviasphere.bandcamp.com/track/a-sphere-made-of-stevia
 [2] Punch Deck. Music To Wear Fingerless Gloves To. https://punchdeck.bandcamp.com/track/music-to-wear-fingerless-gloves-to
-[3] 
+[3] Aries Beats. Heavy Synthwave Party. https://youtu.be/xjFCdvEwD_U
+[4] Selecta Character. Bewitching Witch. https://lmnlrecords.com/track/bewitching-witch
+[5] Nihilore. Symbols In The Shape Of A Word. https://youtu.be/k7A_O6MTyrI
 
 数据来源
 [1] Wikipedia. List of spaceflight launches in July–December 2022. https://en.wikipedia.org/wiki/List_of_spaceflight_launches_in_July%E2%80%93December_2022
@@ -403,6 +405,7 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [64] 二次元的中科院物理所. 中国空间站梦天实验舱发射全程完整回顾. https://www.bilibili.com/video/BV1FV4y1V7WM/
 [65] 航天科技一院. 长征五号B火箭成功发射梦天实验舱. https://mp.weixin.qq.com/s/V-GU9p8HA0TRDZf6tBZ2qQ
 [66] Space-Track.Org. NORAD ID 54217 epoch 2022-10-31T13:01:40.143936. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/54217/orderby/EPOCH%20asc/limit/1/format/json
+[67] Wikipedia. Mengtian module. https://en.wikipedia.org/wiki/Mengtian_module
 
 视频素材来源
 [1] Everyday Astronaut. Watch Firefly Launch Their Alpha Rocket To Orbit For The First Time!. http://youtu.be/BntCkCRc55c
@@ -431,7 +434,7 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [24] Роскосмос. Трансляция пуска ракеты-носителя «Союз 2.1б» с космодрома Восточный. https://vk.com/video-30315369_456243348
 [25] Роскосмос. Трансляция запуска грузового корабля «Прогресс МС-21» с космодрома Байконур. https://vk.com/video-30315369_456243367
 [26] SpaceX. Starlink Mission. https://youtu.be/iYtH2khNIgU
-[27] SciNews. Long March-2D launches Shiyan-20C. https://youtu.be/h6G_wwzWzyM
+[27] 中国航天报. 长二丁火箭发射试验二十号C卫星圆满成功. https://mp.weixin.qq.com/s/TpVgpKEKBQkHc_5hShAy3w
 [28] 二次元的中科院物理所. 中国空间站梦天实验舱发射全程完整回顾. https://www.bilibili.com/video/BV1FV4y1V7WM/
 
 封面来源
