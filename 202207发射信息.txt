@@ -70,9 +70,9 @@ NASA的ELaNa 39任务2颗[1]
 发射提供方：航天科技一院
 载荷研制方：航天科技五院
 载荷信息：天链二号03星(宽带通信卫星)[21]
-载荷质量：5.5吨[21]
+载荷质量：5.5吨[22]
 载具：长征三号乙改三遥85[1]
-轨道：188 x 35829 km，27.16° GTO(地球同步转移轨道)[22]
+轨道：188 x 35829 km，27.16° GTO(地球同步转移轨道)[23]
 结果：成功
 备注：我国第二代GEO中继卫星系统正式建成[21]
 
@@ -84,7 +84,7 @@ NASA的ELaNa 39任务2颗[1]
 发射提供方：火箭实验室
 载荷运营方：美国国家侦察局(NRO)
 载荷信息：RASR-3(NROL-162)[1]
-载荷质量：0.3吨[23]
+载荷质量：0.3吨[24]
 载具：电子火箭
 轨道：400 km x 400 km LEO(近地轨道)(估计)
 结果：成功
@@ -96,12 +96,12 @@ NASA的ELaNa 39任务2颗[1]
 飞行编号：VV21
 发射提供方：阿丽亚娜空间[1]
 主载荷信息：意大利航天局(ASI)的LARES 2 (激光测距卫星)
-质量0.3868吨[24]
-搭车载荷信息：5个运营方的6个载荷，质量0.01631吨[25][26][27][28][29][30][31]
+质量0.3868吨[25]
+搭车载荷信息：5个运营方的6个载荷，质量0.01631吨[26][27][28][29][30][31][32]
 载荷质量：0.3868吨；0.01631吨
 载具：织女星-C[20]
-轨道：5882 x 5897 km，70.13° MEO(中地球轨道)[32]；
-5826 x 5867 km，70.12° MEO[33]
+轨道：5882 x 5897 km，70.13° MEO(中地球轨道)[33]；
+5826 x 5867 km，70.12° MEO[34]
 结果：成功
 备注：织女星-C首飞[1]
 
@@ -112,23 +112,23 @@ NASA的ELaNa 39任务2颗[1]
 任务名：CRS-25
 发射提供方：SpaceX
 载荷运营方：NASA
-载荷信息：C208.2龙2货运飞船载货2.668吨[34][35]
-载具：猎鹰9号Block 5(B1067.5)[34]
-轨道：193 x 208 km，51.65° LEO(近地轨道)[36]
+载荷信息：C208.2龙2货运飞船载货2.668吨[35][36]
+载具：猎鹰9号Block 5(B1067.5)[35]
+轨道：193 x 208 km，51.65° LEO(近地轨道)[37]
 结果(发射与回收)：成功
-回收船：ASOG(A Shortfall of Gravitas)[37]
+回收船：ASOG(A Shortfall of Gravitas)[38]
 
 编号：2022-082
 火箭制造方：中国
-时间：2022-07-16 06:57:16(UTC+8)[38]
+时间：2022-07-16 06:57:16(UTC+8)[39]
 位置：太原卫星发射中心9号工位[1]
 发射提供方：航天科技一院
 载荷研制方：航天科技五院
 载荷运营方：中国四维
-载荷信息：四维高景二号01，02卫星(光学遥感卫星)[39] 
-载荷质量：1.08吨[40]
+载荷信息：四维高景二号01，02卫星(光学遥感卫星)[40] 
+载荷质量：1.08吨[41]
 载具：长征二号丙[1]
-轨道：485 x 500 km，97.38° SSO(太阳同步轨道)[41]
+轨道：485 x 500 km，97.38° SSO(太阳同步轨道)[42]
 结果：成功
 
 编号：2022-083
@@ -138,10 +138,10 @@ NASA的ELaNa 39任务2颗[1]
 组名：Starlink Group 4-22(G4-22)
 发射与载荷：SpaceX
 载荷信息：53颗星链卫星(宽带通信卫星)共约15.9吨
-载具：猎鹰9号Block 5(B1051.13)[42]
-轨道：232 x 338 km，53.22° LEO(近地轨道)[43]
+载具：猎鹰9号Block 5(B1051.13)[43]
+轨道：232 x 338 km，53.22° LEO(近地轨道)[44]
 结果(发射与回收)：成功
-回收船：JRTI(Just Read the Instructions)[42]
+回收船：JRTI(Just Read the Instructions)[43]
 
 编号：2022-084
 火箭制造方：美国
@@ -150,22 +150,22 @@ NASA的ELaNa 39任务2颗[1]
 组名：Starlink Group 3-2(G3-2)
 发射与载荷：SpaceX
 载荷信息：46颗星链卫星(宽带通信卫星)共约13.8吨
-载具：猎鹰9号Block 5(B1071.4)[44]
-轨道：308 x 321 km，97.66° SSO(太阳同步轨道)[45]
+载具：猎鹰9号Block 5(B1071.4)[45]
+轨道：308 x 321 km，97.66° SSO(太阳同步轨道)[46]
 结果(发射与回收)：成功
-回收船：OCISLY(Of Course I Still Love You)[44]
+回收船：OCISLY(Of Course I Still Love You)[45]
 
 编号：2022-085
 火箭制造方：中国
-时间：2022-07-24 14:22:32.057(UTC+8)[46]
+时间：2022-07-24 14:22:32.057(UTC+8)[47]
 位置：文昌航天发射场1号工位(LC-101)
 任务代号：TG/WT
 发射提供方：航天科技一院
 载荷运营方：国家航天局
 载荷信息：问天实验舱(空间站)[1]
-载荷质量：23吨[47]
+载荷质量：23吨[48]
 载具：长征五号乙遥三[1]
-轨道：169.9884 x 330.6997 km，41.4799° LEO(近地轨道)[46]
+轨道：169.9884 x 330.6997 km，41.4799° LEO(近地轨道)[47]
 结果：成功
 
 编号：2022-086
@@ -175,10 +175,10 @@ NASA的ELaNa 39任务2颗[1]
 组名：Starlink Group 4-25(G4-25)
 发射与载荷：SpaceX
 载荷信息：53颗星链卫星(宽带通信卫星)共约15.9吨
-载具：猎鹰9号Block 5(B1062.8)[48]
-轨道：232 x 338 km，53.22° LEO(近地轨道)[49]
+载具：猎鹰9号Block 5(B1062.8)[49]
+轨道：232 x 338 km，53.22° LEO(近地轨道)[50]
 结果(发射与回收)：成功
-回收船：ASOG(A Shortfall of Gravitas)[48]
+回收船：ASOG(A Shortfall of Gravitas)[49]
 
 编号：2022-087
 火箭制造方：中国
@@ -186,21 +186,21 @@ NASA的ELaNa 39任务2颗[1]
 位置：酒泉卫星发射中心
 发射提供方：中科院力学研究所
 载荷信息：6个载荷
-载荷质量：1.5吨[50]
+载荷质量：1.5吨[51]
 载具：力箭一号遥一[1]
-轨道：494 x 511 km，97.41° SSO(太阳同步轨道)[51]
+轨道：494 x 511 km，97.41° SSO(太阳同步轨道)[52]
 结果：成功
 
 编号：2022-088
 火箭制造方：中国
 时间：2022-07-29 21:28:44(UTC+8)
-任务代号：07-144[52]
+任务代号：07-144[53]
 位置：西昌卫星发射中心3号工位
 发射提供方：航天科技八院
 载荷研制方：航天科技五院 / 八院
-载荷信息：遥感三十五号03组三颗卫星(地球观测卫星)[53]
-载荷质量：3.5吨[54]
-载具：长征二号丁遥65[53]
+载荷信息：遥感三十五号03组三颗卫星(地球观测卫星)[54]
+载荷质量：3.5吨[22]
+载具：长征二号丁遥65[54]
 轨道：461 x 515 km，35.00° LEO(近地轨道)[55]
 结果：成功
 
@@ -264,39 +264,39 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [19] NASASpaceflight. SpaceX F9 : Starlink group 3-1 : Vandenberg : 11 July 2022 (01:39 UTC). https://forum.nasaspaceflight.com/index.php?topic=56402.0
 [20] T.S. Kelso. ephemeris-based SupGP data for all 46 #Starlink Group 3-1 satellites. https://twitter.com/TSKelso/status/1546702882912624642
 [21] 中国航天报. 长三乙成功发射天链二号03星. https://mp.weixin.qq.com/s/r77-yRrl32k-ip2Kolovcw
-[22] Space-Track.Org. NORAD ID 53100 epoch 2022-07-12T19:52:26.021280. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/53100/orderby/EPOCH%20asc/limit/1/format/json
-[23] Wikipedia. Rocket Lab Electron. https://en.wikipedia.org/wiki/Rocket_Lab_Electron
-[24] Wikipedia. LARES (satellite). https://en.wikipedia.org/wiki/LARES_(satellite)
-[25] NASA. CubeSats Overview. https://www.nasa.gov/mission_pages/cubesats/overview
-[26] Gunter's Space Page. ALPHA. https://space.skyrocket.de/doc_sdat/alpha_arca.htm
-[27] Gunter's Space Page. Astrobio Cubesat (ABCS). https://space.skyrocket.de/doc_sdat/abcs.htm
-[28] Gunter's Space Page. CELESTA (ROBUSTA 1D). https://space.skyrocket.de/doc_sdat/celesta.htm
-[29] Gunter's Space Page. GreenCube. https://space.skyrocket.de/doc_sdat/greencube.htm
-[30] Gunter's Space Page. MTCube 1, 2 (ROBUSTA 1C, 1F). https://space.skyrocket.de/doc_sdat/mtcube.htm
-[31] Gunter's Space Page. TRISAT R. https://space.skyrocket.de/doc_sdat/trisat-r.htm
-[32] Space-Track.Org. NORAD ID 53105 epoch 2022-07-15T02:33:12.821760. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/53105/orderby/EPOCH%20asc/limit/1/format/json
-[33] Space-Track.Org. NORAD ID 53107 epoch 2022-07-15T07:34:58.543968. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/53107/orderby/EPOCH%20asc/limit/1/format/json
-[34] NASA. SpaceX CRS-25. https://en.wikipedia.org/wiki/SpaceX_CRS-25
-[35] NASA. SpaceX CRS-25 Mission Overview. https://www.nasa.gov/sites/default/files/atoms/files/spacex_crs-25_mission_overview_links.pdf
-[36] Space-Track.Org. NORAD ID 53113 epoch 2022-07-15T01:07:45.236640. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/53113/orderby/EPOCH%20asc/limit/1/format/json
-[37] NASASpaceflight. SpaceX F9/Dragon 2 : CRS2 SpX-25 : KSC LC-39A : 15 July 2022 (00:44 UTC). https://forum.nasaspaceflight.com/index.php?topic=53740.0
-[38] 航天世景. 四维高景二号 01、02星发射成功. https://mp.weixin.qq.com/s/j66c5KKBJArsmIRfIhjylg
-[39] 中国航天报. 商业遥感，一箭双星！长二丙成功发射四维星. https://mp.weixin.qq.com/s/1axQoU0KNGnlMKwJBJs04g
-[40] 中国航天报. 金牌老将长二丙火箭成功发射四维01/02卫星. https://mp.weixin.qq.com/s/IQwpE4vimZ9Z9yP47V86wA
-[41] Space-Track.Org. NORAD ID 53128 epoch 2022-07-16T10:07:12.976608. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/53128/orderby/EPOCH%20asc/limit/1/format/json
-[42] NASASpaceflight. SpaceX F9 : Starlink group 4-22 : CCSFS SLC-40 : 17 July 2022 (14:20 UTC). https://forum.nasaspaceflight.com/index.php?topic=56406.0
-[43] CelesTrak. Starlink G4-22 Pre-Launch. https://celestrak.org/NORAD/elements/supplemental/table.php?FILE=starlink-g4-22&FORMAT=tle
-[44] NASASpaceflight. SpaceX F9 : Starlink group 3-2 : Vandenberg : 22 July 2022 (17:39 UTC). https://forum.nasaspaceflight.com/index.php?topic=56404.0
-[45] CelesTrak. Starlink G3-2 Pre-Launch. https://celestrak.org/NORAD/elements/supplemental/table.php?FILE=starlink-g3-2&FORMAT=tle
-[46] NASASpaceflight. Declaration of successful launch. https://forum.nasaspaceflight.com/index.php?topic=54817.msg2389316#msg2389316
-[47] Wikipedia. Wentian module. https://en.wikipedia.org/wiki/Wentian_module
-[48] NASASpaceflight. SpaceX F9 : Starlink group 4-25 : KSC LC-39A : 24 July 2022 (13:38 UTC). https://forum.nasaspaceflight.com/index.php?topic=56391.0
-[49] CelesTrak. Starlink G4-25 Pre-Launch. https://celestrak.org/NORAD/elements/supplemental/table.php?FILE=starlink-g4-25&FORMAT=tle
-[50] 力学研究所. 我国迄今运载能力最大的固体运载火箭“力箭一号”首飞成功. http://www.imech.ac.cn/xwdt/tpxw/202207/t20220727_6494295.html
-[51] Space-Track.Org. NORAD ID 53299 epoch 2022-07-27T07:11:53.808576. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/53299/orderby/EPOCH%20asc/limit/1/format/json
-[52] Asumoyz苏沫玖. 热烈祝贺07—144发射任务🇨🇳圆满成功. https://t.bilibili.com/688518781235888153
-[53] 上海航天. 长二丁成功发射遥感三十五号03组卫星. https://mp.weixin.qq.com/s/7ZRYOpdE2We4o5IOL6D62g
-[54] Space Launch Report. Long March Data Sheet. https://web.archive.org/web/20220411235210/http://www.spacelaunchreport.com/cz.html
+[22] Space Launch Report. Long March Data Sheet. https://web.archive.org/web/20220411235210/http://www.spacelaunchreport.com/cz.html
+[23] Space-Track.Org. NORAD ID 53100 epoch 2022-07-12T19:52:26.021280. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/53100/orderby/EPOCH%20asc/limit/1/format/json
+[24] Wikipedia. Rocket Lab Electron. https://en.wikipedia.org/wiki/Rocket_Lab_Electron
+[25] Wikipedia. LARES (satellite). https://en.wikipedia.org/wiki/LARES_(satellite)
+[26] NASA. CubeSats Overview. https://www.nasa.gov/mission_pages/cubesats/overview
+[27] Gunter's Space Page. ALPHA. https://space.skyrocket.de/doc_sdat/alpha_arca.htm
+[28] Gunter's Space Page. Astrobio Cubesat (ABCS). https://space.skyrocket.de/doc_sdat/abcs.htm
+[29] Gunter's Space Page. CELESTA (ROBUSTA 1D). https://space.skyrocket.de/doc_sdat/celesta.htm
+[30] Gunter's Space Page. GreenCube. https://space.skyrocket.de/doc_sdat/greencube.htm
+[31] Gunter's Space Page. MTCube 1, 2 (ROBUSTA 1C, 1F). https://space.skyrocket.de/doc_sdat/mtcube.htm
+[32] Gunter's Space Page. TRISAT R. https://space.skyrocket.de/doc_sdat/trisat-r.htm
+[33] Space-Track.Org. NORAD ID 53105 epoch 2022-07-15T02:33:12.821760. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/53105/orderby/EPOCH%20asc/limit/1/format/json
+[34] Space-Track.Org. NORAD ID 53107 epoch 2022-07-15T07:34:58.543968. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/53107/orderby/EPOCH%20asc/limit/1/format/json
+[35] NASA. SpaceX CRS-25. https://en.wikipedia.org/wiki/SpaceX_CRS-25
+[36] NASA. SpaceX CRS-25 Mission Overview. https://www.nasa.gov/sites/default/files/atoms/files/spacex_crs-25_mission_overview_links.pdf
+[37] Space-Track.Org. NORAD ID 53113 epoch 2022-07-15T01:07:45.236640. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/53113/orderby/EPOCH%20asc/limit/1/format/json
+[38] NASASpaceflight. SpaceX F9/Dragon 2 : CRS2 SpX-25 : KSC LC-39A : 15 July 2022 (00:44 UTC). https://forum.nasaspaceflight.com/index.php?topic=53740.0
+[39] 航天世景. 四维高景二号 01、02星发射成功. https://mp.weixin.qq.com/s/j66c5KKBJArsmIRfIhjylg
+[40] 中国航天报. 商业遥感，一箭双星！长二丙成功发射四维星. https://mp.weixin.qq.com/s/1axQoU0KNGnlMKwJBJs04g
+[41] 中国航天报. 金牌老将长二丙火箭成功发射四维01/02卫星. https://mp.weixin.qq.com/s/IQwpE4vimZ9Z9yP47V86wA
+[42] Space-Track.Org. NORAD ID 53128 epoch 2022-07-16T10:07:12.976608. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/53128/orderby/EPOCH%20asc/limit/1/format/json
+[43] NASASpaceflight. SpaceX F9 : Starlink group 4-22 : CCSFS SLC-40 : 17 July 2022 (14:20 UTC). https://forum.nasaspaceflight.com/index.php?topic=56406.0
+[44] CelesTrak. Starlink G4-22 Pre-Launch. https://celestrak.org/NORAD/elements/supplemental/table.php?FILE=starlink-g4-22&FORMAT=tle
+[45] NASASpaceflight. SpaceX F9 : Starlink group 3-2 : Vandenberg : 22 July 2022 (17:39 UTC). https://forum.nasaspaceflight.com/index.php?topic=56404.0
+[46] CelesTrak. Starlink G3-2 Pre-Launch. https://celestrak.org/NORAD/elements/supplemental/table.php?FILE=starlink-g3-2&FORMAT=tle
+[47] NASASpaceflight. Declaration of successful launch. https://forum.nasaspaceflight.com/index.php?topic=54817.msg2389316#msg2389316
+[48] Wikipedia. Wentian module. https://en.wikipedia.org/wiki/Wentian_module
+[49] NASASpaceflight. SpaceX F9 : Starlink group 4-25 : KSC LC-39A : 24 July 2022 (13:38 UTC). https://forum.nasaspaceflight.com/index.php?topic=56391.0
+[50] CelesTrak. Starlink G4-25 Pre-Launch. https://celestrak.org/NORAD/elements/supplemental/table.php?FILE=starlink-g4-25&FORMAT=tle
+[51] 力学研究所. 我国迄今运载能力最大的固体运载火箭“力箭一号”首飞成功. http://www.imech.ac.cn/xwdt/tpxw/202207/t20220727_6494295.html
+[52] Space-Track.Org. NORAD ID 53299 epoch 2022-07-27T07:11:53.808576. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/53299/orderby/EPOCH%20asc/limit/1/format/json
+[53] Asumoyz苏沫玖. 热烈祝贺07—144发射任务🇨🇳圆满成功. https://t.bilibili.com/688518781235888153
+[54] 上海航天. 长二丁成功发射遥感三十五号03组卫星. https://mp.weixin.qq.com/s/7ZRYOpdE2We4o5IOL6D62g
 [55] Space-Track.Org. NORAD ID 53316 epoch 2022-07-29T17:44:15.694656. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/53316/orderby/EPOCH%20asc/limit/1/format/json
 
 视频素材来源
