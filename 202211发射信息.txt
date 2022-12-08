@@ -46,7 +46,7 @@ LDPE 2，Tetra 1搭车载荷
 位置：火箭实验室LC-1B(新西兰玛希亚)
 任务名：Catch Me If You Can(来抓我试试)
 发射提供方：火箭实验室
-载荷运营方：瑞典国立宇宙委员会(SNSA)[1]
+载荷运营方：瑞典国家航天局(SNSA)[1]
 载荷信息：MATS(大气科学卫星)
 载荷质量：0.05吨[10]
 载具：电子火箭
@@ -60,7 +60,7 @@ LDPE 2，Tetra 1搭车载荷
 任务代号：07-152
 发射提供方：航天科技一院
 载荷研制方：航天科技五院
-载荷信息：中星19号卫星(宽带通信卫星)[12]
+载荷信息：中星19号(宽带通信卫星)[12]
 载荷质量：5.5吨[13]
 载具：长征三号乙改三遥91[1]
 轨道：220 x 35787 km，28.38° GTO(地球同步转移轨道)[14]
@@ -92,8 +92,8 @@ LDPE 2，Tetra 1搭车载荷
 轨道：801 x 820 km，98.70° SSO(太阳同步轨道)；-29 x 652 km，98.01° 亚轨道[19]
 载具：宇宙神五401
 结果：成功
-备注：首次近地轨道充气热护盾再入测试成功[20]，
-再入速度约7.97km/s(使用瞬时轨道速度公式[21]，
+备注：首次近地轨道充气热护盾再入测试成功[18]，
+再入速度约7.97km/s(使用瞬时轨道速度公式[20]，
 取上述轨道数据，再入高度100km计算得出)
 
 编号：2022-151
@@ -101,23 +101,24 @@ LDPE 2，Tetra 1搭车载荷
 时间：2022-11-12 06:52(UTC+8)
 位置：太原卫星发射中心9A工位
 发射与载荷：航天科技八院
-载荷信息：云海三号卫星(地球观测卫星)
-载荷质量：4吨[22][23]
-载具：长征六号甲遥二[22]
-轨道：840 x 856 km，98.82° SSO(太阳同步轨道)[23]
+载荷信息：云海三号(地球观测卫星)
+载荷质量：4吨[21][22]
+载具：长征六号甲遥二[21]
+轨道：840 x 856 km，98.82° SSO(太阳同步轨道)[22]
 结果：成功
 
 编号：2022-152
 火箭制造方：中国
 时间：2022-11-12 10:03:12.374(UTC+8)
 位置：文昌航天发射场2号工位(LC-201)
-任务代号：TGHY4/TZ-5
-发射提供方：航天科技
-载荷运营方：国家航天局[1][24]
+任务代号：TGHY4/TZ-5[1][23]
+发射提供方：航天科技一院
+载荷运营方：国家航天局
 载荷信息：天舟五号货运飞船
 载货5吨，推进剂1.4吨[25]
+载荷质量：6.4吨
 载具：长征七号遥六[1]
-轨道：200 x 240 km，41.57° LEO(近地轨道)[24]
+轨道：200 x 240 km，41.57° LEO(近地轨道)[23]
 结果：成功
 备注：与核心舱对接采用了2小时快速对接模式，
 于UTC+8时间同日12时10分完成对接[26]
@@ -128,10 +129,10 @@ LDPE 2，Tetra 1搭车载荷
 位置：卡角太空军基地SLC-40
 发射提供方：SpaceX
 载荷运营方：Intelsat
-载荷信息：银河31，32(宽带通信卫星)[1][27]
-载荷质量：7吨[28]
-载具：猎鹰9号Block 5(B1051.14)
-轨道：283 x 58433 km，24.20° SSTO(超地球同步转移轨道)[29]
+载荷信息：银河31，32(宽带通信卫星)
+载荷质量：6.6吨
+载具：猎鹰9号Block 5(B1051.14)[1][27]
+轨道：283 x 58433 km，24.20° SSTO(超地球同步转移轨道)[28]
 结果：成功
 备注：为了满足客户要求的运力，一级火箭不进行回收[27]
 
@@ -140,10 +141,10 @@ LDPE 2，Tetra 1搭车载荷
 时间：2022-11-15 09:38(UTC+8)
 位置：酒泉卫星发射中心9401工位
 发射与载荷：航天科技八院
-载荷信息：遥感三十三号03星(地球观测卫星)[30]
+载荷信息：遥感三十四号03星(地球观测卫星)[29]
 载荷质量：2.8吨[13]
-载具：长征四号丙遥48[30]
-轨道：1092 x 1097 km，63.41° LEO(近地轨道)[31]
+载具：长征四号丙遥48[29]
+轨道：1092 x 1097 km，63.41° LEO(近地轨道)[30]
 结果：成功
 
 编号：2022-155
@@ -154,10 +155,10 @@ LDPE 2，Tetra 1搭车载荷
 发射提供方：星河动力航天
 载荷运营方：长光卫星
 载荷信息：“吉林一号”高分03D08星，
-高分03D51-54星，共5颗星，均为地球观测卫星[32][33]
-载荷质量：0.3吨[34]
-载具：谷神星一号遥四[32]
-轨道：529 x 547 km，97.54° SSO(太阳同步轨道)[35]
+高分03D51-54星，共5颗星，均为地球观测卫星[31][32]
+载荷质量：0.3吨[33]
+载具：谷神星一号遥四[31]
+轨道：529 x 547 km，97.54° SSO(太阳同步轨道)[34]
 结果：成功
 
 编号：2022-156
@@ -166,13 +167,106 @@ LDPE 2，Tetra 1搭车载荷
 位置：肯尼迪航天中心LC-39B
 任务名：阿尔忒弥斯1号
 发射提供方：NASA
-主载荷信息：NASA的猎户座飞船(载人飞船)，质量约26.52吨
-搭车载荷信息：6个运营方的10个立方星，质量共约0.1368吨[1][36]
+主载荷信息：NASA的猎户座载人飞船，质量约26.52吨
+搭车载荷信息：6个运营方的10个立方星，质量共约0.1368吨[1][35]
 载荷质量：26.6568吨
 载具：SLS Block 1[1]
-轨道：516 x 377157 km，8.5° LTO(地月转移轨道)[37]
+轨道：516 x 377157 km，8.5° LTO(地月转移轨道)[36]
 结果：成功
-备注：猎户座载人飞船首次无人绕月任务[36]
+备注：猎户座载人飞船首次无人绕月任务[35]
+
+编号：2022-157
+火箭制造方：美国
+时间：2022-11-23 02:57(UTC)
+位置：卡角太空军基地SLC-40
+发射提供方：SpaceX
+载荷运营方：欧洲卫通
+载荷信息：欧洲卫通10B(宽带通信卫星)[1]
+载荷质量：5.5吨
+载具：猎鹰9号Block 5(B1049.11)[37]
+轨道：261 x 59831 km，27.76° SSTO(超地球同步转移轨道)[38]
+结果：成功
+备注：为了满足客户要求的运力，一级火箭不进行回收[37]
+
+编号：2022-158
+火箭制造方：印度
+时间：2022-11-26 06:26(UTC)
+位置：萨迪什·达万航天中心1号工位
+飞行编号：C54
+发射提供方：ISRO
+主载荷信息：ISRO的EOS-06(海洋监测卫星)质量1.117吨
+搭车载荷信息：5个运营方8个载荷，质量0.05416吨
+载荷质量：1.17116吨
+载具：PSLV-XL[1][39]
+轨道：712 x 746 km, 98.34° SSO(太阳同步轨道)[40]
+结果：成功
+
+编号：2022-159
+火箭制造方：美国
+时间：2022-11-26 19:20:43(UTC)
+位置：肯尼迪航天中心LC-39A
+任务名：CRS-26
+发射提供方：SpaceX
+载荷运营方：NASA
+载荷信息：C211.1龙2货运飞船载货3.528吨[41][42][43]
+载具：猎鹰9号Block 5(B1076.1)[41]
+轨道：210 x 240 km，51.64° LEO(近地轨道)[44]
+结果(发射与回收)：成功
+回收船：JRTI(Just Read the Instructions)[45]
+
+编号：2022-160
+火箭制造方：中国
+时间：2022-11-27 20:23(UTC+8)
+位置：西昌卫星发射中心3号工位[1]
+发射提供方：航天科技八院
+载荷研制方：航天科技五院 / 八院
+载荷信息：遥感三十六号03组3颗卫星(地球观测卫星)[1][46]
+载荷质量：2吨[13]
+载具：长征二号丁遥89[46]
+轨道：489 x 501 km，34.99° LEO(近地轨道)[47]
+结果：成功
+
+编号：2021-161
+火箭制造方：俄罗斯
+时间：2022-11-28 15:13:50(UTC)
+位置：普列谢茨克43/3号工位
+发射提供方：俄罗斯战略导弹部队
+载荷运营方：俄罗斯空天军
+载荷信息：格洛纳斯-M 761[1]
+载荷质量：1.415吨[48]
+载具：联盟2.1b / 军舰鸟上面级[1]
+轨道：19129 x 19153 km，64.78° MEO(中地球轨道)[49]
+结果：成功
+
+编号：2022-162
+火箭制造方：中国
+时间：2022-11-29 23:08:17.457(UTC+8)
+位置：酒泉卫星发射中心921工位
+任务代号：TGZR4/SZ-15
+发射提供方：航天科技一院
+载荷运营方：国家航天局
+载荷信息：神舟十四号载人飞船约8吨
+载具：长征二号F改进型遥15(CZ-2F/G Y15)
+轨道：200.004 x 361.856km，41.349° LEO(近地轨道)[1][50][51]
+结果：成功
+备注：使用6小时快速对接模式，
+于北京时间次日5点42分完成对接，并在轨6个月；
+搭载我国航天员，本次任务指令长费俊龙
+(首批航天员，第二次进入太空)，
+邓清明(首批航天员，首次进入太空)，
+张陆(第二批航天员，首次进入太空)[52]
+
+编号：2022-163
+火箭制造方：俄罗斯
+时间：2022-11-30 21:10(UTC)
+位置：普列谢茨克43/4号工位
+发射提供方：俄罗斯战略导弹部队
+载荷运营方：俄罗斯国防部
+载荷信息：莲花-S1六号星(信号情报卫星)[1]
+载荷质量：6吨[53]
+载具：联盟-2.1b[1]
+轨道：239 x 900 km，67.14° LEO(近地轨道)[54]
+结果：成功
 
 1. 关于载荷质量
 1.1 货运飞船仅将货物质量计入载荷质量，模拟载荷与有效载荷一起搭载时仅计入有效载荷质量。若仅搭载货运飞船或模拟载荷，将其整体质量计入载荷质量。
@@ -232,41 +326,77 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [17] Wikipedia. JPSS-2. https://en.wikipedia.org/wiki/JPSS-2
 [18] Wikipedia. Low-Earth Orbit Flight Test of an Inflatable Decelerator. https://en.wikipedia.org/wiki/Low-Earth_Orbit_Flight_Test_of_an_Inflatable_Decelerator
 [19] NASA. Launch of JPSS-2 Weather Satellite & LOFTID Mars Tech Demo (Official NASA Broadcast). https://youtu.be/7eSn9_v9Q_8?t=5538
-[20] Wikipedia. Low-Earth Orbit Flight Test of an Inflatable Decelerator. https://en.wikipedia.org/wiki/Low-Earth_Orbit_Flight_Test_of_an_Inflatable_Decelerator
-[21] Wikipedia. Instantaneous orbital speed. https://en.wikipedia.org/wiki/Orbital_speed#Instantaneous_orbital_speed
-[22] 上海航天. 长征六号甲火箭成功发射云海三号卫星. https://mp.weixin.qq.com/s/030-TfBWO3De94UeiIJuuQ
-[23] Space-Track.Org. NORAD ID 54235 epoch 2022-11-12T02:06:59.010336. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/54235/orderby/EPOCH%20asc/limit/1/format/json
-[24] 二次元的中科院物理所. 天舟五号货运飞船发射全程完整回顾. https://www.bilibili.com/video/BV1Wg411s7QW/
+[20] Wikipedia. Instantaneous orbital speed. https://en.wikipedia.org/wiki/Orbital_speed#Instantaneous_orbital_speed
+[21] 上海航天. 长征六号甲火箭成功发射云海三号卫星. https://mp.weixin.qq.com/s/030-TfBWO3De94UeiIJuuQ
+[22] Space-Track.Org. NORAD ID 54235 epoch 2022-11-12T02:06:59.010336. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/54235/orderby/EPOCH%20asc/limit/1/format/json
+[23] 二次元的中科院物理所. 天舟五号货运飞船发射全程完整回顾. https://www.bilibili.com/video/BV1Wg411s7QW/
+[24] 航天科技一院. 圆满成功！长七火箭发射天舟五号货运飞船！. https://mp.weixin.qq.com/s/xHR9zpkaH3REcDKOyTy-rA
 [25] 中国空间技术研究院. 天舟五号货运飞船发射成功！创世界最快交会对接纪录. https://mp.weixin.qq.com/s/-KVT25OA37CdpNbWRFdevg
 [26] Wikipedia. Tianzhou 5. https://en.wikipedia.org/wiki/Tianzhou_5
 [27] Spaceflight Now. SpaceX launches Falcon 9 booster into retirement on Intelsat mission. https://spaceflightnow.com/2022/11/12/falcon-9-galaxy-31-32-live-coverage/
-[28] Everyday Astronaut. Galaxy 31 & 32 | Falcon 9 Block 5. https://everydayastronaut.com/galaxy-31-32-falcon-9-block-5/
-[29] Space-Track.Org. NORAD ID 54243 epoch 2022-11-12T20:21:27.990432. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/54243/orderby/EPOCH%20asc/limit/1/format/json
-[30] 上海航天. 长四丙火箭成功发射遥感三十四号03星. https://mp.weixin.qq.com/s/evhL6a9vhuW9WBMsFC19zA
-[31] Space-Track.Org. NORAD ID 54249 epoch 2022-11-15T04:46:57.637344. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/54249/orderby/EPOCH%20asc/limit/1/format/json
-[32] 星河动力航天. 四连胜！谷神星一号火箭成功发射5颗高分03D卫星，助力吉林一号星座组网！. https://mp.weixin.qq.com/s/mPc4Ta4bdW8gDD7owyK7Mg
-[33] 长光卫星. 我国成功发射5颗“吉林一号”高分03系列卫星. https://mp.weixin.qq.com/s/e2XI_NNGNh4pmR2jlJyp7A
-[34] 星河动力. 谷神星一号. http://www.galactic-energy.cn/index.php/List/cid/1
-[35] Space-Track.Org. NORAD ID 54251 epoch 2022-11-16T11:07:23.973024. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/54251/orderby/EPOCH%20asc/limit/1/format/json
-[36] Wikipedia. Orion (spacecraft). https://en.wikipedia.org/wiki/Orion_(spacecraft)
-[37] JPL. ARTEMIS I Horizons API A.D. 2022-Nov-16 09:03:00.0000 TDB. https://ssd.jpl.nasa.gov/api/horizons.api?format=text&COMMAND=%27ARTEMIS%20I%27&OBJ_DATA=%27YES%27&MAKE_EPHEM=%27YES%27&EPHEM_TYPE=%27ELEMENTS%27&START_TIME=%272022-11-16%2009:03%27&STOP_TIME=%272022-11-16%2009:04%27
+[28] Space-Track.Org. NORAD ID 54243 epoch 2022-11-12T20:21:27.990432. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/54243/orderby/EPOCH%20asc/limit/1/format/json
+[29] 上海航天. 长四丙火箭成功发射遥感三十四号03星. https://mp.weixin.qq.com/s/evhL6a9vhuW9WBMsFC19zA
+[30] Space-Track.Org. NORAD ID 54249 epoch 2022-11-15T04:46:57.637344. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/54249/orderby/EPOCH%20asc/limit/1/format/json
+[31] 星河动力航天. 四连胜！谷神星一号火箭成功发射5颗高分03D卫星，助力吉林一号星座组网！. https://mp.weixin.qq.com/s/mPc4Ta4bdW8gDD7owyK7Mg
+[32] 长光卫星. 我国成功发射5颗“吉林一号”高分03系列卫星. https://mp.weixin.qq.com/s/e2XI_NNGNh4pmR2jlJyp7A
+[33] 星河动力. 谷神星一号. http://www.galactic-energy.cn/index.php/List/cid/1
+[34] Space-Track.Org. NORAD ID 54251 epoch 2022-11-16T11:07:23.973024. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/54251/orderby/EPOCH%20asc/limit/1/format/json
+[35] Wikipedia. Orion (spacecraft). https://en.wikipedia.org/wiki/Orion_(spacecraft)
+[36] JPL. ARTEMIS I Horizons API A.D. 2022-Nov-16 09:03:00.0000 TDB. https://ssd.jpl.nasa.gov/api/horizons.api?format=text&COMMAND=%27ARTEMIS%20I%27&OBJ_DATA=%27YES%27&MAKE_EPHEM=%27YES%27&EPHEM_TYPE=%27ELEMENTS%27&START_TIME=%272022-11-16%2009:03%27&STOP_TIME=%272022-11-16%2009:04%27
+[37] Spaceflight Now. SpaceX launches Falcon 9 rocket with Eutelsat 10B satellite. https://spaceflightnow.com/2022/11/22/falcon-9-eutelsat-10b-live-coverage/
+[38] Space-Track.Org. NORAD ID 54259 epoch 2022-11-23T05:18:12.220992. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/54259/orderby/EPOCH%20asc/limit/1/format/json
+[39] ISRO. EOS-06. https://www.isro.gov.in/EOS_06.html
+[40] Space-Track.Org. NORAD ID 54361 epoch 2022-11-26T07:38:39.515424. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/54361/orderby/EPOCH%20asc/limit/1/format/json
+[41] Wikipedia. SpaceX CRS-26. https://en.wikipedia.org/wiki/SpaceX_CRS-26
+[42] Wikipedia. Cargo Dragon C211. https://en.wikipedia.org/wiki/Cargo_Dragon_C211
+[43] NASA. CRS-26 Mission Overview. https://www.nasa.gov/sites/default/files/atoms/files/spacex_crs26_mission_overview.pdf
+[44] Space-Track.Org. NORAD ID 54371 epoch 2022-11-26T21:14:11.562720. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/54371/orderby/EPOCH%20asc/limit/1/format/json
+[45] NASASpaceflight. SpaceX F9/Dragon 2 : CRS2 SpX-26 : KSC LC-39A : 26 November 2022 (19:20 UTC). https://forum.nasaspaceflight.com/index.php?topic=56660.0
+[46] 上海航天. 长二丁火箭成功发射遥感三十六号卫星. https://mp.weixin.qq.com/s/0yuDyty2KbQo-q9dSfiEzQ
+[47] Space-Track.Org. NORAD ID 54372 epoch 2022-11-27T20:13:29.554752. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/54372/orderby/EPOCH%20asc/limit/1/format/json
+[48] Gunter's Space Page. Uragan-M (GLONASS-M, 14F113). https://space.skyrocket.de/doc_sdat/uragan-m.htm
+[49] Space-Track.Org. NORAD ID 54377 epoch 2022-11-28T20:47:24.772416. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/54377/orderby/EPOCH%20asc/limit/1/format/json
+[50] 二次元的中科院物理所. 【1080P高清】神舟十五号发射全程完整回顾. https://www.bilibili.com/video/BV1V8411j7bE/
+[51] Wikipedia. Shenzhou (spacecraft). https://en.wikipedia.org/wiki/Shenzhou_(spacecraft)
+[52] 中国载人航天. 神舟十五号航天员乘组简介来了. https://mp.weixin.qq.com/s/hiVaUfUUmLp-94-sDa1avA
+[53] Everyday Astronaut. Lotos-S1 #6 | Soyuz 2.1b. https://everydayastronaut.com/lotos-s1-6-soyuz-2-1b-2/
+[54] Space-Track.Org. NORAD ID 54381 epoch 2022-12-01T00:29:49.388064. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/54381/orderby/EPOCH%20asc/limit/1/format/json
 
 视频素材来源
 [1] SpaceX. USSF-44 Mission. https://youtu.be/pY628jRd6gM
 [2] Минобороны России. Пуск ракеты-носителя «Союз-2.1б». https://vk.com/video/@mil?z=video-133441491_456266019
 [3] SpaceX. Eutelsat HOTBIRD 13G Mission. https://youtu.be/McV40hM7aI8
 [4] Rocket Lab. Rocket Lab - Catch Me If You Can Launch. https://youtu.be/PVTwEn9GdsA
-[5] SciNews. Long March-3B launches ChinaSat-19 (ZhongXing-19). https://youtu.be/r-TBheJxeqs
-[6] NASA. Launch of SS Sally Ride Space Station Supply Mission CRS-18 (Official NASA Broadcast). https://youtu.be/l6u90n7sMfI
-[7] United Launch Alliance. Atlas V JPSS-2 / LOFTID Launch Highlights. https://youtu.be/bpFZv7oZtqs
-[8] United Launch Alliance. Atlas V JPSS-2 / LOFTID Rocket Cam. https://youtu.be/04kg4IEkqBw
-[9] NASA. Launch of JPSS-2 Weather Satellite & LOFTID Mars Tech Demo (Official NASA Broadcast). https://youtu.be/7eSn9_v9Q_8
+[5] Peter Beck. Congratulations to OHB Sweden and the Swedish National Space Agency. https://twitter.com/Peter_J_Beck/status/1588613506135646208
+[6] SciNews. Long March-3B launches ChinaSat-19 (ZhongXing-19). https://youtu.be/r-TBheJxeqs
+[7] NASA. Launch of SS Sally Ride Space Station Supply Mission CRS-18 (Official NASA Broadcast). https://youtu.be/l6u90n7sMfI
+[8] United Launch Alliance. Atlas V JPSS-2 / LOFTID Launch Highlights. https://youtu.be/bpFZv7oZtqs
+[9] United Launch Alliance. Atlas V JPSS-2 / LOFTID Rocket Cam. https://youtu.be/04kg4IEkqBw
 [10] SciNews. Long March-6A launches Yunhai-3. https://youtu.be/CVXK64c4Lq8
 [11] 二次元的中科院物理所. 天舟五号货运飞船发射全程完整回顾. https://www.bilibili.com/video/BV1Wg411s7QW/
 [12] SpaceX. Intelsat G-31/G-32 Mission. https://youtu.be/ERmF7WvCXuk
 [13] SciNews. Long March-4C launches Yaogan-34-03. https://youtu.be/DMEdNtKlXwc
 [14] 长光卫星. 我国成功发射5颗“吉林一号”高分03系列卫星. https://mp.weixin.qq.com/s/e2XI_NNGNh4pmR2jlJyp7A
 [15] NASA. Artemis I Launch to the Moon (Official NASA Broadcast) - Nov. 16, 2022. https://youtu.be/CMLD0Lp0JBg
+[16] NASA. Artemis I Launches to the Moon (Official NASA Recap). https://images.nasa.gov/details-Artemis%20I%20Launches%20to%20the%20Moon%20(Official%20NASA%20Recap)
+[17] NASA. Views from Pad OTV Cameras of Launch of NASA's Mega Moon Rocket - SLS - Artemis 1 to the Moon. https://youtu.be/mielYHz-mxg
+[18] NASA. Artemis I Launch. https://images.nasa.gov/details-Artemis%20I%20Launch%202022%20CU%20tracking%20from%20Press%20Site_compressed
+[19] NASA. Top down view of Artemis I launch. https://images.nasa.gov/details-ART-CMA2_2022_320_0637_SHARED_art001m1203200637B
+[20] NASA. SLS Solid Rocket Boosters Separate After Artemis I Launch. https://images.nasa.gov/details-ART-DL-1_2022_320_0650_SHARED_art001m1013200650
+[21] NASA. Exploration Mission-1 Animation Reel. https://images.nasa.gov/details-Exploration%20Mission-1%20Animation%20Reel.html
+[22] NASA. Artemis I Rocket Camera Footage of Ascent. https://images.nasa.gov/details-Artemis%20I%20-%20Rocket%20Camera%20Footage
+[23] NASA. Orion Launch Abort System Jettison. https://images.nasa.gov/details-ART-CAB1_2022_320_0650_SHARED_art001m1203200650
+[24] NASA. Orion_Artemis-I_animation_b-roll_9_2021_FS. https://images.nasa.gov/details-Orion_Artemis-I_b-roll_9_2021_FS
+[25] NASA. Orion Moves Solar Arrays for Perigee Raise Maneuver. https://images.nasa.gov/details-Timelapse__SOLAR_ARRAYS_ISO_Artemis_I_Launch_Rocket_Cam_2-
+[26] NASA. Interim Cryogenic Propulsion Stage Separates from Orion. https://images.nasa.gov/details-ISO_Artemis_I_Launch_Rocket_Cam_RAW_2%20-%20015931;54%20-%20020042;45_1722906
+[27] NASA. Interim Cryogenic Propulsion Stage Separation. https://images.nasa.gov/details-jsc2022m000272_Artemis_I_Orion_ICPS_Separation_Hi-Res
+[28] SpaceX. Eutelsat 10B Mission. https://youtu.be/QCpfvj1eiLs
+[29] ISRO. Launch of PSLV-C54/EOS-06 Mission from Satish Dhawan Space Centre (SDSC) SHAR, Sriharikota. https://youtu.be/hHfDIMb37wM
+[30] SpaceX. CRS-26 Mission. https://youtu.be/1xCrWbJQXgE
+[31] SciNews. Long March-2D launches Yaogan-36 03. https://youtu.be/yT33ykMdfUg
+[32] Минобороны России. Пуск ракеты-носителя среднего класса «Союз-2.1б». https://vk.com/video-133441491_456266430
+[33] 二次元的中科院物理所. 【1080P高清】神舟十五号发射全程完整回顾. https://www.bilibili.com/video/BV1V8411j7bE/
+[34]  Минобороны России. Пуск РН «Союз-2.1б». https://vk.com/video-133441491_456266463
 
 封面来源
 [1] SpaceX. USSF-44 Mission. https://www.flickr.com/photos/spacex/52475499596/
@@ -282,15 +412,26 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [11] 我们的太空. 中国航天·酒泉·长四丙成功发射遥感三十四号03星. https://zhuanlan.zhihu.com/p/583526402
 [12] 我们的太空. 谷神星一号火箭成功发射5颗高分03D卫星. https://zhuanlan.zhihu.com/p/583968455
 [13] NASA/Joel Kowsky. Artemis I Launch (NHQ202211160017). https://www.flickr.com/photos/nasahqphoto/52504616014/
+[14] SpaceX. Eutelsat 10B Mission. https://www.flickr.com/photos/spacex/52519695630/
+[15] ISRO. PSLV-C54/EOS-06 Gallery. https://www.isro.gov.in/mission_PSLV_C54_gallery.html
+[16] SpaceX. CRS 26 Mission. https://www.flickr.com/photos/spacex/52528246973/
+[17] 我们的太空. 我国成功发射遥感三十六号卫星. https://zhuanlan.zhihu.com/p/587195057
+[18] Роскосмос. С космодрома Плесецк выполнен пуск ракеты-носителя «Союз-2.1б». https://www.roscosmos.ru/38554/
+[19] 我们的太空. 神舟十五号载人飞船发射取得圆满成功. https://zhuanlan.zhihu.com/p/587884302
+[20] Роскосмос. С космодрома Плесецк стартовала ракета-носитель «Союз-2.1б». https://www.roscosmos.ru/38561/
 
 徽章来源
 [1] SpaceX. USSF-44. https://www.elonx.net/spacex-mission-patches/#jp-carousel-6662
 [2] SpaceX. Eutelsat Hotbird 13G. https://www.elonx.net/spacex-mission-patches/#jp-carousel-6690
-[3] Wikipedia. Cygnus NG-18. https://en.wikipedia.org/wiki/Cygnus_NG-18
-[4] 上海航天. 长征六号甲火箭成功发射云海三号卫星. https://mp.weixin.qq.com/s/030-TfBWO3De94UeiIJuuQ
-[5] 中国载人航天. 寻梦天宫起征程！空间站建造阶段后续飞行任务标识发布. https://mp.weixin.qq.com/s/LNg0deyISN6VDRLa6eGxBg
-[6] SpaceX. SpaceX Mission Patches. https://www.elonx.net/spacex-mission-patches/#jp-carousel-6714
-[7] 上海航天. 长四丙火箭成功发射遥感三十四号03星. https://mp.weixin.qq.com/s/evhL6a9vhuW9WBMsFC19zA
-[8] 星河动力空间科技. 谷神星一号(遥四)运载火箭出征. https://mp.weixin.qq.com/s/b1Nmhbq_Yj_qQisiOLQeXQ
-[9] NASA. Artemis 1 mission patch. https://www.nasa.gov/feature/artemis-1-identifier
+[3] Rocket Lab. Catch Me If You Can. https://www.rocketlabusa.com/missions/completed-missions/catch-me-if-you-can/
+[4] Wikipedia. Cygnus NG-18. https://en.wikipedia.org/wiki/Cygnus_NG-18
+[5] 上海航天. 长征六号甲火箭成功发射云海三号卫星. https://mp.weixin.qq.com/s/030-TfBWO3De94UeiIJuuQ
+[6] 中国载人航天. 寻梦天宫起征程！空间站建造阶段后续飞行任务标识发布. https://mp.weixin.qq.com/s/LNg0deyISN6VDRLa6eGxBg
+[7] SpaceX. Intelsat Galaxy 31/32. https://www.elonx.net/spacex-mission-patches/#jp-carousel-6714
+[8] 上海航天. 长四丙火箭成功发射遥感三十四号03星. https://mp.weixin.qq.com/s/evhL6a9vhuW9WBMsFC19zA
+[9] 星河动力空间科技. 谷神星一号(遥四)运载火箭出征. https://mp.weixin.qq.com/s/b1Nmhbq_Yj_qQisiOLQeXQ
+[10] NASA. Artemis 1 mission patch. https://www.nasa.gov/feature/artemis-1-identifier
+[11] SpaceX. Eutelsat 10B. https://www.elonx.net/spacex-mission-patches/#jp-carousel-6763
+[12] Wikipedia. SpaceX CRS-26. https://en.wikipedia.org/wiki/SpaceX_CRS-26
+[13] 上海航天. 长二丁火箭成功发射遥感三十六号卫星. https://mp.weixin.qq.com/s/0yuDyty2KbQo-q9dSfiEzQ
 
