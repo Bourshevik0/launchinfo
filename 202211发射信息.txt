@@ -141,24 +141,24 @@ LDPE 2，Tetra 1搭车载荷
 时间：2022-11-15 09:38(UTC+8)
 位置：酒泉卫星发射中心9401工位
 发射与载荷：航天科技八院
-载荷信息：遥感三十四号03星(地球观测卫星)[29]
+载荷信息：遥感三十四号03星(地球观测卫星)[30]
 载荷质量：2.8吨[13]
-载具：长征四号丙遥48[29]
-轨道：1092 x 1097 km，63.41° LEO(近地轨道)[30]
+载具：长征四号丙遥48[30]
+轨道：1092 x 1097 km，63.41° LEO(近地轨道)[31]
 结果：成功
 
 编号：2022-155
 火箭制造方：中国
-时间：2022-11-16 14:20(UTC+8)
+时间：2022-11-16 14:19.59.775(UTC+8)[29]
 位置：酒泉卫星发射中心
 任务名：Young For You(年轻为你)
 发射提供方：星河动力航天
 载荷运营方：长光卫星
 载荷信息：“吉林一号”高分03D08星，
-高分03D51-54星，共5颗星，均为地球观测卫星[31][32]
-载荷质量：0.3吨[33]
-载具：谷神星一号遥四[31]
-轨道：529 x 547 km，97.54° SSO(太阳同步轨道)[34]
+高分03D51-54星，共5颗星，均为地球观测卫星[32][33]
+载荷质量：0.3吨[34]
+载具：谷神星一号遥四[32]
+轨道：543.063 x 546.338 km，97.53° SSO(太阳同步轨道)[29]
 结果：成功
 
 编号：2022-156
@@ -338,12 +338,12 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [26] Wikipedia. Tianzhou 5. https://en.wikipedia.org/wiki/Tianzhou_5
 [27] Spaceflight Now. SpaceX launches Falcon 9 booster into retirement on Intelsat mission. https://spaceflightnow.com/2022/11/12/falcon-9-galaxy-31-32-live-coverage/
 [28] Space-Track.Org. NORAD ID 54243 epoch 2022-11-12T20:21:27.990432. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/54243/orderby/EPOCH%20asc/limit/1/format/json
-[29] 上海航天. 长四丙火箭成功发射遥感三十四号03星. https://mp.weixin.qq.com/s/evhL6a9vhuW9WBMsFC19zA
-[30] Space-Track.Org. NORAD ID 54249 epoch 2022-11-15T04:46:57.637344. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/54249/orderby/EPOCH%20asc/limit/1/format/json
-[31] 星河动力航天. 四连胜！谷神星一号火箭成功发射5颗高分03D卫星，助力吉林一号星座组网！. https://mp.weixin.qq.com/s/mPc4Ta4bdW8gDD7owyK7Mg
-[32] 长光卫星. 我国成功发射5颗“吉林一号”高分03系列卫星. https://mp.weixin.qq.com/s/e2XI_NNGNh4pmR2jlJyp7A
-[33] 星河动力. 谷神星一号. http://www.galactic-energy.cn/index.php/List/cid/1
-[34] Space-Track.Org. NORAD ID 54251 epoch 2022-11-16T11:07:23.973024. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/54251/orderby/EPOCH%20asc/limit/1/format/json
+[29] 星河动力火箭姬. YOUNG FOR YOU｜“谷神星一号”（遥四）运载火箭发射记录. https://www.bilibili.com/video/BV1NW4y1g7Fy/
+[30] 上海航天. 长四丙火箭成功发射遥感三十四号03星. https://mp.weixin.qq.com/s/evhL6a9vhuW9WBMsFC19zA
+[31] Space-Track.Org. NORAD ID 54249 epoch 2022-11-15T04:46:57.637344. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/54249/orderby/EPOCH%20asc/limit/1/format/json
+[32] 星河动力航天. 四连胜！谷神星一号火箭成功发射5颗高分03D卫星，助力吉林一号星座组网！. https://mp.weixin.qq.com/s/mPc4Ta4bdW8gDD7owyK7Mg
+[33] 长光卫星. 我国成功发射5颗“吉林一号”高分03系列卫星. https://mp.weixin.qq.com/s/e2XI_NNGNh4pmR2jlJyp7A
+[34] 星河动力. 谷神星一号. http://www.galactic-energy.cn/index.php/List/cid/1
 [35] Wikipedia. Orion (spacecraft). https://en.wikipedia.org/wiki/Orion_(spacecraft)
 [36] JPL. ARTEMIS I Horizons API A.D. 2022-Nov-16 09:03:00.0000 TDB. https://ssd.jpl.nasa.gov/api/horizons.api?format=text&COMMAND=%27ARTEMIS%20I%27&OBJ_DATA=%27YES%27&MAKE_EPHEM=%27YES%27&EPHEM_TYPE=%27ELEMENTS%27&START_TIME=%272022-11-16%2009:03%27&STOP_TIME=%272022-11-16%2009:04%27
 [37] Spaceflight Now. SpaceX launches Falcon 9 rocket with Eutelsat 10B satellite. https://spaceflightnow.com/2022/11/22/falcon-9-eutelsat-10b-live-coverage/
