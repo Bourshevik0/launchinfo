@@ -231,10 +231,32 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [35] Wikipedia. List of Falcon 9 first-stage boosters. https://en.wikipedia.org/wiki/List_of_Falcon_9_first-stage_boosters#Block_5
 
 视频素材来源
-[1] 
+[1] SciNews. Kuaizhou-11 launches VDES. https://youtu.be/-CaScsDT_K0
+[2] SciNews. Long March-2D launches Gaofen-5 01A. https://youtu.be/a9b8o6HEj2Q
+[3] SpaceX. OneWeb 1 Mission. https://youtu.be/Dm_OjZ5gBLA
+[4] SciNews. Smart Dragon-3 maiden launch (Jielong-3). https://youtu.be/wU_MIOqOcQ0
+[5] SpaceX. ispace M1 Mission. https://youtu.be/UaaF0IgzGSI
+[6] SciNews. Long March-4C launches Shiyan-20 A/B. https://youtu.be/RRVZETea3Gc
+[7] Arianespace. Flight VA259 – State-of-the-art | Galaxy 35 and 36 / MTG-I1. https://youtu.be/bJP-GjxqumU
+[8] Asumoyz苏沫玖. 蓝箭航天丨朱雀二号液氧甲烷运载火箭首飞阵地固定镜头. https://www.bilibili.com/video/BV15G4y1g7cF/
+[9] SciNews. Long March-2D launches Yaogan-36 04. https://youtu.be/FCyAb-mqbrc
+[10] SciNews. Long March-11 launches Shiyan-21. https://youtu.be/GpCjFPa69SM
+[11] NASA. Launch of the International SWOT (Surface Water and Ocean Topography) Mission (NASA Broadcast). https://youtu.be/maI09QHicTg
+[12] SpaceX. Starlink Mission. https://youtu.be/NQPNRwpGWXc
 
 封面来源
-[1] 
+[1] 我们的太空. 快舟十一号遥二运载火箭·VDES卫星·发射成功. https://zhuanlan.zhihu.com/p/589846884
+[2] 我们的太空. 长二丁成功发射高光谱综合观测卫星. https://zhuanlan.zhihu.com/p/590414502
+[3] SpaceX. OneWeb 1 Mission. https://www.flickr.com/photos/spacex/52552845061/
+[4] 中国火箭公司. “捷龙”映日. https://mp.weixin.qq.com/s/H7FVeUXMS1tdPYbMugzgCQ
+[5] SpaceX. ispace M1 Mission. https://www.flickr.com/photos/spacex/52559209501/
+[6] 我们的太空. 我国成功发射试验二十号A/B星. https://zhuanlan.zhihu.com/p/591269445
+[7] arianespace
+[8] 蓝箭航天. 关于朱雀二号遥一运载火箭飞行试验任务的情况说明. https://mp.weixin.qq.com/s/22_vkvmRju808dsUeIdI2A
+[9] 我们的太空. 长征二号丁运载火箭在西昌卫星发射中心成功将遥感三十六号卫星送入预定轨道. https://zhuanlan.zhihu.com/p/591911965
+[10] 我们的太空. 长十一·成功发射试验二十一号卫星. https://zhuanlan.zhihu.com/p/592304303
+[11] SpaceX. SES O3b mPOWER Mission. https://www.flickr.com/photos/spacex/52569291656/
+[12] SpaceX. Starlink Mission. https://www.flickr.com/photos/spacex/52573311807/
 
 徽章来源
 [1] 上海航天. 长征二号丁成功发射高光谱综合观测卫星. https://mp.weixin.qq.com/s/ePCK1QudUiRMWRjoOIE6HQ
