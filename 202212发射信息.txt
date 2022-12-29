@@ -3,21 +3,24 @@
 时间：2022-12-07 09:15(UTC+8)
 位置：酒泉卫星发射中心
 发射提供方：航天科工火箭技术
+载荷运营方：交通运输部
+载荷研制方：航天行云科技
 载荷信息：行云交通VDES试验卫星(技术验证卫星)[1][2]
 载荷质量：1吨[3]
-载具：快舟十一号
+载具：快舟十一号遥二
 轨道：738 x 750 km，98.35° SSO(太阳同步轨道)[4]
 结果：成功
+备注：2020年7月10日发射失败以来的首次成功发射[5]
 
 编号：2022-165
 火箭制造方：中国
-时间：2022-12-09 2:31(UTC+8)
+时间：2022-12-09 02:31(UTC+8)
 位置：太原卫星发射中心9号工位
 发射与载荷：航天科技八院
-载荷信息：高光谱综合观测卫星(地球观测卫星)[1][5]
-载荷质量：2吨[6]
-载具：长征二号丁遥45[5]
-轨道：683 x 668 km，98.16° SSO(太阳同步轨道)[7]
+载荷信息：高光谱综合观测卫星(地球观测卫星)[1][6]
+载荷质量：2吨[7]
+载具：长征二号丁遥45[6]
+轨道：683 x 668 km，98.16° SSO(太阳同步轨道)[8]
 结果：成功
 
 编号：2022-166
@@ -26,11 +29,11 @@
 位置：肯尼迪航天中心LC-39A
 发射提供方：SpaceX
 载荷运营方：OneWeb
-载荷信息：第15批40颗OneWeb卫星(宽带通信卫星)共约6吨[1][8]
-载具：猎鹰9号Block 5(B1069.4)[9]
-轨道：589 x 599 km，86.52° LEO(近地轨道)[10]
+载荷信息：第15批40颗OneWeb卫星(宽带通信卫星)共约6吨[1][9]
+载具：猎鹰9号Block 5(B1069.4)[10]
+轨道：589 x 599 km，86.52° LEO(近地轨道)[11]
 结果(发射与回收)：成功
-备注：芯级陆上返场回收成功，回收区域LZ-1[9]
+备注：芯级陆上返场回收成功，回收区域LZ-1[10]
 
 编号：2022-167
 火箭制造方：中国
@@ -39,8 +42,8 @@
 发射提供方：航天科技一院
 载荷信息：6个运营方的14个载荷
 载荷质量：1.5吨
-载具：捷龙三号遥一[1][11]
-轨道：532 x 550 km，97.55° SSO(太阳同步轨道)[12]
+载具：捷龙三号遥一[1][12]
+轨道：532 x 550 km，97.55° SSO(太阳同步轨道)[13]
 结果：成功
 备注：中国火箭首次海上热发射
 
@@ -53,10 +56,10 @@
 携带两个月球车拉希德号和SORA-Q；
 NASA的月球手电(月球探测器)质量约0.014吨
 载荷质量：1.014吨
-载具：猎鹰9号Block 5(B1073.5)[1][14][15][16]
-轨道：293 x 1134167 km，18.60° BLT(地月弹道转移轨道)[17]
+载具：猎鹰9号Block 5(B1073.5)[1][15][16][17]
+轨道：293 x 1134167 km，18.60° BLT(地月弹道转移轨道)[18]
 结果(发射与回收)：成功
-备注：芯级陆上返场回收成功，回收区域LZ-2[9]
+备注：芯级陆上返场回收成功，回收区域LZ-2[10]
 
 编号：2022-169
 火箭制造方：中国
@@ -64,10 +67,10 @@ NASA的月球手电(月球探测器)质量约0.014吨
 位置：酒泉卫星发射中心9401工位
 发射提供方：航天科技八院
 载荷研制方：航天科技五院 / 八院
-载荷信息：试验二十号A，B星(技术验证卫星)[1][18]
-载荷质量：2.8吨[6]
-载具：长征四号丙遥57[18]
-轨道：790 x 799 km，59.99° LEO(近地轨道)[19]
+载荷信息：试验二十号A，B星(技术验证卫星)[1][19]
+载荷质量：2.8吨[7]
+载具：长征四号丙遥57[19]
+轨道：790 x 799 km，59.99° LEO(近地轨道)[20]
 结果：成功
 
 编号：2022-170
@@ -78,31 +81,33 @@ NASA的月球手电(月球探测器)质量约0.014吨
 发射提供方：阿丽亚娜空间
 载荷信息：Intelsat的银河35，36(宽带通信卫星)，质量共6.3吨；
 欧洲气象卫星开发组织(EUMETSAT)的MTG-I1，质量3.76吨
-载荷质量：10.972吨[1][20]
+载荷质量：10.972吨[1][21]
 载具：阿丽亚娜5 ECA
-轨道：242 x 35605 km，6.00° GTO(地球同步转移轨道)[21]
+轨道：242 x 35605 km，6.00° GTO(地球同步转移轨道)[22]
 结果：成功
 
 编号：2022-F06
 火箭制造方：中国
-时间：2022-12-14 16:30:25(UTC+8)
+时间：2022-12-14 16:30:05.280(UTC+8)
+任务代号：01-159
 位置：酒泉卫星发射中心
 发射提供方：蓝箭航天
 载荷信息：多个运营方的14个载荷
 载具：朱雀二号遥一
 预期轨道：LEO(近地轨道)
 结果：失败[1]
+失败原因：二级游机工作异常，导致二级飞行轨迹异常，无法入轨[23]
 
 编号：2022-171
 火箭制造方：中国
-时间：2022-12-15 2:25(UTC+8)
+时间：2022-12-15 02:25(UTC+8)
 位置：西昌卫星发射中心3号工位
 发射提供方：航天科技八院
 载荷研制方：航天科技五院 / 八院
-载荷信息：遥感三十六号04组3颗卫星(地球观测卫星)[22]
-载荷质量：2吨[6]
-载具：长征二号丁遥80[22]
-轨道：492 x 502 km，34.99° LEO(近地轨道)[23]
+载荷信息：遥感三十六号04组3颗卫星(地球观测卫星)[24]
+载荷质量：2吨[7]
+载具：长征二号丁遥80[24]
+轨道：492 x 502 km，34.99° LEO(近地轨道)[25]
 结果：成功
 
 编号：2022-172
@@ -111,10 +116,10 @@ NASA的月球手电(月球探测器)质量约0.014吨
 位置：西昌卫星发射中心
 发射提供方：航天科技一院
 载荷研制方：航天科技八院
-载荷信息：试验二十一号卫星(技术验证卫星)[24]
-载荷质量：0.7吨[25]
+载荷信息：试验二十一号卫星(技术验证卫星)[26]
+载荷质量：0.7吨[27]
 载具：长征十一号遥12[1]
-轨道：474 x 493 km，36.00° LEO(近地轨道)[26]
+轨道：474 x 493 km，36.00° LEO(近地轨道)[28]
 结果：成功
 
 编号：2022-173
@@ -124,11 +129,11 @@ NASA的月球手电(月球探测器)质量约0.014吨
 发射提供方：SpaceX
 载荷运营方：NASA / CNES
 载荷信息：SWOT(地球观测卫星)[1]
-载荷质量：2吨[27]
-载具：猎鹰9号Block 5(B1071.6)[28]
+载荷质量：2吨[29]
+载具：猎鹰9号Block 5(B1071.6)[30]
 轨道：856 x 861 km，77.60° LEO(近地轨道)
 结果(发射与回收)：成功
-备注：芯级陆上返场回收成功，回收区域LZ-4[28]
+备注：芯级陆上返场回收成功，回收区域LZ-4[30]
 
 编号：2022-174
 火箭制造方：美国
@@ -137,11 +142,11 @@ NASA的月球手电(月球探测器)质量约0.014吨
 发射提供方：SpaceX
 载荷运营方：SES
 载荷信息：O3b mPOWER 1，2(宽带通信卫星)
-载荷质量：3.4吨[30]
-载具：猎鹰9号Block 5(B1067.8)[31]
-轨道：2778 x 6994 km，9.61° HPMTO(高近地点中地球转移轨道)[32]
+载荷质量：3.4吨[32]
+载具：猎鹰9号Block 5(B1067.8)[33]
+轨道：2778 x 6994 km，9.61° HPMTO(高近地点中地球转移轨道)[34]
 结果(发射与回收)：成功
-回收船：ASOG(A Shortfall of Gravitas)[31]
+回收船：ASOG(A Shortfall of Gravitas)[33]
 
 编号：2022-175
 火箭制造方：美国
@@ -150,11 +155,50 @@ NASA的月球手电(月球探测器)质量约0.014吨
 组名：Starlink Group 4-37(G4-37)
 发射与载荷：SpaceX
 载荷信息：54颗星链卫星(宽带通信卫星)共约16.2吨
-载具：猎鹰9号Block 5(B1058.15)[33]
-轨道：232 x 335 km，53.22° LEO(近地轨道)[34]
+载具：猎鹰9号Block 5(B1058.15)[35]
+轨道：232 x 335 km，53.22° LEO(近地轨道)[36]
 结果(发射与回收)：成功
-回收船：JRTI(Just Read The Instructions)[33]
-备注：首次15手火箭回收成功[35]
+回收船：JRTI(Just Read The Instructions)[35]
+备注：首次15手火箭回收成功[37]
+
+编号：2022-F07
+火箭制造方：欧洲
+时间：2022-12-21 01:47:31(UTC)
+位置：圭亚那航天中心ELA-1
+飞行编号：VV22
+发射提供方：阿丽亚娜空间
+载荷运营方：空客国防航天
+载荷信息：新昴星团(Pléiades Neo)5号星和6号星(地球观测卫星)[1]
+载荷质量：1.977吨[38]
+载具：织女星-C[1]
+轨道：SSO(太阳同步轨道)[38]
+结果：失败
+失败原因：二级固体火箭点火后意外失压，
+导致二级飞行轨迹异常[1]
+
+编号：2022-176
+火箭制造方：中国
+时间：2022-12-27 15:37(UTC+8)
+位置：太原卫星发射中心9号工位[1]
+发射提供方：航天科技八院[39]
+载荷研制方：航天科技五院
+载荷信息：高分十一号04星(地球观测卫星)[40]
+载荷质量：2.8吨[7]
+载具：长征四号乙遥55
+轨道：245 x 697 km，97.27° SSO(太阳同步轨道)[41]
+结果：成功
+
+编号：2022-177
+火箭制造方：美国
+时间：2022-12-28 09:34(UTC)
+位置：卡角太空军基地SLC-40
+组名：Starlink Group 5-1(G5-1)
+发射与载荷：SpaceX
+载荷信息：54颗星链卫星(宽带通信卫星)共约16.2吨
+载具：猎鹰9号Block 5(B1062.11)[42]
+轨道：212 x 338 km，43.00° LEO(近地轨道)[43]
+结果(发射与回收)：成功
+回收船：ASOG(A Shortfall of Gravitas)[42]
 
 1. 关于载荷质量
 1.1 货运飞船仅将货物质量计入载荷质量，模拟载荷与有效载荷一起搭载时仅计入有效载荷质量。若仅搭载货运飞船或模拟载荷，将其整体质量计入载荷质量。
@@ -192,43 +236,54 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 
 音乐来源
 [1] Stevia Sphere. A Sphere Made of Stevia. https://steviasphere.bandcamp.com/track/a-sphere-made-of-stevia
+[2] HurricaneTurtle. Highway. https://hurricaneturtles.bandcamp.com/track/highway
+[3] Nihilore. Hearts and Minds. http://www.nihilore.com/latest-tracks/2022/9/3/hearts-and-minds
+[4] Aries Beats. Synth Rock. https://free-songs.de/synth-rock/
 
 数据来源
 [1] Wikipedia. List of spaceflight launches in July–December 2022. https://en.wikipedia.org/wiki/List_of_spaceflight_launches_in_July%E2%80%93December_2022
 [2] 航天三江. 重磅！我国成功发射快舟十一号固体运载火箭. https://mp.weixin.qq.com/s/0UhKfQm5Xxg04_IyCx8jRA
 [3] Wikipedia. Kuaizhou. https://en.wikipedia.org/wiki/Kuaizhou
 [4] Space-Track.Org. NORAD ID 54588 epoch 2022-12-07T16:20:17.815200. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/54588/orderby/EPOCH%20asc/limit/1/format/json
-[5] 上海航天. 长征二号丁成功发射高光谱综合观测卫星. https://mp.weixin.qq.com/s/ePCK1QudUiRMWRjoOIE6HQ
-[6] Space Launch Report. Long March Data Sheet. https://web.archive.org/web/20220411235210/http://www.spacelaunchreport.com/cz.html
-[7] Space-Track.Org. NORAD ID 54640 epoch 2022-12-09T00:56:22.395840. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/54640/orderby/EPOCH%20asc/limit/1/format/json
-[8] Wikipedia. OneWeb Design. https://en.wikipedia.org/wiki/OneWeb#Design
-[9] NextSpaceflight. Falcon 9 Block 5 | OneWeb #15. https://nextspaceflight.com/launches/details/2959
-[10] Space-Track.Org. NORAD ID 54642 epoch 2022-12-12T16:00:01.999584. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/54642/orderby/EPOCH%20asc/limit/1/format/json
-[11] Wikipedia. Jielong 3. https://en.wikipedia.org/wiki/Jielong_3
-[12] Space-Track.Org. NORAD ID 54682 epoch 2022-12-09T09:34:06.887712. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/54682/orderby/EPOCH%20asc/limit/1/format/json
-[13] 航天科技一院. 商业航天“国家队”添新丁，捷龙三号运载火箭首飞成功. https://mp.weixin.qq.com/s/7Smln1mANYWVQotcffIKCQ
-[14] NASASpaceflight. SpaceX F9 : HAKUTO-R : CCSFS SLC-40 : 11 December 2022 (07:38 UTC). https://forum.nasaspaceflight.com/index.php?topic=46443.0
-[15] Gunter's Space Page. Hakuto-R M1, M2. https://space.skyrocket.de/doc_sdat/hakuto-r-m1.htm
-[16] Wikipedia. Lunar Flashlight. https://en.wikipedia.org/wiki/Lunar_Flashlight
-[17] JPL. LFL Horizons API A.D. 2022-Dec-11 08:33:00.0000 TDB. https://ssd.jpl.nasa.gov/api/horizons.api?format=text&COMMAND=%27LFL%27&OBJ_DATA=%27YES%27&MAKE_EPHEM=%27YES%27&EPHEM_TYPE=%27ELEMENTS%27&START_TIME=%272022-12-11%2008:33%27&STOP_TIME=%272022-12-11%2008:34%27
-[18] 上海航天. 长征四号丙成功发射试验二十号A/B星. https://mp.weixin.qq.com/s/ggz25ceSYvyh3Wm1nlw7XQ
-[19] Space-Track.Org. NORAD ID 54699 epoch 2022-12-12T11:32:56.814432. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/54699/orderby/EPOCH%20asc/limit/1/format/json
-[20] Arianespace. Ariane Flight VA259. https://www.arianespace.com/mission/ariane-flight-va259/
-[21] Space-Track.Org. NORAD ID 54741 epoch 2022-12-13T22:23:37.555584. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/54741/orderby/EPOCH%20asc/limit/1/format/json
-[22] 上海航天. 长二丁成功发射遥感三十六号，刷新型号年度发射纪录. https://mp.weixin.qq.com/s/FLL3b5wTETxYPgPrygYCRQ
-[23] Space-Track.Org. NORAD ID 54746 epoch 2022-12-15T01:50:06.372960. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/54746/orderby/EPOCH%20asc/limit/1/format/json
-[24] 中国航天科技集团. 长十一火箭成功发射试验二十一号卫星. https://mp.weixin.qq.com/s/PoumfnSXWA69vCjTr4Pc6A
-[25] Space Launch Report. Chang Zheng 11 Data Sheet. https://web.archive.org/web/20220411235209/http://www.spacelaunchreport.com/cz11.html
-[26] Space-Track.Org. NORAD ID 54752 epoch 2022-12-16T17:20:02.156352. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/54752/orderby/EPOCH%20asc/limit/1/format/json
-[27] Wikipedia. Surface Water and Ocean Topography. https://en.wikipedia.org/wiki/Surface_Water_and_Ocean_Topography
-[28] NextSpaceflight. Falcon 9 Block 5 | SWOT. https://nextspaceflight.com/launches/details/105
-[29] Space-Track.Org. NORAD ID 54754 epoch 2022-12-16T15:10:31.239264. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/54754/orderby/EPOCH%20asc/limit/1/format/json
-[30] Wikipedia. O3b mPOWER. https://en.wikipedia.org/wiki/O3b_mPOWER
-[31] NextSpaceflight. Falcon 9 Block 5 | O3b mPOWER 1 & 2. https://nextspaceflight.com/launches/details/2599
-[32] Space-Track.Org. NORAD ID 54755 epoch 2022-12-17T05:46:02.655264. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/54755/orderby/EPOCH%20asc/limit/1/format/json
-[33] NASASpaceflight. SpaceX F9 : Starlink group 4-37 : KSC LC-39A : 17 December 2022 (21:32 UTC). https://forum.nasaspaceflight.com/index.php?topic=57189.0
-[34] CelesTrak. Starlink G4-37 Pre-Launch. https://celestrak.org/NORAD/elements/supplemental/table.php?FILE=starlink-g4-37&FORMAT=tle
-[35] Wikipedia. List of Falcon 9 first-stage boosters. https://en.wikipedia.org/wiki/List_of_Falcon_9_first-stage_boosters#Block_5
+[5] Wikipedia. Kuaizhou list of launches. https://en.wikipedia.org/wiki/Kuaizhou#List_of_launches
+[6] 上海航天. 长征二号丁成功发射高光谱综合观测卫星. https://mp.weixin.qq.com/s/ePCK1QudUiRMWRjoOIE6HQ
+[7] Space Launch Report. Long March Data Sheet. https://web.archive.org/web/20220411235210/http://www.spacelaunchreport.com/cz.html
+[8] Space-Track.Org. NORAD ID 54640 epoch 2022-12-09T00:56:22.395840. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/54640/orderby/EPOCH%20asc/limit/1/format/json
+[9] Wikipedia. OneWeb Design. https://en.wikipedia.org/wiki/OneWeb#Design
+[10] NextSpaceflight. Falcon 9 Block 5 | OneWeb #15. https://nextspaceflight.com/launches/details/2959
+[11] Space-Track.Org. NORAD ID 54642 epoch 2022-12-12T16:00:01.999584. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/54642/orderby/EPOCH%20asc/limit/1/format/json
+[12] Wikipedia. Jielong 3. https://en.wikipedia.org/wiki/Jielong_3
+[13] Space-Track.Org. NORAD ID 54682 epoch 2022-12-09T09:34:06.887712. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/54682/orderby/EPOCH%20asc/limit/1/format/json
+[14] 航天科技一院. 商业航天“国家队”添新丁，捷龙三号运载火箭首飞成功. https://mp.weixin.qq.com/s/7Smln1mANYWVQotcffIKCQ
+[15] NASASpaceflight. SpaceX F9 : HAKUTO-R : CCSFS SLC-40 : 11 December 2022 (07:38 UTC). https://forum.nasaspaceflight.com/index.php?topic=46443.0
+[16] Gunter's Space Page. Hakuto-R M1, M2. https://space.skyrocket.de/doc_sdat/hakuto-r-m1.htm
+[17] Wikipedia. Lunar Flashlight. https://en.wikipedia.org/wiki/Lunar_Flashlight
+[18] JPL. LFL Horizons API A.D. 2022-Dec-11 08:33:00.0000 TDB. https://ssd.jpl.nasa.gov/api/horizons.api?format=text&COMMAND=%27LFL%27&OBJ_DATA=%27YES%27&MAKE_EPHEM=%27YES%27&EPHEM_TYPE=%27ELEMENTS%27&START_TIME=%272022-12-11%2008:33%27&STOP_TIME=%272022-12-11%2008:34%27
+[19] 上海航天. 长征四号丙成功发射试验二十号A/B星. https://mp.weixin.qq.com/s/ggz25ceSYvyh3Wm1nlw7XQ
+[20] Space-Track.Org. NORAD ID 54699 epoch 2022-12-12T11:32:56.814432. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/54699/orderby/EPOCH%20asc/limit/1/format/json
+[21] Arianespace. Ariane Flight VA259. https://www.arianespace.com/mission/ariane-flight-va259/
+[22] Space-Track.Org. NORAD ID 54741 epoch 2022-12-13T22:23:37.555584. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/54741/orderby/EPOCH%20asc/limit/1/format/json
+[23] 蓝箭航天. 关于朱雀二号遥一运载火箭飞行试验任务的情况说明. https://mp.weixin.qq.com/s/22_vkvmRju808dsUeIdI2A
+[24] 上海航天. 长二丁成功发射遥感三十六号，刷新型号年度发射纪录. https://mp.weixin.qq.com/s/FLL3b5wTETxYPgPrygYCRQ
+[25] Space-Track.Org. NORAD ID 54746 epoch 2022-12-15T01:50:06.372960. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/54746/orderby/EPOCH%20asc/limit/1/format/json
+[26] 中国航天科技集团. 长十一火箭成功发射试验二十一号卫星. https://mp.weixin.qq.com/s/PoumfnSXWA69vCjTr4Pc6A
+[27] Space Launch Report. Chang Zheng 11 Data Sheet. https://web.archive.org/web/20220411235209/http://www.spacelaunchreport.com/cz11.html
+[28] Space-Track.Org. NORAD ID 54752 epoch 2022-12-16T17:20:02.156352. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/54752/orderby/EPOCH%20asc/limit/1/format/json
+[29] Wikipedia. Surface Water and Ocean Topography. https://en.wikipedia.org/wiki/Surface_Water_and_Ocean_Topography
+[30] NextSpaceflight. Falcon 9 Block 5 | SWOT. https://nextspaceflight.com/launches/details/105
+[31] Space-Track.Org. NORAD ID 54754 epoch 2022-12-16T15:10:31.239264. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/54754/orderby/EPOCH%20asc/limit/1/format/json
+[32] Wikipedia. O3b mPOWER. https://en.wikipedia.org/wiki/O3b_mPOWER
+[33] NextSpaceflight. Falcon 9 Block 5 | O3b mPOWER 1 & 2. https://nextspaceflight.com/launches/details/2599
+[34] Space-Track.Org. NORAD ID 54755 epoch 2022-12-17T05:46:02.655264. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/54755/orderby/EPOCH%20asc/limit/1/format/json
+[35] NASASpaceflight. SpaceX F9 : Starlink group 4-37 : KSC LC-39A : 17 December 2022 (21:32 UTC). https://forum.nasaspaceflight.com/index.php?topic=57189.0
+[36] CelesTrak. Starlink G4-37 Pre-Launch. https://celestrak.org/NORAD/elements/supplemental/table.php?FILE=starlink-g4-37&FORMAT=tle
+[37] Wikipedia. List of Falcon 9 first-stage boosters. https://en.wikipedia.org/wiki/List_of_Falcon_9_first-stage_boosters#Block_5
+[38] Arianespace. Vega C Flight VV22. https://www.arianespace.com/mission/vega-c-flight-vv22/
+[39] 上海航天. 11战11胜！长四乙火箭发射圆满成功. https://mp.weixin.qq.com/s/cDm4c4EMqW68BVfYZ6DjXg
+[40] 航天科技集团. 长四乙战极寒！成功发射高分十一号04星. https://mp.weixin.qq.com/s/FFKmNEAjwCYyWCvb_iJMdA
+[41] Space-Track.Org. NORAD ID 54818 epoch 2022-12-27T10:29:11.271264. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/54818/orderby/EPOCH%20asc/limit/1/format/json
+[42] NASASpaceflight. SpaceX F9 : Starlink group 5-1 : CCSFS SLC-40 : 28 December 2022 (09:34 UTC). https://forum.nasaspaceflight.com/index.php?topic=57553.0
+[43] CelesTrak. Starlink G5-1 Pre-Launch. https://celestrak.org/NORAD/elements/supplemental/table.php?FILE=starlink-g5-1&FORMAT=tle
 
 视频素材来源
 [1] SciNews. Kuaizhou-11 launches VDES. https://youtu.be/-CaScsDT_K0
@@ -243,6 +298,9 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [10] SciNews. Long March-11 launches Shiyan-21. https://youtu.be/GpCjFPa69SM
 [11] NASA. Launch of the International SWOT (Surface Water and Ocean Topography) Mission (NASA Broadcast). https://youtu.be/maI09QHicTg
 [12] SpaceX. Starlink Mission. https://youtu.be/NQPNRwpGWXc
+[13] arianespace. Flight VV22 – Zoom in | Pleiades Neo 5 & 6 | Vega C launch | Arianespace. https://youtu.be/CokbWoYm9w4
+[14] SciNews. Long March-4B launches Gaofen-11 04. https://youtu.be/wwqYDhCNJik
+[15] SpaceX. Starlink Mission. https://youtu.be/gnDQo9YXCdU
 
 封面来源
 [1] 我们的太空. 快舟十一号遥二运载火箭·VDES卫星·发射成功. https://zhuanlan.zhihu.com/p/589846884
@@ -257,6 +315,8 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [10] 我们的太空. 长十一·成功发射试验二十一号卫星. https://zhuanlan.zhihu.com/p/592304303
 [11] SpaceX. SES O3b mPOWER Mission. https://www.flickr.com/photos/spacex/52569291656/
 [12] SpaceX. Starlink Mission. https://www.flickr.com/photos/spacex/52573311807/
+[13] arianespace. Flight VV22 – Zoom in | Pleiades Neo 5 & 6 | Vega C launch | Arianespace. https://youtu.be/CokbWoYm9w4
+[14] 我们的太空. 长四乙·成功发射高分十一号04星. https://zhuanlan.zhihu.com/p/594696891
 
 徽章来源
 [1] 上海航天. 长征二号丁成功发射高光谱综合观测卫星. https://mp.weixin.qq.com/s/ePCK1QudUiRMWRjoOIE6HQ
@@ -267,4 +327,5 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [6] SpaceX. SWOT. https://www.elonx.net/spacex-mission-patches/#jp-carousel-6876
 [7] SpaceX. O3b mPOWER. https://www.elonx.net/spacex-mission-patches/#jp-carousel-6889
 [8] SpaceX. Starlink. https://www.elonx.net/spacex-mission-patches/#jp-carousel-3624
+[9] 上海航天. 11战11胜！长四乙火箭发射圆满成功. https://mp.weixin.qq.com/s/cDm4c4EMqW68BVfYZ6DjXg
 
