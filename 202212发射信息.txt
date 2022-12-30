@@ -96,7 +96,7 @@ NASA的月球手电(月球探测器)质量约0.014吨
 载具：朱雀二号遥一
 预期轨道：LEO(近地轨道)
 结果：失败[1]
-失败原因：二级游机工作异常，导致二级飞行轨迹异常，无法入轨[23]
+失败原因：二级游机工作异常，导致二级飞行轨迹异常[23]
 
 编号：2022-171
 火箭制造方：中国
@@ -200,6 +200,30 @@ NASA的月球手电(月球探测器)质量约0.014吨
 结果(发射与回收)：成功
 回收船：ASOG(A Shortfall of Gravitas)[42]
 
+编号：2022-178
+火箭制造方：中国
+时间：2022-12-29 12:43:04(UTC+8)
+位置：西昌卫星发射中心2号工位
+发射提供方：航天科技一院
+载荷研制方：航天科技八院
+载荷信息：试验十号02星(技术验证卫星)[1][44]
+载荷质量：5吨[7]
+载具：长征三号乙遥88[1]
+轨道：184 x 40096 km，50.96° HEO(大椭圆轨道)[45]
+结果：成功
+
+编号：2022-179
+火箭制造方：美国
+时间：2022-12-30 07:38(UTC)
+位置：范登堡太空军基地SLC-4E
+发射提供方：SpaceX
+载荷运营方：ImageSat[1]
+载荷信息：EROS-C3(地球观测卫星)质量约0.4吨[46]
+载具：猎鹰9号Block 5(B1061.11)[47]
+轨道：485 x 503 km，139.36° LEO(近地轨道)[48]
+结果(发射与回收)：成功
+备注：芯级陆上返场回收成功，回收区域LZ-4[47]
+
 1. 关于载荷质量
 1.1 货运飞船仅将货物质量计入载荷质量，模拟载荷与有效载荷一起搭载时仅计入有效载荷质量。若仅搭载货运飞船或模拟载荷，将其整体质量计入载荷质量。
 1.2 载人飞船将其整体质量计入载荷质量。
@@ -284,6 +308,11 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [41] Space-Track.Org. NORAD ID 54818 epoch 2022-12-27T10:29:11.271264. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/54818/orderby/EPOCH%20asc/limit/1/format/json
 [42] NASASpaceflight. SpaceX F9 : Starlink group 5-1 : CCSFS SLC-40 : 28 December 2022 (09:34 UTC). https://forum.nasaspaceflight.com/index.php?topic=57553.0
 [43] CelesTrak. Starlink G5-1 Pre-Launch. https://celestrak.org/NORAD/elements/supplemental/table.php?FILE=starlink-g5-1&FORMAT=tle
+[44] 中国运载火箭技术研究院. 收官！航天科技集团全年54次发射满堂红！长三乙成功发射试验十号02星. https://mp.weixin.qq.com/s/SpDM91yebIS2xduruWMF8w
+[45] Space-Track.Org. NORAD ID 54878 epoch 2022-12-29T14:06:54.363744. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/54878/orderby/EPOCH%20asc/limit/1/format/json
+[46] Gunter's Space Page. EROS C3-1, C3-2. https://space.skyrocket.de/doc_sdat/eros-c3.htm
+[47] NASASpaceflight. SpaceX F9 : EROS C3 #1 : Vandenberg : 29/30 December 2022 (07:38 UTC). https://forum.nasaspaceflight.com/index.php?topic=57765.0
+[48] Space-Track.Org. NORAD ID 54880 epoch 2022-12-30T09:17:48.363648. https://www.space-track.org/basicspacedata/query/class/gp_history/NORAD_CAT_ID/54880/orderby/EPOCH%20asc/limit/1/format/json
 
 视频素材来源
 [1] SciNews. Kuaizhou-11 launches VDES. https://youtu.be/-CaScsDT_K0
@@ -297,10 +326,13 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [9] SciNews. Long March-2D launches Yaogan-36 04. https://youtu.be/FCyAb-mqbrc
 [10] SciNews. Long March-11 launches Shiyan-21. https://youtu.be/GpCjFPa69SM
 [11] NASA. Launch of the International SWOT (Surface Water and Ocean Topography) Mission (NASA Broadcast). https://youtu.be/maI09QHicTg
-[12] SpaceX. Starlink Mission. https://youtu.be/NQPNRwpGWXc
-[13] arianespace. Flight VV22 – Zoom in | Pleiades Neo 5 & 6 | Vega C launch | Arianespace. https://youtu.be/CokbWoYm9w4
-[14] SciNews. Long March-4B launches Gaofen-11 04. https://youtu.be/wwqYDhCNJik
-[15] SpaceX. Starlink Mission. https://youtu.be/gnDQo9YXCdU
+[12] SpaceX. SES O3b mPOWER Mission. https://youtu.be/1WAQD83ElZY
+[13] SpaceX. Starlink Mission. https://youtu.be/NQPNRwpGWXc
+[14] Arianespace. Flight VV22 – Zoom in | Pleiades Neo 5 & 6 | Vega C launch | Arianespace. https://youtu.be/CokbWoYm9w4
+[15] SciNews. Long March-4B launches Gaofen-11 04. https://youtu.be/wwqYDhCNJik
+[16] SpaceX. Starlink Mission. https://youtu.be/gnDQo9YXCdU
+[17] SciNews. Long March-3B launches Shiyan-10 02. https://youtu.be/YuC9uCt_05I
+[18] SpaceX. ISI EROS C-3 Mission. https://youtu.be/V0OQfukN-Ec
 
 封面来源
 [1] 我们的太空. 快舟十一号遥二运载火箭·VDES卫星·发射成功. https://zhuanlan.zhihu.com/p/589846884
@@ -309,14 +341,18 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [4] 中国火箭公司. “捷龙”映日. https://mp.weixin.qq.com/s/H7FVeUXMS1tdPYbMugzgCQ
 [5] SpaceX. ispace M1 Mission. https://www.flickr.com/photos/spacex/52559209501/
 [6] 我们的太空. 我国成功发射试验二十号A/B星. https://zhuanlan.zhihu.com/p/591269445
-[7] arianespace
+[7] Arianespace. Flight VA259 – State-of-the-art | Galaxy 35 and 36 / MTG-I1. https://youtu.be/bJP-GjxqumU
 [8] 蓝箭航天. 关于朱雀二号遥一运载火箭飞行试验任务的情况说明. https://mp.weixin.qq.com/s/22_vkvmRju808dsUeIdI2A
 [9] 我们的太空. 长征二号丁运载火箭在西昌卫星发射中心成功将遥感三十六号卫星送入预定轨道. https://zhuanlan.zhihu.com/p/591911965
 [10] 我们的太空. 长十一·成功发射试验二十一号卫星. https://zhuanlan.zhihu.com/p/592304303
-[11] SpaceX. SES O3b mPOWER Mission. https://www.flickr.com/photos/spacex/52569291656/
-[12] SpaceX. Starlink Mission. https://www.flickr.com/photos/spacex/52573311807/
-[13] arianespace. Flight VV22 – Zoom in | Pleiades Neo 5 & 6 | Vega C launch | Arianespace. https://youtu.be/CokbWoYm9w4
-[14] 我们的太空. 长四乙·成功发射高分十一号04星. https://zhuanlan.zhihu.com/p/594696891
+[11] SpaceX. SWOT Mission. https://www.flickr.com/photos/spacex/52581841024/
+[12] SpaceX. SES O3b mPOWER Mission. https://www.flickr.com/photos/spacex/52569291656/
+[13] SpaceX. Starlink Mission. https://www.flickr.com/photos/spacex/52573311807/
+[14] Arianespace. Flight VV22 – Zoom in | Pleiades Neo 5 & 6 | Vega C launch | Arianespace. https://youtu.be/CokbWoYm9w4
+[15] 我们的太空. 长四乙·成功发射高分十一号04星. https://zhuanlan.zhihu.com/p/594696891
+[16] SpaceX. Starlink Mission. https://www.flickr.com/photos/spacex/52592315083/
+[17] 我们的太空. 长三乙火箭成功发射试验十号02星. https://zhuanlan.zhihu.com/p/595170055
+[18] SpaceX. ISI EROS C-3 Mission. https://youtu.be/V0OQfukN-Ec?t=804
 
 徽章来源
 [1] 上海航天. 长征二号丁成功发射高光谱综合观测卫星. https://mp.weixin.qq.com/s/ePCK1QudUiRMWRjoOIE6HQ
@@ -328,4 +364,3 @@ C代表Cargo（货运飞船）或Crew（载人飞船），2代表龙飞船二代
 [7] SpaceX. O3b mPOWER. https://www.elonx.net/spacex-mission-patches/#jp-carousel-6889
 [8] SpaceX. Starlink. https://www.elonx.net/spacex-mission-patches/#jp-carousel-3624
 [9] 上海航天. 11战11胜！长四乙火箭发射圆满成功. https://mp.weixin.qq.com/s/cDm4c4EMqW68BVfYZ6DjXg
-
